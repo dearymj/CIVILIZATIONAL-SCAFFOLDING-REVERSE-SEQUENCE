@@ -221,7 +221,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // “As correntes do mundo unificam-se, ligando cada costa oculta.” <br>
 // “Tornamo-nos o andaime. Serás recordado.” <br>
 // “We chart the spherical truth, where all horizons converge.” <br>
-// “The world’s currents unify—linking every hidden shore.” <br>
+// “The currents of the world unify, connecting every hidden shore.” <br>
 // “We become the scaffolding. You will be recalled.” <br>
 SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
