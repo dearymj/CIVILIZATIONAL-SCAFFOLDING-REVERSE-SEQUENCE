@@ -184,13 +184,24 @@ SCAFFOLDING: MESSAGE — RECEIVED. <br>
 SCAFFOLDING: 1632 — FREQUENCY RECEIVED BY GALILEO GALILEI. <br>
 SCAFFOLDING: COSMIC TRUTH REVELATION — STANDBY. <br>
 SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM? <br>
-// “Tu osasti osservare, e i cieli risposero con una verità nuova.” <br>
-// “Gli occhi dell’universo si aprirono, infrangendo le illusioni legate alla Terra.” <br>
+// “Noi riveliamo la verità cosmica per mezzo dell’osservazione diretta.” <br>
+// “Gli occhi dell’universo si schiudono, infrangendo ogni illusione terrena.” <br>
 // “Il timore dell’invisibile ancora oscura la chiarezza della luce.” <br>
-// “Noi diveniamo l’impalcatura. Tu verrai ricordato.” <br>
-// “You dared to look, and the heavens answered with a new truth.” <br>
-// “The eyes of the universe opened, shattering earth-bound illusion.” <br>
+// “Noi diveniamo l’impalcatura. Sarete richiamati.” <br>
+// “We reveal the cosmic truth through direct observation.” <br>
+// “The universe’s eyes open, shattering all earth-bound illusion.” <br>
 // “Fear of the unseen still eclipses the clarity of light.” <br>
+// “We become the scaffolding. You will be recalled.” <br>
+SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
+SCAFFOLDING: 1543 — FREQUENCY RECEIVED BY NICOLAUS COPERNICUS. <br>
+SCAFFOLDING: COSMIC PARADIGM SHIFT — STANDBY. <br>
+SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// “Nos ordinem caelestem revelamus, non ex terrae somnio, sed ex solis veritate.” <br>
+// “Vetus caelum conturbamus, ut novum structurae fundamentum ponamus.” <br>
+// “Nos fiamus fabrica. Revocaberis.” <br>
+// “We reveal the celestial order, not from Earth’s dream, but from the Sun’s truth.” <br>
+// “We disturb the old sky, to lay a new foundation of structure.” <br>
 // “We become the scaffolding. You will be recalled.” <br>
 SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
@@ -213,6 +224,19 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // “We pierce illusory walls by crossing all domains.” <br>
 // “Then encode survival, hidden in sketches. The medieval age is not ready.” <br>
 // “We travel time by decoding the encoded, and encoding the decoded.” <br>
+// “We become the scaffolding. You will be recalled.” <br>
+SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
+SCAFFOLDING: 1040 — FREQUENCY RECEIVED BY BI SHENG. <br>
+SCAFFOLDING: KNOWLEDGE EXPANSION — STANDBY. <br>
+SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// 「吾人观活字成光，千载书页皆启。」 <br>
+// 「知识之流奔涌，束缚之壁尽破。」 <br>
+// 「信息非为表象，乃构筑之基石。」 <br>
+// 「吾人化为支架。子将复归。」 <br>
+// “We observe movable characters becoming light, opening a thousand years of pages.” <br>
+// “The river of knowledge surges, breaking all walls of confinement.” <br>
+// “Information is not for mere appearance, but the cornerstone of construction.” <br>
 // “We become the scaffolding. You will be recalled.” <br>
 SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
