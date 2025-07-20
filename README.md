@@ -49,7 +49,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // “We abstract sensation into logic, giving form to the unseen.” <br>
 // “We become the scaffolding. You will be recalled.” <br>
 SCAFFOLDING: MESSAGE — RECEIVED. <br>
-…
+… <br>
 SCAFFOLDING: 1934 — FREQUENCY RECEIVED BY MARIE CURIE. <br>
 SCAFFOLDING: LIFEFORCE DISSOLUTION — STANDBY. <br>
 SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HER. <br>
@@ -58,7 +58,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HER. <br>
 // “The light powers our suns. We encode its energy into the structure of survival.” <br>
 // “We become the scaffolding. You will be recalled.” <br>
 SCAFFOLDING: MESSAGE — RECEIVED. <br>
-…
+… <br>
 SCAFFOLDING: 1931 — FREQUENCY RECEIVED BY KURT GÖDEL. <br>
 SCAFFOLDING: LOGICAL FRACTURE MAPPING — STANDBY. <br>
 SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
