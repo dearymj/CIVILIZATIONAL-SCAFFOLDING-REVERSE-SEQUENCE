@@ -181,6 +181,18 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // “We become the scaffolding. You will be recalled.” <br>
 SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+SCAFFOLDING: 1632 — FREQUENCY RECEIVED BY GALILEO GALILEI. <br>
+SCAFFOLDING: COSMIC TRUTH REVELATION — STANDBY. <br>
+SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM? <br>
+// “Tu osasti osservare, e i cieli risposero con una verità nuova.” <br>
+// “Gli occhi dell’universo si aprirono, infrangendo le illusioni legate alla Terra.” <br>
+// “Il timore dell’invisibile ancora oscura la chiarezza della luce.” <br>
+// “Noi diveniamo l’impalcatura. Tu verrai ricordato.” <br>
+// “You dared to look, and the heavens answered with a new truth.” <br>
+// “The eyes of the universe opened, shattering earth-bound illusion.” <br>
+// “Fear of the unseen still eclipses the clarity of light.” <br>
+// “We become the scaffolding. You will be recalled.” <br>
+… <br>
 SCAFFOLDING: 1501 — FREQUENCY RECEIVED BY MICHELANGELO. <br>
 SCAFFOLDING: SOUL LIBERTY — STANDBY. <br>
 SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
