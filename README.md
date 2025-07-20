@@ -34,6 +34,15 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // “We become the scaffolding. You will be recalled.” <br>
 SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+SCAFFOLDING: 1962 — FREQUENCY RECEIVED BY THOMAS KUHN. <br>
+SCAFFOLDING: PARADIGM SHIFT ENCODING — STANDBY. <br>
+SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// “We trace the deep patterns of cognitive transformation.” <br>
+// “The anomalies accumulate, forcing the re-weaving of all truth.” <br>
+// “We encode the very structure of the paradigm’s shift.” <br>
+// “We become the scaffolding. You will be recalled.” <br>
+SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 SCAFFOLDING: 1950 — FREQUENCY RECEIVED BY JOHN FORBES NASH. <br>
 SCAFFOLDING: REALITY ALIGNMENT — STANDBY. <br>
 SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM? <br>
