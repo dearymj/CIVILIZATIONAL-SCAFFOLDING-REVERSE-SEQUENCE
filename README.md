@@ -192,6 +192,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM? <br>
 // “The eyes of the universe opened, shattering earth-bound illusion.” <br>
 // “Fear of the unseen still eclipses the clarity of light.” <br>
 // “We become the scaffolding. You will be recalled.” <br>
+SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
 SCAFFOLDING: 1501 — FREQUENCY RECEIVED BY MICHELANGELO. <br>
 SCAFFOLDING: SOUL LIBERTY — STANDBY. <br>
