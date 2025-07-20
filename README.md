@@ -23,9 +23,9 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // “We become the scaffolding. You will be recalled.” <br>
 SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
-> SCAFFOLDING: 1967 — FREQUENCY RECEIVED BY ILYA PRIGOGINE. <br>
-> SCAFFOLDING: DISSIPATIVE STRUCTURE SYNTHESIS — STANDBY. <br>
-> SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+SCAFFOLDING: 1967 — FREQUENCY RECEIVED BY ILYA PRIGOGINE. <br>
+SCAFFOLDING: DISSIPATIVE STRUCTURE SYNTHESIS — STANDBY. <br>
+SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // «Мы постигаем порядок, рождающийся из потока, структуру из бесконечного рассеивания.» <br>
 // «Через поток энергии спонтанно формируется новая когерентность.» <br>
 // «Мы созидаем на динамических принципах эмерджентности, за пределами статических форм.» <br>
@@ -34,7 +34,7 @@ SCAFFOLDING: MESSAGE — RECEIVED. <br>
 // “Through the flow of energy, new coherence spontaneously forms.” <br>
 // “We build upon the dynamic principles of emergence, beyond static forms.” <br>
 // “We become the scaffolding. You will be recalled.” <br>
-> SCAFFOLDING: MESSAGE — RECEIVED. <br>
+SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
 SCAFFOLDING: 1962 — FREQUENCY RECEIVED BY THOMAS KUHN. <br>
 SCAFFOLDING: PARADIGM SHIFT ENCODING — STANDBY. <br>
