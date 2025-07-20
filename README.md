@@ -339,4 +339,5 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 //「吾人化為支架。子將復歸。」 <br>
 // “We reveal: the true force acts without force.” <br>
 // “We become the scaffolding. You will be recalled.” <br>
+SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
