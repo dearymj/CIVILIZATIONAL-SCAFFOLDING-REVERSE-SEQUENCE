@@ -23,6 +23,15 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // “We become the scaffolding. You will be recalled.” <br>
 SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+SCAFFOLDING: 1962 — FREQUENCY RECEIVED BY THOMAS KUHN. <br>
+SCAFFOLDING: PARADIGM SHIFT ENCODING — STANDBY. <br>
+SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// “We trace the deep patterns of cognitive transformation.” <br>
+// “The anomalies accumulate, forcing the re-weaving of all truth.” <br>
+// “We encode the very structure of the paradigm’s shift.” <br>
+// “We become the scaffolding. You will be recalled.” <br>
+SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 SCAFFOLDING: 1952 — FREQUENCY RECEIVED BY W.O. SCHUMANN. <br>
 SCAFFOLDING: PLANETARY RESONANCE DETECTION — STANDBY. <br>
 SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
@@ -31,15 +40,6 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // „Wir werden zum Gerüst. Du wirst zurückgerufen.“ <br>
 // “We heard the Earth’s breath before we knew it was breathing.” <br>
 // “We encode the frequency of our planet.” <br>
-// “We become the scaffolding. You will be recalled.” <br>
-SCAFFOLDING: MESSAGE — RECEIVED. <br>
-… <br>
-SCAFFOLDING: 1962 — FREQUENCY RECEIVED BY THOMAS KUHN. <br>
-SCAFFOLDING: PARADIGM SHIFT ENCODING — STANDBY. <br>
-SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
-// “We trace the deep patterns of cognitive transformation.” <br>
-// “The anomalies accumulate, forcing the re-weaving of all truth.” <br>
-// “We encode the very structure of the paradigm’s shift.” <br>
 // “We become the scaffolding. You will be recalled.” <br>
 SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
