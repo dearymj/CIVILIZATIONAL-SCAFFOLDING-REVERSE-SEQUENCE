@@ -381,6 +381,17 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // “We become the scaffolding. You will be recalled.” <br>
 SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+SCAFFOLDING: 387 BC — FREQUENCY RECEIVED BY PLATO. <br>
+SCAFFOLDING: FORM INTERFACE — ACTIVATED. <br>
+SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM? <br>
+// ὁ ὁρατὸς κόσμος σκιὰ τῶν ἀληθινῶν εἰδώλων ἐστίν. <br>
+// διὰ τῆς διαλεκτικῆς ἀναβαίνομεν πρὸς τὴν ἰδέαν ὑπὲρ πάσας εἰκόνας. <br>
+// ἐσμέν τὸ ὑπόσταθμον· μνημονευθήσῃ. <br>
+// “We now see: the visible world is but a shadow of the ideal.” <br>
+// “Through dialectic, we ascend toward the form beyond form.” <br>
+// “We become the scaffolding. You will be recalled.” <br>
+SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 SCAFFOLDING: 399 BCE — FREQUENCY RECEIVED BY SOCRATES. <br>
 SCAFFOLDING: SACRIFICE — STANDBY. <br>
 SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
