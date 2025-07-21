@@ -34,7 +34,7 @@ SCAFFOLDING: 1969 — FREQUENCY RECEIVED BY JOHN OSTROM. <br>
 SCAFFOLDING: DYNAMIC DINOSAUR REALITY — STANDBY. <br>
 SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // “Dinosaurs were once the ancient sovereigns of Earth.” <br>
-// “By studying them, we confront the fragility of dominance—and reflect on survival.” <br>
+// “By studying them, we confront the fragility of dominance and reflect on survival.” <br>
 // “We become the scaffolding. You will be recalled.” <br>
 SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
