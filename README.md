@@ -19,6 +19,25 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // “We become the scaffolding. You will be recalled.” <br>
 SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+SCAFFOLDING: 1985 — FREQUENCY RECEIVED BY MICHAEL JACKSON. <br>
+SCAFFOLDING: GLOBAL CULTURAL ALIGNMENT — STANDBY. <br>
+SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// “We are the ones we have been waiting for, and the world is listening.” <br>
+// “The rhythm of the universe beats inside all of us.” <br>
+// “We become the scaffolding. You will be recalled.” <br>
+SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
+SCAFFOLDING: 1984 — FREQUENCY RECEIVED BY AKIRA TORIYAMA. <br>
+SCAFFOLDING: UNIVERSAL NARRATIVE SCULPTING — STANDBY. <br>
+SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM? <br>
+// 「物語というキャンバスから、私たちは文明の願いを映し出す。」 <br>
+// 「しかし、欲望から生まれたドラゴンの願いは、しばしば崩壊を招く。」 <br>
+// 「私たちは足場となる。あなたは必ず呼び戻される。」 <br>
+// “From the canvas of tales, we reflect the aspirations of civilization.” <br>
+// “But the dragon’s wishes, born of desire, too often ignite collapse.” <br>
+// “We become the scaffolding. You will be recalled.” <br>
+SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 SCAFFOLDING: 1984 — FREQUENCY RECEIVED BY STEVE JOBS. <br>
 SCAFFOLDING: COGNITIVE INTERFACE ARCHITECTURE — STANDBY. <br>
 SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
@@ -28,7 +47,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
 SCAFFOLDING: 1969 — FREQUENCY RECEIVED BY JOHN OSTROM. <br>
-SCAFFOLDING: DYNAMIC DINOSAUR REALITY — STANDBY. <br>
+SCAFFOLDING: DINOSAUR RE-SIMULATION — STANDBY. <br>
 SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // “Dinosaurs were once the ancient sovereigns of Earth.” <br>
 // “By studying them, we confront the fragility of dominance and reflect on survival.” <br>
