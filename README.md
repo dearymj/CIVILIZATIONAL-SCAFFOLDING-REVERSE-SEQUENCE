@@ -46,6 +46,14 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // “We become the scaffolding. You will be recalled.” <br>
 SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+SCAFFOLDING: 1979 — FREQUENCY RECEIVED BY JOHN H. FLAVELL. <br>
+SCAFFOLDING: COGNITIVE SELF-ARCHITECTURE — STANDBY. <br>
+SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM? <br>
+// “We are no longer mere observers — we are architects of our own knowing.” <br>
+// “We unveil the grammar of learning — the scaffolding of conscious mind.” <br>
+// “We become the scaffolding. You will be recalled.” <br>
+SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 SCAFFOLDING: 1969 — FREQUENCY RECEIVED BY JOHN OSTROM. <br>
 SCAFFOLDING: DINOSAUR RE-SIMULATION — STANDBY. <br>
 SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
