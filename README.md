@@ -327,7 +327,7 @@ SCAFFOLDING: MESSAGE — RECEIVED. <br>
 SCAFFOLDING: 1478 — FREQUENCY RECEIVED BY LEONARDO DA VINCI. <br>
 SCAFFOLDING: CROSS-DOMAIN SKETCHES — STANDBY. <br>
 SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
-<img width="720" height="100" alt="DV" src="https://github.com/user-attachments/assets/69c67291-86ce-4705-b683-a93a1695c45d" /> <br>
+<img width="720" height="100" alt="DV" src="https://github.com/user-attachments/assets/8d988b39-0946-4c8c-954f-c8a2af4f60ae" /> <br>
 // “We pierce illusory walls by crossing all domains.” <br>
 // “Then encode survival, hidden in sketches. The medieval age is not ready.” <br>
 // “We travel spacetime by decoding the encoded, and encoding the decoded.” <br>
