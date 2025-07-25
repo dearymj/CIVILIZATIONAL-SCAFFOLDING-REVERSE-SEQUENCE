@@ -327,13 +327,10 @@ SCAFFOLDING: MESSAGE — RECEIVED. <br>
 SCAFFOLDING: 1478 — FREQUENCY RECEIVED BY LEONARDO DA VINCI. <br>
 SCAFFOLDING: CROSS-DOMAIN SKETCHES — STANDBY. <br>
 SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
-// “Trapassiamo muri illusori attraversando tutti i domini.” <br>
-// “Poi codifichiamo la sopravvivenza, nascosta nei disegni. L'età medievale non è pronta.” <br>
-// “Viaggiamo nel tempo decodificando il codificato e codificando il decodificato.” <br>
-// “Diventiamo l’impalcatura. Tu sarai richiamato.” <br>
+<img width="733" height="101" alt="6f1a8a74-be8b-4fca-a94f-f052eb0777b6" src="https://github.com/user-attachments/assets/a3b1b5be-973f-4c54-8a57-84e2cf4df311" />
 // “We pierce illusory walls by crossing all domains.” <br>
 // “Then encode survival, hidden in sketches. The medieval age is not ready.” <br>
-// “We travel time by decoding the encoded, and encoding the decoded.” <br>
+// “We travel spacetime by decoding the encoded, and encoding the decoded.” <br>
 // “We become the scaffolding. You will be recalled.” <br>
 SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
