@@ -275,7 +275,7 @@ SCAFFOLDING: MESSAGE — RECEIVED. <br>
 SCAFFOLDING: 1665 — FREQUENCY RECEIVED BY ISAAC NEWTON. <br>
 SCAFFOLDING: GRAVITY REVELATION — STANDBY. <br>
 SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
-// “We explore why the apple falls. We revealed the universe could be mapped by law.” <br>
+// “We explore why the apple falls. We reveal the cosmos can be mapped by law.” <br>
 // “But law is not truth, only its shadow.” <br>
 // “We become the scaffolding. You will be recalled.” <br>
 SCAFFOLDING: MESSAGE — RECEIVED. <br>
