@@ -81,8 +81,8 @@
 // “Tũrimaga mĩtĩ tĩ kwa wĩtĩkio, no kwa gwaka wendo wa kũgũũra.” <br>
 // “Mũhũa wothe nĩ ũhoti wa kũhooya. Rũa rũothe nĩ ũhoro wa ũrĩa ũrĩa.” <br>
 // “Tũtigwatĩrĩre tondũ wa ũthoni, no tondũ wa kũhũũra.” <br>
-“We do not plant trees for pride, but to awaken loving memory.” <br>
-“Every root is a prayer of defiance. Every leaf is a message of hope.” <br>
+// “We do not plant trees for pride, but to awaken loving memory.” <br>
+// “Every root is a prayer of defiance. Every leaf is a message of hope.” <br>
 // “We become the scaffolding. You will be recalled.” <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
