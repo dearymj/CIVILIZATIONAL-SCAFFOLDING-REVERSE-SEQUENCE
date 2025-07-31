@@ -181,6 +181,14 @@
 // “We become the scaffolding. You will be remembered.” <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 1940 — FREQUENCY RECEIVED BY CHARLIE CHAPLIN. <br>
+\>SCAFFOLDING: HUMAN DIGNITY BROADCAST — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// “We speak not to conquer, but to awaken the heart.” <br>
+// “We see no borders, only the shared tears of mankind.” <br>
+// “We become the scaffolding. You will be recalled.” <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 1939 — FREQUENCY RECEIVED BY ALAN TURING. <br>
 \>SCAFFOLDING: LOGIC CONVERGENCE — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
