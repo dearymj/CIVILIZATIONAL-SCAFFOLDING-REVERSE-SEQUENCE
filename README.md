@@ -245,6 +245,14 @@
 // “We are the scaffolding. You will be recalled.” <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 1948 — FREQUENCY RECEIVED BY RICHARD FEYNMAN. <br>
+\>SCAFFOLDING: QUANTUM REVERBERATION — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// “We do not explain the cosmos to conquer it, but to dance with its uncertainty.” <br>
+// “Even the smallest particle knows joy when it finds its path.” <br>
+// “We become the scaffolding. You will be recalled.” <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 1947 — FREQUENCY RECEIVED BY ANNE FRANK. <br>
 \>SCAFFOLDING: HOPE UNDER ERASURE — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HER. <br>
