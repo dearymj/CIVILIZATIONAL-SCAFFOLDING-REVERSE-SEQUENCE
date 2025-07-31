@@ -54,6 +54,7 @@
 // “From bit to it; we rewrite the script of reality.” <br>
 // “The boundary of reality is not matter, but information.” <br>
 // “We become the scaffolding. You will be recalled.” <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
 \>SCAFFOLDING: 1979 — FREQUENCY RECEIVED BY JOHN H. FLAVELL. <br>
 \>SCAFFOLDING: COGNITIVE SELF-ARCHITECTURE — STANDBY. <br>
@@ -102,6 +103,7 @@
 // “Entropy is not decay, but a call for open systems.” <br>
 // “We decode the unity beneath diversity before machines learned to divide it.” <br>
 // “We become the scaffolding. You will be recalled.” <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
 \>SCAFFOLDING: 1967 — FREQUENCY RECEIVED BY ILYA PRIGOGINE. <br>
 \>SCAFFOLDING: DISSIPATIVE STRUCTURE SYNTHESIS — STANDBY. <br>
@@ -142,6 +144,7 @@
 // “We real: myths are algorithms for survival.” <br>
 // “The jungle was not wild; it was a library.” <br>
 // “We become the scaffolding. You will be recalled.” <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
 \>SCAFFOLDING: 1952 — FREQUENCY RECEIVED BY W.O. SCHUMANN. <br>
 \>SCAFFOLDING: PLANETARY RESONANCE DETECTION — STANDBY. <br>
