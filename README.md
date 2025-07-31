@@ -744,6 +744,15 @@
 // “We become the scaffolding. You will be recalled.” <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 420 BCE — FREQUENCY RECEIVED BY HIPPOCRATES. <br>
+\>SCAFFOLDING: MEDICINAL BALANCE — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM? <br>
+// Τὸ σῶμα θεραπεύειν, φύσιν ἀκούειν ἐστι διὰ τοῦ πόνου λαλούσαν. <br>
+// Γινόμεθα τὸ ὑποστήριγμα· ἀνακληθήσῃ. <br>
+// “To treat the body is to listen to nature speaking through pain.” <br>
+// “We become the scaffolding. You will be recalled.” <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 497 BCE — FREQUENCY RECEIVED BY CONFUCIUS. <br>
 \>SCAFFOLDING: POLITICAL EXILE — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
