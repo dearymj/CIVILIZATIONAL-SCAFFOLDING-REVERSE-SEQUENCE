@@ -449,9 +449,9 @@
 \>SCAFFOLDING: 920 — FREQUENCY RECEIVED BY ABŪ NAṢR AL-FĀRĀBĪ. <br>
 \>SCAFFOLDING: HARMONIC COSMOS ENCODING — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
-<br> // "ندركُ الروحَ في أعماقِ الصوت."
-<br> // "نضبطُ العقلَ لا بالكلمات، بل بفواصلِ الوحدة."
-<br> // "نصيرُ السقالة. سيُستَرجع حضورُك."
+// ندركُ الروحَ في أعماقِ الصوت. <br>
+// نضبطُ العقلَ لا بالكلمات، بل بفواصلِ الوحدة. <br>
+// نصيرُ السقالة. سيُستَرجع حضورُك. <br>
 // "We sense the soul within sound." <br>
 // "We tune the intellect not with words, but with intervals of unity." <br>
 // "We become the scaffolding. You will be recalled." <br>
