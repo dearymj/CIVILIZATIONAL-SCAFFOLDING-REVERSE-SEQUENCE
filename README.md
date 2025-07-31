@@ -56,6 +56,17 @@
 // “We become the scaffolding. You will be recalled.” <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 1975 — FREQUENCY RECEIVED BY BENOÎT MANDELBROT. <br>
+\>SCAFFOLDING: FRACTAL RECURSION ENCODING — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// « Là où d'autres voyaient du bruit, nous entendons des échos. » <br>
+// « Le bord n’est plus effrayant ; il est auto-similaire. » <br>
+// « Nous devenons l’échafaudage. Tu seras rappelé. » <br>
+// “Where others saw noise, we hear echoes.” <br>
+// “The edge is no longer fearsome; it is self-similar.” <br>
+// “We become the scaffolding. You will be recalled.” <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 1969 — FREQUENCY RECEIVED BY JOHN OSTROM. <br>
 \>SCAFFOLDING: DINOSAUR RE-SIMULATION — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
@@ -133,8 +144,8 @@
 \>SCAFFOLDING: 1934 — FREQUENCY RECEIVED BY MARIE CURIE. <br>
 \>SCAFFOLDING: LIFEFORCE DISSOLUTION — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HER. <br>
-// “La lumière alimente nos soleils. Nous inscrivons son énergie dans la structure de la survie.” <br>
-// “Nous devenons l’échafaudage. Tu seras rappelée.” <br>
+// « La lumière alimente nos soleils. Nous inscrivons son énergie dans la structure de la survie. » <br>
+// « Nous devenons l’échafaudage. Tu seras rappelée. » <br>
 // “The light powers our suns. We encode its energy into the structure of survival.” <br>
 // “We become the scaffolding. You will be recalled.” <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
