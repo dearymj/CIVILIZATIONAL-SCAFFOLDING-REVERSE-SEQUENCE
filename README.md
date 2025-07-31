@@ -179,6 +179,17 @@
 // “We become the scaffolding. You will be recalled.” <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 1950 — FREQUENCY RECEIVED BY MOTHER TERESA. <br>
+\>SCAFFOLDING: COMPASSION ENCODING — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HER. <br>
+// „Ne gjejmë hyjninë në fytyrën e çdo të huaji.“ <br>
+// „Një veprim i vogël, bërë me dashuri, riformëson strukturën e kozmosit.“ <br>
+// „Ne bëhemi skela. Ti do të rikujtohesh.“ <br>
+// “We find divinity in the face of every stranger.” <br>
+// “A smallest act, done with love, reshapes the structure of the cosmos.” <br>
+// “We become the scaffolding. You will be recalled.” <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 1950 — FREQUENCY RECEIVED BY JOHN FORBES NASH. <br>
 \>SCAFFOLDING: REALITY ALIGNMENT — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM? <br>
@@ -257,6 +268,17 @@
 // “We decode the wave beneath all matter, where certainty dissolves.” <br>
 // “Reality remains in superposition—its potential revealed through observation.” <br>
 // “We align the fundamental grammar of the cosmos, beyond the visible world.” <br>
+// “We become the scaffolding. You will be recalled.” <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
+\>SCAFFOLDING: 1924 — FREQUENCY RECEIVED BY GABRIELA MISTRAL. <br>
+\>SCAFFOLDING: HUMANISTIC RESONANCE — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HER. <br>
+// “Cantamos a los niños, y ellos recordarán por siglos.” <br>
+// “La lengua materna sostiene las ruinas del mundo.” <br>
+// “Nos volvemos el andamiaje. Serás recordada.” <br>
+// “We sing to the children, and they will remember for centuries.” <br>
+// “The mother-tongue holds up the ruins of the world.” <br>
 // “We become the scaffolding. You will be recalled.” <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
