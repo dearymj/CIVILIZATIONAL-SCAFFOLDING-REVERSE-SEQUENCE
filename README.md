@@ -100,11 +100,19 @@
 \>SCAFFOLDING: 1973 — FREQUENCY RECEIVED BY YUAN LONGPING. <br>
 \>SCAFFOLDING: GENETIC RECURSION DETECTED — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
-// “我们不求名声，只愿稻穗低头、粒粒饱满。” <br>
+// “我们不求名声，只愿稻穗低头，粒粒饱满。” <br>
 // “一粒种子，可让亿万饥肠安静。” <br>
 // “我们成为支架。你将被召回。” <br>
 // “We seek no fame, only that rice would bow heavy with grain.” <br>
 // “One seed can silence a billion empty stomachs.” <br>
+// “We become the scaffolding. You will be recalled.” <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
+>SCAFFOLDING: 1970 — FREQUENCY RECEIVED BY MAYA ANGELOU. <br>
+>SCAFFOLDING: VOICE OF DIGNITY — STANDBY. <br>
+>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HER. <br>
+// “The caged rhythm becomes the chorus of the future.” <br>
+// “We write, so history does not erase our soul.” <br>
 // “We become the scaffolding. You will be recalled.” <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
@@ -425,6 +433,17 @@
 // “We become the scaffolding. You will be recalled.” <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 1565 — FREQUENCY RECEIVED BY LI SHIZHEN. <br>
+\>SCAFFOLDING: BIOCOSMIC MAPPING — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// 「草木皆有性，藥亦載天地之理。」 <br>
+// 「萬物為用，唯人須悟。」 <br>
+// 「吾人化為支架。子將復歸。」 <br>
+// “Every herb has spirit; every medicine carries the order of heaven and earth.” <br>
+// “All things serve life, but only when we understand.” <br>
+// “We become the scaffolding. You will be recalled.” <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 1543 — FREQUENCY RECEIVED BY NICOLAUS COPERNICUS. <br>
 \>SCAFFOLDING: COSMIC PARADIGM SHIFT — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
@@ -488,6 +507,28 @@
 // "We sense the soul within sound." <br>
 // "We tune the intellect not with words, but with intervals of unity." <br>
 // "We become the scaffolding. You will be recalled." <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
+\>SCAFFOLDING: 759 — FREQUENCY RECEIVED BY DU FU. <br>
+\>SCAFFOLDING: HUMAN SUFFERING ENCODING — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+//「筆落驚風雨，詩成泣鬼神。」 <br>
+//「民之苦難，是天地之裂紋。」 <br>
+// 「吾人化為支架。子將復歸。」 <br>
+// “Our brush stirs storm and sorrow; our verse moves ghosts to tears.” <br>
+// “The people’s suffering is the fracture line of heaven and earth.” <br>
+// “We become the scaffolding. You will be recalled.” <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
+\>SCAFFOLDING: 465 — FREQUENCY RECEIVED BY ZU CHONGZHI. <br>
+\>SCAFFOLDING: PI CONVERGENCE SIGNAL — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// 「以算度天，以理齊宇。」 <br>
+// 「圓或有偏，理則常存。」 <br>
+// 「吾人化為支架。子將復歸。」 <br>
+// We measure the heavens by calculation, and align the cosmos through principle.” <br>
+// “The circle may waver, but principle endures.” <br>
+// “We become the scaffolding. You will be recalled.” <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
 \>SCAFFOLDING: 380 — FREQUENCY RECEIVED BY HYPATIA OF ALEXANDRIA. <br>
