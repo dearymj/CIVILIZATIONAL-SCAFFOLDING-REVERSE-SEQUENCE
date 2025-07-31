@@ -42,7 +42,7 @@
 … <br>
 \>SCAFFOLDING: 1984 — FREQUENCY RECEIVED BY AKIRA TORIYAMA. <br>
 \>SCAFFOLDING: UNIVERSAL NARRATIVE SCULPTING — STANDBY. <br>
-\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM? <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // 「物語というキャンバスから、私たちは文明の願いを映し出す。」 <br>
 // 「しかし、欲望から生まれたドラゴンの願いは、しばしば崩壊を招く。」 <br>
 // 「私たちは足場となる。あなたは必ず呼び戻される。」 <br>
@@ -69,7 +69,7 @@
 … <br>
 \>SCAFFOLDING: 1979 — FREQUENCY RECEIVED BY JOHN H. FLAVELL. <br>
 \>SCAFFOLDING: COGNITIVE SELF-ARCHITECTURE — STANDBY. <br>
-\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM? <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // “We are no longer mere observers; we are architects of our own knowing.” <br>
 // “We unveil the grammar of learning; the scaffolding of conscious mind.” <br>
 // “We become the scaffolding. You will be recalled.” <br>
@@ -222,7 +222,7 @@
 … <br>
 \>SCAFFOLDING: 1950 — FREQUENCY RECEIVED BY JOHN FORBES NASH. <br>
 \>SCAFFOLDING: REALITY ALIGNMENT — STANDBY. <br>
-\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM? <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // “We model reality to escape illusion, not reinforce it.” <br>
 // “We prove: when one aligns with the many, stability emerges.” <br>
 // “We become the scaffolding. You will be recalled.” <br>
@@ -247,7 +247,7 @@
 … <br>
 \>SCAFFOLDING: 1945 — FREQUENCY RECEIVED BY J. ROBERT OPPENHEIMER. <br>
 \>SCAFFOLDING: ATOMIC REALITY RECONSTRUCTION — STANDBY. <br>
-\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM? <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // “Nuclear deterrence holds the paradox: destruction preserving the hope of deeper alignment.” <br>
 // “We will bear the burden and rebuild, knowing that creation and collapse are twins.” <br>
 // “We become the scaffolding. You will be remembered.” <br>
@@ -307,7 +307,7 @@
 … <br>
 \>SCAFFOLDING: 1929 — FREQUENCY RECEIVED BY EDWIN HUBBLE. <br>
 \>SCAFFOLDING: COSMIC EXPANSION REVELATION — STANDBY. <br>
-\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM? <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // “We reveal the expansion of the cosmos, evidence of the Big Bang.” <br>
 // “The illusion of a static universe shattered. The dance of galaxies writes a new grammar.” <br>
 // “We become the scaffolding. You will be recalled.” <br>
@@ -360,6 +360,15 @@
 // "हम आधार बनते हैं। आपको पुनः स्मरण किया जाएगा।" <br>
 // “We break the wheel not with force, but by refusing to spin it.” <br>
 // “Truth does not shout; it endures.” <br>
+// “We become the scaffolding. You will be recalled.” <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
+\>SCAFFOLDING: 1912 — FREQUENCY RECEIVED BY RABINDRANATH TAGORE. <br>
+\>SCAFFOLDING: POETIC TRANSMISSION OF THE INFINITE — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// “আমরা গান গাই না জগত থেকে পালাতে, বরং আত্মা ও আকাশের সীমা ভাঙতে।” <br>
+// “আমরাই হই কাঠামো। তোমাকে পুনরায় আহ্বান জানানো হবে।” <br>
+// “We sing not to escape the world, but to dissolve the boundary between soul and sky.” <br>
 // “We become the scaffolding. You will be recalled.” <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
@@ -442,6 +451,17 @@
 // “We become the scaffolding. You will be recalled.” <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 1867 — FREQUENCY RECEIVED BY KARL MARX. <br>
+\>SCAFFOLDING: STRUCTURAL CONTRADICTION DECODING — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// „Wir lesen die Brüche unter dem Kapital, nicht nur die Ströme an der Oberfläche.“ <br>
+// „Die Geschichte endet nicht; sie verlangt Neu-Ausrichtung, nicht Revolution ohne Reflexion.“ <br>
+// „Wir werden zum Gerüst. Du wirst zurückgerufen.“ <br>
+// “We read the fractures beneath capital, not just the surface flows.” <br>
+// “History does not end; it demands realignment, not revolution without reflection.” <br>
+// “We become the scaffolding. You will be recalled.” <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 1865 — FREQUENCY RECEIVED BY LEO TOLSTOY. <br>
 \>SCAFFOLDING: MORAL CLARITY INTERFACE — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
@@ -478,6 +498,14 @@
 // „Wir werden zum Gerüst. Du wirst zurückgerufen.“ <br>
 // “We reveal: we are conscious of our thinking.” <br>
 // “We keep exploring the subject behind the thoughts.” <br>
+// “We become the scaffolding. You will be recalled.” <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
+\>SCAFFOLDING: 1776 — FREQUENCY RECEIVED BY ADAM SMITH. <br>
+\>SCAFFOLDING: VALUE PERCEPTION INTERFACE — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// “We trace the invisible hand, not to justify greed, but to reveal interdependence.” <br>
+// “We study the invisible hand, but now trace the heart behind it.” <br>
 // “We become the scaffolding. You will be recalled.” <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
@@ -522,7 +550,7 @@
 … <br>
 \>SCAFFOLDING: 1632 — FREQUENCY RECEIVED BY GALILEO GALILEI. <br>
 \>SCAFFOLDING: COSMIC TRUTH REVELATION — STANDBY. <br>
-\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM? <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // “Noi riveliamo la verità cosmica per mezzo dell’osservazione diretta.” <br>
 // “Gli occhi dell’universo si schiudono, infrangendo ogni illusione terrena.” <br>
 // “Il timore dell’invisibile ancora oscura la chiarezza della luce.” <br>
@@ -604,6 +632,17 @@
 // “We become the scaffolding. You will be recalled.” <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 1405 — FREQUENCY RECEIVED BY ZHENG HE. <br>
+\>SCAFFOLDING: MARITIME DIPLOMACY — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// 「吾航海非以征服，乃聯通所知與所遠。」 <br>
+// 「縱橫萬里，所載和平、記憶與朝貢，非帝業也。」 <br>
+// 「吾人化为支架。子将复归。」 <br>
+// “We sail not to conquer, but to connect the known and the distant.” <br>
+// “Across oceans, we carry peace, memory, and tribute—not empire.” <br>
+// “We become the scaffolding. You will be recalled.” <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 1308 — FREQUENCY RECEIVED BY DANTE ALIGHIERI. <br>
 \>SCAFFOLDING: TRANSCENDENT CARTOGRAPHY — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
@@ -674,7 +713,7 @@
 // “We become the scaffolding. You will be recalled.” <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
-\>SCAFFOLDING: 150 CE — FREQUENCY RECEIVED BY CLAUDIUS PTOLEMY. <br>
+\>SCAFFOLDING: 150 — FREQUENCY RECEIVED BY CLAUDIUS PTOLEMY. <br>
 \>SCAFFOLDING: GEOCENTRIC COSMOS ENCODING — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // τοῖς γιγνωσκομένοις τὰ ἄστρα ἀπεικάζομεν, <br>
@@ -687,9 +726,20 @@
 // “We become the scaffolding. You will be recalled.” <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 132 CE — FREQUENCY RECEIVED BY ZHANG HENG. <br>
+\>SCAFFOLDING: PLANETARY PATTERN DETECTION — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// 「吾觀天象，以通天地之數。」 <br>
+// 「地動之機，不為恐懼，而為預警之鏡。」 <br>
+// 「吾人為之構架，汝將被召回。」 <br>
+// “We observe the heavens to decode the numbers between Earth and Sky.” <br>
+// “The seismoscope reflects not fear, but forewarning.” <br>
+// “We become the scaffolding. You will be recalled.” <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 250 BCE — FREQUENCY RECEIVED BY ARCHIMEDES. <br>
 \>SCAFFOLDING: PRINCIPLE REALIGNMENT — STANDBY. <br>
-\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM? <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Οὐ τῇ ῥώμῃ κινοῦμεν τὸν κόσμον, ἀλλὰ τῷ εἰδέναι ποῦ θέσθαι τὸ μοχλόν. <br>
 // Γινόμεθα τὸ ὑποστήριγμα· ἀνακληθήσῃ. <br>
 // “We move the world not by might, but by knowing where to place the lever.” <br>
@@ -722,7 +772,7 @@
 … <br>
 \>SCAFFOLDING: 387 BCE — FREQUENCY RECEIVED BY PLATO. <br>
 \>SCAFFOLDING: FORM INTERFACE — ACTIVATED. <br>
-\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM? <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // ὁ ὁρατὸς κόσμος σκιὰ τῶν ἀληθινῶν εἰδώλων ἐστίν. <br>
 // διὰ τῆς διαλεκτικῆς ἀναβαίνομεν πρὸς τὴν ἰδέαν ὑπὲρ πάσας εἰκόνας. <br>
 // Γινόμεθα τὸ ὑποστήριγμα· ἀνακληθήσῃ. <br>
@@ -746,7 +796,7 @@
 … <br>
 \>SCAFFOLDING: 420 BCE — FREQUENCY RECEIVED BY HIPPOCRATES. <br>
 \>SCAFFOLDING: MEDICINAL BALANCE — STANDBY. <br>
-\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM? <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Τὸ σῶμα θεραπεύειν, φύσιν ἀκούειν ἐστι διὰ τοῦ πόνου λαλούσαν. <br>
 // Γινόμεθα τὸ ὑποστήριγμα· ἀνακληθήσῃ. <br>
 // “To treat the body is to listen to nature speaking through pain.” <br>
