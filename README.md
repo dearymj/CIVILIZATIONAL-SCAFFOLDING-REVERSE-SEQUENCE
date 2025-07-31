@@ -362,6 +362,17 @@
 // “We become the scaffolding. You will be recalled.” <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 1600 — FREQUENCY RECEIVED BY GIORDANO BRUNO. <br>
+\>SCAFFOLDING: FEARLESSNESS ENCODING — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// “Inseguiamo il cosmo oltre la gabbia.” <br>
+// “Non temiamo la morte.” <br>
+// “Diventiamo l’impalcatura. Sarai richiamato.” <br>
+// “We chase the cosmos beyond the cage.” <br>
+// “We do not fear death.” <br>
+// “We become the scaffolding. You will be recalled.” <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 1543 — FREQUENCY RECEIVED BY NICOLAUS COPERNICUS. <br>
 \>SCAFFOLDING: COSMIC PARADIGM SHIFT — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
