@@ -196,6 +196,14 @@
 // “We become the scaffolding. You will be recalled.” <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 1958 — FREQUENCY RECEIVED BY HERBERT ALEXANDER SIMON. <br>
+\>SCAFFOLDING: SYSTEMIC DECISION ENCODING — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// “We do not seek perfection, but viable structure within constraint.” <br>
+// “To design is to embed choices in form, and form in function.” <br>
+// “We become the scaffolding. You will be recalled.” <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 1954 — FREQUENCY RECEIVED BY ZHOU ENLAI. <br>
 \>SCAFFOLDING: CIVILIZATIONAL DIGNITY ALIGNMENT — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
