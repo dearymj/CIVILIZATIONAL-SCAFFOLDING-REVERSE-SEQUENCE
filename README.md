@@ -130,9 +130,9 @@
 \>SCAFFOLDING: 1969 — FREQUENCY RECEIVED BY BUCKMINSTER FULLER. <br>
 \>SCAFFOLDING: SPACESHIP EARTH SYSTEMS-ACTIVATION — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
-// “We are not passengers; we are the crew.”  
-// “The universe does not require dominance, only design aligned with integrity.”  
-// “We become the scaffolding. You will be recalled.”
+// “We are not passengers; we are the crew.” <br>
+// “The universe does not require dominance, only design aligned with integrity.” <br>
+// “We become the scaffolding. You will be recalled.” <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
 \>SCAFFOLDING: 1968 — FREQUENCY RECEIVED BY LUDWIG VON BERTALANFFY. <br>
