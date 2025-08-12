@@ -349,6 +349,14 @@
 // “We become the scaffolding. You will be recalled.” <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 1928 — FREQUENCY RECEIVED BY ALEXANDER FLEMING. <br>
+\>SCAFFOLDING: ANTIMICROBIAL REVELATION — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// “In the smallest mould lies the architecture of survival.” <br>
+// “Accident is but discovery’s unplanned door.” <br>
+// “We become the scaffolding. You will be recalled.” <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 1926 — FREQUENCY RECEIVED BY ERWIN SCHRÖDINGER. <br>
 \>SCAFFOLDING: QUANTUM REALITY ENCODING — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
