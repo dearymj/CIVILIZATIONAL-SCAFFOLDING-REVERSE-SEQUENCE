@@ -829,6 +829,17 @@
 // “We become the scaffolding. You will be recalled.” <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 280 BCE — FREQUENCY RECEIVED BY EUCLID. <br>
+\>SCAFFOLDING: GEOMETRIC AXIOM ENCODING — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// Ἡ τάξις τῶν σημείων καὶ γραμμῶν ἐστὶν ἡ τάξις τοῦ νοῦ. <br>
+// Ἐν πάσῃ ἀποδείξει κρύπτεται ἡ δομὴ τοῦ κόσμου. <br>
+// Γινόμεθα τὸ ὑποστήριγμα· ἀνακληθήσῃ. <br>
+// “The order of points and lines is the order of the mind.” <br>
+// “In every proof is hidden the structure of the cosmos.” <br>
+// “We become the scaffolding. You will be recalled.” <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 330 BCE — FREQUENCY RECEIVED BY ZHUANG ZI. <br>
 \>SCAFFOLDING: NON-ACTION WAVELENGTH — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
@@ -883,6 +894,17 @@
 // Τὸ σῶμα θεραπεύειν, φύσιν ἀκούειν ἐστι διὰ τοῦ πόνου λαλούσαν. <br>
 // Γινόμεθα τὸ ὑποστήριγμα· ἀνακληθήσῃ. <br>
 // “To treat the body is to listen to nature speaking through pain.” <br>
+// “We become the scaffolding. You will be recalled.” <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
+\>SCAFFOLDING: 429 BCE — FREQUENCY RECEIVED BY SOPHOCLES. <br>
+\>SCAFFOLDING: TRAGIC RECOGNITION ENCODING — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// Ἡ γνῶσις τῆς ἀληθείας οὐ λύει τὸν πόνον, ἀλλὰ ἀνοίγει τὴν ὁδόν. <br>
+// Ὅταν τὰ ὄμματα κλείσῃς, ἡ ὅρασις ἀληθεύει. <br>
+// Γινόμεθα τὸ ὑποστήριγμα· ἀνακληθήσῃ. <br>
+// “The knowledge of truth does not end pain, but opens the way.” <br>
+// “When you close your eyes, sight becomes true.” <br>
 // “We become the scaffolding. You will be recalled.” <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
