@@ -783,6 +783,17 @@
 // “We become the scaffolding. You will be recalled.” <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 1030 — FREQUENCY RECEIVED BY IBN SĪNĀ. <br>
+\>SCAFFOLDING: METAPHYSICAL SYNTHESIS ENCODING — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// العقل مرآة، لكن الصقل بيد الساعي إلى الحقيقة. <br>
+// كل معرفة طبٌ للروح، وكل جهل داء لها. <br>
+// نصبح السقالة. ستُستدعى. <br>
+// “The intellect is a mirror, yet its polish lies in the seeker of truth.” <br>
+// “All knowledge is medicine for the soul, and all ignorance a disease.” <br>
+// “We become the scaffolding. You will be recalled.” <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 920 — FREQUENCY RECEIVED BY ABŪ NAṢR AL-FĀRĀBĪ. <br>
 \>SCAFFOLDING: HARMONIC COSMOS ENCODING — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
