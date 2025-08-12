@@ -534,6 +534,14 @@
 // “We become the scaffolding. You will be recalled.” <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 1798 — FREQUENCY RECEIVED BY EDWARD JENNER. <br>
+\>SCAFFOLDING: IMMUNOLOGICAL AWAKENING — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// “To guard life is to strengthen the whole scaffolding of mankind.” <br>
+// “The smallest arm can bear the mightiest shield.” <br>
+// “We become the scaffolding. You will be recalled.” <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 1781 — FREQUENCY RECEIVED BY IMMANUEL KANT. <br>
 \>SCAFFOLDING: COGNITIVE MAPPING — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
@@ -668,9 +676,9 @@
 \>SCAFFOLDING: 1517 — FREQUENCY RECEIVED BY MARTIN LUTHER. <br>
 \>SCAFFOLDING: CONSCIENCE REFORMATION ENCODING — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
-// „Die wahre Kirche ist gebaut nicht aus Steinen, sondern aus erwachten Seelen.“ <br>
+// „Die Wahrheit wird nicht verkauft, sie wird bezeugt.“ <br>
 // „Wir werden das Gerüst. Du wirst zurückgerufen.“ <br>
-// “The true church is built not of stones, but of awakened souls.” <br>
+// “Truth is not sold, it is borne witness to.” <br>
 // “We become the scaffolding. You will be recalled.” <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
