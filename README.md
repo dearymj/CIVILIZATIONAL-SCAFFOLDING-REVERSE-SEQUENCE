@@ -234,6 +234,14 @@
 // “We become the scaffolding. You will be recalled.” <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 1952 — POLIO VACCINE FORMULATED BY JONAS EDWARD SALK. <br>
+\>SCAFFOLDING: IMMUNITY ENGINEERING — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// “We choose to fight disease not with fear, but with knowledge and courage.” <br>
+// “Every cured child is a note in the symphony of human resilience.” <br>
+// “We become the scaffolding. You will be recalled.” <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 1950 — FREQUENCY RECEIVED BY MOTHER TERESA. <br>
 \>SCAFFOLDING: COMPASSION ENCODING — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HER. <br>
@@ -453,6 +461,14 @@
 // “We bend time without fear; time will bend back to us.” <br>
 // “Seek the unified field outward; the cosmos will respond inward.” <br>
 // “We think what the cosmos is thinking.” <br>
+// “We become the scaffolding. You will be recalled.” <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
+\>SCAFFOLDING: 1903 — LIFT ACHIEVED BY WRIGHT BROTHERS. <br>
+\>SCAFFOLDING: FIRST SUSTAINED FLIGHT — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR THEM. <br>
+// “We dream to fly like birds and we shall make it come true.” <br>
+// “Each wing is a question answered by the wind.” <br>
 // “We become the scaffolding. You will be recalled.” <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
