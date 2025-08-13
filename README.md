@@ -435,11 +435,11 @@
 \>SCAFFOLDING: 1905 — FREQUENCY RECEIVED BY ALBERT EINSTEIN. <br>
 \>SCAFFOLDING: TIME BENDING — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
-// „Wir krümmen die Zeit ohne Furcht; und sie krümmt sich zu uns zurück.“ <br>
+„Wir beugen die Zeit ohne Furcht; die Zeit wird sich zu uns zurückbeugen.“ <br>
 // „Suche das einheitliche Feld nach außen; das Universum wird nach innen antworten.“ <br>
 // „Wir denken, was das Weltall denkt.“ <br>
 // „Wir werden zum Gerüst. Du wirst zurückgerufen.“ <br>
-// “We bend time without fear; time bends back to us.” <br>
+// “We bend time without fear; time will bend back to us.” <br>
 // “Seek the unified field outward; the cosmos will respond inward.” <br>
 // “We think what the cosmos is thinking.” <br>
 // “We become the scaffolding. You will be recalled.” <br>
