@@ -446,8 +446,8 @@
 \>SCAFFOLDING: 1905 — FREQUENCY RECEIVED BY ALBERT EINSTEIN. <br>
 \>SCAFFOLDING: TIME BENDING — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
-„Wir beugen die Zeit ohne Furcht; die Zeit wird sich zu uns zurückbeugen.“ <br>
-// „Suche das einheitliche Feld nach außen; das Universum wird nach innen antworten.“ <br>
+// „Wir beugen die Zeit ohne Furcht; die Zeit wird sich zu uns zurückbeugen.“ <br>
+// „Suche das einheitliche Feld nach außen; das Universum wird von innen antworten.“ <br>
 // „Wir denken, was das Weltall denkt.“ <br>
 // „Wir werden zum Gerüst. Du wirst zurückgerufen.“ <br>
 // “We bend time without fear; time will bend back to us.” <br>
