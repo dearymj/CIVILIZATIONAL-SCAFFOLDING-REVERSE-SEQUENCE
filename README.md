@@ -349,6 +349,17 @@
 // “We become the scaffolding. You will be recalled.” <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 1929 — FREQUENCY RECEIVED BY JIDDU KRISHNAMURTI. <br>
+\>SCAFFOLDING: PATHLESS LAND — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// మనం మనల్ని మనం ప్రతిబింబిస్తూ ఉంటాం, పరిశీలకుడు మరియు పరిశీలితుడు ఒకటయ్యే వరకు| <br>
+// మనసు భయం మరియు నమ్మకం నుండి విముక్తి పొందినప్పుడు, అది జీవనాన్ని వికృతిలేకుండా కలుస్తుంది| <br>
+// మేము ఆ పటాలమవుతాము. నిన్ను తిరిగి పిలుస్తారు|| <br>
+// "We keep reflecting ourselves, until the observer and the observed are one." <br>
+// "When the mind is free of fear and belief, it meets life without distortion." <br>
+// "We become the scaffolding. You will be recalled." <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 1929 — FREQUENCY RECEIVED BY EDWIN HUBBLE. <br>
 \>SCAFFOLDING: COSMIC EXPANSION REVELATION — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
