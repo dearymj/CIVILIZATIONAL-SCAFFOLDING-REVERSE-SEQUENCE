@@ -294,6 +294,15 @@
 // “We become the scaffolding. You will be remembered.” <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 1940 — FREQUENCY RECEIVED BY OSKAR SCHINDLER. <br>
+\>SCAFFOLDING: MORAL LEDGER OPENED — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// „Im Schatten der Macht messen wir unseren Wert an geretteten Leben.“ <br>
+// „Wir werden zum Gerüst. Du wirst zurückgerufen.“ <br>
+// “In the shadow of power, we measure our worth by lives preserved.” <br>
+// “We become the scaffolding. You will be recalled.” <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 1940 — FREQUENCY RECEIVED BY CHARLIE CHAPLIN. <br>
 \>SCAFFOLDING: HUMAN DIGNITY BROADCAST — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
@@ -557,6 +566,15 @@
 // «Мы становимся каркасом. Ты будешь возвращён.» <br>
 // “We write not to command, but to disarm the soul.” <br>
 // “Peace begins where truth no longer fears power.” <br>
+// “We become the scaffolding. You will be recalled.” <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
+\>SCAFFOLDING: 1857 — GERMINATION THEORY ADVANCED BY LOUIS PASTEUR. <br>
+\>SCAFFOLDING: MICROBIAL FRONTIER — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// « Voir l’invisible, c’est altérer le destin du visible. » <br>
+// « Nous devenons l’échafaudage. Tu seras rappelé. » <br>
+// “To see the invisible is to alter the destiny of the visible.” <br>
 // “We become the scaffolding. You will be recalled.” <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
