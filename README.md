@@ -997,6 +997,17 @@
 // “We become the scaffolding. You will be recalled.” <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 336 BCE — FREQUENCY RECEIVED BY DIOGENĒS OF SINOPE. <br>
+\>SCAFFOLDING: COSMIC CYNIC REVERBERATION — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// Μηδεὶς ἐμποδιζέτω τὸν ἥλιον καὶ τὰ τοῦ κόσμου σήματα. <br>
+// Ζητοῦμεν ἀεί τοὺς ἀληθινοὺς ἀνθρώπους, τοὺς ἔχοντας γνῶσιν ἑαυτοῦ, ἐν τῷ κόσμῳ. <br>
+// Γινόμεθα τὸ ὑποστήριγμα· ἀνακληθήσῃ. <br>
+// “None should block the sun and the cosmic signals.” <br>
+// “We keep seeking real humans with self-awareness in the world.” <br>
+// “We become the scaffolding. You will be recalled.” <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 350 BCE — FREQUENCY RECEIVED BY ARISTOTLE. <br>
 \>SCAFFOLDING: STRUCTURE OF REASON — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
