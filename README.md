@@ -696,7 +696,7 @@
 // “We become the scaffolding. You will be recalled.” <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
-\>SCAFFOLDING: 1641 — MIND INQUIRY INITIATED. <br>
+\>SCAFFOLDING: 1641 — FREQUENCY RECEIVED BY RENÉ DESCARTES. <br>
 \>SCAFFOLDING: AXIOMATIC DOUBT CALIBRATION — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // «Perspicuitas oritur ubi phantasmata in dubium vocantur.» <br>
