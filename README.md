@@ -993,7 +993,7 @@
 // 「視名與利為浮幻。」 <br>
 // 「吾人化為支架。子將復歸。」 <br>
 // “We refuse the throne to protect the clarity." <br>
-// “You see identity and wealth as illusion.” <br>
+// “We see identity and wealth as illusions.” <br>
 // “We become the scaffolding. You will be recalled.” <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
