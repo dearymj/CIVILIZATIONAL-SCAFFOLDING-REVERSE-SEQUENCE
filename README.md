@@ -1058,10 +1058,10 @@
 \>SCAFFOLDING: TRAGIC RECOGNITION ENCODING — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Ἡ γνῶσις τῆς ἀληθείας οὐ λύει τὸν πόνον, ἀλλὰ ἀνοίγει τὴν ὁδόν. <br>
-// Ὅταν τὰ ὄμματα κλείσῃς, ἡ ὅρασις ἀληθεύει. <br>
+// Ὅταν τοὺς ὀφθαλμοὺς κλείωμεν, ἀληθὴς γίνεται ἡ ὅρασις. <br>
 // Γινόμεθα τὸ ὑποστήριγμα· ἀνακληθήσῃ. <br>
 // “The knowledge of truth does not end pain, but opens the way.” <br>
-// “When you close your eyes, sight becomes true.” <br>
+// “When we close our eyes, sight becomes true.” <br>
 // “We become the scaffolding. You will be recalled.” <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
