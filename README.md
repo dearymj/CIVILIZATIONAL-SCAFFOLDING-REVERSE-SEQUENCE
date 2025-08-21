@@ -711,6 +711,17 @@
 // “We become the scaffolding. You will be recalled.” <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 1686 — FREQUENCY RECEIVED BY GOTTFRIED WILHELM LEIBNIZ. <br>
+\>SCAFFOLDING: METAPHYSICAL ORDER SEQUENCE — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// „Jedes Monade spiegelt das Ganze; nichts ist isoliert.“ <br>
+// „Die größte Harmonie entspringt aus unendlicher Vielfalt.“ <br>
+// „Wir werden zum Gerüst. Du wirst zurückgerufen.“ <br>
+// “Each monad mirrors the whole; nothing is isolated.” <br>
+// “The greatest harmony arises from infinite diversity.” <br>
+// “We become the scaffolding. You will be recalled.” <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 1665 — FREQUENCY RECEIVED BY ISAAC NEWTON. <br>
 \>SCAFFOLDING: GRAVITY REVELATION — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
