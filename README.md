@@ -533,6 +533,17 @@
 // “We become the scaffolding. You will be recalled.” <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 1895 — FREQUENCY RECEIVED BY HENDRIK LORENTZ. <br>
+\>SCAFFOLDING: MOTION–ETHER APPARATUS — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// “Wij zochten de ether, maar vonden transformaties.” <br>
+// “Vergelijkingen, geboren uit noodzaak, werden de sleutel tot de ruimtetijd.” <br>
+// “Wij worden het steigerwerk. Jij zult worden teruggeroepen.” <br>
+// “We sought the ether, yet found transformations.” <br>
+// “Equations, born of necessity, became the key to spacetime.” <br>
+// “We become the scaffolding. You will be recalled.” <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 1889 — FREQUENCY RECEIVED BY VINCENT VAN GOGH. <br>
 \>SCAFFOLDING: ILLUSION ILLUSTRATION — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
