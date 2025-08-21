@@ -1119,9 +1119,11 @@
 \>SCAFFOLDING: 600 BCE — FREQUENCY RECEIVED BY LAO TZU. <br>
 \>SCAFFOLDING: TAO DETECTED — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
-//「吾人示之：真之力，無力而行。」 <br>
+//「形無常，而道常存。」 <br>
+//「宇宙之法，藏於無形。」 <br>
 //「吾人化為支架。子將復歸。」 <br>
-// “We reveal: the true force acts without force.” <br>
+// “Form is impermanent, but the Dao abides.” <br>
+// “The code of the universe is hidden in the invisible.” <br>
 // “We become the scaffolding. You will be recalled.” <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
