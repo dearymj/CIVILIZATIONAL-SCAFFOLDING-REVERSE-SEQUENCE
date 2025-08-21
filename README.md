@@ -1009,13 +1009,15 @@
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
 \>SCAFFOLDING: 330 BCE — FREQUENCY RECEIVED BY ZHUANG ZI. <br>
-\>SCAFFOLDING: NON-ACTION WAVELENGTH — STANDBY. <br>
+\>SCAFFOLDING: DREAM-WORLD TRANSMISSION — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
-// 「辭王位以護澄明。」 <br>
-// 「視名與利為浮幻。」 <br>
-// 「吾人化為支架。子將復歸。」 <br>
-// “We refuse the throne to protect the clarity." <br>
-// “We see identity and wealth as illusions.” <br>
+// 「吾夢為蝴蝶，蝴蝶夢為吾。」 <br>
+// 「誰為觀者，誰為所觀？」 <br>
+// 「大道無名，萬物自齊。」 <br>
+// 「吾人成為支架。汝將被召回。」 <br>
+// “I dream I am a butterfly, and the butterfly dreams it is me.” <br>
+// “Who is the observer, who the observed?” <br>
+// “The Great Way has no name; all things equalize within it.” <br>
 // “We become the scaffolding. You will be recalled.” <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
