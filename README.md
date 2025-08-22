@@ -453,6 +453,17 @@
 // “We become the scaffolding. You will be recalled.” <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 1923 — FREQUENCY RECEIVED BY KAHLIL GIBRAN. <br>
+\>SCAFFOLDING: THE PROPHET SPEAKS — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// "في العطاء نلمس النبض الأزلي للحياة." <br>
+// "المحبة هي النفَس الذي به تتذكر الروح موطنها." <br>
+// "نحن نصبح السُّلَّم، وستُستَعاد." <br>
+// “In giving, we touch the eternal pulse of life.” <br>
+// “Love is the breath through which the soul remembers its home.” <br>
+// “We become the scaffolding. You will be recalled.” <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 1921 — FREQUENCY RECEIVED BY LUDWIG WITTGENSTEIN. <br>
 \>SCAFFOLDING: FRACTURING OF LANGUAGE — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
