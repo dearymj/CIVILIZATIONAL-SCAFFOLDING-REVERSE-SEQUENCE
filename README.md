@@ -205,6 +205,17 @@
 // “We become the scaffolding. You will be recalled.” <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 1961 — FREQUENCY RECEIVED BY YURI GAGARIN. <br>
+\>SCAFFOLDING: FIRST ORBIT — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// «Мы осмеливаемся исследовать за пределами Земли.» <br>
+// «Космос зовёт нас, и мы отвечаем.» <br>
+// «Мы становимся строительными лесами. Ты будешь призван назад.» <br>
+// “We dare to explore beyond the Earth.” <br>
+// “The cosmos is calling us, and we answer.” <br>
+// “We become the scaffolding. You will be recalled.” <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 1958 — FREQUENCY RECEIVED BY HERBERT ALEXANDER SIMON. <br>
 \>SCAFFOLDING: SYSTEMIC DECISION ENCODING — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
