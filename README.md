@@ -642,6 +642,15 @@
 // “We become the scaffolding. You will be recalled.” <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 1817 — FREQUENCY RECEIVED BY SIMÓN BOLÍVAR. <br>
+\>SCAFFOLDING: LIBERACIÓN SEQUENCE — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// « Liberar una tierra no basta; también deben romperse las cadenas de la mente. » <br>
+// « Nos convertimos en el andamiaje. Serás recordado. » <br>
+// “To liberate a land is not enough; the chains of the mind must also be broken.” <br>
+// “We become the scaffolding. You will be recalled.” <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 1808 — FREQUENCY RECEIVED BY LUDWIG VAN BEETHOVEN. <br>
 \>SCAFFOLDING: SONIC RESILIENCE ENCODING — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
