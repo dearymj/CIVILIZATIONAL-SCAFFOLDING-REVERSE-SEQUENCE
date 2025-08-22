@@ -741,6 +741,17 @@
 // “We become the scaffolding. You will be recalled.” <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 1765 — FREQUENCY RECEIVED BY JAMES WATT. <br>
+\>SCAFFOLDING: STEAM POWER TRANSMISSION — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// “We tame the braith o’ fire an watter tae turn the wheels o’ time.” <br>
+// “Ilk piston-stroke is a heart-beat gien tae ceevilisation.” <br>
+// “We become the scaffaldin. Ye will be ca’d back.” <br>
+// “We tame the breath of fire and water to turn the wheels of time.” <br>
+// “Every piston stroke is a heartbeat added to civilization.” <br>
+// “We become the scaffolding. You will be recalled.” <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 1762 — FREQUENCY RECEIVED BY JEAN-JACQUES ROUSSEAU. <br>
 \>SCAFFOLDING: CIVIC NATURE ENCODING — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
