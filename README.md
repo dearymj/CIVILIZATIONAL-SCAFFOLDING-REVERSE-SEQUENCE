@@ -1141,6 +1141,15 @@
 // “We become the scaffolding. You will be recalled.” <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 411 BCE — FREQUENCY RECEIVED BY THUCYDIDES OF ATHENS. <br>
+\>SCAFFOLDING: CHRONICLE OF WAR AND NECESSITY — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// Ὅπου φόβος, τιμή, καὶ ὠφέλεια, ἐκεῖ κινεῖται τὸ ἀνθρώπινον. <br>
+// Γινόμεθα τὸ ὑποστήριγμα· ἀνακληθήσῃ. <br>
+// “Where fear, honor, and advantage converge, there human action is moved.” <br>
+// “We become the scaffolding. You will be recalled.” <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 420 BCE — FREQUENCY RECEIVED BY HIPPOCRATES. <br>
 \>SCAFFOLDING: MEDICINAL BALANCE — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
@@ -1158,6 +1167,17 @@
 // Γινόμεθα τὸ ὑποστήριγμα· ἀνακληθήσῃ. <br>
 // “The knowledge of truth does not end pain, but opens the way.” <br>
 // “When we close our eyes, sight becomes true.” <br>
+// “We become the scaffolding. You will be recalled.” <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
+\>SCAFFOLDING: 444 BCE — FREQUENCY RECEIVED BY HERODOTUS OF HALICARNASSUS. <br>
+\>SCAFFOLDING: MEMORY AND INQUIRY TRANSMISSION — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// Ἱστορέομεν ἵνα τὰ ἔργα τῶν ἀνθρώπων μὴ ἀφανισθῇ. <br> 
+// Ἐν παντὶ λόγῳ ὑπάρχει σπέρμα μνήμης καὶ προειδοποίησις. <br>
+// Γινόμεθα τὸ ὑποστήριγμα· ἀνακληθήσῃ. <br>
+// “We inquire so that the deeds of humankind may not be forgotten.” <br>
+// “Within every story lies a seed of memory and a warning.” <br>
 // “We become the scaffolding. You will be recalled.” <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
