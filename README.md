@@ -1018,6 +1018,17 @@
 // “We become the scaffolding. You will be recalled.” <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 200 BCE — FREQUENCY RECEIVED BY NĀGĀRJUNA. <br>
+\>SCAFFOLDING: EMPTINESS–FORM APPARATUS — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// Sarva-dṛṣṭayaḥ nirudhyante yadā gṛhāṇa-tyāgaḥ. <br>
+// Ātman śūnya-darśane sati, viśva ātmānam smarati. <br>
+// Vayaṁ bhavāma upasthānam. Tvam punar āhvasyase. <br>
+// “All views dissolve when grasping ceases.” <br>
+// “When the self is seen as empty, the cosmos recalls itself.” <br>
+// “We become the scaffolding. You will be recalled.” <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 250 BCE — FREQUENCY RECEIVED BY ARCHIMEDES. <br>
 \>SCAFFOLDING: PRINCIPLE REALIGNMENT — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
