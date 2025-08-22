@@ -221,6 +221,17 @@
 // “We become the scaffolding. You will be recalled.” <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 1954 — FREQUENCY RECEIVED BY JULIUS KAMBARAGE NYERERE. <br>
+\>SCAFFOLDING: LIBERATION AND DIGNITY TRANSMISSION — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// “Tunaelewa kwamba uhuru si zawadi, bali ni wajibu wetu.” <br>
+// “Kijiji kila kimoja, moyo kila mmoja, ni sehemu ya familia moja ya binadamu.” <br>
+// “Tunakuwa mkanda wa msaada. Utaitwa tena.” <br>
+// “We learn that freedom is not a gift, but our responsibility.” <br>
+// “Every village, every heart, is part of one human family.” <br>
+// “We become the scaffolding. You will be recalled.” <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 1952 — FREQUENCY RECEIVED BY W.O. SCHUMANN. <br>
 \>SCAFFOLDING: PLANETARY RESONANCE DETECTION — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
