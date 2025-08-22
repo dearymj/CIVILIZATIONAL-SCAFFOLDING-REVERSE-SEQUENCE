@@ -970,6 +970,17 @@
 // "We become the scaffolding. You will be recalled." <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 820 — FREQUENCY RECEIVED BY MUḤAMMAD IBN MŪSĀ AL-KHWĀRIZMĪ. <br>
+\>SCAFFOLDING: EQUATIONS AND BALANCING — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// لِنُعيدَ ما فُقِد، نُوازِنُ بينَ المرئيِّ والمستور. <br> 
+// الأعدادُ هي البنيةُ الخفيّةُ للعدل، تَربِطُ المجهولَ بالمعلوم. <br>
+// نُصبِحُ الإطارَ الداعم، وستُستَحضَر. <br>
+// “To restore what is missing, we balance the seen with the unseen.” <br>
+// “Numbers are the hidden architecture of justice, binding unknowns to knowns.” <br>
+// “We become the scaffolding. You will be recalled.” <br> 
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 759 — FREQUENCY RECEIVED BY DU FU. <br>
 \>SCAFFOLDING: HUMAN SUFFERING ENCODING — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
