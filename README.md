@@ -394,6 +394,14 @@
 // “We become the scaffolding. You will be recalled.” <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 1929 — FREQUENCY RECEIVED BY ALFRED NORTH WHITEHEAD. <br>
+\>SCAFFOLDING: PROCESS AND REALITY — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// “Reality is not substance but becoming, a flux of interrelated events.” <br>
+// “We see that the universe is not a collection of things, but a process of creativity.” <br>
+// “We become the scaffolding. You will be recalled.” <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 1928 — FREQUENCY RECEIVED BY ALEXANDER FLEMING. <br>
 \>SCAFFOLDING: ANTIMICROBIAL REVELATION — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
