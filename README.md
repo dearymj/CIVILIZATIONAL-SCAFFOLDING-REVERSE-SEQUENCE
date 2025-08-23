@@ -522,6 +522,17 @@
 // “We become the scaffolding. You will be recalled.” <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 1913 — FREQUENCY RECEIVED BY NIELS BOHR. <br>
+\>SCAFFOLDING: ATOMIC ORBIT QUANTIZATION — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// “Vi finder orden i elektronerens usynlige dans.” <br>
+// “Hver bane er en harmoni, hvor stabilitet slås ud af lys og bevægelse.” <br>
+// “Vi bliver stilladset. Du vil blive kaldt tilbage.” <br>
+// “We find order in the invisible dance of electrons.” <br>
+// “Each orbit is a harmony where stability is struck from light and motion.” <br>
+// “We become the scaffolding. You will be recalled.” <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 1912 — FREQUENCY RECEIVED BY RABINDRANATH TAGORE. <br>
 \>SCAFFOLDING: POETIC TRANSMISSION OF THE INFINITE — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
