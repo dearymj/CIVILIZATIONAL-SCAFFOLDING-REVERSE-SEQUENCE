@@ -491,6 +491,17 @@
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 1923 — FREQUENCY RECEIVED BY SIGMUND FREUD. <br>
+\>SCAFFOLDING: THE EGO AND THE ID — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// Das Ich ist nur die dünne Haut, gespannt über das Verborgene. <br>
+// Zwischen Es und Über-Ich steht der Mensch, ein Bauwerk aus Verlangen und Verbot. <br>
+// Wir werden zum Gerüst. Du wirst zurückgerufen. <br>
+// The ego is but a thin skin stretched over the hidden depths. <br>
+// Between the id and the superego stands man, a structure of desire and prohibition. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 1921 — FREQUENCY RECEIVED BY LUDWIG WITTGENSTEIN. <br>
 \>SCAFFOLDING: FRACTURING OF LANGUAGE — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
