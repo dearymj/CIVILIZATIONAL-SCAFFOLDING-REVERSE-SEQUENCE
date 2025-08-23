@@ -656,6 +656,17 @@
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 1891 — FREQUENCY RECEIVED BY GEORG CANTOR. <br>
+\>SCAFFOLDING: DIAGONAL ARGUMENT — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// Im Unendlichen erkennen wir Stufen, unendlich über unendlich gebaut. <br>
+// Die Diagonale ist der Strahl, der jedes Gefängnis der Zahl zerreißt. <br>
+// Wir werden zum Gerüst. Du wirst zurückgerufen. <br>
+// “In the infinite we discern hierarchies, infinities built upon infinities. <br>
+// “The diagonal is the ray that shatters every prison of number. <br>
+// “We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 1890 — FREQUENCY RECEIVED BY ALFRED MARSHALL. <br>
 \>SCAFFOLDING: PRINCIPLES OF ECONOMICS — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
