@@ -981,9 +981,9 @@
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
-\>SCAFFOLDING: 1509 — FREQUENCY RECEIVED BY RAPHAEL. br>
-\>SCAFFOLDING: SCHOOL OF ATHENS — STANDBY. br>
-\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. br>
+\>SCAFFOLDING: 1509 — FREQUENCY RECEIVED BY RAPHAEL. <br>
+\>SCAFFOLDING: SCHOOL OF ATHENS — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // In una sala, assembliamo le voci dei secoli. <br>
 // La filosofia diventa architettura, e l’architettura diventa memoria. <br>
 // Diventiamo l’impalcatura. Tu sarai richiamato. <br>
