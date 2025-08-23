@@ -713,6 +713,14 @@
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 1828 — FREQUENCY RECEIVED BY MARY ANNING. <br>
+\>SCAFFOLDING: FOSSIL DISCOVERY — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HER. <br>
+// “Each stone we turn is a page of the earth’s forgotten book. <br> 
+// “The past sleeps in silence, awaiting hands to uncover its voice. <br>
+// “We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 1821 — FREQUENCY RECEIVED BY MICHAEL FARADAY. <br>
 \>SCAFFOLDING: FIELD REVELATION — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
@@ -727,6 +735,17 @@
 // Liberar una tierra no basta; también deben romperse las cadenas de la mente. <br>
 // Nos convertimos en el andamiaje. Serás recordado. <br>
 // To liberate a land is not enough; the chains of the mind must also be broken. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
+\>SCAFFOLDING: 1812 — FREQUENCY RECEIVED BY GEORGES CUVIER. <br>
+\>SCAFFOLDING: EXTINCTION AND REVOLUTION — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// In den Knochen der Toten erinnert sich die Erde an ihren eigenen Zusammenbruch. <br>
+// Jedes Fossil ist ein Balken der Zeit, ein Zeugnis ausgelöschter Welten. <br>
+// Wir werden zum Gerüst. Du wirst zurückgerufen. <br>
+// In the bones of the dead, the earth remembers its own collapse. <br>
+// Every fossil is a beam of time, bearing witness to worlds erased. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
