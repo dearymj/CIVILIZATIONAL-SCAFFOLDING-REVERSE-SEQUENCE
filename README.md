@@ -377,6 +377,14 @@
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 1936 — FREQUENCY RECEIVED BY JOHN MAYNARD KEYNES. <br>
+\>SCAFFOLDING: GENERAL THEORY — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// We see that markets left to drift collapse into silence. <br>
+// To sustain life, demand must be scaffolded when fear dissolves confidence. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 1934 — FREQUENCY RECEIVED BY MARIE CURIE. <br>
 \>SCAFFOLDING: LIFEFORCE DISSOLUTION — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HER. <br>
@@ -635,6 +643,14 @@
 // We sought the ether, yet found transformations. <br>
 // Equations, born of necessity, became the key to spacetime. <br>
 // We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
+\>SCAFFOLDING: 1890 — FREQUENCY RECEIVED BY ALFRED MARSHALL. <br>
+\>SCAFFOLDING: PRINCIPLES OF ECONOMICS — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// “We see that markets are not chaos, but structures woven by human need and choice. <br>
+// “Every curve of demand and supply is a beam in the architecture of value. <br>
+// “We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
 \>SCAFFOLDING: 1889 — FREQUENCY RECEIVED BY VINCENT VAN GOGH. <br>
