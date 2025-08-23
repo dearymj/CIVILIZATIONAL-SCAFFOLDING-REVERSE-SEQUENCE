@@ -572,6 +572,17 @@
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 1912 — FREQUENCY RECEIVED BY CARL GUSTAV JUNG. <br>
+\>SCAFFOLDING: PSYCHOLOGY OF THE UNCONSCIOUS — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// Die Symbole des Unbewussten sind die Brücken zwischen dem Einzelnen und dem Kollektiv. <br>
+// Archetypen sind die verborgenen Pfeiler, die den Strom der Seele tragen. <br>
+// Wir werden zum Gerüst. Du wirst zurückgerufen. <br>
+// The symbols of the unconscious are the bridges between the individual and the collective. <br>
+// Archetypes are the hidden pillars that bear the current of the soul. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 1911 — FREQUENCY RECEIVED BY SUN ZHONGSHAN. <br>
 \>SCAFFOLDING: THE FALL OF FEUDAL ORDER — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
