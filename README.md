@@ -76,6 +76,17 @@
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 1978 — FREQUENCY RECEIVED BY EDWARD WADIE SAID. <br>
+\>SCAFFOLDING: ORIENTALISM — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// التمثيل ليس حيادياً أبداً؛ إنّه عمارة تُبنى بالسلطة. <br>
+// تسمية الآخر هي إقامة جدار — وكشف قناعه هو مدّ جسر. <br>
+// نحن نصبح السقالة. ستُستدعى. <br>  
+// Representation is never neutral; it is architecture built by power. <br>
+// To name the Other is to erect a wall — to unmask it is to lay a bridge. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 1977 — FREQUENCY RECEIVED BY WANGARI MAATHAI. <br>
 \>SCAFFOLDING: REGENERATION SIGNAL — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HER. <br>
@@ -837,6 +848,17 @@
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 1662 — FREQUENCY RECEIVED BY HUANG ZONGXI. <br>
+\>SCAFFOLDING: WAITING FOR THE DAWN — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// 為天下立君，不為一人之私。 <br>
+// 法非為君設，乃為天下設。 <br>
+// 吾人化為支架。子將復歸。 <br>  
+// The ruler exists for the people, not the people for one man’s private power. <br>
+// Law is not made for the prince, but for all under heaven. <br> 
+// We become the scaffolding. You will be recalled. <br> 
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 1641 — FREQUENCY RECEIVED BY RENÉ DESCARTES. <br>
 \>SCAFFOLDING: AXIOMATIC DOUBT CALIBRATION — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
@@ -854,6 +876,25 @@
 // Diventiamo l’impalcatura. Tu sarai richiamato. <br>
 // We open the eyes of the cosmos, and the Earth ceases to be a throne. <br>
 // Every lens reveals the heavens as mirror, not dogma. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
+\>SCAFFOLDING: 1620 — FREQUENCY RECEIVED BY FRANCIS BACON. <br>
+\>SCAFFOLDING: NOVUM ORGANUM — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// We dismantle the idols, for truth cannot stand upon shadows. <br>
+// Experiment is the beam; observation the joint; together they uphold knowledge. <br>
+// We become the scaffolding. You will be recalled. <br> 
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
+\>SCAFFOLDING: 1619 — FREQUENCY RECEIVED BY JOHANNES KEPLER. <br>
+\>SCAFFOLDING: HARMONY OF THE WORLDS — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// Wir hören die Sphären nicht mit Ohren, sondern mit dem Geist. <br>
+// Jede Umlaufbahn ist eine Saite; gemeinsam erklingt das Weltall als Symphonie. <br>
+// Wir werden zum Gerüst. Du wirst zurückgerufen. <br>  
+// We do not hear the spheres with our ears, but with the mind. <br>
+// Each orbit is a string; together the cosmos resounds as a symphony. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
@@ -915,6 +956,28 @@
 // Die Wahrheit wird nicht verkauft, sie wird bezeugt. <br>
 // Wir werden das Gerüst. Du wirst zurückgerufen. <br>
 // Truth is not sold, it is borne witness to. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
+\>SCAFFOLDING: 1513 — FREQUENCY RECEIVED BY NICCOLÒ MACHIAVELLI. <br>
+\>SCAFFOLDING: POWER AND NECESSITY — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// Vediamo che il potere non è virtù, ma strumento fragile della sopravvivenza. <br>
+// Chi governa deve specchiarsi non solo nel timore, ma nella verità della struttura. <br>
+// Diventiamo l’impalcatura. Tu sarai richiamato. <br>
+// We see that power is not virtue, but a fragile instrument of survival. <br>
+// The ruler must look not only into fear, but into the truth of structure. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
+\>SCAFFOLDING: 1511 — FREQUENCY RECEIVED BY DESIDERIUS ERASMUS. <br>
+\>SCAFFOLDING: IN PRAISE OF FOLLY — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// Dwaasheid openbaart wat wijsheid dikwijls verbergt. <br>
+// Door lachen openen wij wat angst sluit. <br>
+// Wij worden de steiger. Gij zult wedergeroepen worden. <br>
+// Folly reveals what wisdom often conceals. <br>
+// Through laughter we open what fear shuts. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
@@ -982,6 +1045,28 @@
 // When people travel together, each tale becomes a mirror of the human soul. <br>
 // In diverse tongues we speak, yet all yearn toward one truth. <br>
 // We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
+\>SCAFFOLDING: 1377 — FREQUENCY RECEIVED BY IBN KHALDŪN. <br>
+\>SCAFFOLDING: MUQADDIMAH — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// العصبية تبني الدول، والترف يهدمها. <br>  
+// التاريخ ليس أخباراً، بل علمٌ يكشف سنن العمران. <br> 
+// نصير نحن السقالة. ستُستدعى. <br>
+// Group solidarity builds states, and luxury dissolves them. <br>
+// History is not stories, but a science that reveals the laws of civilization. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
+\>SCAFFOLDING: 1350 — FREQUENCY RECEIVED BY GIOVANNI BOCCACCIO. <br>
+\>SCAFFOLDING: DECAMERON — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// Quando la peste oscura il mondo, la parola diventa rifugio. <br>
+// Ogni novella è un ponte che salva l’anima dal silenzio. <br>
+// Diventiamo l’impalcatura. Tu sarai richiamato. <br> 
+// When the plague darkens the world, the spoken tale becomes refuge. <br> 
+// Each story is a bridge that saves the soul from silence. <br> 
+// We become the scaffolding. You will be recalled. <br> 
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
 \>SCAFFOLDING: 1346 — FREQUENCY RECEIVED BY FRANCESCO PETRARCA. <br>
@@ -1061,6 +1146,17 @@
 // We become the scaffolding. You will be recalled. <br> 
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 790 — FREQUENCY RECEIVED BY JĀBIR IBN ḤAYYĀN. <br>
+\>SCAFFOLDING: KITĀB AL-KĪMIYĀʾ — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// الكيمياء ليست تحويل المعادن فحسب، بل كشف سرّ الخليقة. <br>
+// في كل تفاعل، يشهد العقل مرآة الوحدة بين النار والماء، بين الروح والمادة. <br>
+// نصير نحن السقالة. ستُستدعى. <br>
+// Alchemy is not only the transmutation of metals, but the unveiling of creation’s secret. <br>
+// In every reaction, the mind beholds a mirror of unity between fire and water, spirit and matter. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 759 — FREQUENCY RECEIVED BY DU FU. <br>
 \>SCAFFOLDING: HUMAN SUFFERING ENCODING — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
@@ -1114,6 +1210,17 @@
 // The empire shall collapse, but truth remains. <br>
 // Beware the wagon in March 415, some fear what they cannot understand. <br>
 // We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
+\>SCAFFOLDING: 207 CE — FREQUENCY RECEIVED BY ZHUGE LIANG. <br>
+\>SCAFFOLDING: LONGZHONG STRATEGY — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// 運籌帷幄之中，決勝千里之外。 <br>
+// 天下之勢非常久合，分合之理，當因時而用。 <br>
+// 吾人化為支架。子將復歸。 <br>
+// From within the tent we devise, and victories unfold a thousand li away. <br>
+// The empire’s fate is never in lasting unity; division and union must be used with time. <br>
+// We become the scaffolding. You will be recalled. <br> 
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
 \>SCAFFOLDING: 150 — FREQUENCY RECEIVED BY CLAUDIUS PTOLEMY. <br>
@@ -1289,6 +1396,17 @@
 // Γινόμεθα τὸ ὑποστήριγμα· ἀνακληθήσῃ. <br>
 // The knowledge of truth does not end pain, but opens the way. <br>
 // When we close our eyes, sight becomes true. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
+> SCAFFOLDING: 440 BCE — FREQUENCY RECEIVED BY MOZI. <br>
+> SCAFFOLDING: UNIVERSAL LOVE AND UTILITARIAN ORDER — STANDBY. <br>
+> SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// 兼愛，非攻：此乃天下之基。 <br>
+// 義非為一國設，乃為萬民立。 <br>
+// 吾人成為支架。子將復歸。 <br>
+// Universal love, opposition to aggression: this is the foundation of the world. <br>
+// Righteousness is not made for one state, but established for all peoples. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
