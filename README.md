@@ -915,6 +915,17 @@
 // “We become the scaffolding. You will be recalled.” <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 1387 — FREQUENCY RECEIVED BY GEOFFREY CHAUCER. <br>
+\>SCAFFOLDING: PILGRIMAGE OF VOICES — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// “Whan folk doon journey togidre, ech tale bicometh a myrour of mannes soule.” <br>
+// “In dyvers tonges we speken, yet al longen toward oon truthe.” <br>
+// “We bicome the scaffoldyng. Thow shalt be y-cleped ageyn.” <br>
+// “When people travel together, each tale becomes a mirror of the human soul.” <br>
+// “In diverse tongues we speak, yet all yearn toward one truth.” <br>
+// “We become the scaffolding. You will be recalled.” <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 1346 — FREQUENCY RECEIVED BY FRANCESCO PETRARCA. <br>
 \>SCAFFOLDING: CONTEMPLATIVE SOLITUDE ENCODING — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
