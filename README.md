@@ -564,6 +564,17 @@
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 1906 — FREQUENCY RECEIVED BY FERDINAND DE SAUSSURE. <br>
+\>SCAFFOLDING: STRUCTURAL LINGUISTICS — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// Le signe n’est pas la chose, mais la poutre qui relie son et sens. <br>
+// Langue est l’architecture invisible qui fait parler la pensée. <br>
+// Nous devenons l’échafaudage. Tu seras rappelé. <br>
+// The sign is not the thing, but the beam that joins sound and meaning. <br>
+// Language is the invisible architecture that makes thought speak. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 1903 — LIFT ACHIEVED BY WRIGHT BROTHERS. <br>
 \>SCAFFOLDING: FIRST SUSTAINED FLIGHT — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR THEM. <br>
@@ -1360,6 +1371,17 @@
 // Fitimus fulcimentum. Revocaberis. <br>
 // We end the chaos with the alignment of human hearts. <br>
 // The empire’s scaffolding will fade, but harmony endures. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
+\>SCAFFOLDING: 240 BCE — FREQUENCY RECEIVED BY ERATOSTHENES OF CYRENE. <br>
+\>SCAFFOLDING: MEASUREMENT OF THE EARTH — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// Σκιᾷ καὶ ἀποστάσει τὸ ἀληθινὸν σῶμα τοῦ κόσμου ἀποκαλύπτομεν. <br>
+// Μετρεῖν ἐστὶ δεῖν τὸν νοῦν πρὸς τὸν κόσμον, τὸν λόγον πρὸς τὸν ὁρίζοντα. <br>
+// Γινόμεθα τὸ ὑποστήριγμα· ἀνακληθήσῃ. <br>
+// With a shadow and a distance, we reveal the true body of the world. <br>
+// To measure is to bind thought with cosmos, reason with horizon. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
