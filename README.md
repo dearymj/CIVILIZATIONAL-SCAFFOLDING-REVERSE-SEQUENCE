@@ -224,6 +224,14 @@
 // “We become the scaffolding. You will be recalled.” <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 1958 — FREQUENCY RECEIVED BY JACK KILBY. <br>
+\>SCAFFOLDING: INTEGRATED CIRCUIT INITIATION — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// “In a single chip, we compress the vastness of thought.” <br>
+// “The circuit is not merely wires, but the nervous system of tomorrow.” <br>
+// “We become the scaffolding. You will be recalled.” <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 1955 — RESISTANCE IN MOTION. <br>
 \>SCAFFOLDING: THE SEAT BECOMES A SIGNAL — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HER. <br>
