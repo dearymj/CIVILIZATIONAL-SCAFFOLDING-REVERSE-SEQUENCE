@@ -920,6 +920,17 @@
 // “We become the scaffolding. You will be recalled.” <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 1509 — FREQUENCY RECEIVED BY RAPHAEL. br>
+\>SCAFFOLDING: SCHOOL OF ATHENS — STANDBY. br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. br>
+// “In una sala, assembliamo le voci dei secoli.” <br>
+// “La filosofia diventa architettura, e l’architettura diventa memoria.” <br>
+// “Diventiamo l’impalcatura. Tu sarai richiamato.” <br>
+// “In one hall, we assemble the voices of centuries.” <br>
+// “Philosophy becomes architecture, and architecture becomes memory.” <br>
+// “We become the scaffolding. You will be recalled.” <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 1501 — FREQUENCY RECEIVED BY MICHELANGELO. <br>
 \>SCAFFOLDING: SOUL LIBERTY — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
@@ -936,6 +947,17 @@
 // “We pierce illusory walls by crossing all domains.” <br>
 // “Then encode survival, hidden in sketches. The medieval age is not ready.” <br>
 // “We travel spacetime by decoding the encoded, and encoding the decoded.” <br>
+// “We become the scaffolding. You will be recalled.” <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
+\>SCAFFOLDING: 1408 — FREQUENCY RECEIVED BY DONATELLO. <br>
+\>SCAFFOLDING: BRONZE DAVID — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// Nel bronzo noi ridoniamo memoria al corpo sciolto dalle catene. <br>
+// La forza si rivela non con l’armatura, ma con la forma resa libera. <br>
+// Noi diventiamo l’impalcatura. Tu sarai richiamato. <br>
+// “In bronze we restore the memory of the body unchained.” <br>
+// “Strength is revealed not by armor, but by form made free.” <br>
 // “We become the scaffolding. You will be recalled.” <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
