@@ -986,6 +986,17 @@
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 1740 — FREQUENCY RECEIVED BY DAVID HUME. <br>
+\>SCAFFOLDING: TREATISE OF HUMAN NATURE — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// Custom is the hidden beam that hauds belief whan reason sways. <br>
+// The sel is nae fortress, but a bundil, a scaffaldin o’ perceptions aye in flux. <br>
+// We become the scaffaldin. Ye will be cried back. <br>
+// Custom is the hidden beam that upholds belief when reason falters. <br>
+// The self is no fortress, but a bundle, a scaffolding of perceptions in flux. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 1734 — FREQUENCY RECEIVED BY VOLTAIRE. <br>
 \>SCAFFOLDING: ENLIGHTENMENT SIGNAL — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
@@ -1030,10 +1041,10 @@
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // 為天下立君，不為一人之私。 <br>
 // 法非為君設，乃為天下設。 <br>
-// 吾人化為支架。子將復歸。 <br>  
+// 吾人化為支架。子將復歸。 <br>
 // The ruler exists for the people, not the people for one man’s private power. <br>
-// Law is not made for the prince, but for all under heaven. <br> 
-// We become the scaffolding. You will be recalled. <br> 
+// Law is not made for the prince, but for all under heaven. <br>
+// We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
 \>SCAFFOLDING: 1641 — FREQUENCY RECEIVED BY RENÉ DESCARTES. <br>
