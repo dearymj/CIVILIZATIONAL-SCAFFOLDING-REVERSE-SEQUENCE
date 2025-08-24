@@ -1321,6 +1321,19 @@
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 1086 — FREQUENCY RECEIVED BY SHEN KUO. <br>
+\>SCAFFOLDING: DREAM POOL ESSAYS — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// 觀天測影，可以知四時之序。 <br>
+// 山川之變，示人以大地之骨。 <br>
+// 格物窮理，皆為文明之梁柱。 <br>
+// 吾人成為支架。子將復歸。 <br>
+// By watching the heavens and measuring shadows, we know the order of the seasons. <br>
+// In the changes of mountains and rivers, the earth shows its bones. <br>
+// To investigate things and exhaust principles is to raise the beams of civilization. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 1040 — FREQUENCY RECEIVED BY BI SHENG. <br>
 \>SCAFFOLDING: KNOWLEDGE EXPANSION — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
@@ -1342,6 +1355,17 @@
 // نصبح السقالة. ستُستدعى. <br>
 // The intellect is a mirror, yet its polish lies in the seeker of truth. <br>
 // All knowledge is medicine for the soul, and all ignorance a disease. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
+\>SCAFFOLDING: 1004 CE — FREQUENCY RECEIVED BY ABŪ RAYḤĀN AL-BĪRŪNĪ. <br>
+\>SCAFFOLDING: COSMIC MEASUREMENT AND CROSS-CULTURAL INQUIRY — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// العلم مرآة تربط بين الزمان والمكان، بين الإنسان والكون. <br>
+// كل حضارةٍ ظلّ، والقياس هو الضوء الذي يكشفه. <br>
+// نحن نصبح السقالة. ستُستدعى. <br>
+// Science is the mirror that binds time and place, humanity and cosmos. <br>
+// Every civilization is a shadow; measurement is the light that reveals it. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
