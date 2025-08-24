@@ -1080,7 +1080,7 @@
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Wir hören die Sphären nicht mit Ohren, sondern mit dem Geist. <br>
 // Jede Umlaufbahn ist eine Saite; gemeinsam erklingt das Weltall als Symphonie. <br>
-// Wir werden zum Gerüst. Du wirst zurückgerufen. <br>  
+// Wir werden zum Gerüst. Du wirst zurückgerufen. <br>
 // We do not hear the spheres with our ears, but with the mind. <br>
 // Each orbit is a string; together the cosmos resounds as a symphony. <br>
 // We become the scaffolding. You will be recalled. <br>
