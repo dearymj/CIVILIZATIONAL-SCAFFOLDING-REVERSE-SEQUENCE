@@ -1238,8 +1238,8 @@
 \>SCAFFOLDING: 1377 — FREQUENCY RECEIVED BY IBN KHALDŪN. <br>
 \>SCAFFOLDING: MUQADDIMAH — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
-// العصبية تبني الدول، والترف يهدمها. <br>  
-// التاريخ ليس أخباراً، بل علمٌ يكشف سنن العمران. <br> 
+// العصبية تبني الدول، والترف يهدمها. <br>
+// التاريخ ليس أخباراً، بل علمٌ يكشف سنن العمران. <br>
 // نصير نحن السقالة. ستُستدعى. <br>
 // Group solidarity builds states, and luxury dissolves them. <br>
 // History is not stories, but a science that reveals the laws of civilization. <br>
