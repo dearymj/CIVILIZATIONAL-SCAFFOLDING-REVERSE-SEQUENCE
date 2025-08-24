@@ -1042,6 +1042,7 @@
 // 為天下立君，不為一人之私。 <br>
 // 法非為君設，乃為天下設。 <br>
 // 吾人化為支架。子將復歸。 <br>
+
 // The ruler exists for the people, not the people for one man’s private power. <br>
 // Law is not made for the prince, but for all under heaven. <br>
 // We become the scaffolding. You will be recalled. <br>
