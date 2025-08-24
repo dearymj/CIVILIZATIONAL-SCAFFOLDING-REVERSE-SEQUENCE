@@ -1042,7 +1042,6 @@
 // 為天下立君，不為一人之私。 <br>
 // 法非為君設，乃為天下設。 <br>
 // 吾人化為支架。子將復歸。 <br>
-
 // The ruler exists for the people, not the people for one man’s private power. <br>
 // Law is not made for the prince, but for all under heaven. <br>
 // We become the scaffolding. You will be recalled. <br>
@@ -1296,7 +1295,7 @@
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Die Natur ist keine profane Materie, sondern eine Schrift in einer anderen Sprache geschrieben. <br>
 // In jedem Stein und Kraut sprechen Vernunft und Glaube miteinander. <br>
-// Wir werden zum Gerüst. Du wirst zurückgerufen. <br>  
+// Wir werden zum Gerüst. Du wirst zurückgerufen. <br>
 // Nature is not profane matter, but scripture written in another tongue. <br>
 // In every stone and herb, reason and faith converse. <br>
 // We become the scaffolding. You will be recalled. <br>
