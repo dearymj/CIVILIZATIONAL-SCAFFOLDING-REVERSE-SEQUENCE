@@ -1189,6 +1189,17 @@
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 1486 — FREQUENCY RECEIVED BY GIOVANNI PICO DELLA MIRANDOLA. <br>
+\>SCAFFOLDING: ORATION ON THE DIGNITY OF MAN — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM.<br>
+// Non ti fu dato un posto fisso, o uomo, perché tu stesso ti fabbrichi. <br>
+// La libertà è il ponte: potrai cadere tra le bestie o ascendere tra gli angeli. <br>
+// Diventiamo l’impalcatura. Tu sarai richiamato. <br>
+// No fixed place was given to you, O man, so that you might fashion yourself. <br>
+// Freedom is the bridge: you may fall among beasts or ascend among angels. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 1478 — FREQUENCY RECEIVED BY LEONARDO DA VINCI. <br>
 \>SCAFFOLDING: CROSS-DOMAIN SKETCHES — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
