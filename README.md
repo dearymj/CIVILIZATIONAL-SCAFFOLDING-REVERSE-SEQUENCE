@@ -461,6 +461,15 @@
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 1928 — FREQUENCY RECEIVED BY SIR APIRANA NGATA. <br>
+\>SCAFFOLDING: MĀORI REVIVAL AND LAND REFORM — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// Ka herea te arāwhata ki te waiata, kia whāngaihia e te whenua te tinana me te wairua. <br>
+// Ka noho mātou hei hanganga. Ka maumaharatia koe. <br>
+// We bind the plough to the song, that the land may nourish both body and spirit. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 1926 — FREQUENCY RECEIVED BY ERWIN SCHRÖDINGER. <br>
 \>SCAFFOLDING: QUANTUM REALITY ENCODING — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
