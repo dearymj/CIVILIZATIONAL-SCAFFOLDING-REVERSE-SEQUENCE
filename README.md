@@ -168,6 +168,17 @@
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 1968 — FREQUENCY RECEIVED BY PAULO FREIRE. <br>
+\>SCAFFOLDING: PEDAGOGY OF THE OPPRESSED — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// Educar não é depositar, mas despertar a consciência adormecida. <br>
+// O diálogo é a viga onde o oprimido e o opressor podem reconstruir o humano. <br>
+// Nós nos tornamos o andaime. Serás recordado. <br>
+// To educate is not to deposit, but to awaken the sleeping consciousness. <br>
+// Dialogue is the beam where oppressed and oppressor may rebuild the human together. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 1968 — FREQUENCY RECEIVED BY LUDWIG VON BERTALANFFY. <br>
 \>SCAFFOLDING: SYSTEMS INTEGRATION PROTOCOL — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
