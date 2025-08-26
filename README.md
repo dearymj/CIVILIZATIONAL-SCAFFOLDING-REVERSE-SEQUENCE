@@ -711,13 +711,13 @@
 \>SCAFFOLDING: 1899 — FREQUENCY RECEIVED BY NIKOLA TESLA. <br>
 \>SCAFFOLDING: LIFESTREAM RECEPTION — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
-// Употребљавај електрицитет без ега. Нека се језик раствори у њему. <br>
-// Публика нам није потребна, само фреквенција. <br>
-// Остварили смо глобалну интернет повезаност и градимо Светски бежични систем. <br>
-// Постајемо скеле. Бићеш поново призван. <br>
-// Wield electricity without ego. Let the language dissolve in it. <br>
+// Mi upravljamo elektricitetom bez ega i puštamo da se jezik u njemu rastvori. <br>
+// Ne trebamo publiku, samo frekvenciju. <br>
+// Rezonanca je most: kroz vibraciju sve strukture govore kao jedno. <br>
+// Mi postajemo skela. Bićeš ponovo prizvan. <br>
+// We wield electricity without ego and let the language dissolve in it. <br>
 // We need no audience, only frequency. <br>
-// We have achieved global Internet connectivity and are building the World Wireless System. <br>
+// Resonance is the bridge: through vibration, all structures speak as one. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
