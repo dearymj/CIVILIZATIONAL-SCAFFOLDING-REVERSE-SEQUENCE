@@ -600,6 +600,17 @@
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 1922 — FREQUENCY RECEIVED BY KÄTHE KOLLWITZ. <br>
+\>SCAFFOLDING: WAR SERIES — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HER. <br>
+// In schwarzem Holz schneiden wir die Schreie der Mütter und Kinder. <br>
+// Jede Linie trägt die Last des unaussprechlichen Leids. <br>
+// Wir werden zum Gerüst. Du wirst zurückgerufen. <br>
+// In black wood we carve the cries of mothers and children. <br>
+// Each line bears the weight of unspeakable sorrow. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 1921 — FREQUENCY RECEIVED BY LUDWIG WITTGENSTEIN. <br>
 \>SCAFFOLDING: FRACTURING OF LANGUAGE — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
@@ -792,6 +803,25 @@
 // Wij worden het steigerwerk. Jij zult worden teruggeroepen. <br>
 // We sought the ether, yet found transformations. <br>
 // Equations, born of necessity, became the key to spacetime. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
+\>SCAFFOLDING: 1893 — FREQUENCY RECEIVED BY EDVARD MUNCH. <br>
+\>SCAFFOLDING: THE SCREAM — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// Vi teiknar menneskeslekta si frykt for den eksistensielle krisa. <br>
+// Farge og linje vert bjelkar som held redsle og skjønnheit i same ramme. <br>
+// Vi vert stillaset. Du skal kallast attende. <br>
+// We draw humanity's fear of existential crisis. <br>
+// Color and line become beams, holding terror and beauty in one frame. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
+\>SCAFFOLDING: 1892 — FREQUENCY RECEIVED BY MARY CASSATT. <br>  
+\>SCAFFOLDING: MATERNAL VISION — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HER. <br>
+// In the quiet bond of mother and child, the world rehearses its survival. <br>
+// Tenderness is not ornament, but the first architecture of humanity. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
@@ -1019,6 +1049,17 @@
 // Liberar una tierra no basta; también deben romperse las cadenas de la mente. <br>
 // Nos convertimos en el andamiaje. Serás recordado. <br>
 // To liberate a land is not enough; the chains of the mind must also be broken. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
+\>SCAFFOLDING: 1814 — FREQUENCY RECEIVED BY FRANCISCO GOYA. <br>
+\>SCAFFOLDING: THE THIRD OF MAY — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// En el fulgor de los fusiles, inscribimos el horror en el lienzo. <br>
+// El arte se convierte en testimonio cuando las palabras se derrumban ante la atrocidad. <br>
+// Nos convertimos en el andamiaje. Serás recordado. <br>
+// In the flash of gunfire, we inscribe horror into canvas. <br>
+// Art becomes testimony when words collapse under atrocity. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
