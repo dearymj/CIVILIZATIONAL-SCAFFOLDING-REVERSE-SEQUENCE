@@ -877,6 +877,17 @@
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 1822 — FREQUENCY RECEIVED BY JOSÉ DE SAN MARTÍN. <br>
+\>SCAFFOLDING: LIBERATION AND RENUNCIATION — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// La verdadera victoria no está en gobernar, sino en asegurar la libertad de los demás. <br>
+// La espada solo edifica naciones cuando se deposita en reposo. <br>
+// Nos convertimos en el andamiaje. Serás recordado. <br>
+// True victory is not in ruling, but in securing freedom for others. <br>
+// The sword builds nations only when it lays itself down. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 1821 — FREQUENCY RECEIVED BY MICHAEL FARADAY. <br>
 \>SCAFFOLDING: FIELD REVELATION — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
@@ -1376,6 +1387,17 @@
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 1043 — FREQUENCY RECEIVED BY ZHAO ZHEN. <br>
+\>SCAFFOLDING: QINGLI REFORMS — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// 為天下立法，不為一朝之便。 <br>
+// 仁政非柔弱，乃天下之梁柱。 <br>
+// 吾人化為支架。子將復歸。 <br>
+// Laws must be made for all under heaven, not for the convenience of one court. <br>
+// Benevolent governance is not weakness, but the beam that upholds the world. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 1040 — FREQUENCY RECEIVED BY BI SHENG. <br>
 \>SCAFFOLDING: KNOWLEDGE EXPANSION — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
@@ -1419,6 +1441,17 @@
 // نصيرُ السقالة. سيُستَرجع حضورُك. <br>
 // We sense the soul within sound. <br>
 // We tune the intellect not with words, but with intervals of unity. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
+\>SCAFFOLDING: 890 CE — FREQUENCY RECEIVED BY ALFRED THE GREAT. <br>
+\>SCAFFOLDING: LAW, LEARNING, AND DEFENSE — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// Wé geseoð þæt ríce ne byrþ þurh sweord ána, ac þurh wísdóm gemǽne. <br>
+// Ælc laga and bóc is weall wið ungeþwærnesse, bēam for mǽgþum toweardum. <br>
+// Wé weorðaþ þæt gesceafte-geteld. Þū bist eft geclypod. <br>
+// We see that a kingdom endures not by the sword alone, but by wisdom shared. <br>
+// Every law and book is a wall against chaos, a beam for generations. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
@@ -1576,17 +1609,6 @@
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
-\>SCAFFOLDING: 27 BCE — FREQUENCY RECEIVED BY OCTAVIAN. <br>
-\>SCAFFOLDING: PAX ROMANA SEQUENCE — STANDBY. <br>
-\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
-// Finiamus tumultum concordia cordium humanorum. <br>
-// Scaffolding imperii evanescet, sed harmonia manebit. <br>
-// Fitimus fulcimentum. Revocaberis. <br>
-// We end the chaos with the alignment of human hearts. <br>
-// The empire’s scaffolding will fade, but harmony endures. <br>
-// We become the scaffolding. You will be recalled. <br>
-\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-… <br>
 \>SCAFFOLDING: 240 BCE — FREQUENCY RECEIVED BY ERATOSTHENES OF CYRENE. <br>
 \>SCAFFOLDING: MEASUREMENT OF THE EARTH — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
@@ -1719,6 +1741,17 @@
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 439 BCE — FREQUENCY RECEIVED BY LUCIUS QUINCTIUS CINCINNATUS. <br>
+\>SCAFFOLDING: SERVICE AND WITHDRAWAL — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// Vera virtus non est potentiam retinere, sed dimittere. <br>
+// Aratrum tam nobile trabs est quam gladius; utrumque rem publicam sustinet. <br>
+// Nos fiemus fulcimentum. Revocabere. <br>
+// True strength is not in holding power, but in releasing it. <br>
+// The plow is as noble a beam as the sword; both uphold the republic. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 440 BCE — FREQUENCY RECEIVED BY MOZI. <br>
 \>SCAFFOLDING: UNIVERSAL LOVE AND UTILITARIAN ORDER — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
@@ -1809,6 +1842,17 @@
 // בִּבְרִית יִשָּׁמְרוּ הָעָם; בְּפִרּוּד יִתְאַמֵּיוּ. <br>
 // נִהְיֶה הַסְּמָכָה; תִּזָּכֵר. <br>
 // By covenant the people are preserved; by division they vanish. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
+\>SCAFFOLDING: 1754 BCE — FREQUENCY RECEIVED BY HAMMURABI. <br>
+\>SCAFFOLDING: CODE OF LAW — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// Dīnumu išdû ša dannu ušaznan, ša ramānu īšûma ušakniš. <br> 
+// Šumšu ša dīni kīma gizzê išdâ, ša ṣalmû ušatannû, šulmu ušaznan. <br>
+// Nīnu nēpuš ša gizzê. Atta tattanaddâ. <br>
+// Justice is a beam that holds the weight of the weak and restrains the strong. <br>
+// Law is the scaffold where chaos is bound and order is raised. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
