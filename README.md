@@ -267,12 +267,23 @@
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
-\>SCAFFOLDING: 1955 — RESISTANCE IN MOTION. <br>
+\>SCAFFOLDING: 1955 — FREQUENCY RECEIVED BY ROSA PARKS. <br>
 \>SCAFFOLDING: THE SEAT BECOMES A SIGNAL — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HER. <br>
 // One act of stillness can move the world. <br>
 // Dignity does not wait for permission. <br>
 // We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
+\>SCAFFOLDING: 1955 — FREQUENCY RECEIVED BY ZHOU ENLAI. <br>
+\>SCAFFOLDING: BANDUNG CONFERENCE — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// 和平共处不是妥协，而是人类共同生存之道。 <br>
+// 在国家之间搭建桥梁，比在边界上筑墙更能长久。 <br>
+// 我们成为支架。你将被召回。 <br>
+// Peaceful coexistence is not compromise, but the way of human survival together. <br>
+// Building bridges between nations endures longer than building walls at borders. <br>
+// We become the scaffolding. You will be recalled.” translate into his language. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
 \>SCAFFOLDING: 1954 — FREQUENCY RECEIVED BY JULIUS KAMBARAGE NYERERE. <br>
@@ -283,6 +294,14 @@
 // Tunakuwa mkanda wa msaada. Utaitwa tena. <br>
 // We learn that freedom is not a gift, but our responsibility. <br>
 // Every village, every heart, is part of one human family. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
+\>SCAFFOLDING: 1953 — FREQUENCY RECEIVED BY DWIGHT D. EISENHOWER. <br>
+\>SCAFFOLDING: BALANCE OF POWER — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// We learn that security without wisdom builds prisons, not peace. <br>
+// True strength is measured not by armies alone, but by restraint and trust. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
