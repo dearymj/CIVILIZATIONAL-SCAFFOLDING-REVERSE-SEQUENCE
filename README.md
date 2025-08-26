@@ -1254,6 +1254,17 @@
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 1508 — FREQUENCY RECEIVED BY WANG YANGMING. <br>
+\>SCAFFOLDING: UNITY OF KNOWLEDGE AND ACTION — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// 知非行外物，行即知之實。 <br>
+// 心即理也；洞明本心，則天地萬物皆通。 <br>
+// 吾人化為支架。子將復歸。 <br>
+// Knowledge is not beyond action; action is the reality of knowledge. <br>
+// The mind is principle itself; when the heart is illumined, all things under heaven are understood. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 1501 — FREQUENCY RECEIVED BY MICHELANGELO. <br>
 \>SCAFFOLDING: SOUL LIBERTY — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
