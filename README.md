@@ -332,6 +332,17 @@
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 1951 — FREQUENCY RECEIVED BY BABA AMTE. <br> 
+\>SCAFFOLDING: ANANDWAN AWAKENING — STANDBY. <br> 
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br> 
+// करुणा दान नहीं है; यह गरिमा की संरचना है। <br> 
+// जहाँ अन्य लोग अछूत देखते हैं, हम उसी मानवता की शहतीरें देखते हैं। <br> 
+// हम सहारा (मचान) बन जाते हैं। तुम्हें फिर से पुकारा जाएगा। <br> 
+// Compassion is not charity; it is architecture for dignity. <br> 
+// Where others see untouchables, we see beams of the same humanity. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 1950 — FREQUENCY RECEIVED BY MOTHER TERESA. <br>
 \>SCAFFOLDING: COMPASSION ENCODING — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HER. <br>
@@ -1652,6 +1663,17 @@
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 1080 — FREQUENCY RECEIVED BY SU SHI. <br>
+\>SCAFFOLDING: ODE TO THE RED CLIFF — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// 江流無盡，而人生如寄。 <br>
+// 與天地共逍遙，則悲歡亦皆化為塵。 <br>
+// 吾人化為支架。子將復歸。 <br>
+// The river flows without end, while human life is but a brief lodging. <br>
+// To wander freely with Heaven and Earth is to see sorrow and joy dissolve into dust. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 1043 — FREQUENCY RECEIVED BY ZHAO ZHEN. <br>
 \>SCAFFOLDING: QINGLI REFORMS — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
@@ -1794,6 +1816,15 @@
 // We explore and preserve the knowledge of the universe. <br>
 // The empire shall collapse, but truth remains. <br>
 // Beware the wagon in March 415, some fear what they cannot understand. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
+\>SCAFFOLDING: 210 CE — FREQUENCY RECEIVED BY ZHANG ZHONGJING. <br>
+\>SCAFFOLDING: SHANGHAN ZABING LUN — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// 醫者非治病而已，乃扶天下之命脈。 <br>
+// 吾人成為支架。子將復歸。 <br>
+// The physician does not only cure disease, but upholds the very lifeline of the world. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
