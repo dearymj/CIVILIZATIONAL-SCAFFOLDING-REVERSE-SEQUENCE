@@ -1428,6 +1428,17 @@
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 1150 — FREQUENCY RECEIVED BY HIAWATHA. <br>
+\>SCAFFOLDING: GREAT LAW OF PEACE — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// Onkwawén:na tánon onkwehonwe shonkwayénstha’, yah thó nè:ne’ tkanónhsa’, éntie’ ne ratiweyén:stha’. <br>
+// Ska’nikón:ra tsi nióhon akenhnhará:ken, wahonwén:ton ne onkwehshón:’a. <br>
+// Tewakatonhkhwa’ ne teiethinonhwerá:ton. Iakotí:re tsi iothó:re. <br>
+// We bind nations together not by conquest, but by council. <br>
+// The tree of peace spreads its roots, giving shelter to all who seek balance. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 1086 — FREQUENCY RECEIVED BY SHEN KUO. <br>
 \>SCAFFOLDING: DREAM POOL ESSAYS — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
