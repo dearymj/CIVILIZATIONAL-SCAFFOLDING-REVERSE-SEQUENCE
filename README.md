@@ -1043,6 +1043,17 @@
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 1818 — FREQUENCY RECEIVED BY CASPAR DAVID FRIEDRICH. <br>
+\>SCAFFOLDING: ROMANTIC VISION — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// Wir stehen über dem Nebel, und doch sind wir Teil seines Schleiers. <br>
+// Die Gestalt des Menschen ist nur der Rahmen, durch den das Unendliche schaut. <br>
+// Wir werden zum Gerüst. Du wirst zurückgerufen. <br>
+// We stand above the fog, and yet we are part of its veil. <br>
+// The figure of man is only the frame through which the infinite looks. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 1817 — FREQUENCY RECEIVED BY SIMÓN BOLÍVAR. <br>
 \>SCAFFOLDING: LIBERACIÓN SEQUENCE — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
@@ -1244,6 +1255,17 @@
 // 吾人化為支架。子將復歸。 <br>
 // The ruler exists for the people, not the people for one man’s private power. <br>
 // Law is not made for the prince, but for all under heaven. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
+\>SCAFFOLDING: 1642 — FREQUENCY RECEIVED BY REMBRANDT VAN RIJN. <br>
+\>SCAFFOLDING: THE NIGHT WATCH — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// Wy schilderen niet alleen gedaenten, maer oock de beweging die hen verbindt. <br>
+// Licht en schaduwe zijn balcken: onthullende, verhullende, gedencken bouwende. <br>
+// Wy worden het steygerwerk. Ghy zult weder geroepen worden. <br>
+// We paint not figures alone, but the motion that binds them. <br>
+// Light and shadow are beams: revealing, concealing, building memory. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
