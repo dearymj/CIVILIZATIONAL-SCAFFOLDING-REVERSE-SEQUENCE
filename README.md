@@ -847,6 +847,17 @@
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 1832 — FREQUENCY RECEIVED BY JOHANN WOLFGANG VON GOETHE. <br>
+\>SCAFFOLDING: FAUSTIAN COMPLETION — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// Im Streben enthüllt sich des Menschen Würde. <br>
+// Natur ist nicht Objekt, sondern das lebendige Ganze, das uns spiegelt. <br>
+// Wir werden zum Gerüst. Du wirst zurückgerufen. <br>
+// In striving, the dignity of humanity is revealed. <br>
+// Nature is not an object, but the living whole that mirrors us. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 1828 — FREQUENCY RECEIVED BY MARY ANNING. <br>
 \>SCAFFOLDING: FOSSIL DISCOVERY — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HER. <br>
