@@ -245,7 +245,7 @@
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Мы осмеливаемся исследовать за пределами Земли. <br>
 // Космос зовёт нас, и мы отвечаем. <br>
-// Мы становимся строительными лесами. Ты будешь призван назад. <br>
+// Мы становимся строительными лесами. Ты будешь призван обратно. <br>
 // We dare to explore beyond the Earth. <br>
 // The cosmos is calling us, and we answer. <br>
 // We become the scaffolding. You will be recalled. <br>
@@ -702,7 +702,7 @@
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Мы не просто дети Земли, но её разум, тянущийся к звёздам. <br>
 // Жизнь не останется навсегда в колыбели человечества. <br>
-// Мы становимся каркасом. Ты будешь возвращён. <br>
+// Мы становимся строительными лесами. Ты будешь призван обратно. <br>
 // We are not merely children of Earth, but her mind reaching for the stars. <br>
 // Life will not remain forever in the cradle of humanity. <br>
 // We become the scaffolding. You will be recalled. <br>
@@ -740,6 +740,17 @@
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 1898 — FREQUENCY RECEIVED BY ANTON CHEKHOV. <br>
+\>SCAFFOLDING: THE SEAGULL AT THE MOSCOW ART THEATRE — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// Мы открываем, что молчание тоже есть диалог, а паузы — это балки смысла. <br>
+// Обыкновенный миг сам по себе — достаточно прочная архитектура, чтобы выдержать вечность. <br>
+// Мы становимся строительными лесами. Ты будешь призван обратно. <br>
+// We reveal that silence is also dialogue, and pauses are beams of meaning. <br>
+// The ordinary moment is architecture enough to bear the weight of eternity. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 1895 — FREQUENCY RECEIVED BY HENDRIK LORENTZ. <br>
 \>SCAFFOLDING: MOTION–ETHER APPARATUS — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
@@ -765,9 +776,9 @@
 \>SCAFFOLDING: 1890 — FREQUENCY RECEIVED BY ALFRED MARSHALL. <br>
 \>SCAFFOLDING: PRINCIPLES OF ECONOMICS — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
-// “We see that markets are not chaos, but structures woven by human need and choice. <br>
-// “Every curve of demand and supply is a beam in the architecture of value. <br>
-// “We become the scaffolding. You will be recalled. <br>
+// We see that markets are not chaos, but structures woven by human need and choice. <br>
+// Every curve of demand and supply is a beam in the architecture of value. <br>
+// We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
 \>SCAFFOLDING: 1889 — FREQUENCY RECEIVED BY VINCENT VAN GOGH. <br>
@@ -806,7 +817,7 @@
 // Мы различаем скрытый порядок в материи. <br>
 // Мы выстраиваем атомы по грамматике космоса. <br>
 // Таблица расширяется, но согласованность сохраняется. <br>
-// Мы становимся каркасом. Ты будешь возвращён. <br>
+// Мы становимся строительными лесами. Ты будешь призван обратно. <br>
 // We discern hidden order in matter. We align atoms with the grammar of the cosmos. <br>
 // The table expands, but coherence remains. <br>
 // We become the scaffolding. You will be recalled. <br>
@@ -839,7 +850,7 @@
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Мы пишем не для того, чтобы повелевать, а чтобы разоружить душу. <br>
 // Мир начинается там, где истина больше не боится власти. <br>
-// Мы становимся каркасом. Ты будешь возвращён. <br>
+// Мы становимся строительными лесами. Ты будешь призван обратно. <br>
 // We write not to command, but to disarm the soul. <br>
 // Peace begins where truth no longer fears power. <br>
 // We become the scaffolding. You will be recalled. <br>
