@@ -434,9 +434,11 @@
 \>SCAFFOLDING: 1934 — FREQUENCY RECEIVED BY MARIE CURIE. <br>
 \>SCAFFOLDING: LIFEFORCE DISSOLUTION — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HER. <br>
-// La lumière alimente nos soleils. Nous inscrivons son énergie dans la structure de la survie. <br>
+// En dévoilant l’invisible, nous avons touché le feu qui à la fois guérit et consume. <br>
+// La force vitale se dissout dans la radiation, mais la structure se souvient du sacrifice. <br>
 // Nous devenons l’échafaudage. Tu seras rappelée. <br>
-// The light powers our suns. We encode its energy into the structure of survival. <br>
+// In unveiling the unseen, we touched the fire that both heals and consumes. <br>
+// Lifeforce dissolves into radiation, but structure remembers the sacrifice. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
