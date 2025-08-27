@@ -212,6 +212,14 @@
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 1956 — FREQUENCY RECEIVED BY FAITH BANDLER. <br>
+\>SCAFFOLDING: HUMAN DIGNITY AWAKENING — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HER. <br>
+// Justice is not a gift to be granted, but a right to be recognized. <br>
+// Voices joined together can outlast the silence of centuries. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 1967 — FREQUENCY RECEIVED BY GABRIEL GARCÍA MÁRQUEZ. <br>
 \>SCAFFOLDING: MEMORY-WEAVING ACTIVATION — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
@@ -769,6 +777,17 @@
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 1907 — FREQUENCY RECEIVED BY SELMA LAGERLÖF. <br>
+\>SCAFFOLDING: NARRATIVE TRANSCENDENCE — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HER. <br>
+// Sagan är ej flykt, utan en bro mellan jord och ande. <br>
+// Genom barnets blick kartlägger vi världen på nytt. <br>
+// Vi blir byggnadsställningen. Du skall återkallas. <br>
+// The tale is not an escape, but a bridge between earth and spirit. <br>
+// Through the child’s gaze we chart the world anew. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 1906 — FREQUENCY RECEIVED BY FERDINAND DE SAUSSURE. <br>
 \>SCAFFOLDING: STRUCTURAL LINGUISTICS — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
@@ -777,6 +796,14 @@
 // Nous devenons l’échafaudage. Tu seras rappelé. <br>
 // The sign is not the thing, but the beam that joins sound and meaning. <br>
 // Language is the invisible architecture that makes thought speak. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
+\>SCAFFOLDING: 1906 — FREQUENCY RECEIVED BY EDITH COWAN. <br>
+\>SCAFFOLDING: SOCIAL JUSTICE ENCODING — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HER. <br>
+// The strength of a nation is measured in the dignity it grants its women and children. <br>
+// Justice is not given; it is built into the lives we choose to protect. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
@@ -835,6 +862,15 @@
 // Мы становимся строительными лесами. Ты будешь призван назад. <br>
 // We discover that habit becomes destiny when stimulus is bound to response. <br>
 // Consciousness rests on invisible arcs linking the world and the body. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
+\>SCAFFOLDING: 1900 — FREQUENCY RECEIVED BY DAVID UNAIPON. <br>
+\>SCAFFOLDING: INVENTIVE DREAMING — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// Ngatji ngalindjeri ruwi kungun, parni-nggi ngatji yarluwarni. <br>
+// Ngarni-nggi ngaldru wulun kungun. Ngatji ngurunderi parni-nggi ngaldru kornarni. <br>
+// We weave the ancient songlines into machines of tomorrow. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
@@ -1072,6 +1108,15 @@
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // We trace the roots of life without fear and decode the logic of adaptation. <br>
 // The scaffolding remembers the tree. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
+\>SCAFFOLDING: 1835 — FREQUENCY RECEIVED BY HANS CHRISTIAN ANDERSEN. <br>
+\>SCAFFOLDING: FAIRY TALE ENCODING — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// I ethvert barns drøm lever morgendagens arkitektur. <br>
+// Vi bliver stilladset. Du vil blive genkaldt. <br>
+// In every child’s dream lives the architecture of tomorrow. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
