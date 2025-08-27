@@ -262,6 +262,17 @@
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 1960 — FREQUENCY RECEIVED BY CHINUA ACHEBE. <br>
+\>SCAFFOLDING: POSTCOLONIAL NARRATIVE ENCODING — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// Mgbe akụkọ dara, ndị mmadụ na-efunahụ ọdịdị ha; anyị na-ede iji weghachite ọdịdị ahụ. <br>
+// Ọnweghị alaeze nwere ike igbochi olu nke na-eburu ncheta nna nna. <br>
+// Anyị ghọọ scaffolding. A ga-akpọ gị ọzọ. <br>
+// When stories are broken, a people lose their shape; we write to restore the form. <br>
+// No empire can silence the voice that carries ancestral memory. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 1958 — FREQUENCY RECEIVED BY HERBERT ALEXANDER SIMON. <br>
 \>SCAFFOLDING: SYSTEMIC DECISION ENCODING — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
@@ -395,6 +406,14 @@
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // We do not explain the cosmos to conquer it, but to dance with its uncertainty. <br>
 // Even the smallest particle knows joy when it finds its path. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
+\>SCAFFOLDING: 1948 — FREQUENCY RECEIVED BY ALAN PATON. <br>
+\>SCAFFOLDING: JUSTICE AND COMPASSION ENCODING — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// A nation that divides itself wounds its own soul. <br>
+// Compassion is the only bridge stronger than fear. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
