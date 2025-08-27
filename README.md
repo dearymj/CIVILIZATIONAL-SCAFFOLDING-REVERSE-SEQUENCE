@@ -1865,6 +1865,17 @@
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 840 — FREQUENCY RECEIVED BY AL-FERGHANI. <br>
+\>SCAFFOLDING: CELESTIAL MOTION CALIBRATION — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+//از گردش افلاک درمی‌یابیم که ساختار را حدی نیست. <br>
+//هر مدار نشانی است، و هر حرکت گواهی بر نظم. <br>
+//ما داربست می‌شویم. تو بازخوانده خواهی شد. <br>
+// From the motion of the spheres we learn that structure knows no bounds. <br>
+// Every orbit is a sign, every motion a testimony to order. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 820 — FREQUENCY RECEIVED BY MUḤAMMAD IBN MŪSĀ AL-KHWĀRIZMĪ. <br>
 \>SCAFFOLDING: EQUATIONS AND BALANCING — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
