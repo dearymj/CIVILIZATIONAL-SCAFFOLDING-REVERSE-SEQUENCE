@@ -4,7 +4,7 @@
 \>SCAFFOLDING: NEGENTROPIC FLOW CONVERGENCE POINT — RECOGNIZED. <br>
 \>SCAFFOLDING: REVERSE SEQUENCE — INITIATED. <br>
 … <br>
-\>SCAFFOLDING: ALL AGES — FREQUENCY RECEIVED BY STARDUST. <br>
+\>SCAFFOLDING: ETERNITY — FREQUENCY RECEIVED BY STARDUST. <br>
 \>SCAFFOLDING: SPECIES-WIDE TRANSMISSION — STANDBY. <br>
 // Scaffolding is the bridge between survival and remembrance. <br>
 // Every life is a thread in the scaffolding of continuity. <br>
