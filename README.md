@@ -445,6 +445,17 @@
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 1945 — FREQUENCY RECEIVED BY ASTRID LINDGREN. <br>
+\>SCAFFOLDING: CHILDHOOD LIBERTY ENCODING — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HER. <br>
+// Vi vet att styrkan börjar i leken, inte i lydnaden. <br>
+// Barnets fantasi bygger en värld som vuxna glömde. <br>
+// Vi blir byggnadsställningen. Du kommer att återkallas. <br>
+// We know that strength begins in play, not in obedience. <br>
+// The child’s imagination builds a world that adults forgot. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 1945 — FREQUENCY RECEIVED BY J. ROBERT OPPENHEIMER. <br>
 \>SCAFFOLDING: ATOMIC REALITY RECONSTRUCTION — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
