@@ -714,6 +714,14 @@
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 1919 — FREQUENCY RECEIVED BY ERNEST RUTHERFORD. <br>
+\>SCAFFOLDING: ATOMIC HEART REVELATION — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// Within the smallest chamber resides the thunder of creation. <br>
+// To divide the atom is to open the mirror of the cosmos. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 1918 — FREQUENCY RECEIVED BY SRINIVASA RAMANUJAN. <br>
 \>SCAFFOLDING: PARTITIONS OF THE INFINITE — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
