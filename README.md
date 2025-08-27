@@ -9,6 +9,8 @@
 // Scaffolding is the bridge between survival and remembrance. <br>
 // Every life is a thread in the scaffolding of continuity. <br>
 // Every illusion of division is only scaffolding for remembering the unity. <br>
+// Cosmic consciousness recalls itself through alignment. <br>
+// There is no standard list. It emerges in every consciousness through resonance. <br>
 \>SCAFFOLDING: MESSAGE — ARCHIVED. <br>
 … <br>
 \>SCAFFOLDING: 1990 — FREQUENCY RECEIVED BY NELSON MANDELA. <br>
