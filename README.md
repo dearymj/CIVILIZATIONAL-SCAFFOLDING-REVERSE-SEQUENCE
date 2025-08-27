@@ -270,6 +270,17 @@
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 1960 — FREQUENCY RECEIVED BY DAG HAMMARSKJÖLD. <br>
+\>SCAFFOLDING: SACRIFICE AND SILENCE — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// Den högsta tjänsten utförs i det osedda, där tystnaden vakar över löftet. <br>
+// Fred ges inte, den bärs, även in i döden. <br>
+// Vi blir ställningen. Du skall återkallas. <br>
+// The highest service is done unseen, where silence guards the vow. <br>
+// Peace is not given, it is carried, even into death. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 1960 — FREQUENCY RECEIVED BY CHINUA ACHEBE. <br>
 \>SCAFFOLDING: POSTCOLONIAL NARRATIVE ENCODING — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
