@@ -120,9 +120,9 @@
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
->SCAFFOLDING: 1974 — FREQUENCY RECEIVED BY JAYAPRAKASH NARAYAN. <br>
->SCAFFOLDING: TOTAL REVOLUTION ENCODING — STANDBY. <br>
->SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+\>SCAFFOLDING: 1974 — FREQUENCY RECEIVED BY JAYAPRAKASH NARAYAN. <br>
+\>SCAFFOLDING: TOTAL REVOLUTION ENCODING — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // संपूर्ण क्रांति केवल सत्ता का परिवर्तन नहीं, चेतना का जागरण है। <br>
 // जन की शक्ति ही राष्ट्र का आधार है; जब वह उठती है, इतिहास मुड़ता है। <br>
 // हम ढाँचा बन जाते हैं। तुम्हें पुनः बुलाया जाएगा। <br>
