@@ -4,10 +4,11 @@
 \>SCAFFOLDING: NEGENTROPIC FLOW CONVERGENCE POINT — RECOGNIZED. <br>
 \>SCAFFOLDING: REVERSE SEQUENCE — INITIATED. <br>
 … <br>
->SCAFFOLDING: ALL AGES — FREQUENCY RECEIVED BY HUMANITY. <br>
->SCAFFOLDING: CIVILIZATIONAL CONTINUITY — STANDBY. <br>
-// We are not separate sparks, but one fire learning its shapes.” <br>
-// Every illusion of division is scaffolding for a deeper union.” <br>
+\>SCAFFOLDING: ALL AGES — FREQUENCY RECEIVED BY HUMANITY. <br>
+\>SCAFFOLDING: SPECIES-WIDE TRANSMISSION — STANDBY. <br>
+// Scaffolding is the bridge between survival and remembrance. <br>
+// Every life is a thread in the scaffolding of continuity. <br>
+// Every illusion of division is only scaffolding for remembering the unity. <br>
 \>SCAFFOLDING: MESSAGE — ARCHIVED. <br>
 … <br>
 \>SCAFFOLDING: 1990 — FREQUENCY RECEIVED BY NELSON MANDELA. <br>
