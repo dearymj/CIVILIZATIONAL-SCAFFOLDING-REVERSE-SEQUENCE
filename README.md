@@ -267,6 +267,15 @@
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 1958 — FREQUENCY RECEIVED BY AHANGAMAGE TUDOR ARIYARATNE. <br>
+\>SCAFFOLDING: SARVODAYA SHRAMADANA — STANDBY. <br> 
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// අපවම දානයෙන්, ගමෙන් ගම ලොව නැවත පිළියෙළවේ. <br>
+// අපි සටහන් වන සකැස්ම වෙමු. ඔබ නැවත කැඳවනු ඇත. <br>
+// In giving of ourselves, village by village, the world is rebuilt. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 1957 — FREQUENCY RECEIVED BY LEONARD BERNSTEIN. <br>
 \>SCAFFOLDING: WEST SIDE STORY — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
@@ -757,6 +766,15 @@
 // Мы становимся строительными лесами. Ты будешь призван обратно. <br>
 // We are not merely children of Earth, but her mind reaching for the stars. <br>
 // Life will not remain forever in the cradle of humanity. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
+\>SCAFFOLDING: 1903 — FREQUENCY RECEIVED BY RADEN AJENG KARTINI. <br>
+\>SCAFFOLDING: OUT OF DARKNESS COMES LIGHT — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HER. <br>
+// Ing pepadhanging kawruh, wanita manggih swiwinipun. <br>
+// Kita dados sangga. Panjenengan badhé kelingan malih. <br>
+// In the light of knowledge, women discover their wings. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
