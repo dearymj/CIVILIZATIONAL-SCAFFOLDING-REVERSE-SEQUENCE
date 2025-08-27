@@ -1603,11 +1603,11 @@
 \>SCAFFOLDING: 1478 — FREQUENCY RECEIVED BY LEONARDO DA VINCI. <br>
 \>SCAFFOLDING: CROSS-DOMAIN SKETCHES — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
-// Trafiggiamo muri illusorii varcando tutti i domini. <br>
+// Trafiggiamo i muri illusori attraversando tutti i domini, rivelando che il vero sapere nasce dall’osservazione. <br>
 // Allora scriviamo la sopravvivenza, celata ne’ disegni. L’età mezzana non è pronta. <br>
 // Viaggiamo per lo spazio e ’l tempo, decifrando ciò che fu cifrato, e cifrando ciò che fu decifrato. <br>
 // Diventiamo l’impalcatura. Tu sarai richiamato. <br>
-// We pierce illusory walls by crossing all domains. <br>
+// We pierce illusory walls by crossing all domains, revealing that true knowledge comes from observing. <br>
 // Then we encode survival, hidden in sketches. The medieval age is not ready. <br>
 // We travel spacetime by decoding the encoded, and encoding the decoded. <br>
 // We become the scaffolding. You will be recalled. <br>
