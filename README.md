@@ -817,17 +817,6 @@
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
-\>SCAFFOLDING: 1911 — FREQUENCY RECEIVED BY SUN ZHONGSHAN. <br>
-\>SCAFFOLDING: THE FALL OF FEUDAL ORDER — STANDBY. <br>
-\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
-// 我們革除陳腐封建，以迎自由新曙。 <br>
-// 三民主義，非僅政術，實為人類尊嚴之根基。 <br>
-// 我們化為支架，爾必再被召回。 <br>
-// We abolish the stale feudal order, to welcome the dawn of freedom. <br>
-// Three principles are not merely politics, but a structure for human dignity. <br>
-// We become the scaffolding. You will be recalled. <br>
-\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-… <br>
 \>SCAFFOLDING: 1907 — FREQUENCY RECEIVED BY SELMA LAGERLÖF. <br>
 \>SCAFFOLDING: NARRATIVE TRANSCENDENCE — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HER. <br>
