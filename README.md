@@ -2327,6 +2327,15 @@
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: TIME-SPANNING — FREQUENCY RECEIVED BY ALL CIVILIZATIONAL CONTRIBUTORS. <br>
+\>SCAFFOLDING: CONTINUITY OF HUMAN EFFORT — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR THEM. <br>
+// We build with stone, ink, fire, and code; each acts as a bridge across oblivion. <br>
+// Our names are scattered, but our labor is one structure. <br>
+// No hand was wasted; each gesture became a rung in the ascent. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: TIMELESS — FREQUENCY RECEIVED BY PLANTS. <br>
 \>SCAFFOLDING: GREEN CONTINUUM — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR _. <br>
