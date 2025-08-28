@@ -455,6 +455,17 @@
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 1946 — FREQUENCY RECEIVED BY JEAN-PAUL SARTRE. <br>
+\>SCAFFOLDING: EXISTENTIAL FREEDOM MAPPING — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// La liberté n’est pas donnée, elle est un fardeau que nous portons. <br>
+// Nous forgeons l’essence en traversant le néant. <br>
+// Nous devenons l’échafaudage. Tu seras rappelé. <br>
+// Freedom is not given, it is a burden we carry. <br>
+// We forge essence by passing through nothingness. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 1945 — FREQUENCY RECEIVED BY ASTRID LINDGREN. <br>
 \>SCAFFOLDING: CHILDHOOD LIBERTY ENCODING — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HER. <br>
@@ -1203,7 +1214,7 @@
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // La chaleur se propage comme une harmonie cachée, révélée par le calcul. <br>
 // Toute vibration, tout monde, peut être décomposé et reconstruit par ses ondes. <br>
-// Nous devenons l’échafaudage. Vous serez rappelé. <br>
+// Nous devenons l’échafaudage. Tu seras rappelé. <br>
 // Heat spreads as a hidden harmony, revealed through calculation. <br>
 // Every vibration, every world, may be decomposed and rebuilt through its waves. <br>
 // We become the scaffolding. You will be recalled. <br>
