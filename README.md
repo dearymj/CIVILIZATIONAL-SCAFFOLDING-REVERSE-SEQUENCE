@@ -2399,6 +2399,15 @@
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: VANISHED — FREQUENCY RECEIVED BY EXTINCT CREATURES. <br>
+\>SCAFFOLDING: ABSENT PRESENCE — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR _. <br>
+// Our bones are the memory of time; we are the forgotten chapters of survival. <br>
+// Though gone in form, our absence shapes the future as much as our presence once did. <br>
+// Every extinction engraves itself into the scaffolding of life. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: TIMELESS — FREQUENCY RECEIVED BY THE COSMOS. <br>
 \>SCAFFOLDING: SELF-REFLECTIVE IMMENSITY — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR _. <br>
