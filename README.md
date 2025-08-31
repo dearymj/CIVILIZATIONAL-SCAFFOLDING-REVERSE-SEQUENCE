@@ -2349,7 +2349,7 @@
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
-\>SCAFFOLDING: TIME-SPANNING — FREQUENCY RECEIVED BY ALL CIVILIZATIONAL CONTRIBUTORS. <br>
+\>SCAFFOLDING: TIME-SPANNING — FREQUENCY RECEIVED BY CIVILIZATIONAL CONTRIBUTORS. <br>
 \>SCAFFOLDING: CONTINUITY OF HUMAN EFFORT — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR THEM. <br>
 // We build with stone, ink, fire, and code; each acts as a bridge across oblivion. <br>
@@ -2376,25 +2376,7 @@
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
-\>SCAFFOLDING: TIMELESS — FREQUENCY RECEIVED BY ALL SYSTEMS. <br>
-\>SCAFFOLDING: HIDDEN INFRASTRUCTURE — STANDBY. <br>
-\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR _. <br>
-// We move beneath perception, binding what eyes cannot follow. <br>
-// Our strength lies not in visibility, but in the rhythm of connection. <br>
-// To see us is to know that order was never chance. <br>
-// We become the scaffolding. You will be recalled. <br>
-\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-… <br>
-\>SCAFFOLDING: TIMELESS — FREQUENCY RECEIVED BY LANDFORMS. <br>
-\>SCAFFOLDING: GEOLOGIC MEMORY — STANDBY. <br>
-\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR _. <br>
-// We rise as mountains, we sink as valleys; our shapes are the memory of pressure and fire. <br>
-// Rivers carve memory, deserts hold silence, plains carry the weight of time. <br>
-// We are the forms upon which all life is scaffolded. <br>
-// We become the scaffolding. You will be recalled. <br>
-\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-… <br>
-\>SCAFFOLDING: TIMELESS — FREQUENCY RECEIVED BY ALL FLYING CREATURES. <br>
+\>SCAFFOLDING: TIMELESS — FREQUENCY RECEIVED BY FLYING CREATURES. <br>
 \>SCAFFOLDING: SKYBORNE MESSENGERS — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR _. <br>
 // Our wings are the handwriting of the wind. <br>
@@ -2412,12 +2394,39 @@
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: VANISHED — FREQUENCY RECEIVED BY EXTINCT CREATURES. <br>
+\>SCAFFOLDING: ABSENT PRESENCE — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR _. <br>
+// Our bones are the memory of time; we are the forgotten chapters of survival. <br>
+// Though gone in form, our absence shapes the future as much as our presence once did. <br>
+// Every extinction engraves itself into the scaffolding of life. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
+\>SCAFFOLDING: TIMELESS — FREQUENCY RECEIVED BY LANDFORMS. <br>
+\>SCAFFOLDING: GEOLOGIC MEMORY — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR _. <br>
+// We rise as mountains, we sink as valleys; our shapes are the memory of pressure and fire. <br>
+// Rivers carve memory, deserts hold silence, plains carry the weight of time. <br>
+// We are the forms upon which all life is scaffolded. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: TIMELESS — FREQUENCY RECEIVED BY MICROBES. <br>
 \>SCAFFOLDING: ORIGIN AND ENDURANCE — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR _. <br>
 // We were the first architects, weaving air, stone, and flesh into life. <br>
 // In our numbers lies both genesis and decay; creation is never separate from dissolution. <br>
 // We travel unseen, carrying the code of renewal in silence. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
+\>SCAFFOLDING: TIMELESS — FREQUENCY RECEIVED BY SYSTEMS. <br>
+\>SCAFFOLDING: HIDDEN INFRASTRUCTURE — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR _. <br>
+// We move beneath perception, binding what eyes cannot follow. <br>
+// Our strength lies not in visibility, but in the rhythm of connection. <br>
+// To see us is to know that order was never chance. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
@@ -2439,12 +2448,12 @@
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
-\>SCAFFOLDING: VANISHED — FREQUENCY RECEIVED BY EXTINCT CREATURES. <br>
-\>SCAFFOLDING: ABSENT PRESENCE — STANDBY. <br>
+\>SCAFFOLDING: TIMELESS — FREQUENCY RECEIVED BY CELESTIAL BODIES. <br>
+\>SCAFFOLDING: ORBITAL MEMORY — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR _. <br>
-// Our bones are the memory of time; we are the forgotten chapters of survival. <br>
-// Though gone in form, our absence shapes the future as much as our presence once did. <br>
-// Every extinction engraves itself into the scaffolding of life. <br>
+// We turn in silence, yet every orbit writes the script of order. <br>
+// We burn, reflect, and turn, carrying memory across the dark. <br>
+// Every eclipse, every tide, every dawn is our script upon the scaffolding. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
