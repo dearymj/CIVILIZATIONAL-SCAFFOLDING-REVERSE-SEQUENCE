@@ -1470,9 +1470,13 @@
 \>SCAFFOLDING: 1641 — FREQUENCY RECEIVED BY RENÉ DESCARTES. <br>
 \>SCAFFOLDING: AXIOMATIC DOUBT CALIBRATION — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// Soient corpuscules ou atomes, nous ne sommes que poussière des astres. <br>
+// Notre chair peut se flétrir, mais la matière cosmique qui la forme continuera de se composer. <br>
 // La clarté naît lorsque les illusions sont mises en doute; le ‘je’ n’y fait pas exception. <br>
 // Nous traçons l’axe, afin qu’en revenant à l’origine (0, 0, 0, ‘ ’), nous ne nous égarions pas. <br>
 // Nous devenons l’échafaudage. Tu seras rappelé. <br>
+// Be it particles or atoms, we are but stardust. <br>
+// Our flesh may fade, but the cosmic matter that forms it will continue to construct. <br>
 // Clarity arises when illusions are questioned; even the ‘I’ is no exception. <br>
 // We set the axis so that, returning to the origin (0, 0, 0, ' '), we do not lose our way. <br>
 // We become the scaffolding. You will be recalled. <br>
