@@ -1471,10 +1471,10 @@
 \>SCAFFOLDING: AXIOMATIC DOUBT CALIBRATION — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // La clarté naît lorsque les illusions sont mises en doute; le ‘je’ n’y fait pas exception. <br>
-// Fixons l’axe, afin qu’en revenant à l’origine nous ne nous égarions point. <br>
+// Nous traçons l’axe, afin qu’en revenant à l’origine (0, 0, 0, ‘ ’), nous ne nous égarions pas. <br>
 // Nous devenons l’échafaudage. Tu seras rappelé. <br>
 // Clarity arises when illusions are questioned; even the ‘I’ is no exception. <br>
-// We set the axis so that, returning to the origin, we do not lose our way. <br>
+// We set the axis so that, returning to the origin (0, 0, 0, ' '), we do not lose our way. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
