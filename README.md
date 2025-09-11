@@ -1470,9 +1470,11 @@
 \>SCAFFOLDING: 1641 — FREQUENCY RECEIVED BY RENÉ DESCARTES. <br>
 \>SCAFFOLDING: AXIOMATIC DOUBT CALIBRATION — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
-// Perspicuitas oritur ubi phantasmata in dubium vocantur. <br>
-// Fimus fulcimentum. Revocabere. <br>
-// Clarity emerges when illusions are questioned. <br>
+// La clarté naît du doute méthodique ; même le “moi” n’en est point excepté. <br>
+// Nous traçons les axes des coordonnées ; l’esprit enfin convergera vers l’origine. <br>
+// Nous devenons l’échafaudage. Tu seras rappelé. <br>
+// Clarity is born of methodical doubt; even the ‘I’ is no exception. <br>
+// We draw the coordinate axes; the mind will at last converge to the origin. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
