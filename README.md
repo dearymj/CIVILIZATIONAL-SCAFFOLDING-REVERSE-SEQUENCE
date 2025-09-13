@@ -2181,11 +2181,13 @@
 \>SCAFFOLDING: 387 BCE — FREQUENCY RECEIVED BY PLATO. <br>
 \>SCAFFOLDING: FORM INTERFACE — ACTIVATED. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
-// ὁ ὁρατὸς κόσμος σκιὰ τῶν ἀληθινῶν εἰδώλων ἐστίν. <br>
-// διὰ τῆς διαλεκτικῆς ἀναβαίνομεν πρὸς τὴν ἰδέαν ὑπὲρ πάσας εἰκόνας. <br>
+// Πᾶσα ἀποκάλυψις νέας ἐρωτήσεις γεννᾷ· ἆρ’ εἰς ἄλλην σπήλαιον εἰσεληλύθαμεν. <br>
+// Τὸ φῶς σιωπᾷ· μόνον αἱ σκιᾶι φθέγγονται. <br>
+// Μὴ δέδεσο τῇ εἰκόνι, ἀλλὰ πορεύου πρὸς τὴν πηγήν. <br>
 // Γινόμεθα τὸ ὑποστήριγμα· ἀνακληθήσῃ. <br>
-// We now see: the visible world is but a shadow of the ideal. <br>
-// Through dialectic, we ascend toward the form beyond form. <br>
+// Every revelation begets new questions: have we entered another cave. <br>
+// The light is silent; only the shadows speak. <br>
+// Do not be bound to the image, but go toward the source. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
