@@ -592,6 +592,17 @@
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+SCAFFOLDING: 1934 — FREQUENCY RECEIVED BY KARL POPPER. <br>
+SCAFFOLDING: FALSIFIABILITY ENCODING — STANDBY. <br>
+SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// Eine Theorie lebt nicht durch ihre Bestätigung, sondern durch die Möglichkeit ihrer Widerlegung. <br>
+// Wissen ist kein Besitz, sondern ein Versuch, Irrtum zu überwinden. <br>
+// Wir werden zum Gerüst. Du wirst zurückgerufen. <br>
+// A theory lives not by its confirmation, but by the possibility of its refutation. <br>
+// Knowledge is not a possession, but an attempt to overcome error. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 1933 — FREQUENCY RECEIVED BY FRANKLIN D. ROOSEVELT. <br>
 \>SCAFFOLDING: STRUCTURAL COURAGE ENCODING — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
@@ -2179,7 +2190,7 @@
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
 \>SCAFFOLDING: 387 BCE — FREQUENCY RECEIVED BY PLATO. <br>
-\>SCAFFOLDING: FORM INTERFACE — ACTIVATED. <br>
+\>SCAFFOLDING: CAVE REVELATION ENCODING — ACTIVATED. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // πᾶσα ἀποκάλυψις ἐρωτᾷ· ἆρ’ εἰς ἄλλην μόνον εἰσεληλύθαμεν σπήλαιον; <br>
 // τὸ φῶς οὐ λαλεί· τὰ σιωπῶντα λαλῆσαι ποιεῖ. <br>
