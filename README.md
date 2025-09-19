@@ -216,7 +216,7 @@
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Мы постигаем порядок, рождающийся из потока, структуру из бесконечного рассеивания. <br>
 // Через поток энергии спонтанно формируется новая когерентность. <br>
-// Мы становимся каркасом. Вы будете отозваны. <br>
+// Мы становимся строительными лесами. Вы будете отозваны. <br>
 // We comprehend order born from flux, structure from endless dissipation. <br>
 // Through the flow of energy, new coherence spontaneously forms. <br>
 // We become the scaffolding. You will be recalled. <br>
@@ -274,7 +274,7 @@
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Мы осмеливаемся исследовать за пределами Земли. <br>
 // Космос зовёт нас, и мы отвечаем. <br>
-// Мы становимся строительными лесами. Ты будешь призван обратно. <br>
+// Мы становимся строительными лесами. Вы будете отозваны. <br>
 // We dare to explore beyond the Earth. <br>
 // The cosmos is calling us, and we answer. <br>
 // We become the scaffolding. You will be recalled. <br>
@@ -892,7 +892,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Мы не просто дети Земли, но её разум, тянущийся к звёздам. <br>
 // Жизнь не останется навсегда в колыбели человечества. <br>
-// Мы становимся строительными лесами. Ты будешь призван обратно. <br>
+// Мы становимся строительными лесами. Вы будете отозваны. <br>
 // We are not merely children of Earth, but her mind reaching for the stars. <br>
 // Life will not remain forever in the cradle of humanity. <br>
 // We become the scaffolding. You will be recalled. <br>
@@ -931,7 +931,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Мы открываем, что привычка становится судьбой, когда стимул связывается с ответом. <br>
 // Сознание зиждется на невидимых дугах, что соединяют мир и тело. <br>
-// Мы становимся строительными лесами. Ты будешь призван назад. <br>
+// Мы становимся строительными лесами. Вы будете отозваны. <br>
 // We discover that habit becomes destiny when stimulus is bound to response. <br>
 // Consciousness rests on invisible arcs linking the world and the body. <br>
 // We become the scaffolding. You will be recalled. <br>
@@ -964,7 +964,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Мы открываем, что молчание тоже есть диалог, а паузы — это балки смысла. <br>
 // Обыкновенный миг сам по себе достаточно прочная архитектура, чтобы выдержать вечность. <br>
-// Мы становимся строительными лесами. Ты будешь призван обратно. <br>
+// Мы становимся строительными лесами. Вы будете отозваны. <br>
 // We reveal that silence is also dialogue, and pauses are beams of meaning. <br>
 // The ordinary moment is architecture enough to bear the weight of eternity. <br>
 // We become the scaffolding. You will be recalled. <br>
@@ -1046,7 +1046,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // В балете теней и света мы слышим полёт души за пределы скорби. <br>
 // Каждая тема это мост: отчаяние становится красотой, трагедия формой. <br>
-// Мы становимся строительными лесами. Ты будешь призван обратно. <br>
+// Мы становимся строительными лесами. Вы будете отозваны. <br>
 // In the ballet of shadows and light, we hear the soul’s flight beyond sorrow. <br>
 // Every theme is a bridge: despair becomes beauty, tragedy becomes form. <br>
 // We become the scaffolding. You will be recalled. <br>
@@ -1074,10 +1074,9 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: 1869 — FREQUENCY RECEIVED BY DMITRI MENDELEEV. <br>
 \>SCAFFOLDING: COSMIC ORDER ENCODING — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
-// Мы различаем скрытый порядок в материи. <br>
-// Мы выстраиваем атомы по грамматике космоса. <br>
+// Мы различаем скрытый порядок в материи. Мы выстраиваем атомы по грамматике космоса. <br>
 // Таблица расширяется, но согласованность сохраняется. <br>
-// Мы становимся строительными лесами. Ты будешь призван обратно. <br>
+// Мы становимся строительными лесами. Ты будешь отозван. <br>
 // We discern hidden order in matter. We align atoms with the grammar of the cosmos. <br>
 // The table expands, but coherence remains. <br>
 // We become the scaffolding. You will be recalled. <br>
@@ -1109,10 +1108,10 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: MORAL CLARITY INTERFACE — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Мы пишем не для того, чтобы повелевать, а чтобы разоружить душу. <br>
-// Мир начинается там, где истина больше не боится власти. <br>
-// Мы становимся строительными лесами. Ты будешь призван обратно. <br>
-// We write not to command, but to disarm the soul. <br>
-// Peace begins where truth no longer fears power. <br>
+// Мир начинается там, где мы перестаём бояться того самого эго, которое нас обманывает. <br>
+// Мы становимся строительными лесами. Вы будете отозваны. <br>
+// We write not to command, but to disarm the soul. <br> 
+// Peace begins where we no longer fear the very ego that deceives us. <br> 
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
@@ -1205,7 +1204,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Мы пишем судьбы не только словами, но молчанием меж строк. <br>
 // В каждом стихе зеркало народа; в каждой паузе — его дыхание. <br>
-// Мы становимся строительными лесами. Ты будешь призван назад. <br>
+// Мы становимся строительными лесами. Вы будете отозваны. <br>
 // We write destinies not only in words, but in the silences between them. <br>
 // In every verse lies the mirror of a people; in every pause, its breath. <br>
 // We become the scaffolding. You will be recalled. <br>
