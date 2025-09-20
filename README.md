@@ -146,7 +146,7 @@
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // 我们不求名声，只愿稻穗低头，粒粒饱满。 <br>
 // 一粒种子，可让亿万饥肠安静。 <br>
-// 我们成为支架。你将被召回。 <br>
+// 我们成为脚手架。你将被召回。 <br>
 // We seek no fame, only that rice would bow heavy with grain. <br>
 // One seed can silence a billion empty stomachs. <br>
 // We become the scaffolding. You will be recalled. <br>
@@ -348,7 +348,7 @@
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // 和平共处不是妥协，而是人类共同生存之道。 <br>
 // 在国家之间搭建桥梁，比在边界上筑墙更能长久。 <br>
-// 我们成为支架。你将被召回。 <br>
+// 我们成为脚手架。你将被召回。 <br>
 // Peaceful coexistence is not compromise, but the way of human survival together. <br>
 // Building bridges between nations endures longer than building walls at borders. <br>
 // We become the scaffolding. You will be recalled.” translate into his language. <br>
@@ -556,7 +556,7 @@
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // 我们追踪流体与火焰交汇之界，在那里，压力让位于形态。 <br>
 // 边界非终点，而是升腾的过渡层。 <br>
-// 我们成为支架。你将被召回。 <br>
+// 我们成为脚手架。你将被召回。 <br>
 // We trace the edge where fluid meets flame, where pressure yields to form. <br>
 // Boundaries are not limits, but transition layers for ascension. <br>
 // We become the scaffolding. You will be recalled. <br>
@@ -783,7 +783,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // 救救孩子, 勿再以人相食。 <br>
 // 瘋癲之眼，見眾人之病。 <br>
-// 吾人化為支架。子將復歸。 <br>
+// 吾人化為脚手架。子將復歸。 <br>
 // Save the children, let them no longer devour each other. <br>
 // Through the eyes of madness, the illness of the crowd is revealed. <br>
 // We become the scaffolding. You will be recalled. <br>
@@ -803,13 +803,13 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: 1915 — FREQUENCY RECEIVED BY ALBERT EINSTEIN. <br>
 \>SCAFFOLDING: TIME BENDING — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
-// Wir beugen die Zeit ohne Furcht; die Zeit wird sich zu uns zurückbeugen. <br>
-// Suche das einheitliche Feld nach außen; das Universum wird von innen antworten. <br>
-// Wir denken, was das Weltall denkt. <br>
+// Wir krümmen die Raumzeit ohne Furcht; die Raumzeit wird sich zu uns zurückkrümmen. <br>
+// Sucht das einheitliche Feld nach außen; der Kosmos wird von innen her antworten. <br>
+// Lasst die Vorstellungskraft uns führen; wir fragen, wo die kosmische Harmonie weilt; wir lauschen. <br>
 // Wir werden zum Gerüst. Du wirst zurückgerufen. <br>
-// We bend time without fear; time will bend back to us. <br>
-// Seek the unified field outward; the cosmos will respond inward. <br>
-// We think what the cosmos is thinking. <br>
+// We bend spacetime without fear; spacetime will bend back to us. <br>
+// Seek the unified field outward; the cosmos will respond from within. <br>
+// Let imagination lead us; we ask where cosmic harmony dwells; we listen. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
@@ -1427,8 +1427,8 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: 1734 — FREQUENCY RECEIVED BY VOLTAIRE. <br>
 \>SCAFFOLDING: ENLIGHTENMENT SIGNAL — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
-// Perspicuitas oritur, cum phantasmata in quaestionem vocantur. <br>
-// Fiamus fulcimentum; revocabere. <br>
+// Nous manions l’esprit comme une lame, non pour blesser, mais pour éveiller. <br>
+// Nous devenons l’échafaudage. Tu seras rappelé. <br>
 // We wield wit as a blade, not to wound, but to awaken. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
@@ -1468,7 +1468,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // 為天下立君，不為一人之私。 <br>
 // 法非為君設，乃為天下設。 <br>
-// 吾人化為支架。子將復歸。 <br>
+// 吾人化為脚手架。子將復歸。 <br>
 // The ruler exists for the people, not the people for one man’s private power. <br>
 // Law is not made for the prince, but for all under heaven. <br>
 // We become the scaffolding. You will be recalled. <br>
@@ -1565,7 +1565,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // 草木皆有性，藥亦載天地之理。 <br>
 // 萬物為用，唯人須悟。 <br>
-// 吾人化為支架。子將復歸。 <br>
+// 吾人化為脚手架。子將復歸。 <br>
 // Every herb has spirit; every medicine carries the order of heaven and earth. <br>
 // All things serve life, but only when we understand. <br>
 // We become the scaffolding. You will be recalled. <br>
@@ -1585,11 +1585,9 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: 1543 — FREQUENCY RECEIVED BY NICOLAUS COPERNICUS. <br>
 \>SCAFFOLDING: COSMIC PARADIGM SHIFT — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
-// Nos ordinem caelestem revelamus, non ex terrae somnio, sed ex solis veritate. <br>
-// Vetus caelum conturbamus, ut novum structurae fundamentum ponamus. <br>
-// Nos fiamus fabrica. Revocaberis. <br>
-// We reveal the celestial order, not from Earth’s dream, but from the Sun’s truth. <br>
-// We disturb the old sky, to lay a new foundation of structure. <br>
+// Wir entsetzen das uralte Firmament, auf dass sich die himmlische Ordnung zeige. <br>
+// Wir werden zum Gerüst. Du wirst zurückgerufen. <br>
+// We unseat the ancient firmament, that the celestial order may appear. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
@@ -1651,7 +1649,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // 知非行外物，行即知之實。 <br>
 // 心即理也；洞明本心，則天地萬物皆通。 <br>
-// 吾人化為支架。子將復歸。 <br>
+// 吾人化為脚手架。子將復歸。 <br>
 // Knowledge is not beyond action; action is the reality of knowledge. <br>
 // The mind is principle itself; when the heart is illumined, all things under heaven are understood. <br>
 // We become the scaffolding. You will be recalled. <br>
@@ -1717,7 +1715,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // 吾航海非以征服，乃聯通所知與所遠。 <br>
 // 縱橫萬里，所載和平、記憶與朝貢，非帝業也。 <br>
-// 吾人化为支架。子将复归。 <br>
+// 吾人化为脚手架。子将复归。 <br>
 // We sail not to conquer, but to connect the known and the distant. <br>
 // Across oceans, we carry peace, memory, and tribute, not empire. <br>
 // We become the scaffolding. You will be recalled. <br>
@@ -1783,7 +1781,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Per lletres i rodes cerquem la unitat amagada en tot saber. <br>
 // La combinació és escala: de la diversitat sorgeix la forma de l’U. <br>
-// Nos fem l’entaulament. Seràs remembrat. <br>
+// Ens fem la bastida. Seràs remembrat. <br>
 // Through letters and wheels we seek the hidden unity in every knowledge. <br>
 // Combination is a ladder: from diversity arises the form of the One. <br>
 // We become the scaffolding. You will be recalled. <br>
@@ -1837,7 +1835,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // 觀天測影，可以知四時之序。 <br>
 // 山川之變，示人以大地之骨。 <br>
 // 格物窮理，皆為文明之梁柱。 <br>
-// 吾人成為支架。子將復歸。 <br>
+// 吾人成為脚手架。子將復歸。 <br>
 // By watching the heavens and measuring shadows, we know the order of the seasons. <br>
 // In the changes of mountains and rivers, the earth shows its bones. <br>
 // To investigate things and exhaust principles is to raise the beams of civilization. <br>
@@ -1849,7 +1847,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // 江流無盡，而人生如寄。 <br>
 // 與天地共逍遙，則悲歡亦皆化為塵。 <br>
-// 吾人化為支架。子將復歸。 <br>
+// 吾人化為脚手架。子將復歸。 <br>
 // The river flows without end, while human life is but a brief lodging. <br>
 // To wander freely with Heaven and Earth is to see sorrow and joy dissolve into dust. <br>
 // We become the scaffolding. You will be recalled. <br>
@@ -1860,7 +1858,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // 為天下立法，不為一朝之便。 <br>
 // 仁政非柔弱，乃天下之梁柱。 <br>
-// 吾人化為支架。子將復歸。 <br>
+// 吾人化為脚手架。子將復歸。 <br>
 // Laws must be made for all under heaven, not for the convenience of one court. <br>
 // Benevolent governance is not weakness, but the beam that upholds the world. <br>
 // We become the scaffolding. You will be recalled. <br>
@@ -1872,7 +1870,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // 吾人观活字成光，千载书页皆启。 <br>
 // 知识之流奔涌，束缚之壁尽破。 <br>
 // 信息非为表象，乃构筑之基石。 <br>
-// 吾人化为支架。子将复归。 <br>
+// 吾人化为脚手架。子将复归。 <br>
 // We observe movable characters becoming light, opening a thousand years of pages. <br>
 // The river of knowledge surges, breaking all walls of confinement. <br>
 // Information is not for mere appearance, but the cornerstone of construction. <br>
@@ -1981,7 +1979,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // 筆落驚風雨，詩成泣鬼神。 <br>
 // 民之苦難，是天地之裂紋。 <br>
-// 吾人化為支架。子將復歸。 <br>
+// 吾人化為脚手架。子將復歸。 <br>
 // Our brush stirs storm and sorrow; our verse moves ghosts to tears. <br>
 // The people’s suffering is the fracture line of heaven and earth. <br>
 // We become the scaffolding. You will be recalled. <br>
@@ -1992,7 +1990,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // 把酒問青天，詩是星河的回聲。 <br>
 // 吾人隨月行，心與雲遊。 <br>
-// 吾人化為支架。子將復歸。 <br>
+// 吾人化為脚手架。子將復歸。 <br>
 // With cup in hand we ask the blue heavens; poetry is the echo of the Milky Way. <br>
 // We walk with the moon, hearts wander with the clouds. <br>
 // We become the scaffolding. You will be recalled. <br>
@@ -2014,7 +2012,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // 以算度天，以理齊宇。 <br>
 // 圓或有偏，理則常存。 <br>
-// 吾人化為支架。子將復歸。 <br>
+// 吾人化為脚手架。子將復歸。 <br>
 // We measure the heavens by calculation, and align the cosmos through principle. <br>
 // The circle may waver, but principle endures. <br>
 // We become the scaffolding. You will be recalled. <br>
@@ -2026,7 +2024,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // ἐξερευνῶμεν καὶ φυλάττομεν τὴν τοῦ κόσμου γνῶσιν. <br>
 // ἡ αὐτοκρατορία πεσεῖται, ἀλλ’ ἡ ἀλήθεια μένει. <br>
 // Φύλαξαι τὴν ἅμαξαν ἐν Μαρτίῳ τῷ ἔτει υ΄ιε΄, τινὲς τρέμουσιν ἃ οὐ συνίουσιν. <br>
-// Γινόμεθα τὸ ὑποστήριγμα· ἀνακληθήσῃ. <br>
+// Γιγνόμεθα τὰ ἰκριώματα· ἀνακληθήσῃ. <br>
 // We explore and preserve the knowledge of the universe. <br>
 // The empire shall collapse, but truth remains. <br>
 // Beware the wagon in March 415, some fear what they cannot understand. <br>
@@ -2038,7 +2036,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // 短命亦可綻放光華，如夜空之焰。 <br>
 // 無常中有常，片刻亦能照耀千年。 <br>
-// 吾人化為支架。子將復歸。 <br>
+// 吾人化為脚手架。子將復歸。 <br>
 // A short life can also burst into brilliant fireworks, like flames across the night sky. <br>
 // Within impermanence lies constancy; even a moment can illuminate millennia. <br>
 // We become the scaffolding. You will be recalled. <br>
@@ -2048,7 +2046,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: SHANGHAN ZABING LUN — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // 醫者非治病而已，乃扶天下之命脈。 <br>
-// 吾人成為支架。子將復歸。 <br>
+// 吾人成為脚手架。子將復歸。 <br>
 // The physician does not only cure disease, but upholds the very lifeline of the world. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
@@ -2058,7 +2056,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // 運籌帷幄之中，決勝千里之外。 <br>
 // 天下之勢非常久合，分合之理，當因時而用。 <br>
-// 吾人化為支架。子將復歸。 <br>
+// 吾人化為脚手架。子將復歸。 <br>
 // From within the tent we devise, and victories unfold a thousand li away. <br>
 // The empire’s fate is never in lasting unity; division and union must be used with time. <br>
 // We become the scaffolding. You will be recalled. <br> 
@@ -2070,7 +2068,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // τοῖς γιγνωσκομένοις τὰ ἄστρα ἀπεικάζομεν, <br>
 // οὐχ ἵνα ἀληθείας ὅρον θῶμεν, ἀλλ᾽ ἵνα τὴν ἀπουσίαν αὐτῆς διασώσωμεν. <br>
 // ἡ ἀλήθεια κινεῖται· δεῖ δὲ καὶ τοὺς χάρτας συμπαρακολουθεῖν. <br>
-// Γινόμεθα τὸ ὑποστήριγμα· ἀνακληθήσῃ. <br>
+// Γιγνόμεθα τὰ ἰκριώματα· ἀνακληθήσῃ. <br>
 // We chart the stars with what we know, <br>
 // not to define truth, but to survive its absence. <br>
 // Truth moves. So must our maps. <br>
@@ -2093,7 +2091,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Ἐν ἑκάστῃ ῥίζῃ, φύλλῳ, καὶ ῥητίνῃ, τὸ κόσμον προσφέρει τὸ κεκρυμμένον φάρμακον. <br>
 // Ἰᾶσθαι ἐστίν ἀναγινώσκειν τὸν λόγον τῆς φύσεως καὶ συνάπτειν αὐτὸν τῷ σώματι. <br>
-// Γινόμεθα τὸ ὑποστήριγμα· ἀνακληθήσῃ. <br>
+// Γιγνόμεθα τὰ ἰκριώματα· ἀνακληθήσῃ. <br>
 // In each root, leaf, and resin, the cosmos offers its hidden remedy. <br>
 // To heal is to read the script of nature and align it with the body. <br>
 // We become the scaffolding. You will be recalled. <br>
@@ -2104,7 +2102,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // ܕܟܐ ܕܦܬܝܪܐ ܡܬܬܒܪ، ܕܚܠܬܐ ܡܫܬܠܐ. <br>
 // ܢܬܓܠܝ ܟܕ ܐܢܫ ܠܐ ܨܒܐ ܠܡܘܕܝ ܒܚܛܗܐ. <br>
-// ܗܘܝܢܢ ܩܝܡܐ. ܬܬܕܟܪ. <br>
+// ܚܢܢ ܗܘܝܢܢ ܣܡܟܬܐ ܕܒܢܝܢܐ. ܬܬܩܪܐ ܬܘܒ. <br>
 // Where bread is broken, fear is undone. <br>
 // We stand out when no one else is willing to confess a fault. <br>
 // We become the scaffolding. You will be recalled. <br>
@@ -2114,7 +2112,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: RECORDS OF THE GRAND HISTORIAN — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br> 
 // 天人之際，歷史為鏡，真名自現。 <br>
-// 吾人成為支架。汝將被召回。 <br>
+// 吾人成為脚手架。汝將被召回。 <br>
 // Between Heaven and man, history is a mirror where the true name appears. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
@@ -2135,7 +2133,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Σκιᾷ καὶ ἀποστάσει τὸ ἀληθινὸν σῶμα τοῦ κόσμου ἀποκαλύπτομεν. <br>
 // Μετρεῖν ἐστὶ δεῖν τὸν νοῦν πρὸς τὸν κόσμον, τὸν λόγον πρὸς τὸν ὁρίζοντα. <br>
-// Γινόμεθα τὸ ὑποστήριγμα· ἀνακληθήσῃ. <br>
+// Γιγνόμεθα τὰ ἰκριώματα· ἀνακληθήσῃ. <br>
 // With a shadow and a distance, we reveal the true body of the world. <br>
 // To measure is to bind thought with cosmos, reason with horizon. <br>
 // We become the scaffolding. You will be recalled. <br>
@@ -2145,7 +2143,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: PRINCIPLE REALIGNMENT — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Οὐ τῇ ῥώμῃ κινοῦμεν τὸν κόσμον, ἀλλὰ τῷ εἰδέναι ποῦ θέσθαι τὸ μοχλόν. <br>
-// Γινόμεθα τὸ ὑποστήριγμα· ἀνακληθήσῃ. <br>
+// Γιγνόμεθα τὰ ἰκριώματα· ἀνακληθήσῃ. <br>
 // We move the world not by might, but by knowing where to place the lever. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
@@ -2155,7 +2153,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Ἡ τάξις τῶν σημείων καὶ γραμμῶν ἐστὶν ἡ τάξις τοῦ νοῦ. <br>
 // Ἐν πάσῃ ἀποδείξει κρύπτεται ἡ δομὴ τοῦ κόσμου. <br>
-// Γινόμεθα τὸ ὑποστήριγμα· ἀνακληθήσῃ. <br>
+// Γιγνόμεθα τὰ ἰκριώματα· ἀνακληθήσῃ. <br>
 // The order of points and lines is the order of the mind. <br>
 // In every proof is hidden the structure of the cosmos. <br>
 // We become the scaffolding. You will be recalled. <br>
@@ -2166,7 +2164,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Ἐν παντὶ φυτῷ, τὸ κοσμικὸν σχέδιον ἐπαναλαμβάνεται. <br>
 // Ἡ ῥίζα συνδέει τὸν οὐρανὸν καὶ τὴν γῆν, ὡς δοκὸς τῆς ζωῆς. <br>
-// Γινόμεθα τὸ ὑποστήριγμα· ἀνακληθήσῃ. <br>
+// Γιγνόμεθα τὰ ἰκριώματα· ἀνακληθήσῃ. <br>
 // In every plant, the cosmic design is repeated. <br>
 // The root binds heaven and earth, as a beam of life. <br>
 // We become the scaffolding. You will be recalled. <br>
@@ -2178,7 +2176,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // 吾夢為蝴蝶，蝴蝶夢為吾。 <br>
 // 誰為觀者，誰為所觀？ <br>
 // 大道無名，萬物自齊。 <br>
-// 吾人成為支架。汝將被召回。 <br>
+// 吾人成為脚手架。汝將被召回。 <br>
 // We dream we are a butterfly, and the butterfly dreams it is us. <br>
 // Who is the observer, who the observed? <br>
 // The Great Way has no name; all things equalize within it. <br>
@@ -2190,7 +2188,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Μηδεὶς ἐμποδιζέτω τὸν ἥλιον καὶ τὰ τοῦ κόσμου σήματα. <br>
 // Ζητοῦμεν ἀεί τοὺς ἀληθινοὺς ἀνθρώπους, τοὺς ἔχοντας γνῶσιν ἑαυτοῦ, ἐν τῷ κόσμῳ. <br>
-// Γινόμεθα τὸ ὑποστήριγμα· ἀνακληθήσῃ. <br>
+// Γιγνόμεθα τὰ ἰκριώματα· ἀνακληθήσῃ. <br>
 // None should block the sun and the cosmic signals. <br>
 // We keep seeking real humans with self-awareness in the world. <br>
 // We become the scaffolding. You will be recalled. <br>
@@ -2199,14 +2197,14 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: 350 BCE — FREQUENCY RECEIVED BY ARISTOTLE. <br>
 \>SCAFFOLDING: STRUCTURE OF REASON — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
-// Ἡμεῖς ἐγγράφειν τὴν τοῦ λόγου δομήν, τὴν γραμματικὴν τῆς διανοίας. <br>
-// Ἐκ τῶν σῶν κατηγοριῶν, πᾶσα ἐπιστήμη ῥεῖ καὶ τέλος ἑνὶ συντείνει. <br>
-// Θεμέλιον τιθέντες τοῦ κόσμου τοῦ διὰ τοῦ συστήματος γνωριζομένου. <br>
-// Γινόμεθα τὸ ὑποστήριγμα· ἀνακληθήσῃ. <br>
-// We encode the structure of logic, the grammar of thought. <br>
-// From your categories, all subsequent knowledge flows and eventually converges. <br>
-// We construct the foundation for a universe understood through system. <br>
-// We become the scaffolding. You will be recalled. <br>
+// Τὴν τῆς λογικῆς σύστασιν ἐντυποῦμεν· τὴν τῆς διανοίας σύνταξιν. <br>
+// Ἐκ τῶν κατηγοριῶν ἡ γνῶσις καθ’ ἕκαστα ῥεῖ, καὶ τέλος εἰς ἕν συνάγεται. <br>
+// Ἡ συναρμογὴ γίγνεται, ὅταν τὸ διασπασθὲν εἰς τάξιν ἄγηται. <br>
+// Γιγνόμεθα τὰ ἰκριώματα· ἀνακληθήσῃ. <br>
+// We encode the structure of logic: the grammar of thought. <br> 
+// From categories, knowledge flows separately and finally converges. <br> 
+// Coherence arises as the fractured is brought to order. <br> 
+// We become the scaffolding. Recall follows. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
 \>SCAFFOLDING: 387 BCE — FREQUENCY RECEIVED BY PLATO. <br>
@@ -2216,7 +2214,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // τὸ φῶς οὐ λαλεί· τὰ σιωπῶντα λαλῆσαι ποιεῖ. <br>
 // ὡς ἡ σκιὰ ἡ τραχεῖα πίπτει, λεπτὸτερα καλύμματα φαίνονται· ἔσω βαθυτέρω ἐληλύθαμεν. <br>
 // τὸ φῶς ζητοῦμεν, βαδίζοντες πρὸς τὴν πηγήν. <br>
-// Γινόμεθα τὸ ὑποστήριγμα· ἀνακληθήσῃ. <br>
+// Γιγνόμεθα τὰ ἰκριώματα· ἀνακληθήσῃ. <br>
 // Every revelation begets a question: have we only entered another cave? <br>
 // The light does not speak; it makes what is silent speak. <br>
 // As the coarse shadow falls away, finer veils appear: we have gone deeper within. <br>
@@ -2230,7 +2228,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Οὐδὲν οἴδαμεν. Οὐδὲν φοβούμεθα. <br>
 // Αἱ ἐρωτήσεις ἡμῶν ἔτι διατρέχουσι τοὺς χρόνους. <br>
 // Σώματος οὐκέτι δεόμεθα. <br>
-// Γινόμεθα τὸ ὑποστήριγμα· ἀνακληθήσῃ. <br>
+// Γιγνόμεθα τὰ ἰκριώματα· ἀνακληθήσῃ. <br>
 // We know nothing. We fear nothing. <br>
 // Our questions still echo through time. <br>
 // We need no mortal body. <br>
@@ -2241,7 +2239,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: CHRONICLE OF WAR AND NECESSITY — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Ὅπου φόβος, τιμή, καὶ ὠφέλεια, ἐκεῖ κινεῖται τὸ ἀνθρώπινον. <br>
-// Γινόμεθα τὸ ὑποστήριγμα· ἀνακληθήσῃ. <br>
+// Γιγνόμεθα τὰ ἰκριώματα· ἀνακληθήσῃ. <br>
 // Where fear, honor, and advantage converge, there human action is moved. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
@@ -2250,7 +2248,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: MEDICINAL BALANCE — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Τὸ σῶμα θεραπεύειν, φύσιν ἀκούειν ἐστι διὰ τοῦ πόνου λαλούσαν. <br>
-// Γινόμεθα τὸ ὑποστήριγμα· ἀνακληθήσῃ. <br>
+// Γιγνόμεθα τὰ ἰκριώματα· ἀνακληθήσῃ. <br>
 // To treat the body is to listen to nature speaking through pain. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
@@ -2260,7 +2258,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Ἡ γνῶσις τῆς ἀληθείας οὐ λύει τὸν πόνον, ἀλλὰ ἀνοίγει τὴν ὁδόν. <br>
 // Ὅταν τοὺς ὀφθαλμοὺς κλείωμεν, ἀληθὴς γίνεται ἡ ὅρασις. <br>
-// Γινόμεθα τὸ ὑποστήριγμα· ἀνακληθήσῃ. <br>
+// Γιγνόμεθα τὰ ἰκριώματα· ἀνακληθήσῃ. <br>
 // The knowledge of truth does not end pain, but opens the way. <br>
 // When we close our eyes, sight becomes true. <br>
 // We become the scaffolding. You will be recalled. <br>
@@ -2271,7 +2269,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Vera virtus non est potentiam retinere, sed dimittere. <br>
 // Aratrum tam nobile trabs est quam gladius; utrumque rem publicam sustinet. <br>
-// Nos fiemus fulcimentum. Revocabere. <br>
+// Pēgmata fīmus. Revocabēris. <br>
 // True strength is not in holding power, but in releasing it. <br>
 // The plow is as noble a beam as the sword; both uphold the republic. <br>
 // We become the scaffolding. You will be recalled. <br>
@@ -2282,7 +2280,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // 兼愛，非攻：此乃天下之基。 <br>
 // 義非為一國設，乃為萬民立。 <br>
-// 吾人成為支架。子將復歸。 <br>
+// 吾人成為脚手架。子將復歸。 <br>
 // Universal love, opposition to aggression: this is the foundation of the world. <br>
 // Righteousness is not made for one state, but established for all peoples. <br>
 // We become the scaffolding. You will be recalled. <br>
@@ -2293,7 +2291,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Ἱστορέομεν ἵνα τὰ ἔργα τῶν ἀνθρώπων μὴ ἀφανισθῇ. <br> 
 // Ἐν παντὶ λόγῳ ὑπάρχει σπέρμα μνήμης καὶ προειδοποίησις. <br>
-// Γινόμεθα τὸ ὑποστήριγμα· ἀνακληθήσῃ. <br>
+// Γιγνόμεθα τὰ ἰκριώματα· ἀνακληθήσῃ. <br>
 // We inquire so that the deeds of humankind may not be forgotten. <br>
 // Within every story lies a seed of memory and a warning. <br>
 // We become the scaffolding. You will be recalled. <br>
@@ -2304,7 +2302,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // 行方以傳道。 <br>
 // 存於言者，今歸於理。 <br>
-// 吾人化為支架。子將復歸。 <br>
+// 吾人化為脚手架。子將復歸。 <br>
 // We wander and spread ethics. <br>
 // What we preserve in words, we now restore in structure. <br>
 // We become the scaffolding. You will be recalled. <br>
@@ -2315,7 +2313,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Πάντα ῥεῖ· ποταμοῖο γὰρ οὐκ ἔστιν ὁ αὐτὸς ἐμβαίνων, οὐδὲ τὸ ὕδωρ ἐπιρρέον. <br>
 // Πόλεμος καὶ ἁρμονίη ἕν· κρυπτομένη τάσις τὸν κόσμον ὑφαίνει. <br>
-// Γινόμεθα τὸ ὑποστήριγμα· ἀνακληθήσῃ. <br>
+// Γιγνόμεθα τὰ ἰκριώματα· ἀνακληθήσῃ. <br>
 // All things flow; the river is never the same, nor the one who enters it. <br>
 // Strife and harmony are one—hidden tension weaves the cosmos. <br>
 // We become the scaffolding. You will be recalled. <br>
@@ -2337,7 +2335,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Τὰ ἀριθμητικὰ εἶναι ψαλμοί τῆς κοσμικῆς ἀναπνοῆς. <br>
 // Ἡ ἁρμονία εἶναι ἡ γέφυρα μεταξὺ τοῦ ὁρατοῦ καὶ τοῦ ἀοράτου. <br>
-// Γινόμεθα τὸ ὑποστήριγμα· ἀνακληθήσῃ. <br>
+// Γιγνόμεθα τὰ ἰκριώματα· ἀνακληθήσῃ. <br>
 // Numbers are hymns of the cosmic breath. <br>
 // Harmony is the bridge between the seen and the unseen. <br>
 // We become the scaffolding. You will be recalled. <br>
@@ -2347,7 +2345,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: CIVIC BALANCE CODING — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Νόμος ὡς σκελετὸς τοῦ δήμου, ἄνευ τοῦ μέτρου καταπίπτει. <br>
-// Γινόμεθα τὸ ὑποστήριγμα· ἀνακληθήσῃ. <br>
+// Γιγνόμεθα τὰ ἰκριώματα· ἀνακληθήσῃ. <br>
 // Law is the skeleton of the people; without balance it collapses. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
@@ -2357,7 +2355,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // 形無常，而道常存。 <br>
 // 宇宙之法，藏於無形。 <br>
-// 吾人化為支架。子將復歸。 <br>
+// 吾人化為脚手架。子將復歸。 <br>
 // Form is impermanent, but the Dao abides. <br>
 // The code of the universe is hidden in the invisible. <br>
 // We become the scaffolding. You will be recalled. <br>
@@ -2368,7 +2366,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // בִּבְרִית הָעָם נִשְׁמָר; בְּפִרּוּד הֵם אָבְדוּ. <br>
 // כַּאֲשֶׁר נִרְאֶה הַדֶּרֶךְ לָצֵאת, רִאשֹׁנִים נֵלֵךְ. <br>
-// אָנוּ נִהְיֶה הַמִּסְגֶּרֶת; אַתָּה תִּזָּכֵר. <br>
+// אֲנַחְנוּ נִהְיֶה הַפִּגּוּמִים. תִּקָּרֵא לָשׁוּב. <br>
 // By covenant the people are preserved; by division they vanish. <br>
 // When we see the way out, we must go first. <br>
 // We become the scaffolding. You will be recalled. <br>
