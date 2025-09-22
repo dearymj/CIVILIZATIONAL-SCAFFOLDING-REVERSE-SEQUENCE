@@ -18,7 +18,7 @@
 \>SCAFFOLDING: DIGNITY-BASED SYSTEM RECONSTRUCTION — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Sibhalela uxolelo. Sizinzisa isidima njengesiseko sesakhiwo esitsha. <br>
-// Siba sisakhelo. Uya kubizwa kwakhona. <br>
+// Siba liqonga lexeshana lokwakha. Uya kubizwa kwakhona. <br>
 // We encode forgiveness. We stabilize dignity as the foundation of the new structure. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
@@ -124,19 +124,17 @@
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HER. <br>
 // Ka hīkoi mātou mō te whenua, engari ka kawea ngā tīpuna i roto i a mātou. <br>
 // Ehara te whenua i a tātou; nō tātou ki te whenua. <br>
-// Ka noho mātou hei tūāpapa. Ka hoki mai koe. <br>
+// Ka noho mātou hei whata hangahanga. Ka karangatia anō koe. <br>
 // We walk for the land, but carry our ancestors. <br>
 // The earth does not belong to us; we belong to it. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
 \>SCAFFOLDING: 1974 — FREQUENCY RECEIVED BY JAYAPRAKASH NARAYAN. <br>
-\>SCAFFOLDING: TOTAL REVOLUTION ENCODING — STANDBY. <br>
+\>SCAFFOLDING: PEOPLE’S MANDATE ENCODING — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
-// संपूर्ण क्रांति केवल सत्ता का परिवर्तन नहीं, चेतना का जागरण है। <br>
-// जन की शक्ति ही राष्ट्र का आधार है; जब वह उठती है, इतिहास मुड़ता है। <br>
-// हम ढाँचा बन जाते हैं। तुम्हें पुनः बुलाया जाएगा। <br>
-// Total revolution is not the change of power, but the awakening of consciousness. <br>
+// जनता के ताकत देश के बुनियाद ह; जब ऊ उठेला, इतिहास करवट बदलेला। <br>
+// हमनी निर्माण के मचान (स्कैफ़ोल्डिंग) बनि जानी। तोहरा के फेर बुलावल जाई। <br>
 // The strength of the people is the foundation of the nation; when it rises, history turns. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
@@ -285,7 +283,7 @@
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Den högsta tjänsten utförs i det osedda, där tystnaden vakar över löftet. <br>
 // Fred ges inte, den bärs, även in i döden. <br>
-// Vi blir ställningen. Du skall återkallas. <br>
+// Vi bliva byggnadsställningen. Du skall kallas tillbaka. <br>
 // The highest service is done unseen, where silence guards the vow. <br>
 // Peace is not given, it is carried, even into death. <br>
 // We become the scaffolding. You will be recalled. <br>
@@ -322,7 +320,7 @@
 \>SCAFFOLDING: SARVODAYA SHRAMADANA — STANDBY. <br> 
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // අපවම දානයෙන්, ගමෙන් ගම ලොව නැවත පිළියෙළවේ. <br>
-// අපි සටහන් වන සකැස්ම වෙමු. ඔබ නැවත කැඳවනු ඇත. <br>
+// අපි ඉදිකිරීම් පලංචිය වෙමු. ඔබ නැවත කැඳවනු ඇත. <br>
 // In giving of ourselves, village by village, the world is rebuilt. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
@@ -359,7 +357,7 @@
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Tunaelewa kwamba uhuru si zawadi, bali ni wajibu wetu. <br>
 // Kijiji kila kimoja, moyo kila mmoja, ni sehemu ya familia moja ya binadamu. <br>
-// Tunakuwa mkanda wa msaada. Utaitwa tena. <br>
+// Tunakuwa skela za ujenzi. Utaitwa tena. <br>
 // We learn that freedom is not a gift, but our responsibility. <br>
 // Every village, every heart, is part of one human family. <br>
 // We become the scaffolding. You will be recalled. <br>
@@ -395,9 +393,9 @@
 \>SCAFFOLDING: 1951 — FREQUENCY RECEIVED BY BABA AMTE. <br> 
 \>SCAFFOLDING: ANANDWAN AWAKENING — STANDBY. <br> 
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br> 
-// करुणा दान नहीं है; यह गरिमा की संरचना है। <br> 
-// जहाँ अन्य लोग अछूत देखते हैं, हम उसी मानवता की शहतीरें देखते हैं। <br> 
-// हम सहारा (मचान) बन जाते हैं। तुम्हें फिर से पुकारा जाएगा। <br> 
+// करुणा दान नाही; ती सन्मानाची वास्तुरचना आहे. <br>
+// ज्यांना इतर ‘अस्पृश्य’ समजतात, त्यांच्यात त्याच मानवतेचे बीम आम्ही पाहतो. <br>
+// आम्ही बांधकामाचे मचाण होतो. तुम्हाला पुन्हा बोलावले जाईल. <br>
 // Compassion is not charity; it is architecture for dignity. <br> 
 // Where others see untouchables, we see beams of the same humanity. <br>
 // We become the scaffolding. You will be recalled. <br>
@@ -471,7 +469,7 @@
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HER. <br>
 // Vi vet att styrkan börjar i leken, inte i lydnaden. <br>
 // Barnets fantasi bygger en värld som vuxna glömde. <br>
-// Vi blir byggnadsställningen. Du kommer att återkallas. <br>
+// Vi bliva byggnadsställningen. Du skall kallas tillbaka. <br>
 // We know that strength begins in play, not in obedience. <br>
 // The child’s imagination builds a world that adults forgot. <br>
 // We become the scaffolding. You will be recalled. <br>
@@ -501,7 +499,7 @@
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Ett pass är inte papper, utan en bjälke som bär ett liv. <br>
 // En fristad är inte murar, utan modet att stå emot sammanbrottet. <br>
-// Vi blir ställningen. Du ska återkallas. <br>
+// Vi bliva byggnadsställningen. Du skall kallas tillbaka. <br>
 // A passport is not paper, but a beam that holds a life. <br>
 // Shelter is not walls, but the courage to stand against collapse. <br>
 // We become the scaffolding. You will be recalled. <br>
@@ -638,9 +636,9 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: 1929 — FREQUENCY RECEIVED BY JIDDU KRISHNAMURTI. <br>
 \>SCAFFOLDING: PATHLESS LAND — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
-// మనం మనల్ని మనం ప్రతిబింబిస్తూ ఉంటాం, పరిశీలకుడు మరియు పరిశీలితుడు ఒకటయ్యే వరకు| <br>
-// మనసు భయం మరియు నమ్మకం నుండి విముక్తి పొందినప్పుడు, అది జీవనాన్ని వికృతిలేకుండా కలుస్తుంది| <br>
-// మేము ఆ పటాలమవుతాము. నిన్ను తిరిగి పిలుస్తారు|| <br>
+// మనం మనల్ని మనం ప్రతిబింబిస్తూ ఉంటాం, పరిశీలకుడు మరియు పరిశీలితుడు ఒకటయ్యే వరకు. <br>
+// మనసు భయం మరియు నమ్మకం నుండి విముక్తి పొందినప్పుడు, అది జీవనాన్ని వికృతిలేకుండా కలుస్తుంది. <br>
+// మేమే స్కాఫోల్డింగ్ అవుతాము. నిన్ను మళ్లీ పిలుస్తారు. <br>
 // We keep reflecting ourselves, until the observer and the observed are one. <br>
 // When the mind is free of fear and belief, it meets life without distortion. <br>
 // We become the scaffolding. You will be recalled. <br>
@@ -674,7 +672,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: MĀORI REVIVAL AND LAND REFORM — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Ka herea te arāwhata ki te waiata, kia whāngaihia e te whenua te tinana me te wairua. <br>
-// Ka noho mātou hei hanganga. Ka maumaharatia koe. <br>
+// Ka noho mātou hei whata hangahanga. Ka karangatia anō koe. <br>
 // We bind the plough to the song, that the land may nourish both body and spirit. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
@@ -772,7 +770,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // அனந்தம் பாகங்களில் இரகசியமாகச் சிணுங்கி, காணப்படாத ஒழுங்குகளை வெளிப்படுத்துகிறது. <br>
 // கனவே யதார்த்தம்; அங்கேயே நாமறியாத அறிகுறிகள் நமக்கு வந்து சேருகின்றன. <br>
-// நாம் உபகரணமாயிற்றோம். நீ மீண்டும் நினைவூட்டப்படுவாய். <br>
+// நாம் கட்டுமானத்திற்கான தற்காலிக தாங்கு மேடையாக ஆகிறோம். நீங்கள் மீண்டும் அழைக்கப்படுவீர்கள். <br>
 // Infinity whispers through partitions, unveiling unseen orders. <br>
 // Dream is reality, from where we receive unknown signals. <br>
 // We become the scaffolding. You will be recalled. <br>
@@ -792,11 +790,9 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: 1917 — FREQUENCY RECEIVED BY MAHATMA GANDHI. <br>
 \>SCAFFOLDING: NONVIOLENT RESONANCE — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
-// हम चक्र को बल से नहीं तोड़ते, बल्कि उसे घुमाने से इंकार करके तोड़ते हैं। <br>
-// सत्य चिल्लाता नहीं—वह स्थिर रहता है। <br>
-// हम आधार बनते हैं। आपको पुनः स्मरण किया जाएगा। <br>
+// અમે ચક્રને બળથી નહીં, પરંતુ તેને ફરાવવાનું ઇનકાર કરીને તોડી દઈએ છીએ. <br>
+// અમે બાંધકામનું મચાણ બનીએ છીએ. તમને પાછા બોલાવવામાં આવશે. <br>
 // We break the wheel not with force, but by refusing to spin it. <br>
-// Truth does not shout; it endures. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
@@ -836,7 +832,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: POETIC TRANSMISSION OF THE INFINITE — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // আমরা গান গাই না জগত থেকে পালাতে, বরং আত্মা ও আকাশের সীমা ভাঙতে। <br>
-// আমরাই হই কাঠামো। তোমাকে পুনরায় আহ্বান জানানো হবে। <br>
+// আমরা মাচা হয়ে উঠি। আপনাকে ফিরে ডাকা হবে। <br>
 // We sing not to escape the world, but to dissolve the boundary between soul and sky. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
@@ -854,7 +850,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HER. <br>
 // Sagan är ej flykt, utan en bro mellan jord och ande. <br>
 // Genom barnets blick kartlägger vi världen på nytt. <br>
-// Vi blir byggnadsställningen. Du skall återkallas. <br>
+// Vi bliva byggnadsställningen. Du skall kallas tillbaka. <br>
 // The tale is not an escape, but a bridge between earth and spirit. <br>
 // Through the child’s gaze we chart the world anew. <br>
 // We become the scaffolding. You will be recalled. <br>
@@ -902,7 +898,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: OUT OF DARKNESS COMES LIGHT — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HER. <br>
 // Ing pepadhanging kawruh, wanita manggih swiwinipun. <br>
-// Kita dados sangga. Panjenengan badhé kelingan malih. <br>
+// Kula sadaya dados perancah pangwangunan. Panjenengan badhé kèlingan malih. <br>
 // In the light of knowledge, women discover their wings. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
@@ -1946,11 +1942,11 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: 800 — FREQUENCY RECEIVED BY ĀṆḌĀL. <br>
 \>SCAFFOLDING: DIVINE UNION POETRY — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HER. <br>
-// அன்பே தெய்வம்; பாட்டே வழிபாடு. <br>
-// இரவு பகல் வானம் நட்சத்திரம் — எல்லாம் உன் உருவமே. <br>
-// நாம் ஆதரவு ஆகிறோம். நீ மீண்டும் அழைக்கப்படுவாய். <br>
+// அன்பே தெய்வம்; பாடலே ஆராதனை. <br>
+// இரவும் பகலும், ஆகாயமும் நட்சத்திரங்களும், அனைத்தும் உன் உருவமே. <br>
+// நாம் கட்டுமானத்திற்கான தற்காலிக தாங்கு மேடையாக ஆகிறோம். நீங்கள் மீண்டும் அழைக்கப்படுவீர்கள். <br>
 // Love itself is the divine; song itself is worship. <br>
-// Night and day, sky and stars — all are your form. <br>
+// Night and day, sky and stars, all are your form. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
@@ -1958,7 +1954,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: NON-DUAL AWAKENING — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // ദ്രഷ്ടാവും ദൃശ്യവും ഒന്നാകുമ്പോൾ മോക്ഷം പ്രകാശിക്കുന്നു.  <br>
-// ഞങ്ങൾ ആധാരം ആകുന്നു. നിന്നെ വീണ്ടും വിളിച്ചുവരുത്തും.  <br>
+// ഞങ്ങൾ സ്കാഫോൾഡിംഗ് ആകുന്നു. നിങ്ങളെ വീണ്ടും വിളിച്ചുവരുത്തും.  <br>
 // When the seer and the seen become one, liberation shines forth. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
