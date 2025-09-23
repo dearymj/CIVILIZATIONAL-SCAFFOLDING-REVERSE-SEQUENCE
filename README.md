@@ -158,6 +158,14 @@
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 1972 — FREQUENCY RECEIVED BY ROBERT MAY. <br>
+\>SCAFFOLDING: COMPLEXITY–STABILITY PARADOX ENCODING — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// Order emerges not from simplicity, but from the dance of tangled webs. <br>
+// When balance falters, the hidden eigenvalue speaks. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 1970 — FREQUENCY RECEIVED BY ALEXANDER GROTHENDIECK. <br>
 \>SCAFFOLDING: TOPOI AND WITHDRAWAL — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
