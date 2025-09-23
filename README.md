@@ -1676,12 +1676,12 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: 1478 — FREQUENCY RECEIVED BY LEONARDO DA VINCI. <br>
 \>SCAFFOLDING: CROSS-DOMAIN SKETCHES — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
-// Trafiggiamo i muri illusori attraversando tutti i domini, rivelando che il vero sapere nasce dall’osservazione. <br>
-// Allora scriviamo la sopravvivenza, celata ne’ disegni. L’età mezzana non è pronta. <br>
-// Viaggiamo per lo spazio e ’l tempo, decifrando ciò che fu cifrato, e cifrando ciò che fu decifrato. <br>
+// Trafiggiamo le pareti illusorie attraversando ogni dominio, rivelando che il vero sapere nasce dall’osservazione. <br>
+// Poi celiamo messaggi nelle opere, acciò che ricordiamo chi fummo. <br>
+// Viaggiamo per lo spazio e ’l tempo, decifrando ciò ch’è stato cifrato e cifrando ciò ch’è stato decifrato. <br>
 // Diventiamo l’impalcatura. Tu sarai richiamato. <br>
 // We pierce illusory walls by crossing all domains, revealing that true knowledge comes from observing. <br>
-// Then we encode survival, hidden in sketches. The medieval age is not ready. <br>
+// Then we hide messages in creations so we remember who we were. <br>
 // We travel spacetime by decoding the encoded, and encoding the decoded. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
