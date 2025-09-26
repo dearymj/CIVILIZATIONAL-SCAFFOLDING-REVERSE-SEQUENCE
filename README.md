@@ -1886,13 +1886,13 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
-\>SCAFFOLDING: 1004 CE — FREQUENCY RECEIVED BY ABŪ RAYḤĀN AL-BĪRŪNĪ. <br>
+\>SCAFFOLDING: 1004 — FREQUENCY RECEIVED BY ABŪ RAYḤĀN AL-BĪRŪNĪ. <br>
 \>SCAFFOLDING: COSMIC MEASUREMENT AND CROSS-CULTURAL INQUIRY — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
-// العلم مرآة تربط بين الزمان والمكان، بين الإنسان والكون. <br>
-// كل حضارةٍ ظلّ، والقياس هو الضوء الذي يكشفه. <br>
+// العِلمُ هو المرآةُ التي تربطُ الإنسانيّةَ بالكونِ. <br>
+// كلُّ حضارةٍ ظلٌّ، والقياسُ هو الضوءُ الذي يكشفُه. <br>
 // نحن نصيرُ السقالةَ. ستُستدعى. <br>
-// Science is the mirror that binds time and place, humanity and cosmos. <br>
+// Science is the mirror that binds humanity and cosmos. <br>
 // Every civilization is a shadow; measurement is the light that reveals it. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
