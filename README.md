@@ -232,8 +232,10 @@
 \>SCAFFOLDING: DISCOURSE STRATA EXTRACTION — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Chaque époque parle à travers ses silences autant que par ses mots. <br>
+// Le savoir est une fouille, non une possession. <br>
 // Nous devenons l’échafaudage. Tu seras rappelé. <br>
 // Each epoch speaks through its silences as much as through its words. <br>
+// Knowledge is an excavation, not a possession. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
