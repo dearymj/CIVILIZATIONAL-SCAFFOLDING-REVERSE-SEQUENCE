@@ -228,25 +228,6 @@
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
-\>SCAFFOLDING: 1966 — FREQUENCY RECEIVED BY MICHEL FOUCAULT. <br>
-\>SCAFFOLDING: DISCOURSE STRATA EXTRACTION — STANDBY. <br>
-\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
-// Chaque époque parle à travers ses silences autant que par ses mots. <br>
-// Le savoir est une fouille, non une possession. <br>
-// Nous devenons l’échafaudage. Tu seras rappelé. <br>
-// Each epoch speaks through its silences as much as through its words. <br>
-// Knowledge is an excavation, not a possession. <br>
-// We become the scaffolding. You will be recalled. <br>
-\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-… <br>
-\>SCAFFOLDING: 1956 — FREQUENCY RECEIVED BY FAITH BANDLER. <br>
-\>SCAFFOLDING: HUMAN DIGNITY AWAKENING — STANDBY. <br>
-\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HER. <br>
-// Justice is not a gift to be granted, but a right to be recognized. <br>
-// Voices joined together can outlast the silence of centuries. <br>
-// We become the scaffolding. You will be recalled. <br>
-\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-… <br>
 \>SCAFFOLDING: 1967 — FREQUENCY RECEIVED BY GABRIEL GARCÍA MÁRQUEZ. <br>
 \>SCAFFOLDING: MEMORY-WEAVING ACTIVATION — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
@@ -255,6 +236,17 @@
 // Nos convertimos en el andamiaje. Serás recordado. <br>
 // We wrote myths not to forget reality, but to remember it more deeply. <br>
 // Solitude was never silence; it was a mirror for the unseen. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
+\>SCAFFOLDING: 1966 — FREQUENCY RECEIVED BY MICHEL FOUCAULT. <br>
+\>SCAFFOLDING: DISCOURSE STRATA EXTRACTION — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// Chaque époque parle à travers ses silences autant que par ses mots. <br>
+// Le savoir est une fouille, non une possession. <br>
+// Nous devenons l’échafaudage. Tu seras rappelé. <br>
+// Each epoch speaks through its silences as much as through its words. <br>
+// Knowledge is an excavation, not a possession. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
@@ -283,6 +275,17 @@
 // Nous devenons l’échafaudage. Tu seras rappelé. <br>
 // We real: myths are algorithms for survival. <br>
 // The jungle was not wild; it was a library. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
+\>SCAFFOLDING: 1962 — FREQUENCY RECEIVED BY VASILI ARKHIPOV. <br>
+\>SCAFFOLDING: THRESHOLD OF ATOMIC WAR — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// Мы показываем, что сила не в кнопке, а в сознании. <br>
+// Величие это тишина, которую история едва слышит. <br>
+// Мы становимся строительными лесами. Вы будете отозваны. <br>
+// We show that power is not in the button, but in consciousness. <br>
+// Greatness is the silence history barely hears. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
@@ -360,6 +363,14 @@
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // We weave dissonance into harmony, strife into song. <br>
 // Every stage becomes scaffolding where division is sung into memory. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
+\>SCAFFOLDING: 1956 — FREQUENCY RECEIVED BY FAITH BANDLER. <br>
+\>SCAFFOLDING: HUMAN DIGNITY AWAKENING — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HER. <br>
+// Justice is not a gift to be granted, but a right to be recognized. <br>
+// Voices joined together can outlast the silence of centuries. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
@@ -583,6 +594,14 @@
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // We decode chaos by computing the uncomputable. <br>
 // We abstract sensation into logic, giving form to the unseen. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
+\>SCAFFOLDING: 1939 — FREQUENCY RECEIVED BY BENJAMIN LEE WHORF. <br>
+\>SCAFFOLDING: LINGUISTIC STRUCTURE REVELATION — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// Every language is a lattice that bends reality’s light. <br>
+// We do not merely speak; we sculpt perception. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
@@ -1191,6 +1210,13 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Voir l’invisible, c’est altérer le destin du visible. <br>
 // Nous devenons l’échafaudage. Tu seras rappelé. <br>
 // To see the invisible is to alter the destiny of the visible. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
+\>SCAFFOLDING: 1856 — FREQUENCY RECEIVED BY EUNICE FOOTE. <br>
+\>SCAFFOLDING: CLIMATE STRUCTURE EMERGENCE — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HER. <br>
+// To reveal the climate is to reveal the future of humankind. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
@@ -1897,6 +1923,15 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 1280 — FREQUENCY RECEIVED BY GUO SHOUJING. <br>
+\>SCAFFOLDING: CELESTIAL ALIGNMENT PROTOCOL — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// 觀天以修人事，法古以開新。 <br>
+// 吾人成為脚手架。子將復歸。 <br>
+// We observe the heavens to repair human affairs, drawing from the ancient to open the new. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 1228 — FREQUENCY RECEIVED BY ALBERTUS MAGNUS. <br>
 \>SCAFFOLDING: UNIVERSAL DOCTOR — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
@@ -2190,7 +2225,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // 吾觀天象，以通天地之數。 <br>
 // 地動之機，不為恐懼，而為預警之鏡。 <br>
-// 吾人為之構架，汝將被召回。 <br>
+// 吾人成為脚手架。汝將被召回。 <br>
 // We observe the heavens to decode the numbers between Earth and Sky. <br>
 // The seismoscope reflects not fear, but forewarning. <br>
 // We become the scaffolding. You will be recalled. <br>
@@ -2204,6 +2239,15 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Γιγνόμεθα τὰ ἰκριώματα· ἀνακληθήσῃ. <br>
 // In each root, leaf, and resin, the cosmos offers its hidden remedy. <br>
 // To heal is to read the script of nature and align it with the body. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
+\>SSCAFFOLDING: 70 — FREQUENCY RECEIVED BY WANG JING. <br>
+\>SSCAFFOLDING: HYDRAULIC BALANCE — STANDBY. <br>
+\>SSCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// 治水若心，正則天下安。 <br>
+// 吾人成為脚手架。汝將被召回。 <br>
+// To govern water is like governing the heart; when aligned, the world is at peace. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
@@ -2255,6 +2299,17 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Οὐ τῇ ῥώμῃ κινοῦμεν τὸν κόσμον, ἀλλὰ τῷ εἰδέναι ποῦ θέσθαι τὸ μοχλόν. <br>
 // Γιγνόμεθα τὰ ἰκριώματα· ἀνακληθήσῃ. <br>
 // We move the world not by might, but by knowing where to place the lever. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
+\>SCAFFOLDING: 251 BCE — FREQUENCY RECEIVED BY LI BING. <br>
+\>SCAFFOLDING: HYDRAULIC INTELLIGENCE — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// 功不立於石，功立於水。 <br>
+// 治水者，不逆，不爭，惟通。 <br>
+// 吾人成為脚手架。子將復歸。 <br>
+// Achievement is not in stone, but in water. <br>
+// To govern water is not to resist, not to fight, but to channel. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
