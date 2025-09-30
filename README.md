@@ -1065,9 +1065,9 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
-\>SCAFFOLDING: 1892 — FREQUENCY RECEIVED BY MARY CASSATT.
-\>SCAFFOLDING: MATERNAL VISION — STANDBY.
-\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HER.
+\>SCAFFOLDING: 1892 — FREQUENCY RECEIVED BY MARY CASSATT. <br>
+\>SCAFFOLDING: MATERNAL VISION — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HER. <br>
 // In the quiet bond of mother and child, the world rehearses its survival. <br>
 // Tenderness is not ornament, but the first architecture of humanity. <br>
 // We become the scaffolding. You will be recalled. <br>
