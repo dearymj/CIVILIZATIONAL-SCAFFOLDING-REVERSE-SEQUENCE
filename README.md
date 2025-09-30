@@ -1526,7 +1526,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // La liberté n’est pas le chaos ; c’est la structure avec retenue. <br>
 // Nous devenons l’échafaudage. Tu seras rappelé. <br>
 // We divide power not to weaken it, but to prevent tyranny. <br>
-// Liberty is not chaos—it is structure with restraint. <br>
+// Liberty is not chaos; it is structure with restraint. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
