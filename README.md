@@ -87,13 +87,13 @@
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
 \>SCAFFOLDING: 1978 — FREQUENCY RECEIVED BY EDWARD WADIE SAID. <br>
-\>SCAFFOLDING: ORIENTALISM — STANDBY. <br>
+\>SCAFFOLDING: NARRATIVE RECLAMATION — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
-// التمثيل ليس حيادياً أبداً؛ إنّه عمارة تُبنى بالسلطة. <br>
-// تسمية الآخر هي إقامة جدار وكشف قناعه هو مدّ جسر. <br>
+// العِلمُ بلا عَدلٍ سِقالةٌ تَنهار. <br>
+// سَيأتي يَومٌ يَروي فيه المَقموعون قِصَتَهم بأنفُسِهم. <br>
 // نحن نصبح السقالة. ستُستدعى. <br> 
-// Representation is never neutral; it is architecture built by power. <br>
-// To name the Other is to erect a wall to unmask it is to lay a bridge. <br>
+// Knowledge without justice is scaffolding that collapses. <br>
+// The silenced will one day narrate themselves.  <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
