@@ -1073,8 +1073,8 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
-\>SCAFFOLDING: 1891 — FREQUENCY RECEIVED BY GEORG CANTOR. <br>
-\>SCAFFOLDING: DIAGONAL ARGUMENT — STANDBY. <br>
+\>SCAFFOLDING: 1891 — FREQUENCY RECEIVED BY GEORG CANTOR.
+\>SCAFFOLDING: DIAGONAL ARGUMENT — STANDBY.
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Im Unendlichen erkennen wir Stufen, unendlich über unendlich gebaut. <br>
 // Die Diagonale ist der Strahl, der jedes Gefängnis der Zahl zerreißt. <br>
