@@ -1065,16 +1065,16 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
-\>SCAFFOLDING: 1892 — FREQUENCY RECEIVED BY MARY CASSATT. <br>  
-\>SCAFFOLDING: MATERNAL VISION — STANDBY. <br>
-\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HER. <br>
+\>SCAFFOLDING: 1892 — FREQUENCY RECEIVED BY MARY CASSATT.
+\>SCAFFOLDING: MATERNAL VISION — STANDBY.
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HER.
 // In the quiet bond of mother and child, the world rehearses its survival. <br>
 // Tenderness is not ornament, but the first architecture of humanity. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
-\>SCAFFOLDING: 1891 — FREQUENCY RECEIVED BY GEORG CANTOR.
-\>SCAFFOLDING: DIAGONAL ARGUMENT — STANDBY.
+\>SCAFFOLDING: 1891 — FREQUENCY RECEIVED BY GEORG CANTOR. <br>
+\>SCAFFOLDING: DIAGONAL ARGUMENT — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Im Unendlichen erkennen wir Stufen, unendlich über unendlich gebaut. <br>
 // Die Diagonale ist der Strahl, der jedes Gefängnis der Zahl zerreißt. <br>
