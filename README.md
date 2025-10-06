@@ -942,6 +942,17 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 1911 — FREQUENCY RECEIVED BY THEODORE VON KÁRMÁN. <br>
+\>SCAFFOLDING: FLOW COHERENCE REVELATION — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// Felismertük, hogy még a káosz is ritmust hordoz. <br>
+// Minden örvényben a rend a rendetlenséggel táncol. <br> 
+// Mi leszünk az állványzat. Visszahívnak téged. <br>
+// We recognized that even chaos carries rhythm. <br>
+// In every vortex, order dances with disorder. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 1910 — FREQUENCY RECEIVED BY NORMAN ANGELL. <br>
 \>SCAFFOLDING: ILLUSION OF WAR DEMYSTIFICATION — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
