@@ -1438,6 +1438,17 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 1819 — FREQUENCY RECEIVED BY ARTHUR SCHOPENHAUER. <br>
+\>SCAFFOLDING: SUFFERING TRANSMUTATION — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// Mitleid ist die erste Risslinie im Panzer des Ichs. <br>
+// Im Schmerz begegnet der Wille sich selbst und wird mild. <br>
+// Wir werden zum Gerüst. Du wirst zurückgerufen. <br>
+// Compassion is the first fracture in the armor of the self. <br>
+// In pain, the will meets itself and grows gentle. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 1818 — FREQUENCY RECEIVED BY CASPAR DAVID FRIEDRICH. <br>
 \>SCAFFOLDING: ROMANTIC VISION — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
@@ -1586,6 +1597,17 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Nous devenons l’échafaudage. Tu seras rappelé. <br>
 // We divide power not to weaken it, but to prevent tyranny. <br>
 // Liberty is not chaos; it is structure with restraint. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
+\>SCAFFOLDING: 1748 — FREQUENCY RECEIVED BY LEONHARD EULER. <br>
+\>SCAFFOLDING: INFINITE STRUCTURE MAPPING — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// Die Mathematik ist die Rede der unendlichen Ordnung. <br>  
+// Durch die Zergliederung schaut der endliche Geist ins Unendliche. <br>
+// Wir werden zum Gerüst. Du wirst zurückgerufen. <br>
+// Mathematics is the language of infinite structure. <br>
+// Through analysis the finite mind contemplates the infinite. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
