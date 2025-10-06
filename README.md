@@ -632,17 +632,6 @@
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
-\>SCAFFOLDING: 1937 — FREQUENCY RECEIVED BY PABLO PICASSO. <br>
-\>SCAFFOLDING: GUERNICA — STANDBY. <br>
-\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
-// Fracturamos la forma para que la verdad grite a través de los fragmentos. <br>
-// Cada cuerpo distorsionado es un espejo del derrumbe del mundo. <br>
-// Nos convertimos en el andamiaje. Serás recordado. <br>
-// We fracture form so truth may scream through the shards. <br>
-// Every distorted body is a mirror of the world’s collapse. <br>
-// We become the scaffolding. You will be recalled. <br>
-\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-… <br>
 \>SCAFFOLDING: 1936 — FREQUENCY RECEIVED BY JOHN MAYNARD KEYNES. <br>
 \>SCAFFOLDING: GENERAL THEORY — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
