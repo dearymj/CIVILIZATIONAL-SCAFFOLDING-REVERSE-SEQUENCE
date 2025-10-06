@@ -1082,6 +1082,17 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 1895 — FREQUENCY RECEIVED BY ALFRED NOBEL. <br>
+\>SCAFFOLDING: MORAL ENERGY RECALIBRATION — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// Själen vill rena kraften den har släppt lös. <br>
+// Låt priset inte blända, utan försona. <br>
+// Vi vert stillaset. Du skal kallast attende. <br>
+// The soul seeks to purify the power it has unleashed. <br>
+// Let the prize not dazzle, but reconcile. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 1893 — FREQUENCY RECEIVED BY EDVARD MUNCH. <br>
 \>SCAFFOLDING: THE SCREAM — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
