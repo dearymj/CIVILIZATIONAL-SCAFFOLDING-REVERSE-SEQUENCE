@@ -1108,7 +1108,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: 1898 — FREQUENCY RECEIVED BY ANTON CHEKHOV. <br>
 \>SCAFFOLDING: THE SEAGULL AT THE MOSCOW ART THEATRE — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
-// Мы открываем, что молчание тоже есть диалог, а паузы — это балки смысла. <br>
+// Мы открываем, что молчание тоже есть диалог, а паузы это балки смысла. <br>
 // Обыкновенный миг сам по себе достаточно прочная архитектура, чтобы выдержать вечность. <br>
 // Мы становимся строительными лесами. Вы будете отозваны. <br>
 // We reveal that silence is also dialogue, and pauses are beams of meaning. <br>
