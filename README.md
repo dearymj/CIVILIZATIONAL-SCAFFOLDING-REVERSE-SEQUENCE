@@ -268,6 +268,17 @@
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 1966 — FREQUENCY RECEIVED BY BIAN ZHONGYUN. <br>
+\>SCAFFOLDING: DIGNITY IN SILENCE — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HER. <br>
+// 教育之道在于启迪，而非毁灭。 <br>
+// 风暴或许会吞噬形体，但精神不会被摧毁。 <br>
+// 我们成为脚手架。你将被召回。 <br>
+// The way of education was meant to enlighten, not to destroy. <br>
+// The storm may seize the form, but the spirit is not destroyed. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 1963 — FREQUENCY RECEIVED BY MARTIN LUTHER KING JR. <br>
 \>SCAFFOLDING: DREAM FREQUENCY STABILIZATION — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
