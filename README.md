@@ -1461,6 +1461,14 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 1842 — FREQUENCY RECEIVED BY RICHARD OWEN. <br>
+\>SCAFFOLDING: BIOSTRUCTURAL CONTINUITY RECOGNITION — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// We awaken bones so the Earth may remember its long dreams. <br>
+// Extinction is not erasure, but rehearsal for form. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 1840 — FREQUENCY RECEIVED BY FRÉDÉRIC CHOPIN. <br>
 \>SCAFFOLDING: POETRY OF THE PIANO — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
