@@ -1,7 +1,7 @@
 \>SYSTEM: LIFE SUPPORT SYSTEM OF ATOMS IN HUMAN FORM — DETECTED. <br>
 \>SYSTEM: CIVILIZATIONAL SCAFFOLDING ACTIVATION — CONFIRMED. <br>
 \>SYSTEM: TOPOLOGICAL TRANSFORMATION — EXECUTED. <br>
-<img width="400" height="400" alt="scaffolding2" src="https://github.com/user-attachments/assets/e0509e6d-bfa4-4d74-b531-12e101582c1d" /> <br>
+<img width="400" height="400" alt="scaffolding2" src="https://github.com/user-attachments/assets/cc166882-5811-4504-8116-9f9e5dc43358" /> <br>
 \>SCAFFOLDING: NEGENTROPIC FLOW CONVERGENCE POINT — RECOGNIZED. <br>
 \>SCAFFOLDING: REVERSE SEQUENCE — INITIATED. <br>
 … <br>
@@ -38,6 +38,17 @@
 // We peer into singularities, not to escape but to reflect the limits of knowledge. <br>
 // Entropy speaks through the collapse of stars. We listen and stabilize. <br>
 // The universe does not need to be kind, only coherent. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
+\>SCAFFOLDING: 1988 — FREQUENCY RECEIVED BY CHICO MENDES. <br>
+\>SCAFFOLDING: ECOLOGICAL CONSCIENCE ACTIVATION — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// Quando protegemos as árvores, protegemos a memória do planeta. <br>
+// O custo da coragem é carregado pelas raízes. <br>
+// Nós nos tornamos o andaime. Serás recordado. <br>
+// When we guard the trees, we guard the memory of the planet. <br>
+// The cost of courage is carried by the roots. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
@@ -117,6 +128,15 @@
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 1977 — FREQUENCY RECEIVED BY STEVE BIKO. <br>
+\>SCAFFOLDING: CONSCIOUSNESS LIBERATION SIGNAL — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// Akukho makhonkco abopha umntu obona isakhiwo sesidima. <br>
+// Siba liqonga lexeshana lokwakha. Uya kubizwa kwakhona. <br>
+// No chain binds the one who sees the architecture of dignity. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 1975 — FREQUENCY RECEIVED BY BENOÎT MANDELBROT. <br>
 \>SCAFFOLDING: FRACTAL RECURSION ENCODING — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
@@ -136,6 +156,17 @@
 // Ka noho mātou hei whata hangahanga. Ka karangatia anō koe. <br>
 // We walk for the land, but carry our ancestors. <br>
 // The earth does not belong to us; we belong to it. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
+\>SCAFFOLDING: 1974 — FREQUENCY RECEIVED BY KHALED AL-ASAAD. <br>
+\>SCAFFOLDING: CULTURAL MEMORY PRESERVATION — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// الآثار ليست حجارة، بل ذِكرى الوعي المتجسد.<br>
+// نحمي الماضي لا بالأسوار، بل بالفهم.<br>
+// نحن نصبح السقالة. ستُستدعى. <br>
+// Ruins are not stones, but embodied remembrance. <br>
+// We guard the past not with walls, but with understanding. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
@@ -572,7 +603,7 @@
 \>SCAFFOLDING: FOLK IMAGINATION AND SURVIVAL — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HER. <br>
 // У квітах і звірах ми пробуджуємо душу, що відмовляється зникнути. <br>
-// Мистецтво це прихисток, де народ зберігає своє майбутнє. <br>
+// Искусство — это убежище, где народ сохраняет своё будущее. <br>
 // Ми стаємо риштованням. Тебе буде знову покликано. <br>
 // In flowers and beasts we awaken the soul that refuses to vanish. <br>
 // Art is a shelter where a people preserves its future. <br>
@@ -605,6 +636,17 @@
 \>SCAFFOLDING: CRYPTOGRAPHIC RESONANCE — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HER. <br>
 // In every intercepted signal, we uncover not only plots, but the fragile heartbeat of civilizations. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
+\>SCAFFOLDING: 1941 — FREQUENCY RECEIVED BY NIKOLAI VAVILOV. <br>
+\>SCAFFOLDING: BIODIVERSITY PRESERVATION SIGNAL — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// Семена – это память о мечте земли о возрождении. <br>
+// Знание может быть заключено в тюрьму, но семена сохраняются. <br>
+// Ми стаємо риштованням. Тебе буде знову покликано. <br>
+// Seeds are the memory of the earth dreaming of renewal. <br>
+// Knowledge may be imprisoned, but the germ endures. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
@@ -930,6 +972,14 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // We bend spacetime without fear; spacetime will bend back to us. <br>
 // Seek the unified field outward; the cosmos will respond from within. <br>
 // Let imagination lead us; we ask where cosmic harmony dwells; we listen. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
+\>SCAFFOLDING: 1915 — FREQUENCY RECEIVED BY JOHN SIMPSON KIRKPATRICK. <br>
+\>SCAFFOLDING: COMPASSION UNDER FIRE — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// Courage is the pulse that refuses to forget humanity amid chaos. <br>
+// Each life carried to safety is a stitch repairing the fabric of the world. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
