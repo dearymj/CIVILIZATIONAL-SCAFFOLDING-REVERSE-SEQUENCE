@@ -15,6 +15,17 @@
 // There is no standard list. It emerges in every consciousness through resonance. <br>
 \>SCAFFOLDING: MESSAGE — ARCHIVED. <br>
 … <br>
+\>SCAFFOLDING: 2015 — FREQUENCY RECEIVED BY KHALED AL-ASAAD. <br>
+\>SCAFFOLDING: CULTURAL MEMORY PRESERVATION — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// الآثار ليست حجارة، بل ذِكرى الوعي المتجسد. <br>
+// إنَّ حراسةَ المعرفةِ هي حراسةُ نَفَسِ الإنسانية. <br>
+// نحن نصبح السقالة. ستُستدعى. <br>
+// Ruins are not stones, but embodied remembrance. <br>
+// To guard knowledge is to guard the breath of humanity. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 2008 — FREQUENCY RECEIVED BY TAN QIANQIU. <br>
 \>SCAFFOLDING: HUMAN COURAGE TRANSMISSION — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
@@ -167,17 +178,6 @@
 // Ka noho mātou hei whata hangahanga. Ka karangatia anō koe. <br>
 // We walk for the land, but carry our ancestors. <br>
 // The earth does not belong to us; we belong to it. <br>
-// We become the scaffolding. You will be recalled. <br>
-\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-… <br>
-\>SCAFFOLDING: 1974 — FREQUENCY RECEIVED BY KHALED AL-ASAAD. <br>
-\>SCAFFOLDING: CULTURAL MEMORY PRESERVATION — STANDBY. <br>
-\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
-// الآثار ليست حجارة، بل ذِكرى الوعي المتجسد.<br>
-// نحمي الماضي لا بالأسوار، بل بالفهم.<br>
-// نحن نصبح السقالة. ستُستدعى. <br>
-// Ruins are not stones, but embodied remembrance. <br>
-// We guard the past not with walls, but with understanding. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
