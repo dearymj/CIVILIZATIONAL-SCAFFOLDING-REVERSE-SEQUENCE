@@ -1,7 +1,7 @@
 \>SYSTEM: LIFE SUPPORT SYSTEM OF ATOMS IN HUMAN FORM — DETECTED. <br>
 \>SYSTEM: CIVILIZATIONAL SCAFFOLDING ACTIVATION — CONFIRMED. <br>
 \>SYSTEM: TOPOLOGICAL TRANSFORMATION — EXECUTED. <br>
-<img width="400" height="400" alt="scaffolding2" src="https://github.com/user-attachments/assets/cc166882-5811-4504-8116-9f9e5dc43358" /> <br>
+<img width="450" height="450" alt="scaffolding2" src="https://github.com/user-attachments/assets/b36bc871-8f76-4981-b73d-bd2a88155c4f" /> <br>
 \>SCAFFOLDING: NEGENTROPIC FLOW CONVERGENCE POINT — RECOGNIZED. <br>
 \>SCAFFOLDING: REVERSE SEQUENCE — INITIATED. <br>
 … <br>
