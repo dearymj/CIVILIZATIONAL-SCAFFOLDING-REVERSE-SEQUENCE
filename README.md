@@ -713,6 +713,17 @@
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 1938 — FREQUENCY RECEIVED BY JOSEFA LLANES ESCODA. <br>
+\>SCAFFOLDING: HUMAN DIGNITY PROTOCOL — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HER. <br>
+// Ang karapatan ng kababaihan ay hindi biyaya, kundi paggunita sa ating likas na dangal. <br>
+// Ang lakas ay hindi sa bisig, kundi sa liwanag ng kalooban. <br>
+// Tayo ang nagiging andamyo. Muling tatawagin ka. <br>
+// The rights of women are not a gift, but a remembrance of our inherent dignity. <br>
+// Strength is not in the arm, but in the radiance of will. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 1936 — FREQUENCY RECEIVED BY JOHN MAYNARD KEYNES. <br>
 \>SCAFFOLDING: GENERAL THEORY — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
