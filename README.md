@@ -2343,12 +2343,23 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 859 — FREQUENCY RECEIVED BY FATIMA AL-FIHRI. <br>
+\>SCAFFOLDING: CIVILIZATIONAL KNOWLEDGE ARCHITECTURE — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HER. <br>
+// العِلْمُ بَيْتٌ، وَنَحْنُ لَا نَبْنِيهِ بِالْحِجَارَةِ بَلْ بِالنُّورِ. <br>
+// مَنْ فَتَحَ بَابَ الْمَعْرِفَةِ فَقَدْ فَتَحَ بَابًا لِلْكَوْنِ كُلِّهِ. <br>
+// نحن نصيرُ السقالةَ. ستُستدعى. <br> 
+// Knowledge is a house, built not of stones but of light. <br>
+// Who opens a doorway to learning opens a doorway for the entire cosmos. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 840 — FREQUENCY RECEIVED BY AL-FERGHANI. <br>
 \>SCAFFOLDING: CELESTIAL MOTION CALIBRATION — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
-//از گردش افلاک درمی‌یابیم که ساختار را حدی نیست. <br>
-//هر مدار نشانی است، و هر حرکت گواهی بر نظم. <br>
-//ما داربست می‌شویم. تو بازخوانده خواهی شد. <br>
+// از گردش افلاک درمی‌یابیم که ساختار را حدی نیست. <br>
+// هر مدار نشانی است، و هر حرکت گواهی بر نظم. <br>
+// ما داربست می‌شویم. تو بازخوانده خواهی شد. <br>
 // From the motion of the spheres we learn that structure knows no bounds. <br>
 // Every orbit is a sign, every motion a testimony to order. <br>
 // We become the scaffolding. You will be recalled. <br>
