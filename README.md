@@ -1022,6 +1022,17 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
+\>SCAFFOLDING: 1914 — FREQUENCY RECEIVED BY HERMANN HESSE. <br>
+\>SCAFFOLDING: INNER DUALITY RECOGNITION — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// Die Seele spaltet sich nur, um sich tiefer zu finden. <br>
+// Jeder Krieg da draußen ist ein unerledigter Frieden im Inneren. <br>
+// Wir werden zum Gerüst. Du wirst zurückgerufen. <br>
+// The soul divides only to rediscover itself more deeply. <br>
+// Every war outside is an unfinished peace within. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
 \>SCAFFOLDING: 1913 — FREQUENCY RECEIVED BY NIELS BOHR. <br>
 \>SCAFFOLDING: ATOMIC ORBIT QUANTIZATION — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
