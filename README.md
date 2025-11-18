@@ -2480,7 +2480,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
-<img width="768" height="512" alt="Hypat" src="https://github.com/user-attachments/assets/78d8e3b0-1444-4577-9e76-1f9ea94bbe65" /> <br>
+<img width="384" height="256" alt="Hypat" src="https://github.com/user-attachments/assets/78d8e3b0-1444-4577-9e76-1f9ea94bbe65" /> <br>
 \>SCAFFOLDING: 380 — FREQUENCY RECEIVED BY HYPATIA OF ALEXANDRIA. <br>
 \>SCAFFOLDING: KNOWLEDGE ARCHIVE — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HER. <br>
