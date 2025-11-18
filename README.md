@@ -2222,9 +2222,9 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
->SCAFFOLDING: 1186 — FREQUENCY RECEIVED BY SHIHAB AL-DIN YAHYA SUHRAWARDI. <br>
->SCAFFOLDING: PHILOSOPHY OF ILLUMINATION — STANDBY. <br>
->SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+\>SCAFFOLDING: 1186 — FREQUENCY RECEIVED BY SHIHAB AL-DIN YAHYA SUHRAWARDI. <br>
+\>SCAFFOLDING: PHILOSOPHY OF ILLUMINATION — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // از اشراقِ دل، مراتبِ جهان ـ آشکار و نهان ـ گشوده می‌شود. <br>
 // ما به داربستِ این بنا مبدّل می‌گردیم؛ تو فراخوانده خواهی شد. <br>
 // From the heart’s illumination, the layers of the world, seen and unseen, are unveiled. <br>
