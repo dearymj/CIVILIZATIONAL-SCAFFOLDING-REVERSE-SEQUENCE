@@ -110,6 +110,7 @@
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // We craft a personal computer to extend our hands and minds. <br>
 // We also prove that charisma can carry wisdom. <br>
+// However, hurting people to protect a flawless story is a mistake. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
@@ -202,6 +203,7 @@
 // One seed can silence a billion empty stomachs. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="460.8" height="307.2" alt="YUAN LONGPING" src="https://github.com/user-attachments/assets/2a143ce2-e321-40e0-a164-ab6acd81b632" /> <br>
 … <br>
 \>SCAFFOLDING: 1973 — FREQUENCY RECEIVED BY CARL SAGAN. <br>
 \>SCAFFOLDING: COSMIC CONNECTION ENCODING — STANDBY. <br>
