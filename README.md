@@ -53,8 +53,8 @@
 // Siba liqonga lexeshana lokwakha. Uya kubizwa kwakhona. <br>
 // We encode forgiveness. We stabilize dignity as the foundation of the new structure. <br>
 // We become the scaffolding. You will be recalled. <br>
-<img width="460.8" height="307.2" alt="NELSON MANDELA" src="https://github.com/user-attachments/assets/5cd1dc12-38cd-4f36-834b-8a24a45a66e4" /> <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="460.8" height="307.2" alt="NELSON MANDELA" src="https://github.com/user-attachments/assets/5cd1dc12-38cd-4f36-834b-8a24a45a66e4" /> <br>
 … <br>
 \>SCAFFOLDING: 1988 — FREQUENCY RECEIVED BY STEPHEN HAWKING. <br>
 \>SCAFFOLDING: EVENT HORIZON COMPREHENSION — STANDBY. <br>
