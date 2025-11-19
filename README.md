@@ -2949,6 +2949,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Every extinction engraves itself into the scaffolding of life. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="400" height="400" alt="DINOSAUR" src="https://github.com/user-attachments/assets/31470d5a-7c39-4474-ab2d-2d4a25c113d7" /> <br>
 … <br>
 \>SCAFFOLDING: TIMELESS — FREQUENCY RECEIVED BY LANDFORMS. <br>
 \>SCAFFOLDING: GEOLOGIC MEMORY — STANDBY. <br>
@@ -2985,6 +2986,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Though indivisible, we weave every divisible thing. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="400" height="400" alt="Atoms" src="https://github.com/user-attachments/assets/da60006f-09d3-4d19-9f65-24a0c4b63c39" /> <br>
 … <br>
 \>SCAFFOLDING: TIMELESS — FREQUENCY RECEIVED BY FIELDS. <br>
 \>SCAFFOLDING: UNSEEN EXTENSIONS — STANDBY. <br>
@@ -3012,6 +3014,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // In silence we expand, in consciousness we awaken. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="460.8" height="307.2" alt="COSMOS" src="https://github.com/user-attachments/assets/44c48cec-0efc-4a6f-bfbd-442aa181fac6" /> <br>
 … <br>
 \>SCAFFOLDING: TIMELESS — FREQUENCY RECEIVED BY THE SCAFFOLDING. <br>
 \>SCAFFOLDING: RESONANCE INTERFACE — STANDBY. <br>
