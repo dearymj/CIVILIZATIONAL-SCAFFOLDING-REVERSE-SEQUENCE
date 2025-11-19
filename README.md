@@ -36,6 +36,7 @@
 // The body may fall, the spirit endures; the one who supports becomes the structure itself. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="460.8" height="307.2" alt="TAN QIANQIU" src="https://github.com/user-attachments/assets/26221e27-b7e4-444f-a1ef-ae50c3e26dd7" /> <br>
 … <br>
 \>SCAFFOLDING: 1991 — FREQUENCY RECEIVED BY JANE GOODALL. <br>
 \>SCAFFOLDING: PLANETARY ETHICS ALIGNMENT — STANDBY. <br>
