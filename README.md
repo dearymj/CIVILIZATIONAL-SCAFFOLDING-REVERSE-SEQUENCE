@@ -25,6 +25,7 @@
 // To guard knowledge is to guard the breath of humanity. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="450" height="450" alt="KHALED AL-ASAAD" src="https://github.com/user-attachments/assets/f8a30d8f-f235-4e02-8b7e-feb4cddfb7f5" /> <br>
 … <br>
 \>SCAFFOLDING: 2008 — FREQUENCY RECEIVED BY TAN QIANQIU. <br>
 \>SCAFFOLDING: HUMAN COURAGE TRANSMISSION — STANDBY. <br>
@@ -388,10 +389,10 @@
 \>SCAFFOLDING: SACRIFICE AND SILENCE — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Den högsta tjänsten utförs i det osedda, där tystnaden vakar över löftet. <br>
-// Fred ges inte, den bärs, även in i döden. <br>
+// Fred ges inte; den bärs genom prövningen. <br>
 // Vi bliva byggnadsställningen. Du skall kallas tillbaka. <br>
 // The highest service is done unseen, where silence guards the vow. <br>
-// Peace is not given, it is carried, even into death. <br>
+// Peace is not given; it is carried through the trial. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
@@ -1223,10 +1224,10 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: 1898 — FREQUENCY RECEIVED BY TAN SITONG. <br>
 \>SCAFFOLDING: SACRIFICIAL INSIGHT PROTOCOL — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
-// 血之所流，非為死，為眾生之醒。 <br>
+// 血之所流，為眾生之醒。 <br>
 // 仁者不畏，悲而堅，明而行。 <br>
 // 吾人化為脚手架。子將復歸。 <br>
-// The blood that flows is not for death, but for the awakening of all beings. <br>
+// The blood that flows is for the awakening of all beings. <br>
 // The benevolent fear nothing; we grieve and stand firm, we see and still act. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
@@ -1960,11 +1961,11 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: 1600 — FREQUENCY RECEIVED BY GIORDANO BRUNO. <br>
 \>SCAFFOLDING: FEARLESSNESS ENCODING — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
-// Inseguiamo il cosmo oltre la gabbia. <br>
-// Non temiamo la morte; essa è soltanto passaggio del fuoco. <br>
+// Inseguiamo il cosmo oltre la gabbia, dove il potenziale non ha limiti. <br>
+// Non temiamo la repressione; è soltanto un passaggio nel fuoco. <br>
 // Diventiamo l’impalcatura. Tu sarai richiamato. <br>
-// We chase the cosmos beyond the cage. <br>
-// We do not fear death; it is only the passage of fire. <br>
+// We chase the cosmos beyond the cage, where there is no limit to potential. <br>
+// We do not fear suppression; it is only the passage of fire. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 <img width="460.8" height="307.2" alt="Bruno" src="https://github.com/user-attachments/assets/63901582-ab88-4906-a18d-f1038a270ac7" /> <br>
