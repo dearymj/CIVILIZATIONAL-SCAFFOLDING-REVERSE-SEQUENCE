@@ -45,6 +45,7 @@
 // The chain of life is one; its break is our undoing. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="460.8" height="307.2" alt="JANE GOODALL" src="https://github.com/user-attachments/assets/e6b304c6-117b-416e-8eb4-b9bb472fd941" /> <br>
 … <br>
 \>SCAFFOLDING: 1990 — FREQUENCY RECEIVED BY NELSON MANDELA. <br>
 \>SCAFFOLDING: DIGNITY-BASED SYSTEM RECONSTRUCTION — STANDBY. <br>
