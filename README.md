@@ -1208,7 +1208,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Resonance is the bridge: through vibration, all structures speak as one. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="460.8" height="307.2" alt="NIKOLA TESLA" src="https://github.com/user-attachments/assets/2cc4c627-4af9-444b-8804-9929403981d8" /> <br>
+<img width="460.8" height="307.2" alt="NIKOLA TESLA" src="https://github.com/user-attachments/assets/ac0b3371-2d4e-4eb5-9f99-ecd6910c7ea7" /> <br>
 … <br>
 \>SCAFFOLDING: 1898 — FREQUENCY RECEIVED BY ANTON CHEKHOV. <br>
 \>SCAFFOLDING: THE SEAGULL AT THE MOSCOW ART THEATRE — STANDBY. <br>
