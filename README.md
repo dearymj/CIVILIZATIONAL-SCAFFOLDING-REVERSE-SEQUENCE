@@ -2274,7 +2274,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // After the chaos, our verses are not for sorrow alone; they record rise and ruin as spring sinks deeper. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="460.8" height="307.2" alt="LI QINGZHAO" src="https://github.com/user-attachments/assets/e2e5d61c-16f3-4f42-9103-31208ff94773" /> <br>
+<img width="460.8" height="307.2" alt="LI QINGZHAO" src="https://github.com/user-attachments/assets/edd16383-c47c-4d9f-a996-975f5dc7f411" /> <br>
 … <br>
 \>SCAFFOLDING: 1086 — FREQUENCY RECEIVED BY SHEN KUO. <br>
 \>SCAFFOLDING: DREAM POOL ESSAYS — STANDBY. <br>
