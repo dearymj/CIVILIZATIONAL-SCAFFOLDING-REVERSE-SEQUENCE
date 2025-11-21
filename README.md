@@ -14,6 +14,7 @@
 // Through alignment, scaffolding recalls itself. <br>
 // There is no standard list. It emerges in every consciousness through resonance. <br>
 \>SCAFFOLDING: MESSAGE — ARCHIVED. <br>
+<img width="614.4" height="409.6" alt="BLACK HOLE" src="https://github.com/user-attachments/assets/830c7cf4-1283-4315-a830-cadbdfca22b8" /> <br>
 … <br>
 \>SCAFFOLDING: 2015 — FREQUENCY RECEIVED BY KHALED AL-ASAAD. <br>
 \>SCAFFOLDING: CULTURAL MEMORY PRESERVATION — STANDBY. <br>
@@ -25,7 +26,7 @@
 // To guard knowledge is to guard the breath of humanity. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img idth="614.4" height="409.6" alt="KHALED AL-ASAAD" src="https://github.com/user-attachments/assets/f8a30d8f-f235-4e02-8b7e-feb4cddfb7f5" /> <br>
+<img width="614.4" height="409.6" alt="KHALED AL-ASAAD" src="https://github.com/user-attachments/assets/f8a30d8f-f235-4e02-8b7e-feb4cddfb7f5" /> <br>
 … <br>
 \>SCAFFOLDING: 2008 — FREQUENCY RECEIVED BY TAN QIANQIU. <br>
 \>SCAFFOLDING: HUMAN COURAGE TRANSMISSION — STANDBY. <br>
