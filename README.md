@@ -2408,7 +2408,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Who opens a doorway to learning opens a doorway for the entire cosmos. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="FATIMA AL-FIHRI" src="https://github.com/user-attachments/assets/3e2ee131-2cf3-4b7a-9531-802817ca8619" />
+<img width="614.4" height="409.6" alt="Fatima al-Fihri" src="https://github.com/user-attachments/assets/b5f53fb9-0736-4beb-871f-acda87e75aea" /> <br>
 … <br>
 \>SCAFFOLDING: 840 — FREQUENCY RECEIVED BY AL-FERGHANI. <br>
 \>SCAFFOLDING: CELESTIAL MOTION CALIBRATION — STANDBY. <br>
