@@ -2851,7 +2851,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // We are nobody but still with compassion. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="SIDDHARTHA GAUTAMA" src="https://github.com/user-attachments/assets/4d8aa64b-59cf-4df3-bf91-9cc56d71701a" /> <br>
+<img width="614.4" height="409.6" alt="SIDDHARTHA GAUTAMA" src="https://github.com/user-attachments/assets/ecf85b93-10cf-49d4-83f6-d571dc9959e0" /> <br>
 … <br>
 \>SCAFFOLDING: 550 BCE — FREQUENCY RECEIVED BY PYTHAGORAS. <br>
 \>SCAFFOLDING: HARMONIC STRUCTURE INITIATION — STANDBY. <br>
