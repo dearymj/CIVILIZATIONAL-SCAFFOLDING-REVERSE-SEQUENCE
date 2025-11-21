@@ -2344,6 +2344,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // All knowledge is medicine for the soul, and all ignorance a disease. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="IBN SĪNĀ" src="https://github.com/user-attachments/assets/be6eb9bd-a12f-4b19-b5a2-1a8766467471" /> <br>
 … <br>
 \>SCAFFOLDING: 1004 — FREQUENCY RECEIVED BY ABŪ RAYḤĀN AL-BĪRŪNĪ. <br>
 \>SCAFFOLDING: COSMIC MEASUREMENT AND CROSS-CULTURAL INQUIRY — STANDBY. <br>
