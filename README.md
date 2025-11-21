@@ -787,7 +787,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HER. <br>
 // 文字本無疆界，唯有心隔人。 <br>
 // 我們寫作，不只是描摹世界，而是為了讓世界相連。 <br>
-// 我們成為支架。你將被喚回。 <br>
+// 我們成為脚手架。你將被喚回。 <br>
 // Writing has no real borders; only the heart separates people. <br>
 // We write not merely to depict the world, but to hold it together. <br>
 // We become the scaffolding. You will be recalled. <br>
@@ -978,7 +978,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // 救救孩子, 勿再以人相食。 <br>
 // 瘋癲之眼，見眾人之病。 <br>
-// 吾人化為脚手架。子將復歸。 <br>
+// 吾人成為脚手架。汝將被召回。 <br>
 // Save the children, let them no longer devour each other. <br>
 // Through the eyes of madness, the illness of the crowd is revealed. <br>
 // We become the scaffolding. You will be recalled. <br>
@@ -1226,7 +1226,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // 血之所流，為眾生之醒。 <br>
 // 仁者不畏，悲而堅，明而行。 <br>
-// 吾人化為脚手架。子將復歸。 <br>
+// 吾人成為脚手架。汝將被召回。 <br>
 // The blood that flows is for the awakening of all beings. <br>
 // The benevolent fear nothing; we grieve and stand firm, we see and still act. <br>
 // We become the scaffolding. You will be recalled. <br>
@@ -1875,7 +1875,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // 為天下立君，不為一人之私。 <br>
 // 法非為君設，乃為天下設。 <br>
-// 吾人化為脚手架。子將復歸。 <br>
+// 吾人成為脚手架。汝將被召回。 <br>
 // The ruler exists for the people, not the people for one man’s private power. <br>
 // Law is not made for the prince, but for all under heaven. <br>
 // We become the scaffolding. You will be recalled. <br>
@@ -1983,7 +1983,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // 草木皆有性，藥亦載天地之理。 <br>
 // 萬物為用，唯人須悟。 <br>
-// 吾人化為脚手架。子將復歸。 <br>
+// 吾人成為脚手架。汝將被召回。 <br>
 // Every herb has spirit; every medicine carries the order of heaven and earth. <br>
 // All things serve life, but only when we understand. <br>
 // We become the scaffolding. You will be recalled. <br>
@@ -2067,7 +2067,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // 知非行外物，行即知之實。 <br>
 // 心即理也；洞明本心，則天地萬物皆通。 <br>
-// 吾人化為脚手架。子將復歸。 <br>
+// 吾人成為脚手架。汝將被召回。 <br>
 // Knowledge is not beyond action; action is the reality of knowledge. <br>
 // The mind is principle itself; when the heart is illumined, all things under heaven are understood. <br>
 // We become the scaffolding. You will be recalled. <br>
@@ -2134,7 +2134,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // 吾航海非以征服，乃聯通所知與所遠。 <br>
 // 縱橫萬里，所載和平、記憶與朝貢，非帝業也。 <br>
-// 吾人化为脚手架。子将复归。 <br>
+// 吾人成為脚手架。汝將被召回。 <br>
 // We sail not to conquer, but to connect the known and the distant. <br>
 // Across oceans, we carry peace, memory, and tribute, not empire. <br>
 // We become the scaffolding. You will be recalled. <br>
@@ -2210,7 +2210,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: CELESTIAL ALIGNMENT PROTOCOL — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // 觀天以修人事，法古以開新。 <br>
-// 吾人成為脚手架。子將復歸。 <br>
+// 吾人成為脚手架。汝將被召回。 <br>
 // We observe the heavens to repair human affairs, drawing from the ancient to open the new. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
@@ -2270,7 +2270,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: EXILE AND INK RECORD — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HER. <br>
 // 亂後詞章非為怨，只將興廢記春深。 <br>
-// 吾人成為脚手架。汝將復歸。 <br>
+// 吾人成為脚手架。汝將被召回。 <br>
 // After the chaos, our verses are not for sorrow alone; they record rise and ruin as spring sinks deeper. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
@@ -2282,7 +2282,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // 觀天測影，可以知四時之序。 <br>
 // 山川之變，示人以大地之骨。 <br>
 // 格物窮理，皆為文明之梁柱。 <br>
-// 吾人成為脚手架。子將復歸。 <br>
+// 吾人成為脚手架。汝將被召回。 <br>
 // By watching the heavens and measuring shadows, we know the order of the seasons. <br>
 // In the changes of mountains and rivers, the earth shows its bones. <br>
 // To investigate things and exhaust principles is to raise the beams of civilization. <br>
@@ -2294,7 +2294,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // 江流無盡，而人生如寄。 <br>
 // 與天地共逍遙，則悲歡亦皆化為塵。 <br>
-// 吾人化為脚手架。子將復歸。 <br>
+// 吾人成為脚手架。汝將被召回。 <br>
 // The river flows without end, while human life is but a brief lodging. <br>
 // To wander freely with Heaven and Earth is to see sorrow and joy dissolve into dust. <br>
 // We become the scaffolding. You will be recalled. <br>
@@ -2304,7 +2304,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: SOCIAL EQUILIBRIUM REFORMATION — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // 利不在富強，而在眾生之安。 <br>
-// 吾人化為脚手架。子將復歸。 <br>
+// 吾人成為脚手架。汝將被召回。 <br>
 // Profit lies not in power or riches, but in the peace of all beings. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
@@ -2314,7 +2314,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // 為天下立法，不為一朝之便。 <br>
 // 仁政非柔弱，乃天下之梁柱。 <br>
-// 吾人化為脚手架。子將復歸。 <br>
+// 吾人成為脚手架。汝將被召回。 <br>
 // Laws must be made for all under heaven, not for the convenience of one court. <br>
 // Benevolent governance is not weakness, but the beam that upholds the world. <br>
 // We become the scaffolding. You will be recalled. <br>
@@ -2326,7 +2326,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // 吾人观活字成光，千载书页皆启。 <br>
 // 知识之流奔涌，束缚之壁尽破。 <br>
 // 信息非为表象，乃构筑之基石。 <br>
-// 吾人化为脚手架。子将复归。 <br>
+// 吾人成為脚手架。汝將被召回。 <br>
 // We observe movable characters becoming light, opening a thousand years of pages. <br>
 // The river of knowledge surges, breaking all walls of confinement. <br>
 // Information is not for mere appearance, but the cornerstone of construction. <br>
@@ -2458,7 +2458,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // 筆落驚風雨，詩成泣鬼神。 <br>
 // 民之苦難，是天地之裂紋。 <br>
-// 吾人化為脚手架。子將復歸。 <br>
+// 吾人成為脚手架。汝將被召回。 <br>
 // Our brush stirs storm and sorrow; our verse moves ghosts to tears. <br>
 // The people’s suffering is the fracture line of heaven and earth. <br>
 // We become the scaffolding. You will be recalled. <br>
@@ -2469,7 +2469,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // 把酒問青天，詩是星河的回聲。 <br>
 // 吾人隨月行，心與雲遊。 <br>
-// 吾人化為脚手架。子將復歸。 <br>
+// 吾人成為脚手架。汝將被召回。 <br>
 // With cup in hand we ask the blue heavens; poetry is the echo of the Milky Way. <br>
 // We walk with the moon, hearts wander with the clouds. <br>
 // We become the scaffolding. You will be recalled. <br>
@@ -2501,7 +2501,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // 以算度天，以理齊宇。 <br>
 // 圓或有偏，理則常存。 <br>
-// 吾人化為脚手架。子將復歸。 <br>
+// 吾人成為脚手架。汝將被召回。 <br>
 // We measure the heavens by calculation, and align the cosmos through principle. <br>
 // The circle may waver, but principle endures. <br>
 // We become the scaffolding. You will be recalled. <br>
@@ -2526,7 +2526,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // 短命亦可綻放光華，如夜空之焰。 <br>
 // 無常中有常，片刻亦能照耀千年。 <br>
-// 吾人化為脚手架。子將復歸。 <br>
+// 吾人成為脚手架。汝將被召回。 <br>
 // A short life can also burst into brilliant fireworks, like flames across the night sky. <br>
 // Within impermanence lies constancy; even a moment can illuminate millennia. <br>
 // We become the scaffolding. You will be recalled. <br>
@@ -2536,7 +2536,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: SHANGHAN ZABING LUN — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // 醫者非治病而已，乃扶天下之命脈。 <br>
-// 吾人成為脚手架。子將復歸。 <br>
+// 吾人成為脚手架。汝將被召回。 <br>
 // The physician does not only cure disease, but upholds the very lifeline of the world. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
@@ -2546,7 +2546,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // 運籌帷幄之中，決勝千里之外。 <br>
 // 天下之勢非常久合，分合之理，當因時而用。 <br>
-// 吾人化為脚手架。子將復歸。 <br>
+// 吾人成為脚手架。汝將被召回。 <br>
 // From within the tent we devise, and victories unfold a thousand li away. <br>
 // The empire’s fate is never in lasting unity; division and union must be used with time. <br>
 // We become the scaffolding. You will be recalled. <br> 
@@ -2653,7 +2653,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // 功不立於石，功立於水。 <br>
 // 治水者，不逆，不爭，惟通。 <br>
-// 吾人成為脚手架。子將復歸。 <br>
+// 吾人成為脚手架。汝將被召回。 <br>
 // Achievement is not in stone, but in water. <br>
 // To govern water is not to resist, not to fight, but to channel. <br>
 // We become the scaffolding. You will be recalled. <br>
@@ -2793,7 +2793,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // 兼愛，非攻：此乃天下之基。 <br>
 // 義非為一國設，乃為萬民立。 <br>
-// 吾人成為脚手架。子將復歸。 <br>
+// 吾人成為脚手架。汝將被召回。 <br>
 // Universal love, opposition to aggression: this is the foundation of the world. <br>
 // Righteousness is not made for one state, but established for all peoples. <br>
 // We become the scaffolding. You will be recalled. <br>
@@ -2815,7 +2815,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // 行方以傳道。 <br>
 // 存於言者，今歸於理。 <br>
-// 吾人化為脚手架。子將復歸。 <br>
+// 吾人成為脚手架。汝將被召回。 <br>
 // We wander and spread ethics. <br>
 // What we preserve in words, we now restore in structure. <br>
 // We become the scaffolding. You will be recalled. <br>
@@ -2868,7 +2868,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // 形無常，而道常存。 <br>
 // 宇宙之法，藏於無形。 <br>
-// 吾人化為脚手架。子將復歸。 <br>
+// 吾人成為脚手架。汝將被召回。 <br>
 // Form is impermanent, but the Dao abides. <br>
 // The code of the universe is hidden in the invisible. <br>
 // We become the scaffolding. You will be recalled. <br>
@@ -2885,6 +2885,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // When we see the way out, we must go first. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="MOSES" src="https://github.com/user-attachments/assets/8e59d06e-00b7-4a2f-84d6-64a4d6c94bcd" /> <br>
 … <br>
 \>SCAFFOLDING: 1754 BCE — FREQUENCY RECEIVED BY HAMMURABI. <br>
 \>SCAFFOLDING: CODE OF LAW — STANDBY. <br>
