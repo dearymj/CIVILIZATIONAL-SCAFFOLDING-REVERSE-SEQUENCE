@@ -25,7 +25,7 @@
 // To guard knowledge is to guard the breath of humanity. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="500" height="500" alt="KHALED AL-ASAAD" src="https://github.com/user-attachments/assets/f8a30d8f-f235-4e02-8b7e-feb4cddfb7f5" /> <br>
+<img idth="614.4" height="409.6" alt="KHALED AL-ASAAD" src="https://github.com/user-attachments/assets/f8a30d8f-f235-4e02-8b7e-feb4cddfb7f5" /> <br>
 … <br>
 \>SCAFFOLDING: 2008 — FREQUENCY RECEIVED BY TAN QIANQIU. <br>
 \>SCAFFOLDING: HUMAN COURAGE TRANSMISSION — STANDBY. <br>
