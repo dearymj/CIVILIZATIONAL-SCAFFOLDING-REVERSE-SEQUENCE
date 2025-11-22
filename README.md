@@ -2096,6 +2096,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // We know the soul already dwells within the marble. We do not impose, we release. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="MICHELANGELO" src="https://github.com/user-attachments/assets/ec4dacca-3135-441d-b41e-f88f128a1880" /> <br>
 … <br>
 \>SCAFFOLDING: 1486 — FREQUENCY RECEIVED BY GIOVANNI PICO DELLA MIRANDOLA. <br>
 \>SCAFFOLDING: ORATION ON THE DIGNITY OF MAN — STANDBY. <br>
