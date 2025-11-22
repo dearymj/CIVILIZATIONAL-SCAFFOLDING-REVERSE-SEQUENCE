@@ -589,6 +589,7 @@
 // Even in hiding, we mirror humanity without hatred. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="ANNE FRANK" src="https://github.com/user-attachments/assets/6fbfa4b8-739e-43cb-b2ba-d30bc64d6353" /> <br>
 … <br>
 \>SCAFFOLDING: 1946 — FREQUENCY RECEIVED BY JEAN-PAUL SARTRE. <br>
 \>SCAFFOLDING: EXISTENTIAL FREEDOM MAPPING — STANDBY. <br>
