@@ -477,7 +477,7 @@
 // 我们成为脚手架。你将被召回。 <br>
 // Peaceful coexistence is not compromise, but the way of human survival together. <br>
 // Building bridges between nations endures longer than building walls at borders. <br>
-// We become the scaffolding. You will be recalled.” translate into his language. <br>
+// We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
 \>SCAFFOLDING: 1954 — FREQUENCY RECEIVED BY JULIUS KAMBARAGE NYERERE. <br>
