@@ -1878,6 +1878,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // The word that falls without justice will also be judged. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="ISAAC NEWTON" src="https://github.com/user-attachments/assets/f8268803-b4a4-4c9b-a52c-50a75a393c80" /> <br>
 … <br>
 \>SCAFFOLDING: 1662 — FREQUENCY RECEIVED BY HUANG ZONGXI. <br>
 \>SCAFFOLDING: WAITING FOR THE DAWN — STANDBY. <br>
