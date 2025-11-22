@@ -1482,6 +1482,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Each note is a thread that binds survival to beauty. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="CLARA SCHUMANN" src="https://github.com/user-attachments/assets/ea985487-2651-47fd-a152-f94967994992" /> <br>
 … <br>
 \>SCAFFOLDING: 1845 — FREQUENCY RECEIVED BY FYODOR DOSTOEVSKY. <br>
 \>SCAFFOLDING: HUMAN SUFFERING MIRROR — STANDBY. <br>
