@@ -1010,7 +1010,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Let imagination lead us; we ask where cosmic harmony dwells; we listen. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="ALBERT EINSTEIN" src="https://github.com/user-attachments/assets/277ffc3d-88e0-43c2-b542-213ef76a4a25" /> <br>
+<img width="614.4" height="409.6" alt="ALBERT EINSTEIN" src="https://github.com/user-attachments/assets/ad56f197-2034-4eab-bbb7-2f50d9e3064d" /> <br>
 … <br>
 \>SCAFFOLDING: 1915 — FREQUENCY RECEIVED BY JOHN SIMPSON KIRKPATRICK. <br>
 \>SCAFFOLDING: COMPASSION UNDER FIRE — STANDBY. <br>
