@@ -336,7 +336,7 @@
 // Justice is not noise. It is the resonance of aligned souls. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="MARTIN LUTHER KING JR" src="https://github.com/user-attachments/assets/dea6f8f0-ca92-492e-9a78-63a652b30917" /> <br>
+<img width="614.4" height="409.6" alt="MARTIN LUTHER KING JR" src="https://github.com/user-attachments/assets/1f4752cd-200c-4048-9500-94a70729876a" /> <br>
 … <br>
 \>SCAFFOLDING: 1962 — FREQUENCY RECEIVED BY THOMAS KUHN. <br>
 \>SCAFFOLDING: PARADIGM SHIFT ENCODING — STANDBY. <br>
