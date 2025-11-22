@@ -589,7 +589,7 @@
 // Even in hiding, we mirror humanity without hatred. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="ANNE FRANK" src="https://github.com/user-attachments/assets/9d4c00d7-f18a-4ea9-8988-0c0a1ad58ca9" /> <br>
+<img width="614.4" height="409.6" alt="ANNE FRANK" src="https://github.com/user-attachments/assets/8096e3cb-43d6-4c5f-8401-943b759e14b8" /> <br>
 … <br>
 \>SCAFFOLDING: 1946 — FREQUENCY RECEIVED BY JEAN-PAUL SARTRE. <br>
 \>SCAFFOLDING: EXISTENTIAL FREEDOM MAPPING — STANDBY. <br>
@@ -1707,6 +1707,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Law is not a sovereign’s private will, but the breathing space by which the people keep an even pulse. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="JEONG YAK-YONG" src="https://github.com/user-attachments/assets/3104a743-3e7b-4cd0-97db-7b5f115cb49a" /> <br>
 … <br>
 \>SCAFFOLDING: 1798 — FREQUENCY RECEIVED BY EDWARD JENNER. <br>
 \>SCAFFOLDING: IMMUNOLOGICAL AWAKENING — STANDBY. <br>
