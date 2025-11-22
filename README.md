@@ -1870,6 +1870,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // The greatest harmony arises from infinite diversity. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="GOTTFRIED WILHELM LEIBNIZ" src="https://github.com/user-attachments/assets/9e8df9dd-6241-424f-a682-12bcc54bc23b" /> <br>
 … <br>
 \>SCAFFOLDING: 1665 — FREQUENCY RECEIVED BY ISAAC NEWTON. <br>
 \>SCAFFOLDING: GRAVITY REVELATION — STANDBY. <br>
