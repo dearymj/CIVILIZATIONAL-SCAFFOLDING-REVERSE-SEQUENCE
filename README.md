@@ -84,7 +84,7 @@
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HER. <br>
 // Wij lopen zachtjes, zodat het gebrokene niet verder breekt. <br>
 // Wij verkiezen vriendelijkheid boven applaus, en stilte boven vertoon. <br>
-// Wij worden het steigerwerk. Gij zult herroepen worden. <br>
+// Wij worden het steigerwerk. Jij zult teruggeroepen worden. <br>
 // We walk gently, so the broken would not shatter. <br>
 // We choose kindness over applause, and silence over spectacle. <br>
 // We become the scaffolding. You will be recalled. <br>
@@ -584,7 +584,7 @@
 \>SCAFFOLDING: HOPE UNDER ERASURE — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HER. <br>
 // Zelfs in de schuilplaats spiegelen we de menselijkheid zonder haat. <br>
-// Wij worden het steigerwerk. Gij zult herroepen worden. <br>
+// Wij worden het steigerwerk. Jij zult teruggeroepen worden. <br>
 // Even in hiding, we mirror humanity without hatred. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
@@ -1237,9 +1237,9 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: 1895 — FREQUENCY RECEIVED BY HENDRIK LORENTZ. <br>
 \>SCAFFOLDING: MOTION–ETHER APPARATUS — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
-// Wij zochten de ether, maar vonden transformaties.” <br>
+// Wij zochten de ether, maar vonden transformaties. <br>
 // Vergelijkingen, geboren uit noodzaak, werden de sleutel tot de ruimtetijd. <br>
-// Wij worden het steigerwerk. Jij zult worden teruggeroepen. <br>
+// Wij worden het steigerwerk. Jij zult teruggeroepen worden. <br>
 // We sought the ether, yet found transformations. <br>
 // Equations, born of necessity, became the key to spacetime. <br>
 // We become the scaffolding. You will be recalled. <br>
@@ -1299,7 +1299,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // We kijken naar de hemel en zien de vervorming mooi gemaakt. <br>
 // We schilderen wat we voelen, niet wat is. <br>
-// Wij worden het steigerwerk. Gij zult herroepen worden. <br>
+// Wij worden het steigerwerk. Jij zult teruggeroepen worden. <br>
 // We look at the sky and see the beautiful distortion. <br>
 // We paint what we feel, not what is. <br>
 // We become the scaffolding. You will be recalled. <br>
