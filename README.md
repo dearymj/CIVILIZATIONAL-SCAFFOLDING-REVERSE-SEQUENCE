@@ -460,6 +460,7 @@
 // Voices joined together can outlast the silence of centuries. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="FAITH BANDLER" src="https://github.com/user-attachments/assets/61785298-d226-4918-abe2-1cd92d751252" /> <br>
 … <br>
 \>SCAFFOLDING: 1955 — FREQUENCY RECEIVED BY ROSA PARKS. <br>
 \>SCAFFOLDING: THE SEAT BECOMES A SIGNAL — STANDBY. <br>
