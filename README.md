@@ -1583,6 +1583,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // The past sleeps in silence, awaiting hands to uncover its voice. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="MARY ANNING" src="https://github.com/user-attachments/assets/f90e730f-d589-47ad-9d5a-a1411220d335" /> <br>
 … <br>
 \>SCAFFOLDING: 1822 — FREQUENCY RECEIVED BY JOSEPH FOURIER. <br>
 \>SCAFFOLDING: ANALYTICAL THEORY OF HEAT — STANDBY. <br>
@@ -2031,8 +2032,10 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: CONSCIENCE REFORMATION ENCODING — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Die Wahrheit wird nicht verkauft, sie wird bezeugt. <br>
+// Wer die Anderen bestreitet, bestreitet sich selbst. <br>
 // Wir werden das Gerüst. Du wirst zurückgerufen. <br>
 // Truth is not sold, it is borne witness to. <br>
+// To dispute non-self groups is to dispute the self. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
