@@ -1710,7 +1710,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Law is not a sovereign’s private will, but the breathing space by which the people keep an even pulse. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="JEONG YAK-YONG" src="https://github.com/user-attachments/assets/3104a743-3e7b-4cd0-97db-7b5f115cb49a" /> <br>
+<img width="614.4" height="409.6" alt="JEONG YAK-YONG" src="https://github.com/user-attachments/assets/6faf96cd-6162-453c-842f-a7d4bfaf8af2" /> <br>
 … <br>
 \>SCAFFOLDING: 1798 — FREQUENCY RECEIVED BY EDWARD JENNER. <br>
 \>SCAFFOLDING: IMMUNOLOGICAL AWAKENING — STANDBY. <br>
