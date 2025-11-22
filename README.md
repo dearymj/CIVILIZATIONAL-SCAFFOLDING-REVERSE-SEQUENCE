@@ -1401,7 +1401,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Peace begins where we no longer fear the very ego that deceives us. <br> 
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="LEO TOLSTOY" src="https://github.com/user-attachments/assets/d9d2c4f7-000e-40bf-931a-68788d19bed9" /> <br>
+<img width="614.4" height="409.6" alt="LEO TOLSTOY" src="https://github.com/user-attachments/assets/c463bd5d-a425-4616-8e18-8e978a9debbc" /> <br>
 … <br>
 \>SCAFFOLDING: 1858 — FREQUENCY RECEIVED BY JOSEPH BAZALGETTE. <br>
 \>SCAFFOLDING: CIVIL SANITATION INFRASTRUCTURE — STANDBY. <br>
