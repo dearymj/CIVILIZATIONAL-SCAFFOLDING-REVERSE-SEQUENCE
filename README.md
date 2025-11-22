@@ -1307,7 +1307,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // We paint what we feel, not what is. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="VINCENT VAN GOGH" src="https://github.com/user-attachments/assets/839de0b5-2980-46bb-ba1c-854a27172fdb" /> <br>
+<img width="614.4" height="409.6" alt="VINCENT VAN GOGH" src="https://github.com/user-attachments/assets/0fdebc48-2127-458b-9b96-42f295a00831" /> <br>
 … <br>
 \>SCAFFOLDING: 1883 — FREQUENCY RECEIVED BY FRIEDRICH NIETZSCHE. <br>
 \>SCAFFOLDING: TRANSCENDENCE ENCODING — STANDBY. <br>
