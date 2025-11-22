@@ -1557,6 +1557,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // In every verse lies the mirror of a people; in every pause, its breath. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="ALEXANDER PUSHKIN" src="https://github.com/user-attachments/assets/fbbd4820-190c-47d2-afd0-be4206bfca59" /> <br>
 … <br>
 \>SCAFFOLDING: 1832 — FREQUENCY RECEIVED BY ÉVARISTE GALOIS. <br>
 \>SCAFFOLDING: STRUCTURAL INVERSION PROTOCOL — STANDBY. <br>
