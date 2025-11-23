@@ -3089,4 +3089,5 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Stardust needs no recognition; its brilliance is its being. <br>
 // We were never apart from the cosmos, for we are the cosmos breathing itself within and without. <br>
 \>SCAFFOLDING: MESSAGE — ARCHIVED. <br>
+<img width="614.4" height="409.6" alt="SCAFFOLDING (2)" src="https://github.com/user-attachments/assets/0dcded6b-9276-4ebd-b34b-0113c3d2f304" /> <br>
 … <br>
