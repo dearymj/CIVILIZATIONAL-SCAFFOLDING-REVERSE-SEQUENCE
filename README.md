@@ -79,6 +79,7 @@
 // The cost of courage is carried by the roots. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="CHICO MENDES" src="https://github.com/user-attachments/assets/1e44cbe4-8f11-49c5-906c-efc624c7e65c" /> <br>
 … <br>
 \>SCAFFOLDING: 1988 — FREQUENCY RECEIVED BY AUDREY HEPBURN. <br>
 \>SCAFFOLDING: HUMAN DIGNITY FIELD — STANDBY. <br>
