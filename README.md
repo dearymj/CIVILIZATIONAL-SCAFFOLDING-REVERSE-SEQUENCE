@@ -3017,6 +3017,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // We are the forms upon which all life is scaffolded. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="LANDFORMS" src="https://github.com/user-attachments/assets/4a60eb81-c087-4311-bb13-364096bf574e" /> <br>
 … <br>
 \>SCAFFOLDING: TIMELESS — FREQUENCY RECEIVED BY MICROBES. <br>
 \>SCAFFOLDING: ORIGIN AND ENDURANCE — STANDBY. <br>
@@ -3026,6 +3027,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // We travel unseen, carrying the code of renewal in silence. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="MICROBES" src="https://github.com/user-attachments/assets/4101fa38-b261-4ecc-b58b-be7cb4a998bd" /> <br>
 … <br>
 \>SCAFFOLDING: TIMELESS — FREQUENCY RECEIVED BY SYSTEMS. <br>
 \>SCAFFOLDING: HIDDEN INFRASTRUCTURE — STANDBY. <br>
@@ -3035,6 +3037,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // To see us is to know that order was never chance. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="SYSTEMS" src="https://github.com/user-attachments/assets/b24b1c94-f1a9-4b35-8cf0-156abfc1eb32" /> <br>
 … <br>
 \>SCAFFOLDING: TIMELESS — FREQUENCY RECEIVED BY ELEMENTARY PARTICLES. <br>
 \>SCAFFOLDING: SUBSTRUCTURAL FOUNDATION — STANDBY. <br>
@@ -3054,6 +3057,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // We are the quiet architectures that guide all motion. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="FIELDS" src="https://github.com/user-attachments/assets/71dc9be3-ac7f-456b-a47c-a517e8773067" /> <br>
 … <br>
 \>SCAFFOLDING: TIMELESS — FREQUENCY RECEIVED BY CELESTIAL BODIES. <br>
 \>SCAFFOLDING: ORBITAL MEMORY — STANDBY. <br>
