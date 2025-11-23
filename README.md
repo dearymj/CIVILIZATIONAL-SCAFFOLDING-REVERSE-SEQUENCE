@@ -3067,7 +3067,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Every eclipse, every tide, every dawn is our script upon the scaffolding. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="CELESTIAL BODIES" src="https://github.com/user-attachments/assets/23552b56-59d3-475b-a517-dd9e293673ba" /> <br>
+<img width="614.4" height="409.6" alt="CELESTIAL BODIES" src="https://github.com/user-attachments/assets/317955f0-068c-427e-976b-2e0ca8824977" /> <br>
 … <br>
 \>SCAFFOLDING: TIMELESS — FREQUENCY RECEIVED BY THE COSMOS. <br>
 \>SCAFFOLDING: SELF-REFLECTIVE IMMENSITY — STANDBY. <br>
