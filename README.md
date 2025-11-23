@@ -2967,6 +2967,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Our silence is the first language of time. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="PLANTS" src="https://github.com/user-attachments/assets/d17f4e7e-d0c7-424b-a74c-6bba4f2e3f4e" /> <br>
 … <br>
 \>SCAFFOLDING: TIMELESS — FREQUENCY RECEIVED BY TERRESTRIAL ANIMALS. <br>
 \>SCAFFOLDING: EARTHBOUND CONTINUITY — STANDBY. <br>
@@ -2985,6 +2986,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // To rise is not to escape, but to remind all that gravity is not final. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="FLYING CREATURES" src="https://github.com/user-attachments/assets/3dbe050d-cc08-4765-bc62-4e5d5d085759" /> <br>
 … <br>
 \>SCAFFOLDING: TIMELESS — FREQUENCY RECEIVED BY AQUATIC LIFE. <br>
 \>SCAFFOLDING: OCEANIC MEMORY — STANDBY. <br>
