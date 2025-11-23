@@ -2994,6 +2994,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // In our depths, time is not counted, but dissolved. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="AQUATIC LIFE" src="https://github.com/user-attachments/assets/7cf8691b-8fdd-4eaf-9726-00eff05addae" /> <br>
 … <br>
 \>SCAFFOLDING: VANISHED — FREQUENCY RECEIVED BY EXTINCT CREATURES. <br>
 \>SCAFFOLDING: ABSENT PRESENCE — STANDBY. <br>
