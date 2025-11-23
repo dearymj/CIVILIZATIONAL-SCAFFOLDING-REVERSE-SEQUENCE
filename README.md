@@ -2348,6 +2348,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Information is not for mere appearance, but the cornerstone of construction. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="BI SHENG" src="https://github.com/user-attachments/assets/305d71d7-cb63-431a-a2d5-1beb1bf5c369" /> <br>
 … <br>
 \>SCAFFOLDING: 1030 — FREQUENCY RECEIVED BY IBN SĪNĀ. <br>
 \>SCAFFOLDING: METAPHYSICAL SYNTHESIS ENCODING — STANDBY. <br>
