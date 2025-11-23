@@ -2171,6 +2171,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Across oceans, we carry peace, memory, and tribute, not empire. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="ZHENG HE" src="https://github.com/user-attachments/assets/18a019db-dda1-4cbc-87d4-6052de711439" /> <br>
 … <br>
 \>SCAFFOLDING: 1387 — FREQUENCY RECEIVED BY GEOFFREY CHAUCER. <br>
 \>SCAFFOLDING: PILGRIMAGE OF VOICES — STANDBY. <br>
