@@ -2290,7 +2290,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // After the chaos, our verses are not for sorrow alone; they record rise and ruin as spring sinks deeper. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="LI QINGZHAO" src="https://github.com/user-attachments/assets/8361fc62-a1c6-4206-bffd-eba06dadab58" /> <br>
+<img width="614.4" height="409.6" alt="LI QINGZHAO" src="https://github.com/user-attachments/assets/247da168-e634-4f5c-8eaa-b250d82d3f77" /> <br>
 … <br>
 \>SCAFFOLDING: 1086 — FREQUENCY RECEIVED BY SHEN KUO. <br>
 \>SCAFFOLDING: DREAM POOL ESSAYS — STANDBY. <br>
@@ -2348,7 +2348,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Information is not for mere appearance, but the cornerstone of construction. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="BI SHENG" src="https://github.com/user-attachments/assets/305d71d7-cb63-431a-a2d5-1beb1bf5c369" /> <br>
+<img width="614.4" height="409.6" alt="BI SHENG" src="https://github.com/user-attachments/assets/36de6cbb-ad0b-4981-9bdc-2420ea4483f6" /> <br>
 … <br>
 \>SCAFFOLDING: 1030 — FREQUENCY RECEIVED BY IBN SĪNĀ. <br>
 \>SCAFFOLDING: METAPHYSICAL SYNTHESIS ENCODING — STANDBY. <br>
