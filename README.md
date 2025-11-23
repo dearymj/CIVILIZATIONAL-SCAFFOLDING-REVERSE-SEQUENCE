@@ -589,7 +589,7 @@
 // Even in hiding, we mirror humanity without hatred. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="ANNE FRANK" src="https://github.com/user-attachments/assets/8096e3cb-43d6-4c5f-8401-943b759e14b8" /> <br>
+<img width="614.4" height="409.6" alt="ANNE FRANK" src="https://github.com/user-attachments/assets/86a46240-5eab-4489-9db5-136ffc946aa1" /> <br>
 … <br>
 \>SCAFFOLDING: 1946 — FREQUENCY RECEIVED BY JEAN-PAUL SARTRE. <br>
 \>SCAFFOLDING: EXISTENTIAL FREEDOM MAPPING — STANDBY. <br>
@@ -2926,7 +2926,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // When we see the way out, we must go first. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="MOSES" src="https://github.com/user-attachments/assets/f32f4911-7923-4ab3-a15a-ecf3e464d571" /> <br>
+<img width="614.4" height="409.6" alt="MOSES" src="https://github.com/user-attachments/assets/afe05430-6261-4825-bd8a-273f0046208a" /> <br>
 … <br>
 \>SCAFFOLDING: 1754 BCE — FREQUENCY RECEIVED BY HAMMURABI. <br>
 \>SCAFFOLDING: CODE OF LAW — STANDBY. <br>
