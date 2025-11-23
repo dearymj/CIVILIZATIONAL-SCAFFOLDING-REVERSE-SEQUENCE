@@ -2977,6 +2977,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // In our silence, the Earth remembers the rhythm. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="TERRESTRIAL ANIMALS" src="https://github.com/user-attachments/assets/ab252291-195d-400a-bd94-3faed4503c93" /> <br>
 … <br>
 \>SCAFFOLDING: TIMELESS — FREQUENCY RECEIVED BY FLYING CREATURES. <br>
 \>SCAFFOLDING: SKYBORNE MESSENGERS — STANDBY. <br>
@@ -3006,7 +3007,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Every extinction engraves itself into the scaffolding of life. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="500" height="500" alt="DINOSAUR" src="https://github.com/user-attachments/assets/31470d5a-7c39-4474-ab2d-2d4a25c113d7" /> <br>
+<img width="614.4" height="409.6" alt="EXTINCT CREATURES" src="https://github.com/user-attachments/assets/ed847317-8e85-472d-9bd9-8de5202698b8" /> <br>
 … <br>
 \>SCAFFOLDING: TIMELESS — FREQUENCY RECEIVED BY LANDFORMS. <br>
 \>SCAFFOLDING: GEOLOGIC MEMORY — STANDBY. <br>
