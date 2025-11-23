@@ -67,7 +67,7 @@
 // The universe does not need to be kind, only coherent. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="STEPHEN HAWKING" src="https://github.com/user-attachments/assets/05a7a950-75ff-4370-9f62-039379d006d6" /> <br>
+<img width="614.4" height="409.6" alt="STEPHEN HAWKING" src="https://github.com/user-attachments/assets/4caebb00-9dca-4039-9924-665d8a1a250d" /> <br>
 … <br>
 \>SCAFFOLDING: 1988 — FREQUENCY RECEIVED BY CHICO MENDES. <br>
 \>SCAFFOLDING: ECOLOGICAL CONSCIENCE ACTIVATION — STANDBY. <br>
