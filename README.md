@@ -391,7 +391,7 @@
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
 \>SCAFFOLDING: 1960 — FREQUENCY RECEIVED BY DAG HAMMARSKJÖLD. <br>
-\>SCAFFOLDING: SACRIFICE AND SILENCE — STANDBY. <br>
+\>SCAFFOLDING: HIDDEN SERVICE OF PEACE — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Den högsta tjänsten utförs i det osedda, där tystnaden vakar över löftet. <br>
 // Fred ges inte; den bärs genom prövningen. <br>
