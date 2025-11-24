@@ -802,7 +802,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // We write not merely to depict the world, but to hold it together. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="PEARL SYDENSTRICKER BUCK" src="https://github.com/user-attachments/assets/175fd7d0-0402-4032-99d2-bc1caa2ea2c8" /> <br>
+<img width="614.4" height="409.6" alt="PEARL SYDENSTRICKER BUCK" src="https://github.com/user-attachments/assets/0348c401-4652-4ce7-af7b-b852b3c5fc5c" /> <br>
 … <br>
 \>SCAFFOLDING: 1930 — FREQUENCY RECEIVED BY CARL GUSTAV JUNG. <br>
 \>SCAFFOLDING: ARCHETYPAL DEPTH TRANSMISSION — STANDBY. <br>
@@ -833,7 +833,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // When the mind is free of fear and belief, it meets life without distortion. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="JIDDU KRISHNAMURTI" src="https://github.com/user-attachments/assets/1ad5ed8f-175c-40f3-94d6-beac0429f8c9" /> <br>
+<img width="614.4" height="409.6" alt="JIDDU KRISHNAMURTI" src="https://github.com/user-attachments/assets/53d50ed2-f3f0-443d-a495-445eab8dd232" /> <br>
 … <br>
 \>SCAFFOLDING: 1929 — FREQUENCY RECEIVED BY EDWIN HUBBLE. <br>
 \>SCAFFOLDING: COSMIC EXPANSION REVELATION — STANDBY. <br>
