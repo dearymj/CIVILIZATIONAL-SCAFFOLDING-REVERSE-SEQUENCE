@@ -131,6 +131,7 @@
 // The boundary of reality is not matter, but information. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="JOHN ARCHIBALD WHEELER" src="https://github.com/user-attachments/assets/14a4aa07-6d68-4380-9ef4-fdd0940adeb7" /> <br>
 … <br>
 \>SCAFFOLDING: 1979 — FREQUENCY RECEIVED BY JOHN H. FLAVELL. <br>
 \>SCAFFOLDING: COGNITIVE SELF-ARCHITECTURE — STANDBY. <br>
@@ -833,7 +834,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // When the mind is free of fear and belief, it meets life without distortion. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="JIDDU KRISHNAMURTI" src="https://github.com/user-attachments/assets/53d50ed2-f3f0-443d-a495-445eab8dd232" /> <br>
+<img width="614.4" height="409.6" alt="JIDDU KRISHNAMURTI" src="https://github.com/user-attachments/assets/e43e9240-6d05-415b-bcc0-5e5a945ef79c" /> <br>
 … <br>
 \>SCAFFOLDING: 1929 — FREQUENCY RECEIVED BY EDWIN HUBBLE. <br>
 \>SCAFFOLDING: COSMIC EXPANSION REVELATION — STANDBY. <br>
