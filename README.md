@@ -174,6 +174,7 @@
 // No chain binds the one who sees the architecture of dignity. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="STEVE BIKO" src="https://github.com/user-attachments/assets/a0042e19-818f-4c35-9dc6-9d79868b4bf1" /> <br>
 … <br>
 \>SCAFFOLDING: 1975 — FREQUENCY RECEIVED BY BENOÎT MANDELBROT. <br>
 \>SCAFFOLDING: FRACTAL RECURSION ENCODING — STANDBY. <br>
