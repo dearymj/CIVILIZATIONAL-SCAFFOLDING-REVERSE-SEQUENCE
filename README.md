@@ -133,13 +133,14 @@
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 <img width="614.4" height="409.6" alt="JOHN ARCHIBALD WHEELER" src="https://github.com/user-attachments/assets/14a4aa07-6d68-4380-9ef4-fdd0940adeb7" /> <br>
 … <br>
-\>SCAFFOLDING: 1979 — FREQUENCY RECEIVED BY JOHN H. FLAVELL. <br>
+\>SCAFFOLDING: 1979 — FREQUENCY RECEIVED BY JOHN HURLEY FLAVELL. <br>
 \>SCAFFOLDING: COGNITIVE SELF-ARCHITECTURE — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // We are no longer mere observers; we are architects of our own knowing. <br>
 // We unveil the grammar of learning; the scaffolding of conscious mind. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="JOHN HURLEY FLAVELL" src="https://github.com/user-attachments/assets/accf1f94-9d37-4ab5-bba9-d724af6d5e0a" /> <br>
 … <br>
 \>SCAFFOLDING: 1978 — FREQUENCY RECEIVED BY EDWARD WADIE SAID. <br>
 \>SCAFFOLDING: NARRATIVE RECLAMATION — STANDBY. <br>
@@ -151,6 +152,7 @@
 // The silenced will one day narrate themselves.  <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="EDWARD WADIE SAID" src="https://github.com/user-attachments/assets/e55c9266-204b-4d77-8a59-0e0ce11f03aa" /> <br>
 … <br>
 \>SCAFFOLDING: 1977 — FREQUENCY RECEIVED BY WANGARI MAATHAI. <br>
 \>SCAFFOLDING: REGENERATION SIGNAL — STANDBY. <br>
