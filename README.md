@@ -112,6 +112,7 @@
 // But the dragon’s wishes, born of desire, too often ignite collapse. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="AKIRA TORIYAMA" src="https://github.com/user-attachments/assets/1d2b0a8c-4297-41d1-bd7a-ea1e733832df" /> <br>
 … <br>
 \>SCAFFOLDING: 1984 — FREQUENCY RECEIVED BY STEVE JOBS. <br>
 \>SCAFFOLDING: COGNITIVE INTERFACE ARCHITECTURE — STANDBY. <br>
