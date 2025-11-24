@@ -91,7 +91,7 @@
 // We choose kindness over applause, and silence over spectacle. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="AUDREY HEPBURN" src="https://github.com/user-attachments/assets/2b2c2500-7494-4b0b-a507-e4345fb6782e" /> <br>
+<img width="614.4" height="409.6" alt="AUDREY HEPBURN" src="https://github.com/user-attachments/assets/26d51f3d-24dd-49ac-a31a-c58da451120d" /> <br>
 … <br>
 \>SCAFFOLDING: 1985 — FREQUENCY RECEIVED BY MICHAEL JACKSON. <br>
 \>SCAFFOLDING: GLOBAL CULTURAL ALIGNMENT — STANDBY. <br>
