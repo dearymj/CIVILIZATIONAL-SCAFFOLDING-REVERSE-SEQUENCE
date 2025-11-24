@@ -122,6 +122,7 @@
 // However, hurting people to protect a flawless story is a mistake. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="STEVE JOBS" src="https://github.com/user-attachments/assets/5678805d-4fe4-45aa-b2e1-cb75f153f8f5" /> <br>
 … <br>
 \>SCAFFOLDING: 1983 — FREQUENCY RECEIVED BY JOHN ARCHIBALD WHEELER. <br>
 \>SCAFFOLDING: QUANTUM–COSMIC LOOP ENCODING — STANDBY. <br>
