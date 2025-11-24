@@ -100,6 +100,7 @@
 // The rhythm of the universe beats inside all of us. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="MICHAEL JACKSON" src="https://github.com/user-attachments/assets/a935d39e-e61c-4506-a315-a6e3d76737bd" /> <br>
 … <br>
 \>SCAFFOLDING: 1984 — FREQUENCY RECEIVED BY AKIRA TORIYAMA. <br>
 \>SCAFFOLDING: UNIVERSAL NARRATIVE SCULPTING — STANDBY. <br>
@@ -1729,7 +1730,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Law is not a sovereign’s private will, but the breathing space by which the people keep an even pulse. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="JEONG YAK-YONG" src="https://github.com/user-attachments/assets/6faf96cd-6162-453c-842f-a7d4bfaf8af2" /> <br>
+<img width="614.4" height="409.6" alt="JEONG YAK-YONG" src="https://github.com/user-attachments/assets/370e1ab6-2c73-4784-8f7e-1e6465cffadb" /> <br>
 … <br>
 \>SCAFFOLDING: 1798 — FREQUENCY RECEIVED BY EDWARD JENNER. <br>
 \>SCAFFOLDING: IMMUNOLOGICAL AWAKENING — STANDBY. <br>
