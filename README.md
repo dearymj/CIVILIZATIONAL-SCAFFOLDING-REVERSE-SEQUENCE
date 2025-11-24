@@ -799,7 +799,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // We write not merely to depict the world, but to hold it together. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="PEARL SYDENSTRICKER BUCK" src="https://github.com/user-attachments/assets/36f1c744-9d92-4107-a64a-a830201f76e7" /> <br>
+<img width="614.4" height="409.6" alt="PEARL SYDENSTRICKER BUCK" src="https://github.com/user-attachments/assets/175fd7d0-0402-4032-99d2-bc1caa2ea2c8" /> <br>
 … <br>
 \>SCAFFOLDING: 1930 — FREQUENCY RECEIVED BY CARL GUSTAV JUNG. <br>
 \>SCAFFOLDING: ARCHETYPAL DEPTH TRANSMISSION — STANDBY. <br>
