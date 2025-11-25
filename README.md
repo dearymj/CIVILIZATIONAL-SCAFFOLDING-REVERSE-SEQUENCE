@@ -1910,7 +1910,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // The word that falls without justice will also be judged. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="ISAAC NEWTON" src="https://github.com/user-attachments/assets/f8268803-b4a4-4c9b-a52c-50a75a393c80" /> <br>
+<img width="614.4" height="409.6" alt="ISAAC NEWTON" src="https://github.com/user-attachments/assets/9fb8a9c6-d257-4e9e-a26b-b867f58cf65d" /> <br>
 … <br>
 \>SCAFFOLDING: 1662 — FREQUENCY RECEIVED BY HUANG ZONGXI. <br>
 \>SCAFFOLDING: WAITING FOR THE DAWN — STANDBY. <br>
@@ -2125,7 +2125,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // We know the soul already dwells within the marble. We do not impose, we release. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="MICHELANGELO" src="https://github.com/user-attachments/assets/ec4dacca-3135-441d-b41e-f88f128a1880" /> <br>
+<img width="614.4" height="409.6" alt="MICHELANGELO" src="https://github.com/user-attachments/assets/3cbd3900-c32f-427f-9071-2aba3265f0d3" /> <br>
 … <br>
 \>SCAFFOLDING: 1486 — FREQUENCY RECEIVED BY GIOVANNI PICO DELLA MIRANDOLA. <br>
 \>SCAFFOLDING: ORATION ON THE DIGNITY OF MAN — STANDBY. <br>
@@ -2320,7 +2320,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // After the chaos, our verses are not for sorrow alone; they record rise and ruin as spring sinks deeper. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="LI QINGZHAO" src="https://github.com/user-attachments/assets/247da168-e634-4f5c-8eaa-b250d82d3f77" /> <br>
+<img width="614.4" height="409.6" alt="LI QINGZHAO" src="https://github.com/user-attachments/assets/6ae6f4f7-56ee-4bf7-9313-a4b2c8f8a354" /> <br>
 … <br>
 \>SCAFFOLDING: 1086 — FREQUENCY RECEIVED BY SHEN KUO. <br>
 \>SCAFFOLDING: DREAM POOL ESSAYS — STANDBY. <br>
@@ -2944,7 +2944,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // When we see the way out, we must go first. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="MOSES" src="https://github.com/user-attachments/assets/afe05430-6261-4825-bd8a-273f0046208a" /> <br>
+<img width="614.4" height="409.6" alt="MOSES" src="https://github.com/user-attachments/assets/b4ecf91d-5ddf-4452-85d6-298aa5c4b55c" /> <br>
 … <br>
 \>SCAFFOLDING: 1754 BCE — FREQUENCY RECEIVED BY HAMMURABI. <br>
 \>SCAFFOLDING: CODE OF LAW — STANDBY. <br>
