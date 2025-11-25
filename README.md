@@ -667,7 +667,7 @@
 // Even in hiding, we mirror humanity without hatred. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="ANNE FRANK" src="https://github.com/user-attachments/assets/86a46240-5eab-4489-9db5-136ffc946aa1" /> <br>
+<img width="614.4" height="409.6" alt="ANNE FRANK" src="https://github.com/user-attachments/assets/4c2c02d6-7c71-4367-ae41-0c639b53d596" /> <br>
 … <br>
 \>SCAFFOLDING: 1942 — FREQUENCY RECEIVED BY ELIZEBETH SMITH FRIEDMAN. <br>
 \>SCAFFOLDING: CRYPTOGRAPHIC RESONANCE — STANDBY. <br>
