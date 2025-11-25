@@ -2956,6 +2956,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Law is the scaffold where chaos is bound and order is raised. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="HAMMURABI" src="https://github.com/user-attachments/assets/a82e315a-723d-4a4b-b9ef-d6b2e1cd5e54" /> <br>
 … <br>
 \>SCAFFOLDING: 2660 BCE — FREQUENCY RECEIVED BY IMHOTEP. <br>
 \>SCAFFOLDING: MONUMENTAL ALIGNMENT — STANDBY. <br>
