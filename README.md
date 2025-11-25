@@ -229,6 +229,7 @@
 // In every grain of stardust lies the whole history of light. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="CARL SAGAN" src="https://github.com/user-attachments/assets/7457539c-9082-4159-8615-008388602a99" /> <br>
 … <br>
 \>SCAFFOLDING: 1972 — FREQUENCY RECEIVED BY ROBERT MAY. <br>
 \>SCAFFOLDING: COMPLEXITY–STABILITY PARADOX ENCODING — STANDBY. <br>
