@@ -220,7 +220,7 @@
 // One seed can silence a billion empty stomachs. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="YUAN LONGPING" src="https://github.com/user-attachments/assets/7107277e-6a6b-4dfd-a438-f1d1b9970ceb" /> <br>
+<img width="614.4" height="409.6" alt="YUAN LONGPING" src="https://github.com/user-attachments/assets/d5c04440-007b-4243-9ae7-13dc14e2df1e" /> <br>
 … <br>
 \>SCAFFOLDING: 1973 — FREQUENCY RECEIVED BY CARL SAGAN. <br>
 \>SCAFFOLDING: COSMIC CONNECTION ENCODING — STANDBY. <br>
@@ -238,6 +238,7 @@
 // When balance falters, the hidden eigenvalue speaks. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="ROBERT MAY" src="https://github.com/user-attachments/assets/ebb54f33-9abc-485b-b16c-d70eb4b49d92" /> <br>
 … <br>
 \>SCAFFOLDING: 1970 — FREQUENCY RECEIVED BY ALEXANDER GROTHENDIECK. <br>
 \>SCAFFOLDING: TOPOI AND WITHDRAWAL — STANDBY. <br>
