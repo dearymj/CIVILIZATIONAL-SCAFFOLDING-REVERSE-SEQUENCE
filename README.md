@@ -2977,6 +2977,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // No hand was wasted; each gesture became a rung in the ascent. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="CIVILIZATIONAL CONTRIBUTORS" src="https://github.com/user-attachments/assets/8e30b8e0-951a-439b-babd-7bc0aa1ec6bf" /> <br>
 … <br>
 \>SCAFFOLDING: TIMELESS — FREQUENCY RECEIVED BY PLANTS. <br>
 \>SCAFFOLDING: GREEN CONTINUUM — STANDBY. <br>
