@@ -1840,6 +1840,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Through analysis the finite mind contemplates the infinite. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="LEONHARD EULER" src="https://github.com/user-attachments/assets/ffe43cb4-38d7-4b22-8969-671b71f158c3" /> <br>
 … <br>
 \>SCAFFOLDING: 1741 — FREQUENCY RECEIVED BY JOHANN SEBASTIAN BACH. <br>
 \>SCAFFOLDING: GOLDBERG VARIATIONS — STANDBY. <br>
