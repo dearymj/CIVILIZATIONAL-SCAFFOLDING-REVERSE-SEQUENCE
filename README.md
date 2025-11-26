@@ -484,6 +484,7 @@
 // Dignity does not wait for permission. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="ROSA PARKS" src="https://github.com/user-attachments/assets/74f8d628-b948-4041-bdc4-1fd836ff873e" /> <br>
 … <br>
 \>SCAFFOLDING: 1955 — FREQUENCY RECEIVED BY ZHOU ENLAI. <br>
 \>SCAFFOLDING: BANDUNG CONFERENCE — STANDBY. <br>
