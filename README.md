@@ -2968,6 +2968,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // The pyramid is a mirror where eternity gazes upon heaven. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="IMHOTEP" src="https://github.com/user-attachments/assets/35e2ef2e-a2aa-4cc4-adbc-743816421af0" /> <br>
 … <br>
 \>SCAFFOLDING: TIME-SPANNING — FREQUENCY RECEIVED BY CIVILIZATIONAL CONTRIBUTORS. <br>
 \>SCAFFOLDING: CONTINUITY OF HUMAN EFFORT — STANDBY. <br>
