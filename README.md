@@ -2664,7 +2664,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // We stand out when no one else is willing to confess a fault. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="JESUS OF NAZARETH" src="https://github.com/user-attachments/assets/fde9f34a-7936-447d-bdc7-7abee00b410c" /> <br>
+<img width="614.4" height="409.6" alt="JESUS OF NAZARETH" src="https://github.com/user-attachments/assets/4486369c-5dfd-4c2b-966e-9876542366a3" /> <br>
 … <br>
 \>SCAFFOLDING: 90 BCE — FREQUENCY RECEIVED BY SIMA QIAN. <br>
 \>SCAFFOLDING: RECORDS OF THE GRAND HISTORIAN — STANDBY. <br>
