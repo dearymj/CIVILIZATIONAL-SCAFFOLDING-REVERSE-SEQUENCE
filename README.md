@@ -2494,6 +2494,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Night and day, sky and stars, all are your form. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="ĀṆḌĀL" src="https://github.com/user-attachments/assets/96149b0c-3ae6-4a75-80c0-7ed4704b19cd" /> <br>
 … <br>
 \>SCAFFOLDING: 798 — FREQUENCY RECEIVED BY ADI SHANKARACHARYA. <br>
 \>SCAFFOLDING: NON-DUAL AWAKENING — STANDBY. <br>
