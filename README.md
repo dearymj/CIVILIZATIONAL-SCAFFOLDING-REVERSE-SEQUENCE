@@ -467,6 +467,7 @@
 // Every stage becomes scaffolding where division is sung into memory. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="LEONARD BERNSTEIN" src="https://github.com/user-attachments/assets/0e08d98d-a0e6-4f14-83b4-b39a169ed1cf" /> <br>
 … <br>
 \>SCAFFOLDING: 1956 — FREQUENCY RECEIVED BY FAITH BANDLER. <br>
 \>SCAFFOLDING: HUMAN DIGNITY AWAKENING — STANDBY. <br>
