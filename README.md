@@ -1045,6 +1045,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // To heal is to rise beyond the banners of war. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="EDITH CAVELL" src="https://github.com/user-attachments/assets/57d3254c-dc4c-4df5-b7d6-5e381a138101" /> <br>
 … <br>
 \>SCAFFOLDING: 1914 — FREQUENCY RECEIVED BY ROMAIN ROLLAND. <br>
 \>SCAFFOLDING: PLANETARY CONSCIENCE ACTIVATION — STANDBY. <br>
@@ -1842,7 +1843,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Through analysis the finite mind contemplates the infinite. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="LEONHARD EULER" src="https://github.com/user-attachments/assets/ffe43cb4-38d7-4b22-8969-671b71f158c3" /> <br>
+<img width="614.4" height="409.6" alt="LEONHARD EULER" src="https://github.com/user-attachments/assets/f718e117-ca9b-4f1b-9a12-5fe84e27e1ac" /> <br>
 … <br>
 \>SCAFFOLDING: 1741 — FREQUENCY RECEIVED BY JOHANN SEBASTIAN BACH. <br>
 \>SCAFFOLDING: GOLDBERG VARIATIONS — STANDBY. <br>
