@@ -2948,7 +2948,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // When we see the way out, we must go first. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="MOSES" src="https://github.com/user-attachments/assets/b4ecf91d-5ddf-4452-85d6-298aa5c4b55c" /> <br>
+<img width="614.4" height="409.6" alt="MOSES" src="https://github.com/user-attachments/assets/aab41ead-f199-4749-8c67-bfee09097852" /> <br>
 … <br>
 \>SCAFFOLDING: 1754 BCE — FREQUENCY RECEIVED BY HAMMURABI. <br>
 \>SCAFFOLDING: CODE OF LAW — STANDBY. <br>
