@@ -2549,7 +2549,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // We shall stand out when we sense the fracture of the scaffolding. <br>
 // Revelation is the unveiling of what has strayed from alignment. <br>
 // We become the scaffolding. You will be recalled. <br>
-<img width="614.4" height="409.6" alt="MUHAMMAD IBN ʿABD ALLĀH" src="https://github.com/user-attachments/assets/0c2ef6d7-59a2-4d09-87db-d20b0b848912" /> <br>
+<img width="614.4" height="409.6" alt="MUHAMMAD IBN ʿABD ALLĀH" src="https://github.com/user-attachments/assets/d944d83f-b86c-4d2d-9d9e-a383becdbdf8" /> <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
 \>SCAFFOLDING: 604 — FREQUENCY RECEIVED BY SHŌTOKU TAISHI. <br>
