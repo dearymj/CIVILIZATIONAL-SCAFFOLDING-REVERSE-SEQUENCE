@@ -2538,6 +2538,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // We walk with the moon, hearts wander with the clouds. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="LI BAI" src="https://github.com/user-attachments/assets/08165b5f-6ebb-4f1d-9ae3-18c1acf4cc66" /> <br>
 … <br>
 \>SCAFFOLDING: 610 — FREQUENCY RECEIVED BY MUHAMMAD IBN ʿABD ALLĀH. <br>
 \>SCAFFOLDING: UNITY THROUGH JUSTICE PROTOCOL — STANDBY. <br>
