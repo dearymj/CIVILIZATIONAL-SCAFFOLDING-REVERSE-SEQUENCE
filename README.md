@@ -2516,6 +2516,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // In every reaction, the mind beholds a mirror of unity between fire and water, spirit and matter. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="JĀBIR IBN ḤAYYĀN" src="https://github.com/user-attachments/assets/2e19edf2-73af-490f-b72a-13124905431a" /> <br>
 … <br>
 \>SCAFFOLDING: 759 — FREQUENCY RECEIVED BY DU FU. <br>
 \>SCAFFOLDING: HUMAN SUFFERING ENCODING — STANDBY. <br>
