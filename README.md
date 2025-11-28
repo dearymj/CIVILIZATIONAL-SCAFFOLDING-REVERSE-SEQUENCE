@@ -2763,7 +2763,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // The Great Way has no name; all things equalize within it. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="ZHUANG ZI" src="https://github.com/user-attachments/assets/e95ff2fe-1146-41a5-b58e-c6fa5f914c11" /> <br>
+<img width="614.4" height="409.6" alt="ZHUANG ZI" src="https://github.com/user-attachments/assets/a6dffea7-9e7f-4a65-bfe0-886482bcb78e" /> <br>
 … <br>
 \>SCAFFOLDING: 336 BCE — FREQUENCY RECEIVED BY DIOGENES OF SINOPE. <br>
 \>SCAFFOLDING: COSMIC CYNIC REVERBERATION — STANDBY. <br>
