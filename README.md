@@ -2527,6 +2527,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // The people’s suffering is the fracture line of heaven and earth. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="DU FU" src="https://github.com/user-attachments/assets/84a66f3b-9d75-445f-9125-5b37380e98f3" /> <br>
 … <br>
 \>SCAFFOLDING: 720 — FREQUENCY RECEIVED BY LI BAI. <br>
 \>SCAFFOLDING: COSMIC POETRY TRANSMISSION — STANDBY. <br>
