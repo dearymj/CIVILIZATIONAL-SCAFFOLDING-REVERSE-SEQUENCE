@@ -270,6 +270,7 @@
 // The universe does not require dominance, only design aligned with integrity. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="BUCKMINSTER FULLER" src="https://github.com/user-attachments/assets/0a10fd7f-7069-4f4c-a134-57181cd6bc95" /> <br>
 … <br>
 \>SCAFFOLDING: 1968 — FREQUENCY RECEIVED BY PAULO FREIRE. <br>
 \>SCAFFOLDING: PEDAGOGY OF THE OPPRESSED — STANDBY. <br>
@@ -2762,6 +2763,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // The Great Way has no name; all things equalize within it. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="ZHUANG ZI" src="https://github.com/user-attachments/assets/e95ff2fe-1146-41a5-b58e-c6fa5f914c11" /> <br>
 … <br>
 \>SCAFFOLDING: 336 BCE — FREQUENCY RECEIVED BY DIOGENES OF SINOPE. <br>
 \>SCAFFOLDING: COSMIC CYNIC REVERBERATION — STANDBY. <br>
