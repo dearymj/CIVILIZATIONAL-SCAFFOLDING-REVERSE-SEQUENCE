@@ -261,6 +261,7 @@
 // We write, so history does not erase our soul. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="MAYA ANGELOU" src="https://github.com/user-attachments/assets/ecbba1e9-297a-47d9-abf9-8e34205585af" /> <br>
 … <br>
 \>SCAFFOLDING: 1969 — FREQUENCY RECEIVED BY BUCKMINSTER FULLER. <br>
 \>SCAFFOLDING: SPACESHIP EARTH SYSTEMS-ACTIVATION — STANDBY. <br>
