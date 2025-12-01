@@ -1931,6 +1931,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Law is not made for the prince, but for all under heaven. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="HAUNG ZONGXI" src="https://github.com/user-attachments/assets/a58eff04-c7af-4463-a6ae-fa912d80e2ca" /> <br>
 … <br>
 \>SCAFFOLDING: 1662 — FREQUENCY RECEIVED BY BARUCH SPINOZA. <br>
 \>SCAFFOLDING: ESSENCE–SUBSTANCE CLARITY — STANDBY. <br>
