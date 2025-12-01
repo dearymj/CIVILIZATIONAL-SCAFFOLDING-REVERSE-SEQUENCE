@@ -1009,6 +1009,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Through the eyes of madness, the illness of the crowd is revealed. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="LU XUN" src="https://github.com/user-attachments/assets/a2df06e4-39f6-45e8-91df-aa9180f92058" /> <br>
 … <br>
 \>SCAFFOLDING: 1917 — FREQUENCY RECEIVED BY MAHATMA GANDHI. <br>
 \>SCAFFOLDING: NONVIOLENT RESONANCE — STANDBY. <br>
