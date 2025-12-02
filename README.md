@@ -1623,7 +1623,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // The past sleeps in silence, awaiting hands to uncover its voice. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="MARY ANNING" src="https://github.com/user-attachments/assets/09de351b-454f-468d-993c-dca809aa15b9" /> <br>
+<img width="614.4" height="409.6" alt="MARY ANNING" src="https://github.com/user-attachments/assets/d653468a-4f4c-4cbc-81d9-3bb7b6a6ae05" /> <br>
 … <br>
 \>SCAFFOLDING: 1822 — FREQUENCY RECEIVED BY JOSEPH FOURIER. <br>
 \>SCAFFOLDING: ANALYTICAL THEORY OF HEAT — STANDBY. <br>
