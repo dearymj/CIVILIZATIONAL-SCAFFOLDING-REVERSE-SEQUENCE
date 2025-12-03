@@ -1235,6 +1235,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // We weave the ancient songlines into machines of tomorrow. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="DAVID UNAIPON" src="https://github.com/user-attachments/assets/b769c792-0a97-4c4b-aa87-af9db454aa56" /> <br>
 … <br>
 \>SCAFFOLDING: 1899 — FREQUENCY RECEIVED BY NIKOLA TESLA. <br>
 \>SCAFFOLDING: LIFESTREAM RECEPTION — STANDBY. <br>
