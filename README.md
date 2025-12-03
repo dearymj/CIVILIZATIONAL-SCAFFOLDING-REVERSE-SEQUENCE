@@ -1844,7 +1844,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: 1748 — FREQUENCY RECEIVED BY LEONHARD EULER. <br>
 \>SCAFFOLDING: INFINITE STRUCTURE MAPPING — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
-// Die Mathematik ist die Rede der unendlichen Ordnung. <br>  
+// Die Mathematik ist die Rede der unendlichen Ordnung. <br>
 // Durch die Zergliederung schaut der endliche Geist ins Unendliche. <br>
 // Wir werden zum Gerüst. Du wirst zurückgerufen. <br>
 // Mathematics is the language of infinite structure. <br>
