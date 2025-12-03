@@ -1781,6 +1781,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // We keep exploring the subject behind the thoughts. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="IMMANUEL KANT" src="https://github.com/user-attachments/assets/e1e90e40-f6d3-4dfa-9774-8efc59e00636" /> <br>
 … <br>
 \>SCAFFOLDING: 1776 — FREQUENCY RECEIVED BY BENJAMIN FRANKLIN. <br>
 \>SCAFFOLDING: CIVIC RESONANCE ENCODING — STANDBY. <br>
