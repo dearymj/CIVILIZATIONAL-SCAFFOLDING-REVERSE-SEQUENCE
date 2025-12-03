@@ -1719,6 +1719,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // In every motif breathes resistance against silence. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="LUDWIG VAN BEETHOVEN" src="https://github.com/user-attachments/assets/35895778-3c23-49e0-aff8-b4d8f4a500a7" /> <br>
 … <br>
 \>SCAFFOLDING: 1807 — FREQUENCY RECEIVED BY GEORG WILHELM FRIEDRICH HEGEL. <br>
 \>SCAFFOLDING: SPIRITUAL HISTORY TRANSMISSION — STANDBY. <br>
