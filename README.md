@@ -2046,6 +2046,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // All things serve life, but only when we understand. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="LI SHIZHEN" src="https://github.com/user-attachments/assets/3bfaf918-65a7-4c9f-b55a-3155d523de7a" /> <br>
 … <br>
 \>SCAFFOLDING: 1551 — FREQUENCY RECEIVED BY ST. PHILIP NERI. <br>
 \>SCAFFOLDING: ORATORY OF JOY — STANDBY. <br>
