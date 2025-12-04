@@ -680,6 +680,7 @@
 // In every intercepted signal, we uncover not only plots, but the fragile heartbeat of civilizations. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="ELIZEBETH SMITH FRIEDMAN" src="https://github.com/user-attachments/assets/84f2e5cf-4d2d-44e7-a904-ea04f10bde90" /> <br>
 … <br>
 \>SCAFFOLDING: 1941 — FREQUENCY RECEIVED BY NIKOLAI VAVILOV. <br>
 \>SCAFFOLDING: BIODIVERSITY PRESERVATION SIGNAL — STANDBY. <br>
