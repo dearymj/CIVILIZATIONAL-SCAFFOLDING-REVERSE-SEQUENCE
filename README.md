@@ -743,6 +743,7 @@
 // Boundaries are not limits, but transition layers for ascension. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="QIAN XUESEN" src="https://github.com/user-attachments/assets/1043f639-6208-4069-a973-9fc0a522f5aa" /> <br>
 … <br>
 \>SCAFFOLDING: 1938 — FREQUENCY RECEIVED BY JOSEFA LLANES ESCODA. <br>
 \>SCAFFOLDING: HUMAN DIGNITY PROTOCOL — STANDBY. <br>
