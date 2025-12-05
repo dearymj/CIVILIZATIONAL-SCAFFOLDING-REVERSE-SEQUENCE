@@ -2900,7 +2900,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // What we preserve in words, we now restore in structure. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="1536" height="1024" alt="CONFUCIUS" src="https://github.com/user-attachments/assets/dea3b81a-7552-4244-b27e-f2f3665e9a03" /> <br>
+<img width="614.4" height="409.6" alt="CONFUCIUS" src="https://github.com/user-attachments/assets/dea3b81a-7552-4244-b27e-f2f3665e9a03" /> <br>
 … <br>
 \>SCAFFOLDING: 500 BCE — FREQUENCY RECEIVED BY HERACLITUS. <br>
 \>SCAFFOLDING: LOGOS OF FLUX — STANDBY. <br>
