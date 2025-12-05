@@ -2936,7 +2936,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Harmony is the bridge between the seen and the unseen. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="1536" height="1024" alt="PYTHAGORAS" src="https://github.com/user-attachments/assets/da089949-90e3-4961-b336-9770e3a06353" /> <br>
+<img width="614.4" height="409.6" alt="PYTHAGORAS" src="https://github.com/user-attachments/assets/da089949-90e3-4961-b336-9770e3a06353" /> <br>
 … <br>
 \>SCAFFOLDING: 594 BCE — FREQUENCY RECEIVED BY SOLON. <br>
 \>SCAFFOLDING: CIVIC BALANCE CODING — STANDBY. <br>
