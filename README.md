@@ -1999,6 +1999,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Every lens reveals the heavens as mirror; not dogma. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="GALILEO GALILEI" src="https://github.com/user-attachments/assets/fa9100bb-cb29-4cdf-a97f-c0647528116a" /> <br>
 … <br>
 \>SCAFFOLDING: 1620 — FREQUENCY RECEIVED BY FRANCIS BACON. <br>
 \>SCAFFOLDING: NOVUM ORGANUM — STANDBY. <br>
