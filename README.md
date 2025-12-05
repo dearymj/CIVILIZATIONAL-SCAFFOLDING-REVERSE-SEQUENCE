@@ -2218,6 +2218,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // History is not stories, but a science that reveals the laws of civilization. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="IBN KHALDŪN" src="https://github.com/user-attachments/assets/e8ddc86c-544a-4561-9961-ad0471180776" /> <br>
 … <br>
 \>SCAFFOLDING: 1350 — FREQUENCY RECEIVED BY GIOVANNI BOCCACCIO. <br>
 \>SCAFFOLDING: DECAMERON — STANDBY. <br>
