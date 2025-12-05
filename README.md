@@ -2272,6 +2272,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // We observe the heavens to repair human affairs, drawing from the ancient to open the new. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="GUO SHOUJING" src="https://github.com/user-attachments/assets/0ab487b2-708c-4bbd-bd1a-f253c4e35d4f" /> <br>
 … <br>
 \>SCAFFOLDING: 1228 — FREQUENCY RECEIVED BY ALBERTUS MAGNUS. <br>
 \>SCAFFOLDING: UNIVERSAL DOCTOR — STANDBY. <br>
