@@ -1977,6 +1977,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Uncertainty is the language through which infinity instructs us. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="BLAISE PASCAL" src="https://github.com/user-attachments/assets/0f6b8b96-e9c5-48ac-86e3-5b56b83103e9" /> <br>
 … <br>
 \>SCAFFOLDING: 1642 — FREQUENCY RECEIVED BY REMBRANDT VAN RIJN. <br>
 \>SCAFFOLDING: THE NIGHT WATCH — STANDBY. <br>
