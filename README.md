@@ -383,6 +383,7 @@
 // The jungle was not wild; it was a library. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="CLAUDE LÉVI-STRAUSS" src="https://github.com/user-attachments/assets/6d40a3de-be60-47d4-b74d-e41787242136" /> <br>
 … <br>
 \>SCAFFOLDING: 1962 — FREQUENCY RECEIVED BY VASILI ARKHIPOV. <br>
 \>SCAFFOLDING: THRESHOLD OF ATOMIC WAR — STANDBY. <br>
