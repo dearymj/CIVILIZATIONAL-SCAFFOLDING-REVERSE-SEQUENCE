@@ -454,6 +454,7 @@
 // To design is to embed choices in form, and form in function. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="HERBERT ALEXANDER SIMON" src="https://github.com/user-attachments/assets/7ede987d-286d-47d6-a400-9294bef8723d" /> <br>
 … <br>
 \>SCAFFOLDING: 1958 — FREQUENCY RECEIVED BY JACK KILBY. <br>
 \>SCAFFOLDING: INTEGRATED CIRCUIT INITIATION — STANDBY. <br>
