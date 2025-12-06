@@ -347,6 +347,7 @@
 // The storm may seize the form, but the spirit is not destroyed. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="BIAN ZHONGYUN" src="https://github.com/user-attachments/assets/bb993b75-62a3-4250-8aab-0276db3fbf90" /> <br>
 … <br>
 \>SCAFFOLDING: 1963 — FREQUENCY RECEIVED BY MARTIN LUTHER KING JR. <br>
 \>SCAFFOLDING: DREAM FREQUENCY STABILIZATION — STANDBY. <br>
