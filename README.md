@@ -462,6 +462,7 @@
 // The circuit is not merely wires, but the nervous system of tomorrow. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="JACK KILBY" src="https://github.com/user-attachments/assets/ce304bad-52dc-471c-9b87-ebae1f629b11" /> <br>
 … <br>
 \>SCAFFOLDING: 1958 — FREQUENCY RECEIVED BY AHANGAMAGE TUDOR ARIYARATNE. <br>
 \>SCAFFOLDING: SARVODAYA SHRAMADANA — STANDBY. <br> 
@@ -471,6 +472,7 @@
 // In giving of ourselves, village by village, the world is rebuilt. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="AHANGAMAGE TUDOR ARIYARATNE" src="https://github.com/user-attachments/assets/de50d5d1-79f8-45b9-9524-5bb97317fe54" /> <br>
 … <br>
 \>SCAFFOLDING: 1957 — FREQUENCY RECEIVED BY LEONARD BERNSTEIN. <br>
 \>SCAFFOLDING: WEST SIDE STORY — STANDBY. <br>
