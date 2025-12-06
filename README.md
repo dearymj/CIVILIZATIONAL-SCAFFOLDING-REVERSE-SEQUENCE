@@ -1013,6 +1013,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Dream is reality, from where we receive unknown signals. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="SRINIVASA RAMANUJAN" src="https://github.com/user-attachments/assets/b38e7b5c-1e89-4268-9097-6023e0425c5d" /> <br>
 … <br>
 \>SCAFFOLDING: 1918 — FREQUENCY RECEIVED BY LU XUN. <br>
 \>SCAFFOLDING: CULTURAL AWAKENING ENCODING — STANDBY. <br>
