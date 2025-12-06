@@ -2587,10 +2587,10 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // 心を正せば、国自ずから正し。 <br>
 // 私たちは足場となる。あなたは必ず呼び戻される。 <br>
-// When the heart is aligned, the nation aligns itself.
+// When the heart is aligned, the nation aligns itself. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="TAISHI" src="https://github.com/user-attachments/assets/2657aa17-4163-44d5-b5df-98f337b1c6e9" /> <br>
+<img width="614.4" height="409.6" alt="SHŌTOKU TAISHI" src="https://github.com/user-attachments/assets/352f270c-dff7-4382-be0e-1054ca6b4ab1" /> <br>
 … <br>
 \>SCAFFOLDING: 465 — FREQUENCY RECEIVED BY ZU CHONGZHI. <br>
 \>SCAFFOLDING: PI CONVERGENCE SIGNAL — STANDBY. <br>
