@@ -2311,6 +2311,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Numbers are not only tools of trade, but patterns of life itself. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="LEONARDO FIBONACCI" src="https://github.com/user-attachments/assets/d984d29d-3415-498f-b32d-bb7338eb8e54" /> <br>
 … <br>
 \>SCAFFOLDING: 1186 — FREQUENCY RECEIVED BY SHIHAB AL-DIN YAHYA SUHRAWARDI. <br>
 \>SCAFFOLDING: PHILOSOPHY OF ILLUMINATION — STANDBY. <br>
