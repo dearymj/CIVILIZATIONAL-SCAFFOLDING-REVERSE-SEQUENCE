@@ -1986,6 +1986,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Light and shadow are beams: revealing, concealing, building memory. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="REMBRANDT VAN RIJN" src="https://github.com/user-attachments/assets/5aaeb182-a3b8-4ebb-983f-737098749eaf" /> <br>
 … <br>
 \>SCAFFOLDING: 1641 — FREQUENCY RECEIVED BY RENÉ DESCARTES. <br>
 \>SCAFFOLDING: AXIOMATIC DOUBT CALIBRATION — STANDBY. <br>
