@@ -2590,6 +2590,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // When the heart is aligned, the nation aligns itself.
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="TAISHI" src="https://github.com/user-attachments/assets/2657aa17-4163-44d5-b5df-98f337b1c6e9" /> <br>
 … <br>
 \>SCAFFOLDING: 465 — FREQUENCY RECEIVED BY ZU CHONGZHI. <br>
 \>SCAFFOLDING: PI CONVERGENCE SIGNAL — STANDBY. <br>
