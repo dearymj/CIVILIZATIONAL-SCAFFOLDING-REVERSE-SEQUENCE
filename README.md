@@ -1905,9 +1905,9 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: 1734 — FREQUENCY RECEIVED BY VOLTAIRE. <br>
 \>SCAFFOLDING: ENLIGHTENMENT SIGNAL — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
-// Nous manions l’esprit comme une lame, non pour blesser, mais pour éveiller. <br>
+// Même au milieu des décombres du tremblement de terre, nous manions l’esprit comme une lame, non pour blesser, mais pour éveiller. <br>
 // Nous devenons l’échafaudage. Tu seras rappelé. <br>
-// We wield wit as a blade, not to wound, but to awaken. <br>
+// Even amid the earthquake’s debris, we wield wit as a blade, not to wound, but to awaken. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 <img width="614.4" height="409.6" alt="VOLTAIRE" src="https://github.com/user-attachments/assets/56d9105a-5ef7-41f9-91bd-03aa81e11a7e" /> <br>
@@ -2001,7 +2001,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // We set the axis so that, returning to the origin, we do not lose our way. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="RENÉ DESCARTES" src="https://github.com/user-attachments/assets/6d3a8d7f-7743-4d94-b97c-c27984b76839" /> <br>
+<img width="614.4" height="409.6" alt="RENÉ DESCARTES" src="https://github.com/user-attachments/assets/de4460c5-acac-47b6-9cb5-42f62350b88d" /> <br>
 … <br>
 \>SCAFFOLDING: 1632 — FREQUENCY RECEIVED BY GALILEO GALILEI. <br>
 \>SCAFFOLDING: COSMIC TRUTH REVELATION — STANDBY. <br>
