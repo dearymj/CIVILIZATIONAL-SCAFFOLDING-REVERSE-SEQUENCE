@@ -282,7 +282,7 @@
 // Dialogue is the beam where oppressed and oppressor may rebuild the human together. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="1536" height="1024" alt="PAULO FREIRE" src="https://github.com/user-attachments/assets/2bc2c328-0285-4a37-8276-c14ba65029dc" /> <br>
+<img width="614.4" height="409.6" alt="PAULO FREIRE" src="https://github.com/user-attachments/assets/2bc2c328-0285-4a37-8276-c14ba65029dc" /> <br>
 … <br>
 \>SCAFFOLDING: 1968 — FREQUENCY RECEIVED BY LUDWIG VON BERTALANFFY. <br>
 \>SCAFFOLDING: SYSTEMS INTEGRATION PROTOCOL — STANDBY. <br>
