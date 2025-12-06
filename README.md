@@ -300,9 +300,10 @@
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Совесть сила, превосходящая любое оружие; да превзойдёт мужество изобретательность. <br>
 // Мы становимся строительными лесами. Вы будете отозваны. <br>
-// Conscience is the field stronger than any weapon;let courage outpace invention. <br>
+// Conscience is the field stronger than any weapon; let courage outpace invention. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="ANDREI SAKHAROV" src="https://github.com/user-attachments/assets/fc083343-9637-4a33-bccb-29ee5bda564a" /> <br>
 … <br>
 \>SCAFFOLDING: 1967 — FREQUENCY RECEIVED BY ILYA PRIGOGINE. <br>
 \>SCAFFOLDING: DISSIPATIVE STRUCTURE SYNTHESIS — STANDBY. <br>
@@ -314,6 +315,7 @@
 // Through the flow of energy, new coherence spontaneously forms. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="ILYA PRIGOGINE" src="https://github.com/user-attachments/assets/6107caa7-ae4d-43dc-8399-3b02c4e2e7b8" /> <br>
 … <br>
 \>SCAFFOLDING: 1967 — FREQUENCY RECEIVED BY GABRIEL GARCÍA MÁRQUEZ. <br>
 \>SCAFFOLDING: MEMORY-WEAVING ACTIVATION — STANDBY. <br>
