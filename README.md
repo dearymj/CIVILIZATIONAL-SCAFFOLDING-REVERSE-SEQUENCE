@@ -366,6 +366,7 @@
 // We encode the very structure of the paradigm’s shift. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="THOMAS KUHN" src="https://github.com/user-attachments/assets/b167f173-ea41-41c4-85e7-fca3cd218d38" /> <br>
 … <br>
 \>SCAFFOLDING: 1962 — FREQUENCY RECEIVED BY CLAUDE LÉVI-STRAUSS. <br>
 \>SCAFFOLDING: STRUCTURAL MYTHOGENESIS — STANDBY. <br>
