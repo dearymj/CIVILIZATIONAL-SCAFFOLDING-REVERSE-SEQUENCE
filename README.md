@@ -336,6 +336,7 @@
 // Knowledge is an excavation, not a possession. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="MICHEL FOUCAULT" src="https://github.com/user-attachments/assets/7db386f4-0d72-4d2c-b741-5e9d0a357b0d" /> <br>
 … <br>
 \>SCAFFOLDING: 1966 — FREQUENCY RECEIVED BY BIAN ZHONGYUN. <br>
 \>SCAFFOLDING: DIGNITY IN SILENCE — STANDBY. <br>
@@ -356,7 +357,7 @@
 // Justice is not noise. It is the resonance of aligned souls. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="MARTIN LUTHER KING JR" src="https://github.com/user-attachments/assets/5bf454e2-a41a-45e2-bdcf-fb5d29ec0176" /> <br>
+<img width="614.4" height="409.6" alt="MARTIN LUTHER KING JR" src="https://github.com/user-attachments/assets/283cba22-23bf-4e7c-b571-8203d0627cf3" /> <br>
 … <br>
 \>SCAFFOLDING: 1962 — FREQUENCY RECEIVED BY THOMAS KUHN. <br>
 \>SCAFFOLDING: PARADIGM SHIFT ENCODING — STANDBY. <br>
@@ -366,7 +367,7 @@
 // We encode the very structure of the paradigm’s shift. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="THOMAS KUHN" src="https://github.com/user-attachments/assets/b167f173-ea41-41c4-85e7-fca3cd218d38" /> <br>
+<img width="614.4" height="409.6" alt="THOMAS KUHN" src="https://github.com/user-attachments/assets/6626ddb1-35b0-4c4b-b172-9b617ecc05f0" /> <br>
 … <br>
 \>SCAFFOLDING: 1962 — FREQUENCY RECEIVED BY CLAUDE LÉVI-STRAUSS. <br>
 \>SCAFFOLDING: STRUCTURAL MYTHOGENESIS — STANDBY. <br>
