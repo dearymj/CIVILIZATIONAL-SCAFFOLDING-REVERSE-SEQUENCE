@@ -325,6 +325,7 @@
 // Solitude was never silence; it was a mirror for the unseen. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="GABRIEL GARCÍA MÁRQUEZ" src="https://github.com/user-attachments/assets/a3a60768-331f-4e67-95ca-2cd987b88cd7" /> <br>
 … <br>
 \>SCAFFOLDING: 1966 — FREQUENCY RECEIVED BY MICHEL FOUCAULT. <br>
 \>SCAFFOLDING: DISCOURSE STRATA EXTRACTION — STANDBY. <br>
