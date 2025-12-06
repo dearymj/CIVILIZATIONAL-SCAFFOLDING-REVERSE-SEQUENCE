@@ -1967,6 +1967,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // In knowing substance, we reflect it, and in reflecting, we are substance itself. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="BARUCH SPINOZA" src="https://github.com/user-attachments/assets/295756f3-e9cd-498c-9bf2-8f5bad974123" /> <br>
 … <br>
 \>SCAFFOLDING: 1654 — FREQUENCY RECEIVED BY BLAISE PASCAL. <br>
 \>SCAFFOLDING: UNCERTAINTY LOGIC — STANDBY. <br>
