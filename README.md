@@ -1868,7 +1868,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Through analysis the finite mind contemplates the infinite. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="LEONHARD EULER" src="https://github.com/user-attachments/assets/f718e117-ca9b-4f1b-9a12-5fe84e27e1ac" /> <br>
+<img width="614.4" height="409.6" alt="LEONHARD EULER" src="https://github.com/user-attachments/assets/a9a93470-4544-4b35-84c6-ce121b8b926d" /> <br>
 … <br>
 \>SCAFFOLDING: 1741 — FREQUENCY RECEIVED BY JOHANN SEBASTIAN BACH. <br>
 \>SCAFFOLDING: GOLDBERG VARIATIONS — STANDBY. <br>
@@ -1880,6 +1880,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Variation is the stair by which harmony ascends and descends. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="JOHANN SEBASTIAN BACH" src="https://github.com/user-attachments/assets/a4ed81a8-20c4-4726-811d-ab3a6f13083a" /> <br>
 … <br>
 \>SCAFFOLDING: 1740 — FREQUENCY RECEIVED BY DAVID HUME. <br>
 \>SCAFFOLDING: TREATISE OF HUMAN NATURE — STANDBY. <br>
@@ -1891,6 +1892,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // The self is no fortress, but a bundle, a scaffolding of perceptions in flux. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="DAVID HUME" src="https://github.com/user-attachments/assets/d2783045-bb7c-4523-830a-03c7264f866d" /> <br>
 … <br>
 \>SCAFFOLDING: 1735 — FREQUENCY RECEIVED BY JOHN HARRISON. <br>
 \>SCAFFOLDING: NAVIGATIONAL COHERENCE ENCODING — STANDBY. <br>
@@ -1908,6 +1910,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // We wield wit as a blade, not to wound, but to awaken. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="VOLTAIRE" src="https://github.com/user-attachments/assets/56d9105a-5ef7-41f9-91bd-03aa81e11a7e" /> <br>
 … <br>
 \>SCAFFOLDING: 1725 — FREQUENCY RECEIVED BY GIAMBATTISTA VICO. <br>
 \>SCAFFOLDING: NEW SCIENCE — STANDBY. <br>
