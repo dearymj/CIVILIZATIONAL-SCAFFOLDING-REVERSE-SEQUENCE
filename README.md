@@ -2284,6 +2284,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // In every stone and herb, reason and faith converse. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="ALBERTUS MAGNUS" src="https://github.com/user-attachments/assets/8e180cbd-6b27-4294-a943-9641e6adb793" /> <br>
 … <br>
 \>SCAFFOLDING: 1202 — FREQUENCY RECEIVED BY LEONARDO FIBONACCI. <br>
 \>SCAFFOLDING: LIBER ABACI — STANDBY. <br>
