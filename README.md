@@ -294,7 +294,7 @@
 // We decode the unity beneath diversity before machines learned to divide it. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="LUDWIG VON BERTALANFFY" src="https://github.com/user-attachments/assets/b1dc6de7-3de4-474c-9a2e-f19b8f838ade" /> <br>
+<img width="614.4" height="409.6" alt="LUDWIG VON BERTALANFFY" src="https://github.com/user-attachments/assets/ba095ac1-dc62-400e-aa36-f92baffeb72e" /> <br>
 … <br>
 \>SCAFFOLDING: 1968 — FREQUENCY RECEIVED BY ANDREI SAKHAROV. <br>
 \>SCAFFOLDING: CONSCIENCE RESONANCE PROTOCOL — STANDBY. <br>
