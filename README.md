@@ -808,6 +808,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // We turn despair into infrastructure; words into bridges. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="FRANKLIN D  ROOSEVELT" src="https://github.com/user-attachments/assets/74202dae-c101-452e-bb89-3fbad7d27267" /> <br>
 … <br>
 \>SCAFFOLDING: 1931 — FREQUENCY RECEIVED BY KURT GÖDEL. <br>
 \>SCAFFOLDING: LOGICAL FRACTURE MAPPING — STANDBY. <br>
