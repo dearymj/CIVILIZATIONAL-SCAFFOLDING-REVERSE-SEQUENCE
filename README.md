@@ -819,6 +819,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // We uncover the truth that no system can contain itself. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="KURT GÖDEL" src="https://github.com/user-attachments/assets/18233b9a-4055-434d-a7c9-abb4cc05bc5b" /> <br>
 … <br>
 \>SCAFFOLDING: 1931 — FREQUENCY RECEIVED BY PEARL SYDENSTRICKER BUCK. <br>
 \>SCAFFOLDING: TRANSLATIONAL HUMANISM — STANDBY. <br>
