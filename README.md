@@ -2480,6 +2480,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Wind and moon shine together; the heart and principle are one. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="CHOE CHIWON" src="https://github.com/user-attachments/assets/abf146f2-21f1-498a-9352-d38c317e4869" /> <br>
 … <br>
 \>SCAFFOLDING: 859 — FREQUENCY RECEIVED BY FATIMA AL-FIHRI. <br>
 \>SCAFFOLDING: CIVILIZATIONAL KNOWLEDGE ARCHITECTURE — STANDBY. <br>
