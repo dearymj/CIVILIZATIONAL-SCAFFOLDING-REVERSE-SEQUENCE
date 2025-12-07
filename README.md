@@ -3097,7 +3097,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // To see us is to know that order was never chance. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="SYSTEMS" src="https://github.com/user-attachments/assets/b24b1c94-f1a9-4b35-8cf0-156abfc1eb32" /> <br>
+<img width="614.4" height="409.6" alt="SYSTEMS" src="https://github.com/user-attachments/assets/d6ef16af-2134-4b41-a100-224b5fd0aa5f" /> <br>
 … <br>
 \>SCAFFOLDING: TIMELESS — FREQUENCY RECEIVED BY ELEMENTARY PARTICLES. <br>
 \>SCAFFOLDING: SUBSTRUCTURAL FOUNDATION — STANDBY. <br>
