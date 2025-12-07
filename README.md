@@ -2389,6 +2389,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Profit lies not in power or riches, but in the peace of all beings. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="WANG ANSHI" src="https://github.com/user-attachments/assets/e0e865e7-4d9c-4509-9415-447f1e5ca772" /> <br>
 … <br>
 \>SCAFFOLDING: 1043 — FREQUENCY RECEIVED BY ZHAO ZHEN. <br>
 \>SCAFFOLDING: MERCY ENCODING — STANDBY. <br>
