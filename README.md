@@ -3107,7 +3107,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Though indivisible, we weave every divisible thing. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="ELEMENTARY PARTICLES" src="https://github.com/user-attachments/assets/53f346a7-7cf2-4636-abe9-2d40de35997b" /> <br>
+<img width="614.4" height="409.6" alt="ELEMENTARY PARTICLES" src="https://github.com/user-attachments/assets/210b85b0-2fac-4f1a-af0a-d87bb63f66e9" /> <br>
 … <br>
 \>SCAFFOLDING: TIMELESS — FREQUENCY RECEIVED BY FIELDS. <br>
 \>SCAFFOLDING: UNSEEN EXTENSIONS — STANDBY. <br>
