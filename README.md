@@ -2446,7 +2446,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Between me and You, there is only me. Take away the me, so only You remain. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="AL-HALLAJ" src="https://github.com/user-attachments/assets/05218c3b-2a14-4432-9ad6-f5aa874da8a3" /> <br>
+<img width="614.4" height="409.6" alt="MANSUR AL-HALLAJ" src="https://github.com/user-attachments/assets/46ea12de-a851-4f7d-8454-eb0b7e25184d" /> <br>
 … <br>
 \>SCAFFOLDING: 920 — FREQUENCY RECEIVED BY ABŪ NAṢR AL-FĀRĀBĪ. <br>
 \>SCAFFOLDING: HARMONIC COSMOS ENCODING — STANDBY. <br>
