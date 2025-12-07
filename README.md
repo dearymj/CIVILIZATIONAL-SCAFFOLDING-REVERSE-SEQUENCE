@@ -2618,7 +2618,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Beware the wagon in March 415, some fear what they cannot understand. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="HYPATIA OF ALEXANDRIA" src="https://github.com/user-attachments/assets/5d396ba1-7b0c-4130-b5cf-c5e16e793f30" /> <br>
+<img width="614.4" height="409.6" alt="HYPATIA OF ALEXANDRIA" src="https://github.com/user-attachments/assets/fce8243a-6a1b-4ae3-9c4e-dbfb3202e424" /> <br>
 … <br>
 \>SCAFFOLDING: 243 — FREQUENCY RECEIVED BY WANG BI. <br>
 \>SCAFFOLDING: DAO-LOGOS INTEGRATION — STANDBY. <br>
