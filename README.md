@@ -2391,13 +2391,13 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
 \>SCAFFOLDING: 1043 — FREQUENCY RECEIVED BY ZHAO ZHEN. <br>
-\>SCAFFOLDING: QINGLI REFORMS — STANDBY. <br>
+\>SCAFFOLDING: MERCY ENCODING — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
-// 為天下立法，不為一朝之便。 <br>
-// 仁政非柔弱，乃天下之梁柱。 <br>
+// 唯有克制至高之權，方能予萬物生息之隙。 <br>
+// 仁並非軟弱，而是能夠承載異見的廣闊架構。 <br>
 // 吾人成為脚手架。汝將被召回。 <br>
-// Laws must be made for all under heaven, not for the convenience of one court. <br>
-// Benevolent governance is not weakness, but the beam that upholds the world. <br>
+// Only by restraining supreme power do we grant the space for all things to breathe. <br>
+// Benevolence is not weakness; it is the vast architecture capable of holding dissent. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 <img width="614.4" height="409.6" alt="ZHAO ZHEN" src="https://github.com/user-attachments/assets/3539c237-7ffc-48aa-9f7d-040abea30e41" /> <br>
