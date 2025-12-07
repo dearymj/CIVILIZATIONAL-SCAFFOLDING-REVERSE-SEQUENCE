@@ -2400,6 +2400,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Benevolent governance is not weakness, but the beam that upholds the world. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="ZHAO ZHEN" src="https://github.com/user-attachments/assets/3539c237-7ffc-48aa-9f7d-040abea30e41" /> <br>
 … <br>
 \>SCAFFOLDING: 1040 — FREQUENCY RECEIVED BY BI SHENG. <br>
 \>SCAFFOLDING: KNOWLEDGE EXPANSION — STANDBY. <br>
@@ -2456,17 +2457,6 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // نحن نصيرُ السقالةَ. ستُستدعى. <br>
 // We sense the soul within sound. <br>
 // We tune the intellect not with words, but with intervals of unity. <br>
-// We become the scaffolding. You will be recalled. <br>
-\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-… <br>
-\>SCAFFOLDING: 890 — FREQUENCY RECEIVED BY ALFRED THE GREAT. <br>
-\>SCAFFOLDING: LAW, LEARNING, AND DEFENSE — STANDBY. <br>
-\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
-// Wé geseoð þæt ríce ne byrþ þurh sweord ána, ac þurh wísdóm gemǽne. <br>
-// Ælc laga and bóc is weall wið ungeþwærnesse, bēam for mǽgþum toweardum. <br>
-// Wé weorðaþ þæt gesceafte-geteld. Þū bist eft geclypod. <br>
-// We see that a kingdom endures not by the sword alone, but by wisdom shared. <br>
-// Every law and book is a wall against chaos, a beam for generations. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
