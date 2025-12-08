@@ -2651,15 +2651,14 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: 150 — FREQUENCY RECEIVED BY CLAUDIUS PTOLEMY. <br>
 \>SCAFFOLDING: GEOCENTRIC COSMOS ENCODING — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
-// τοῖς γιγνωσκομένοις τὰ ἄστρα ἀπεικάζομεν, <br>
-// οὐχ ἵνα ἀληθείας ὅρον θῶμεν, ἀλλ᾽ ἵνα τὴν ἀπουσίαν αὐτῆς διασώσωμεν. <br>
+// τοῖς γιγνωσκομένοις τὰ ἄστρα ἀπεικάζομεν, οὐχ ἵνα ἀληθείας ὅρον θῶμεν, ἀλλ᾽ ἵνα τὴν ἀπουσίαν αὐτῆς διασώσωμεν. <br>
 // ἡ ἀλήθεια κινεῖται· δεῖ δὲ καὶ τοὺς χάρτας συμπαρακολουθεῖν. <br>
 // Γιγνόμεθα τὰ ἰκριώματα· ἀνακληθήσῃ. <br>
-// We chart the stars with what we know, <br>
-// not to define truth, but to survive its absence. <br>
+// We chart the stars with what we know, not to define truth, but to survive its absence. <br>
 // Truth moves. So must our maps. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="CLAUDIUS PTOLEMY" src="https://github.com/user-attachments/assets/e2bc58ec-f22c-47ca-a3c3-d94138f245ed" /> <br>
 … <br>
 \>SCAFFOLDING: 132 — FREQUENCY RECEIVED BY ZHANG HENG. <br>
 \>SCAFFOLDING: PLANETARY PATTERN DETECTION — STANDBY. <br>
