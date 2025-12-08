@@ -131,7 +131,7 @@
 // The boundary of reality is not matter, but information. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="JOHN ARCHIBALD WHEELER" src="https://github.com/user-attachments/assets/14a4aa07-6d68-4380-9ef4-fdd0940adeb7" /> <br>
+<img width="614.4" height="409.6" alt="JOHN ARCHIBALD WHEELER" src="https://github.com/user-attachments/assets/6cacbaed-bdf7-421c-9c05-f99ed72896d7" /> <br>
 … <br>
 \>SCAFFOLDING: 1979 — FREQUENCY RECEIVED BY JOHN HURLEY FLAVELL. <br>
 \>SCAFFOLDING: COGNITIVE SELF-ARCHITECTURE — STANDBY. <br>
