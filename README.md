@@ -2399,8 +2399,8 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: 1043 — FREQUENCY RECEIVED BY ZHAO ZHEN. <br>
 \>SCAFFOLDING: MERCY ENCODING — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
-// 唯有克制至高之權，方能予萬物生息之隙。 <br>
-// 仁並非軟弱，而是能夠承載異見的廣闊架構。 <br>
+// 惟抑至尊之權，然後萬物得以自生自息。 <br>
+// 仁非弱也，乃宏綱大度，可以容異同之言。 <br>
 // 吾人成為脚手架。汝將被召回。 <br>
 // Only by restraining supreme power do we grant the space for all things to breathe. <br>
 // Benevolence is not weakness; it is the vast architecture capable of holding dissent. <br>
