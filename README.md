@@ -2754,6 +2754,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // To govern water is not to resist, not to fight, but to channel. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="LI BING" src="https://github.com/user-attachments/assets/06ca4647-8491-48e7-992e-d9c2f7899fda" /> <br>
 … <br>
 \>SCAFFOLDING: 280 BCE — FREQUENCY RECEIVED BY EUCLID. <br>
 \>SCAFFOLDING: GEOMETRIC AXIOM ENCODING — STANDBY. <br>
