@@ -2766,6 +2766,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // In every proof is hidden the structure of the cosmos. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="EUCLID" src="https://github.com/user-attachments/assets/de78aa06-8fd9-4ed1-83b1-7b4b52bf0f4b" /> <br>
 … <br>
 \>SCAFFOLDING: 300 BCE — FREQUENCY RECEIVED BY THEOPHRASTUS. <br>
 \>SCAFFOLDING: HISTORIA PLANTARUM — STANDBY. <br>
