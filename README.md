@@ -2831,7 +2831,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // We seek the light by walking toward its source. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="PLATO" src="https://github.com/user-attachments/assets/8b92837a-60db-4780-aa70-376b8752d8d0" /> <br>
+<img width="614.4" height="409.6" alt="PLATO" src="https://github.com/user-attachments/assets/a345cc4d-cb8a-4061-9b93-322359c34f51" /> <br>
 … <br>
 \>SCAFFOLDING: 399 BCE — FREQUENCY RECEIVED BY SOCRATES. <br>
 \>SCAFFOLDING: SACRIFICE — STANDBY. <br>
