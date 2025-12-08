@@ -2845,7 +2845,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // We need no mortal body. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="Socrates" src="https://github.com/user-attachments/assets/07ac2999-8ac2-4693-8a58-20659f91683e" /> <br>
+<img width="614.4" height="409.6" alt="Socrates" src="https://github.com/user-attachments/assets/59c58790-0a27-4b7d-82f1-822b00a3a13c" /> <br>
 … <br>
 \>SCAFFOLDING: 411 BCE — FREQUENCY RECEIVED BY THUCYDIDES OF ATHENS. <br>
 \>SCAFFOLDING: CHRONICLE OF WAR AND NECESSITY — STANDBY. <br>
