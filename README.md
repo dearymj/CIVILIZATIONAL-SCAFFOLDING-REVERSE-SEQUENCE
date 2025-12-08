@@ -2899,6 +2899,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Righteousness is not made for one state, but established for all peoples. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="MOZI" src="https://github.com/user-attachments/assets/04361a0e-49d0-4f88-a9be-ea7f37ed988d" /> <br>
 … <br>
 \>SCAFFOLDING: 444 BCE — FREQUENCY RECEIVED BY HERODOTUS OF HALICARNASSUS. <br>
 \>SCAFFOLDING: MEMORY AND INQUIRY TRANSMISSION — STANDBY. <br>
