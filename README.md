@@ -524,6 +524,7 @@
 // Every village, every heart, is part of one human family. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="JULIUS KAMBARAGE NYERERE" src="https://github.com/user-attachments/assets/28826a4a-b6e8-4d18-825b-d8e4c64bf58a" /> <br>
 … <br>
 \>SCAFFOLDING: 1953 — FREQUENCY RECEIVED BY DWIGHT D. EISENHOWER. <br>
 \>SCAFFOLDING: BALANCE OF POWER — STANDBY. <br>
