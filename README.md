@@ -2602,6 +2602,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // The circle may waver, but principle endures. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="ZU CHONGZHI" src="https://github.com/user-attachments/assets/b374f3b7-9892-4ce4-afd1-7a5775ed29ad" /> <br>
 … <br>
 \>SCAFFOLDING: 380 — FREQUENCY RECEIVED BY HYPATIA OF ALEXANDRIA. <br>
 \>SCAFFOLDING: KNOWLEDGE ARCHIVE — STANDBY. <br>
