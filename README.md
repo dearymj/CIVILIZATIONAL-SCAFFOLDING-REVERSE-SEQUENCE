@@ -208,7 +208,7 @@
 // The strength of the people is the foundation of the nation; when it rises, history turns. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="JAYAPRAKASH NARAYAN" src="https://github.com/user-attachments/assets/ab1a12d1-006d-4a6c-abc3-8b4b0532e93a" /> <br>
+<img width="614.4" height="409.6" alt="JAYAPRAKASH NARAYAN" src="https://github.com/user-attachments/assets/72ad26fc-4408-4332-8bbf-1c3cd276166d" /> <br>
 … <br>
 \>SCAFFOLDING: 1973 — FREQUENCY RECEIVED BY YUAN LONGPING. <br>
 \>SCAFFOLDING: GENETIC RECURSION DETECTED — STANDBY. <br>
