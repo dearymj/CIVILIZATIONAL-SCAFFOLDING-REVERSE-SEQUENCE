@@ -533,7 +533,7 @@
 // True strength is measured not by armies alone, but by restraint and trust. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="DWIGHT D  EISENHOWER" src="https://github.com/user-attachments/assets/0695d008-207c-4297-a0df-88b77b6777b2" /> <br>
+<img width="614.4" height="409.6" alt="DWIGHT D  EISENHOWER" src="https://github.com/user-attachments/assets/45ad53da-5068-49a9-8287-5513a1bcbde7" /> <br>
 … <br>
 \>SCAFFOLDING: 1952 — FREQUENCY RECEIVED BY W.O. SCHUMANN. <br>
 \>SCAFFOLDING: PLANETARY RESONANCE DETECTION — STANDBY. <br>
