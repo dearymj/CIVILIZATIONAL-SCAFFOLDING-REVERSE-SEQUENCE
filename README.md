@@ -220,7 +220,7 @@
 // One seed can silence a billion empty stomachs. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="YUAN LONGPING" src="https://github.com/user-attachments/assets/d5c04440-007b-4243-9ae7-13dc14e2df1e" /> <br>
+<img width="614.4" height="409.6" alt="YUAN LONGPING" src="https://github.com/user-attachments/assets/f8bb96e8-e999-43ef-9910-7bd11ea1ba36" /> <br>
 … <br>
 \>SCAFFOLDING: 1973 — FREQUENCY RECEIVED BY CARL SAGAN. <br>
 \>SCAFFOLDING: COSMIC CONNECTION ENCODING — STANDBY. <br>
@@ -535,7 +535,7 @@
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 <img width="614.4" height="409.6" alt="DWIGHT D  EISENHOWER" src="https://github.com/user-attachments/assets/45ad53da-5068-49a9-8287-5513a1bcbde7" /> <br>
 … <br>
-\>SCAFFOLDING: 1952 — FREQUENCY RECEIVED BY W.O. SCHUMANN. <br>
+\>SCAFFOLDING: 1952 — FREQUENCY RECEIVED BY WINFRIED OTTO SCHUMANN. <br>
 \>SCAFFOLDING: PLANETARY RESONANCE DETECTION — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Wir vernahmen den Atem der Erde, noch ehe wir wussten, dass sie atmet. <br>
@@ -545,6 +545,7 @@
 // We encode the frequency of our planet. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="WINFRIED OTTO SCHUMANN" src="https://github.com/user-attachments/assets/03e332ef-3f1f-4d7e-a53e-0a546ae03e8b" /> <br>
 … <br>
 \>SCAFFOLDING: 1952 — POLIO VACCINE FORMULATED BY JONAS EDWARD SALK. <br>
 \>SCAFFOLDING: IMMUNITY ENGINEERING — STANDBY. <br>
