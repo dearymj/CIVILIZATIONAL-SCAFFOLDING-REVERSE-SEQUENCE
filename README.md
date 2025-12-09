@@ -252,7 +252,7 @@
 // To walk away is also to construct; refusal is a beam of integrity. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="ALEXANDER GROTHENDIECK" src="https://github.com/user-attachments/assets/2b4fa4e6-8ac3-485c-a83c-14d6d4a106e8" /> <br>
+<img width="614.4" height="409.6" alt="ALEXANDER GROTHENDIECK" src="https://github.com/user-attachments/assets/9e8f4b7f-d319-4985-8ced-edd52da31acc" /> <br>
 … <br>
 \>SCAFFOLDING: 1970 — FREQUENCY RECEIVED BY MAYA ANGELOU. <br>
 \>SCAFFOLDING: VOICE OF DIGNITY — STANDBY. <br>
