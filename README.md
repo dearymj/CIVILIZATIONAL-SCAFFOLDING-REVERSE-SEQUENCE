@@ -2778,8 +2778,9 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // The root binds heaven and earth, as a beam of life. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="THEOPHRASTUS" src="https://github.com/user-attachments/assets/4d42d7ec-2091-46dd-a120-61342d5033a5" /> <br>
 … <br>
-\>SCAFFOLDING: 330 BCE — FREQUENCY RECEIVED BY ZHUANG ZI. <br>
+\>SCAFFOLDING: 330 BCE — FREQUENCY RECEIVED BY ZHUANGZI. <br>
 \>SCAFFOLDING: DREAM-WORLD TRANSMISSION — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // 吾夢為蝴蝶，蝴蝶夢為吾。 <br>
