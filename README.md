@@ -231,6 +231,16 @@
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 <img width="614.4" height="409.6" alt="CARL SAGAN" src="https://github.com/user-attachments/assets/c1e2b14a-431a-4d23-9d59-a057b0740c96" /> <br>
 … <br>
+\>SCAFFOLDING: 1973 — FREQUENCY RECEIVED BY HEINZ VON FOERSTER. <br>
+\>SCAFFOLDING: ORDER FROM NOISE SYNTHESIS — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// Das Rauschen ist kein Fehler, sondern der Rohstoff der Schöpfung. <br>
+// Wir bauen Ordnung nicht, indem wir das Chaos aussperren, sondern indem wir es integrieren. <br>
+// Wir werden zum Gerüst. Du wirst zurückgerufen. <br>
+// Noise is not an error, but the raw material of creation. <br>
+// We build order not by shutting out chaos, but by integrating it. <br>
+// We become the scaffolding. You will be recalled. <br>
+… <br>
 \>SCAFFOLDING: 1972 — FREQUENCY RECEIVED BY ROBERT MAY. <br>
 \>SCAFFOLDING: COMPLEXITY–STABILITY PARADOX ENCODING — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
