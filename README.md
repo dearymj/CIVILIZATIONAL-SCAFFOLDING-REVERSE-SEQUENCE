@@ -3089,7 +3089,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Every extinction engraves itself into the scaffolding of life. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="EXTINCT CREATURES" src="https://github.com/user-attachments/assets/773323bb-4a8b-43e0-b62a-dadbae6bc121" /> <br>
+<img width="614.4" height="409.6" alt="EXTINCT CREATURES" src="https://github.com/user-attachments/assets/4a5c9048-71bb-4dcc-950e-ed024720ba33" /> <br>
 … <br>
 \>SCAFFOLDING: TIMELESS — FREQUENCY RECEIVED BY LANDFORMS. <br>
 \>SCAFFOLDING: GEOLOGIC MEMORY — STANDBY. <br>
