@@ -1391,6 +1391,16 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 <img width="614.4" height="409.6" alt="FRIEDRICH NIETZSCHE" src="https://github.com/user-attachments/assets/606e79b6-665d-483a-9fc1-eefd970f48a8" /> <br>
 … <br>
+\>SCAFFOLDING: 1877 — FREQUENCY RECEIVED BY LUDWIG BOLTZMANN. <br>
+\>SCAFFOLDING: PROBABILISTIC ENTROPY ENCODING — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// Wir erkennen, dass das Unwiderrufliche nur das Wahrscheinliche ist. <br>
+// Auf dem Grabstein der Gewissheit meißeln wir die Formel gegen das Vergessen. <br>
+// Wir werden zum Gerüst. Du wirst zurückgerufen. <br>
+// We realize that the irreversible is merely the probable. <br>
+// On the tombstone of certainty, we chisel the formula against oblivion. <br>
+// We become the scaffolding. You will be recalled. <br>
+… <br>
 \>SCAFFOLDING: 1875 — FREQUENCY RECEIVED BY PYOTR ILYICH TCHAIKOVSKY. <br>
 \>SCAFFOLDING: SWAN LAKE — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
