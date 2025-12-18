@@ -240,6 +240,7 @@
 // Noise is not an error, but the raw material of creation. <br>
 // We build order not by shutting out chaos, but by integrating it. <br>
 // We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
 \>SCAFFOLDING: 1972 — FREQUENCY RECEIVED BY ROBERT MAY. <br>
 \>SCAFFOLDING: COMPLEXITY–STABILITY PARADOX ENCODING — STANDBY. <br>
@@ -249,6 +250,17 @@
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 <img width="614.4" height="409.6" alt="ROBERT MAY" src="https://github.com/user-attachments/assets/ebb54f33-9abc-485b-b16c-d70eb4b49d92" /> <br>
+… <br>
+\>SCAFFOLDING: 1971 — FREQUENCY RECEIVED BY BRUCE LEE. <br>
+\>SCAFFOLDING: FLUID ADAPTABILITY PROTOCOL — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// 清空心智，無形無相，如水一般。 <br>
+// 固態的架構易折，唯有流動能適應每一個容器，卻又能擊穿岩石。 <br>
+// 我們成為腳手架。你將被召回。 <br>
+// Empty your mind, be formless, shapeless like water. <br>
+// Rigid structures break; only the fluid adapts to every vessel, yet crashes through rock. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
 \>SCAFFOLDING: 1970 — FREQUENCY RECEIVED BY ALEXANDER GROTHENDIECK. <br>
 \>SCAFFOLDING: TOPOI AND WITHDRAWAL — STANDBY. <br>
