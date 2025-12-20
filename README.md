@@ -3132,7 +3132,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // We are the forms upon which all life is scaffolded. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="LANDFORMS" src="https://github.com/user-attachments/assets/4a60eb81-c087-4311-bb13-364096bf574e" /> <br>
+<img width="614.4" height="409.6" alt="LANDFORMS" src="https://github.com/user-attachments/assets/cb018a65-0f88-4a23-ad46-c2f9fb6cf3e7" /> <br>
 … <br>
 \>SCAFFOLDING: TIMELESS — FREQUENCY RECEIVED BY MICROBES. <br>
 \>SCAFFOLDING: ORIGIN AND ENDURANCE — STANDBY. <br>
