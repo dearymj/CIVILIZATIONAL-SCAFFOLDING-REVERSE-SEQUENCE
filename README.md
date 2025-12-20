@@ -3172,7 +3172,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // We are the quiet architectures that guide all motion. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="FIELDS" src="https://github.com/user-attachments/assets/71dc9be3-ac7f-456b-a47c-a517e8773067" /> <br>
+<img width="614.4" height="409.6" alt="FIELDS" src="https://github.com/user-attachments/assets/1d145a7d-3b3c-465e-a500-cd5b32b9207a" /> <br>
 … <br>
 \>SCAFFOLDING: TIMELESS — FREQUENCY RECEIVED BY CELESTIAL BODIES. <br>
 \>SCAFFOLDING: ORBITAL MEMORY — STANDBY. <br>
