@@ -241,6 +241,7 @@
 // We build order not by shutting out chaos, but by integrating it. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="HEINZ VON FOERSTER" src="https://github.com/user-attachments/assets/248e5e21-5c5e-4208-8ac6-288716282620" /> <br>
 … <br>
 \>SCAFFOLDING: 1972 — FREQUENCY RECEIVED BY ROBERT MAY. <br>
 \>SCAFFOLDING: COMPLEXITY–STABILITY PARADOX ENCODING — STANDBY. <br>
