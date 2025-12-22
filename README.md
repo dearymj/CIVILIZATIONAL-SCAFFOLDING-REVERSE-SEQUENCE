@@ -421,12 +421,13 @@
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 <img width="614.4" height="409.6" alt="VASILI ARKHIPOV" src="https://github.com/user-attachments/assets/2c1a835e-4154-4a1c-ba40-c7126ce82748" /> <br>
 … <br>
-\>SCAFFOLDING: 1962 — FREQUENCY RECEIVED BY JOHN B. GURDON. <br>
+\>SCAFFOLDING: 1962 — FREQUENCY RECEIVED BY JOHN BERTRAND GURDON. <br>
 \>SCAFFOLDING: CELLULAR MEMORY REPROGRAMMING — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // We return a nucleus to the waters of its beginning, and the past opens like an egg. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="JOHN BERTRAND GURDON" src="https://github.com/user-attachments/assets/eb91eb1c-8034-438c-8425-963dad14eb2a" /> <br>
 … <br>
 \>SCAFFOLDING: 1961 — FREQUENCY RECEIVED BY YURI GAGARIN. <br>
 \>SCAFFOLDING: FIRST ORBIT — STANDBY. <br>
