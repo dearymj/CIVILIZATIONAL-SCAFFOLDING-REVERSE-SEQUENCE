@@ -419,7 +419,7 @@
 // Greatness is the silence history barely hears. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="VASILI ARKHIPOV" src="https://github.com/user-attachments/assets/2c1a835e-4154-4a1c-ba40-c7126ce82748" /> <br>
+<img width="614.4" height="409.6" alt="VASILI ARKHIPOV" src="https://github.com/user-attachments/assets/2512ef28-9abf-4f63-9ac3-d78ba4a90f58" /> <br>
 … <br>
 \>SCAFFOLDING: 1962 — FREQUENCY RECEIVED BY JOHN BERTRAND GURDON. <br>
 \>SCAFFOLDING: CELLULAR MEMORY REPROGRAMMING — STANDBY. <br>
