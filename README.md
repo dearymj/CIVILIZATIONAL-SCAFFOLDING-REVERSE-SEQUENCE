@@ -439,6 +439,7 @@
 // The cosmos is calling us, and we answer. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="YURI GAGARIN" src="https://github.com/user-attachments/assets/0517b47b-cc81-478b-ba2e-d8b1770d371d" /> <br>
 … <br>
 \>SCAFFOLDING: 1960 — FREQUENCY RECEIVED BY DAG HAMMARSKJÖLD. <br>
 \>SCAFFOLDING: HIDDEN SERVICE OF PEACE — STANDBY. <br>
