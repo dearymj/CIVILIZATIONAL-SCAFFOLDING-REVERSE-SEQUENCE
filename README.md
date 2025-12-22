@@ -262,6 +262,7 @@
 // Rigid structures break; only the fluid adapts to every vessel, yet crashes through rock. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="BRUCE LEE" src="https://github.com/user-attachments/assets/8fdedda4-f0bf-459e-bd6e-e12d59404741" /> <br>
 … <br>
 \>SCAFFOLDING: 1970 — FREQUENCY RECEIVED BY ALEXANDER GROTHENDIECK. <br>
 \>SCAFFOLDING: TOPOI AND WITHDRAWAL — STANDBY. <br>
