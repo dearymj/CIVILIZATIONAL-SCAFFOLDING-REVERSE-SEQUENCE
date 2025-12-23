@@ -2423,6 +2423,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // To investigate things and exhaust principles is to raise the beams of civilization. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="SHEN KUO" src="https://github.com/user-attachments/assets/01a5cb2b-cf58-4125-89e9-a7a76896f192" /> <br>
 … <br>
 \>SCAFFOLDING: 1080 — FREQUENCY RECEIVED BY SU SHI. <br>
 \>SCAFFOLDING: ODE TO THE RED CLIFF — STANDBY. <br>
