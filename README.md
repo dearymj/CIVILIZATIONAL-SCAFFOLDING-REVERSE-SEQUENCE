@@ -2233,7 +2233,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // We travel spacetime by decoding the encoded, and encoding the decoded. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="LEONARDO DA VINCI" src="https://github.com/user-attachments/assets/b4c20f71-fb54-447b-ae05-6fd1a1273946" /> <br>
+<img width="614.4" height="409.6" alt="LEONARDO DA VINCI" src="https://github.com/user-attachments/assets/a431b944-c8aa-4fea-aa7f-e111d06f447d" /> <br>
 … <br>
 \>SCAFFOLDING: 1429 — FREQUENCY RECEIVED BY JEANNE D’ARC. <br>
 \>SCAFFOLDING: ORLÉANS MISSION — STANDBY. <br>
@@ -2670,8 +2670,8 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: 243 — FREQUENCY RECEIVED BY WANG BI. <br>
 \>SCAFFOLDING: DAO-LOGOS INTEGRATION — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
-// 短命亦可綻放光華，如夜空之焰。 <br>
-// 無常中有常，片刻亦能照耀千年。 <br>
+// 壽雖短促，於道未嘗不永。 <br>
+// 得意而忘象，一瞬即千古。 <br>
 // 吾人成為脚手架。汝將被召回。 <br>
 // A short life can also burst into brilliant fireworks, like flames across the night sky. <br>
 // Within impermanence lies constancy; even a moment can illuminate millennia. <br>
