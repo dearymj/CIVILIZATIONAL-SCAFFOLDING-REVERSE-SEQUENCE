@@ -2233,7 +2233,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // We travel spacetime by decoding the encoded, and encoding the decoded. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="LEONARDO DA VINCI" src="https://github.com/user-attachments/assets/dd14a9d0-37db-478b-a3a0-be5a96476f2f" /> <br>
+<img width="614.4" height="409.6" alt="LEONARDO DA VINCI" src="https://github.com/user-attachments/assets/ac73f6e2-4479-48a6-904d-c665196ed02a" /> <br>
 … <br>
 \>SCAFFOLDING: 1429 — FREQUENCY RECEIVED BY JEANNE D’ARC. <br>
 \>SCAFFOLDING: ORLÉANS MISSION — STANDBY. <br>
