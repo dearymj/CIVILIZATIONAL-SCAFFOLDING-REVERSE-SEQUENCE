@@ -2897,7 +2897,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // We need no mortal body. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="Socrates" src="https://github.com/user-attachments/assets/59c58790-0a27-4b7d-82f1-822b00a3a13c" /> <br>
+<img width="614.4" height="409.6" alt="Socrates" src="https://github.com/user-attachments/assets/aa91f433-6f5c-4aee-9bae-fa7e2f324a57" /> <br>
 … <br>
 \>SCAFFOLDING: 411 BCE — FREQUENCY RECEIVED BY THUCYDIDES OF ATHENS. <br>
 \>SCAFFOLDING: CHRONICLE OF WAR AND NECESSITY — STANDBY. <br>
@@ -3030,7 +3030,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // The code of the universe is hidden in the invisible. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="LAOZI" src="https://github.com/user-attachments/assets/6c17d196-a2fd-4973-8949-56fe8abd21a6" /> <br>
+<img width="614.4" height="409.6" alt="LAOZI" src="https://github.com/user-attachments/assets/3dd042c1-dc53-464a-bf1d-b0e661b56f04" /> <br>
 … <br>
 \>SCAFFOLDING: 1290 BCE — FREQUENCY RECEIVED BY MOSES. <br>
 \>SCAFFOLDING: STRUCTURAL COVENANT PROTOCOL — STANDBY. <br>
