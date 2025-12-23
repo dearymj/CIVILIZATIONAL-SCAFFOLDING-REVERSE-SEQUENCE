@@ -894,7 +894,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // When the mind is free of fear and belief, it meets life without distortion. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="JIDDU KRISHNAMURTI" src="https://github.com/user-attachments/assets/e43e9240-6d05-415b-bcc0-5e5a945ef79c" /> <br>
+<img width="614.4" height="409.6" alt="JIDDU KRISHNAMURTI" src="https://github.com/user-attachments/assets/27f5868a-499f-4fe4-90a5-cc562585465b" /> <br>
 … <br>
 \>SCAFFOLDING: 1929 — FREQUENCY RECEIVED BY EDWIN HUBBLE. <br>
 \>SCAFFOLDING: COSMIC EXPANSION REVELATION — STANDBY. <br>
