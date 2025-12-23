@@ -2378,6 +2378,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // From the heart’s illumination, the layers of the world, seen and unseen, are unveiled. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="SHIHAB AL-DIN YAHYA SUHRAWARDI" src="https://github.com/user-attachments/assets/e387e29b-f3cc-41db-9eab-16b73336a764" /> <br>
 … <br>
 \>SCAFFOLDING: 1178 — FREQUENCY RECEIVED BY IBN RUSHD. <br>
 \>SCAFFOLDING: REASON–REVELATION BRIDGE — STANDBY. <br>
