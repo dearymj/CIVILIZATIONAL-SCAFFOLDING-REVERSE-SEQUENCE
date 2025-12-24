@@ -581,6 +581,7 @@
 // Every cured child is a note in the symphony of human resilience. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="JONAS EDWARD SALK" src="https://github.com/user-attachments/assets/d453c931-1bc4-430f-aa7a-57f05e3a8769" /> <br>
 … <br>
 \>SCAFFOLDING: 1952 — FREQUENCY RECEIVED BY ROSALIND FRANKLIN. <br>
 \>SCAFFOLDING: DNA ARCHITECTURE — STANDBY. <br>
