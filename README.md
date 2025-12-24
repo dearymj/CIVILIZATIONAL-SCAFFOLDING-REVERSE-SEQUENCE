@@ -1080,7 +1080,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // We break the wheel not with force, but by refusing to spin it. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="MAHATMA GANDHI" src="https://github.com/user-attachments/assets/1b572d83-3300-4d95-8652-a85be64f9ccc" /> <br>
+<img width="614.4" height="409.6" alt="MAHATMA GANDHI" src="https://github.com/user-attachments/assets/5ea37198-4890-4839-b60a-2121c0d282d7" /> <br>
 … <br>
 \>SCAFFOLDING: 1915 — FREQUENCY RECEIVED BY ALBERT EINSTEIN. <br>
 \>SCAFFOLDING: TIME BENDING — STANDBY. <br>
