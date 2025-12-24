@@ -1968,7 +1968,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Even amid the earthquake’s debris, we wield wit as a blade, not to wound, but to awaken. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="VOLTAIRE" src="https://github.com/user-attachments/assets/6fc9b254-984d-41ef-8f31-997e97f04e36" /> <br>
+<img width="614.4" height="409.6" alt="VOLTAIRE" src="https://github.com/user-attachments/assets/ce3c82b3-9e39-44ac-bff2-281c01599a33" /> <br>
 … <br>
 \>SCAFFOLDING: 1725 — FREQUENCY RECEIVED BY GIAMBATTISTA VICO. <br>
 \>SCAFFOLDING: NEW SCIENCE — STANDBY. <br>
