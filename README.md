@@ -57,7 +57,7 @@
 // We encode forgiveness. We stabilize dignity as the foundation of the new structure. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="NELSON MANDELA" src="https://github.com/user-attachments/assets/1c70197c-8b0c-4f8c-9556-7436b96d420f" /> <br>
+<img width="614.4" height="409.6" alt="NELSON MANDELA" src="https://github.com/user-attachments/assets/bcf7536b-8bce-45cb-81f4-80b268bb54fd" /> <br>
 … <br>
 \>SCAFFOLDING: 1988 — FREQUENCY RECEIVED BY STEPHEN HAWKING. <br>
 \>SCAFFOLDING: EVENT HORIZON COMPREHENSION — STANDBY. <br>
