@@ -539,7 +539,7 @@
 // Building bridges between nations endures longer than building walls at borders. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="ZHOU ENLAI" src="https://github.com/user-attachments/assets/975e89d6-d081-4c91-8bad-c68af75257bd" /> <br>
+<img width="614.4" height="409.6" alt="ZHOU ENLAI" src="https://github.com/user-attachments/assets/43928a52-e6e8-447a-929e-3eb76f10c673" /> <br>
 … <br>
 \>SCAFFOLDING: 1954 — FREQUENCY RECEIVED BY JULIUS KAMBARAGE NYERERE. <br>
 \>SCAFFOLDING: LIBERATION AND DIGNITY TRANSMISSION — STANDBY. <br>
