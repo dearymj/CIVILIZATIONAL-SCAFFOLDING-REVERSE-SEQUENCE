@@ -831,6 +831,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Knowledge is not a possession, but an attempt to overcome error. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="KARL POPPER" src="https://github.com/user-attachments/assets/8e02523b-44de-42d7-8bfe-1b581a7672d9" /> <br>
 … <br>
 \>SCAFFOLDING: 1933 — FREQUENCY RECEIVED BY FRANKLIN D. ROOSEVELT. <br>
 \>SCAFFOLDING: STRUCTURAL COURAGE ENCODING — STANDBY. <br>
