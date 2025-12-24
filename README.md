@@ -590,6 +590,7 @@
 // Every pattern of diffraction is the cosmos folding back into order. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="ROSALIND FRANKLIN" src="https://github.com/user-attachments/assets/905048f6-5e15-402f-b19b-5352cd13da73" /> <br>
 … <br>
 \>SCAFFOLDING: 1951 — FREQUENCY RECEIVED BY BABA AMTE. <br> 
 \>SCAFFOLDING: ANANDWAN AWAKENING — STANDBY. <br> 
