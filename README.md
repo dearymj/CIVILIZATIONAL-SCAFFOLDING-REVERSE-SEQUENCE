@@ -2440,6 +2440,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // To wander freely with Heaven and Earth is to see sorrow and joy dissolve into dust. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="SU SHI" src="https://github.com/user-attachments/assets/34f97da5-0a83-42df-b26e-a14902f01ba0" /> <br>
 … <br>
 \>SCAFFOLDING: 1074 — FREQUENCY RECEIVED BY WANG ANSHI. <br>
 \>SCAFFOLDING: SOCIAL EQUILIBRIUM REFORMATION — STANDBY. <br>
