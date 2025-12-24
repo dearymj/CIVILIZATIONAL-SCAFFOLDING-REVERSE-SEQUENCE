@@ -1980,6 +1980,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Myths and languages are the invisible beams that uphold nations. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="GIAMBATTISTA VICO" src="https://github.com/user-attachments/assets/b24ae887-fbfc-48c3-9262-0d2d81cae044" /> <br>
 … <br>
 \>SCAFFOLDING: 1686 — FREQUENCY RECEIVED BY GOTTFRIED WILHELM LEIBNIZ. <br>
 \>SCAFFOLDING: METAPHYSICAL ORDER SEQUENCE — STANDBY. <br>
