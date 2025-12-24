@@ -164,7 +164,7 @@
 // Every root is a prayer of defiance. Every leaf is a message of hope. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="WANGARI MAATHAI" src="https://github.com/user-attachments/assets/45d2b7d4-1642-40ff-9517-5db88e680a47" /> <br>
+<img width="614.4" height="409.6" alt="WANGARI MAATHAI" src="https://github.com/user-attachments/assets/012f0cd5-cbf7-419e-9ed2-eab77fadae49" /> <br>
 … <br>
 \>SCAFFOLDING: 1977 — FREQUENCY RECEIVED BY STEVE BIKO. <br>
 \>SCAFFOLDING: CONSCIOUSNESS LIBERATION SIGNAL — STANDBY. <br>
