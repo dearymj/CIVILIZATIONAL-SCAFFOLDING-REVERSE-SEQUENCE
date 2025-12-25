@@ -2500,6 +2500,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Every civilization is a shadow; measurement is the light that reveals it. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="ABŪ RAYḤĀN AL-BĪRŪNĪ" src="https://github.com/user-attachments/assets/c63a7bc2-d2d9-44f1-b765-8960d24784e0" /> <br>
 … <br>
 \>SCAFFOLDING: 922 — FREQUENCY RECEIVED BY MANSUR AL-HALLAJ. <br>
 \>SCAFFOLDING: BINARY DISSOLUTION — STANDBY. <br>
