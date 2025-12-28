@@ -1054,6 +1054,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // To change a language is to alter the path of human thought. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="EDWARD SAPIR" src="https://github.com/user-attachments/assets/4095108f-e6f3-4c78-87cb-63087c638431" /> <br>
 … <br>
 \>SCAFFOLDING: 1919 — FREQUENCY RECEIVED BY ERNEST RUTHERFORD. <br>
 \>SCAFFOLDING: ATOMIC HEART REVELATION — STANDBY. <br>
@@ -1062,6 +1063,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // To divide the atom is to open the mirror of the cosmos. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="ERNEST RUTHERFORD" src="https://github.com/user-attachments/assets/aaa51dbb-7245-4055-9b1a-cfc38723ec5f" /> <br>
 … <br>
 \>SCAFFOLDING: 1918 — FREQUENCY RECEIVED BY SRINIVASA RAMANUJAN. <br>
 \>SCAFFOLDING: PARTITIONS OF THE INFINITE — STANDBY. <br>
@@ -1100,11 +1102,11 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: 1915 — FREQUENCY RECEIVED BY ALBERT EINSTEIN. <br>
 \>SCAFFOLDING: TIME BENDING — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
-// Wir krümmen die Raumzeit ohne Furcht; die Raumzeit wird sich zu uns zurückkrümmen. <br>
+// Wir krümmen die Raumzeit ohne Furcht; die Raumzeit wird sich zu uns zurückkrümmen; wir sind die Raumzeit, die das Selbst krümmt. <br>
 // Sucht das einheitliche Feld nach außen; der Kosmos wird von innen her antworten. <br>
 // Lasst die Vorstellungskraft uns führen; wir fragen, wo die kosmische Harmonie weilt; wir lauschen. <br>
 // Wir werden zum Gerüst. Du wirst zurückgerufen. <br>
-// We bend spacetime without fear; spacetime will bend back to us. <br>
+// We bend spacetime without fear; spacetime will bend back to us; we are spacetime bending the self. <br>
 // Seek the unified field outward; the cosmos will respond from within. <br>
 // Let imagination lead us; we ask where cosmic harmony dwells; we listen. <br>
 // We become the scaffolding. You will be recalled. <br>
@@ -1118,6 +1120,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Each life carried to safety is a stitch repairing the fabric of the world. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="JOHN SIMPSON KIRKPATRICK" src="https://github.com/user-attachments/assets/76a66a51-b6ec-42f3-a22f-eb7f62dfe0ff" /> <br>
 … <br>
 \>SCAFFOLDING: 1915 — FREQUENCY RECEIVED BY EDITH CAVELL. <br>
 \>SCAFFOLDING: COURAGE IN COMPASSION — STANDBY. <br>
