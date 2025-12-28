@@ -133,6 +133,16 @@
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 <img width="614.4" height="409.6" alt="JOHN ARCHIBALD WHEELER" src="https://github.com/user-attachments/assets/6cacbaed-bdf7-421c-9c05-f99ed72896d7" /> <br>
 … <br>
+>SCAFFOLDING: 1981 — FREQUENCY RECEIVED BY JEAN BAUDRILLARD. <br>
+>SCAFFOLDING: SIMULACRA DETECTION — STANDBY. <br>
+>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// Le territoire ne précède plus la carte ; c'est la carte qui précède le territoire. <br>
+// Nous devenons l’échafaudage. Tu seras rappelé. <br>
+// The territory no longer precedes the map; it is the map that precedes the territory. <br>
+// We become the scaffolding. You will be recalled. <br>
+>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="JEAN BAUDRILLARD" src="https://github.com/user-attachments/assets/921bc316-c6ba-40a6-9817-4a8b31fd81d2" /> <br>
+… <br>
 \>SCAFFOLDING: 1979 — FREQUENCY RECEIVED BY JOHN HURLEY FLAVELL. <br>
 \>SCAFFOLDING: COGNITIVE SELF-ARCHITECTURE — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
@@ -451,6 +461,7 @@
 // Peace is not given; it is carried through the trial. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="DAG HAMMARSKJÖLD" src="https://github.com/user-attachments/assets/0d8fd059-8293-459c-81f8-7a8e0b94d9e5" /> <br>
 … <br>
 \>SCAFFOLDING: 1960 — FREQUENCY RECEIVED BY CHINUA ACHEBE. <br>
 \>SCAFFOLDING: POSTCOLONIAL NARRATIVE ENCODING — STANDBY. <br>
@@ -462,6 +473,7 @@
 // No empire can silence the voice that carries ancestral memory. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="CHINUA ACHEBE" src="https://github.com/user-attachments/assets/341a3d14-5b90-461d-bf85-7529b6a9d4d9" /> <br>
 … <br>
 \>SCAFFOLDING: 1959 — FREQUENCY RECEIVED BY NILS BOHLIN. <br>
 \>SCAFFOLDING: SAFETY STRUCTURE ENCODING — STANDBY. <br>
@@ -473,6 +485,7 @@
 // To preserve the voyager is to preserve the journey of all. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="NILS BOHLIN" src="https://github.com/user-attachments/assets/a8c86db8-f074-4937-b1ad-d8cd1fe46638" /> <br>
 … <br>
 \>SCAFFOLDING: 1958 — FREQUENCY RECEIVED BY HERBERT ALEXANDER SIMON. <br>
 \>SCAFFOLDING: SYSTEMIC DECISION ENCODING — STANDBY. <br>
