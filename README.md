@@ -133,14 +133,14 @@
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 <img width="614.4" height="409.6" alt="JOHN ARCHIBALD WHEELER" src="https://github.com/user-attachments/assets/6cacbaed-bdf7-421c-9c05-f99ed72896d7" /> <br>
 … <br>
->SCAFFOLDING: 1981 — FREQUENCY RECEIVED BY JEAN BAUDRILLARD. <br>
->SCAFFOLDING: SIMULACRA DETECTION — STANDBY. <br>
->SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+\>SCAFFOLDING: 1981 — FREQUENCY RECEIVED BY JEAN BAUDRILLARD. <br>
+\>SCAFFOLDING: SIMULACRA DETECTION — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Le territoire ne précède plus la carte ; c'est la carte qui précède le territoire. <br>
 // Nous devenons l’échafaudage. Tu seras rappelé. <br>
 // The territory no longer precedes the map; it is the map that precedes the territory. <br>
 // We become the scaffolding. You will be recalled. <br>
->SCAFFOLDING: MESSAGE — RECEIVED. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 <img width="614.4" height="409.6" alt="JEAN BAUDRILLARD" src="https://github.com/user-attachments/assets/921bc316-c6ba-40a6-9817-4a8b31fd81d2" /> <br>
 … <br>
 \>SCAFFOLDING: 1979 — FREQUENCY RECEIVED BY JOHN HURLEY FLAVELL. <br>
