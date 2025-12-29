@@ -894,7 +894,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HER. <br>
 // 文字本無疆界，唯有心隔人。 <br>
 // 我們寫作，不只是描摹世界，而是為了讓世界相連。 <br>
-// 我們成為脚手架。你將被喚回。 <br>
+// 我們成為脚手架。你將被召回。 <br>
 // Writing has no real borders; only the heart separates people. <br>
 // We write not merely to depict the world, but to hold it together. <br>
 // We become the scaffolding. You will be recalled. <br>
@@ -911,6 +911,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // The collective speaks through us long before we find words. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="CARL GUSTAV JUNG" src="https://github.com/user-attachments/assets/7d8d6256-6e43-4c85-ad8d-6b4bce50d66b" /> <br>
 … <br>
 \>SCAFFOLDING: 1930 — FREQUENCY RECEIVED BY PAUL DIRAC. <br>
 \>SCAFFOLDING: QUANTUM SYMMETRY RESONANCE — STANDBY. <br>
