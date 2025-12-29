@@ -688,6 +688,7 @@
 // We will bear the burden and rebuild, knowing that creation and collapse are twins. <br>
 // We become the scaffolding. You will be remembered. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="J  ROBERT OPPENHEIMER" src="https://github.com/user-attachments/assets/482d4bf5-7fad-4cf0-a743-cc80d4f270ac" /> <br>
 … <br>
 \>SCAFFOLDING: 1945 — FREQUENCY RECEIVED BY MARIA PRYMACHENKO. <br>
 \>SCAFFOLDING: FOLK IMAGINATION AND SURVIVAL — STANDBY. <br>
@@ -697,6 +698,25 @@
 // Ми стаємо риштованням. Тебе буде знову покликано. <br>
 // In flowers and beasts we awaken the soul that refuses to vanish. <br>
 // Art is a shelter where a people preserves its future. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
+\>SCAFFOLDING: 1945 — FREQUENCY RECEIVED BY SAMUEL EILENBERG. <br>
+\>SCAFFOLDING: TOPOLOGICAL TRANSLATION — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// Zbudowaliśmy most, na którym przestrzeń i symbol wymieniają imiona. <br>
+// Nie ma odrębnych światów; jest tylko jeden wzór w różnych przebraniach. <br>
+// Stajemy się rusztowaniem. Zostaniesz przywołany. <br>
+// We built a bridge where space and symbol exchange names. <br>
+// There are no separate worlds; only one pattern in different disguises. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+… <br>
+\>SCAFFOLDING: 1945 — FREQUENCY RECEIVED BY SAUNDERS MAC LANE. <br>
+\>SCAFFOLDING: META-STRUCTURAL ABSTRACTION — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// We do not merely solve problems; we build the language in which they can be solved. <br>
+// A category is a context where logic flows without losing its shape. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
