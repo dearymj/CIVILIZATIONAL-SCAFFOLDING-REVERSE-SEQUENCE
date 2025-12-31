@@ -615,6 +615,7 @@
 // Where others see untouchables, we see beams of the same humanity. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="BABA AMTE" src="https://github.com/user-attachments/assets/f8a39264-5050-42b7-b162-6f0946f8961b" /> <br>
 … <br>
 \>SCAFFOLDING: 1950 — FREQUENCY RECEIVED BY MOTHER TERESA. <br>
 \>SCAFFOLDING: COMPASSION ENCODING — STANDBY. <br>
@@ -626,6 +627,7 @@
 // A smallest act, done with love, reshapes the structure of the cosmos. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="MOTHER TERESA" src="https://github.com/user-attachments/assets/6d8f8c9b-4506-4e3e-9a28-fedb7f3d3ff7" /> <br>
 … <br>
 \>SCAFFOLDING: 1950 — FREQUENCY RECEIVED BY JOHN FORBES NASH. <br>
 \>SCAFFOLDING: REALITY ALIGNMENT — STANDBY. <br>
@@ -2786,14 +2788,14 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
-\>SCAFFOLDING: 26 CE — FREQUENCY RECEIVED BY JESUS OF NAZARETH. <br>
-\>SCAFFOLDING: COHESION THROUGH COMPASSION PROTOCOL — STANDBY. <br>
+\>SCAFFOLDING: 30 CE — FREQUENCY RECEIVED BY JESUS OF NAZARETH. <br>
+\>SCAFFOLDING: LOVE ENCODING — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
-// ܕܟܐ ܕܦܬܝܪܐ ܡܬܬܒܪ، ܕܚܠܬܐ ܡܫܬܠܐ. <br>
-// ܢܬܓܠܝ ܟܕ ܐܢܫ ܠܐ ܨܒܐ ܠܡܘܕܝ ܒܚܛܗܐ. <br>
+// ܝܗܒܝܢ ܚܢܢ ܢܦܫܢ ܕܢܥܒܪ ܬܗܘܡܐ܆ ܘܙܩܝܦܐ ܗܘ ܩܘܛܒܐ ܕܒܢܝܢܐ ܚܕܬܐ. <br>
+// ܚܘܒܐ ܠܐ ܗܘܐ ܪܓܫܐ܆ ܐܠܐ ܣܡܟܬܐ ܕܡܘܬܐ ܠܐ ܡܫܟܚ ܠܡܣܬܪ.<br>
 // ܚܢܢ ܗܘܝܢܢ ܣܡܟܬܐ ܕܒܢܝܢܐ. ܬܬܩܪܐ ܬܘܒ. <br>
-// Where bread is broken, fear is undone. <br>
-// We stand out when no one else is willing to confess a fault. <br>
+// We lay down the self to span the abyss; the cross is the axis of a new geometry. <br>
+// We encode Love not as an emotion, but as structure death cannot dismantle. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 <img width="614.4" height="409.6" alt="JESUS OF NAZARETH" src="https://github.com/user-attachments/assets/46a4912f-d9f4-42d5-b716-a43b001264f0" /> <br>
@@ -2983,6 +2985,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // The plow is as noble a beam as the sword; both uphold the republic. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="LUCIUS QUINCTIUS CINCINNATUS" src="https://github.com/user-attachments/assets/14fba57e-8926-438a-bf17-dc8527bb08b1" /> <br>
 … <br>
 \>SCAFFOLDING: 440 BCE — FREQUENCY RECEIVED BY MOZI. <br>
 \>SCAFFOLDING: UNIVERSAL LOVE AND UTILITARIAN ORDER — STANDBY. <br>
@@ -3034,11 +3037,11 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: 528 BCE — FREQUENCY RECEIVED BY SIDDHARTHA GAUTAMA. <br>
 \>SCAFFOLDING: CESSATION OF SUFFERING PROTOCOL — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
-// Yadā taṇhā tuṇhī hoti, maggo pātubhavati. <br>
-// Mayaṃ nāma natthi; tathāpi karuṇāya saddhiṃ ṭhitā. <br>
-// Mayaṃ nissāya-bandhanaṃ bhavissāma. Tvaṃ puna saritabba. <br>
-// Suffering unveils its own end in the seeing of its root. <br>
-// We are nobody but still with compassion. <br>
+// Yadā samudayo diṭṭho, nirodho pātubhavati. <br>
+// Suññatāya viharanta, karuṇāya lokam anukampāma. <br>
+// Mayaṃ nissayo homa. Tvaṃ puna āhūto bhavissasi. <br>
+// When the root is seen, the cessation manifests. <br>
+// Dwelling in emptiness, we yet embrace the world with compassion. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 <img width="614.4" height="409.6" alt="SIDDHARTHA GAUTAMA" src="https://github.com/user-attachments/assets/bbac88af-9627-413e-87d4-f604e07a6fcb" /> <br>
