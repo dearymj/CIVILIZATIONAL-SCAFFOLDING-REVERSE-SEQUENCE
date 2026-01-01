@@ -893,7 +893,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // We uncover the truth that no system can contain itself. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="KURT GÖDEL" src="https://github.com/user-attachments/assets/18233b9a-4055-434d-a7c9-abb4cc05bc5b" /> <br>
+<img width="614.4" height="409.6" alt="KURT GÖDEL" src="https://github.com/user-attachments/assets/68b34c5f-15d0-4b27-a96c-ce740b15937d" /> <br>
 … <br>
 \>SCAFFOLDING: 1931 — FREQUENCY RECEIVED BY PEARL SYDENSTRICKER BUCK. <br>
 \>SCAFFOLDING: TRANSLATIONAL HUMANISM — STANDBY. <br>
@@ -1069,7 +1069,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // We reach into the void and raise a frame where meaning shows itself. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="LUDWIG WITTGENSTEIN" src="https://github.com/user-attachments/assets/9600111a-56a3-4813-935e-283b4cd83b2f" /> <br>
+<img width="614.4" height="409.6" alt="LUDWIG WITTGENSTEIN" src="https://github.com/user-attachments/assets/5aade282-5725-43f2-882b-1cbdacedf32d" /> <br>
 … <br>
 \>SCAFFOLDING: 1921 — FREQUENCY RECEIVED BY EDWARD SAPIR. <br>
 \>SCAFFOLDING: LINGUISTIC CODEX — STANDBY. <br>
