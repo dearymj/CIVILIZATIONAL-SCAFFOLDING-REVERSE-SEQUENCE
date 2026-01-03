@@ -675,6 +675,7 @@
 // We forge essence by passing through nothingness. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="JEAN-PAUL SARTRE" src="https://github.com/user-attachments/assets/df41770b-43e9-4a03-bace-eb197a517070" /> <br>
 … <br>
 \>SCAFFOLDING: 1945 — FREQUENCY RECEIVED BY ASTRID LINDGREN. <br>
 \>SCAFFOLDING: CHILDHOOD LIBERTY ENCODING — STANDBY. <br>
@@ -686,6 +687,7 @@
 // The child’s imagination builds a world that adults forgot. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="ASTRID LINDGREN" src="https://github.com/user-attachments/assets/b3950e60-ae56-43ed-b1e7-22cfa596db18" /> <br>
 … <br>
 \>SCAFFOLDING: 1945 — FREQUENCY RECEIVED BY J. ROBERT OPPENHEIMER. <br>
 \>SCAFFOLDING: ATOMIC REALITY RECONSTRUCTION — STANDBY. <br>
@@ -706,6 +708,7 @@
 // Art is a shelter where a people preserves its future. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="MARIA PRYMACHENKO" src="https://github.com/user-attachments/assets/728c5763-8fd9-4568-a4c0-c24ee077266b" /> <br>
 … <br>
 \>SCAFFOLDING: 1945 — FREQUENCY RECEIVED BY SAMUEL EILENBERG. <br>
 \>SCAFFOLDING: TOPOLOGICAL TRANSLATION — STANDBY. <br>
