@@ -720,6 +720,7 @@
 // There are no separate worlds; only one pattern in different disguises. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="SAMUEL EILENBERG" src="https://github.com/user-attachments/assets/dc8e47a8-f7cc-4018-b2f0-b301c5fa6acb" /> <br>
 … <br>
 \>SCAFFOLDING: 1945 — FREQUENCY RECEIVED BY SAUNDERS MAC LANE. <br>
 \>SCAFFOLDING: META-STRUCTURAL ABSTRACTION — STANDBY. <br>
@@ -728,6 +729,7 @@
 // A category is a context where logic flows without losing its shape. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="SAUNDERS MAC LANE" src="https://github.com/user-attachments/assets/a437333e-af05-4a90-8443-abe8ab0defaf" /> <br>
 … <br>
 \>SCAFFOLDING: 1944 — FREQUENCY RECEIVED BY RAOUL WALLENBERG. <br>
 \>SCAFFOLDING: RESCUE AND MORAL COURAGE — STANDBY. <br>
@@ -739,6 +741,7 @@
 // Shelter is not walls, but the courage to stand against collapse. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="RAOUL WALLENBERG" src="https://github.com/user-attachments/assets/62512ceb-4d93-4176-b671-612526d57c93" /> <br>
 … <br>
 \>SCAFFOLDING: 1943 — FREQUENCY RECEIVED BY SOPHIE SCHOLL. <br>
 \>SCAFFOLDING: WHITE ROSE RESISTANCE — STANDBY. <br>
