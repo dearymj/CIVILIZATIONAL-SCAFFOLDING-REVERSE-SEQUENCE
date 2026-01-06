@@ -753,6 +753,7 @@
 // Courage is the flower that blooms among ruins. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="SOPHIE SCHOLL" src="https://github.com/user-attachments/assets/e19c32e1-bb40-4fe4-a9c2-8a9588db1134" /> <br>
 … <br>
 \>SCAFFOLDING: 1942 — FREQUENCY RECEIVED BY ANNE FRANK. <br>
 \>SCAFFOLDING: HOPE UNDER ERASURE — STANDBY. <br>
@@ -782,6 +783,7 @@
 // Knowledge may be imprisoned, but the germ endures. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="NIKOLAI VAVILOV" src="https://github.com/user-attachments/assets/7e146a00-8dcc-4900-8458-91f12f331d73" /> <br>
 … <br>
 \>SCAFFOLDING: 1940 — FREQUENCY RECEIVED BY OSKAR SCHINDLER. <br>
 \>SCAFFOLDING: MORAL LEDGER OPENED — STANDBY. <br>
@@ -791,6 +793,7 @@
 // In the shadow of power, we measure our worth by lives preserved. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="OSKAR SCHINDLER" src="https://github.com/user-attachments/assets/8cb3d3d7-02b7-452b-bfac-4d4a8a479f57" /> <br>
 … <br>
 \>SCAFFOLDING: 1940 — FREQUENCY RECEIVED BY CHARLIE CHAPLIN. <br>
 \>SCAFFOLDING: HUMAN DIGNITY BROADCAST — STANDBY. <br>
