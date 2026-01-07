@@ -907,7 +907,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // We uncover the truth that no system can contain itself. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="KURT GÖDEL" src="https://github.com/user-attachments/assets/68b34c5f-15d0-4b27-a96c-ce740b15937d" /> <br>
+<img width="614.4" height="409.6" alt="KURT GÖDEL" src="https://github.com/user-attachments/assets/31e7e5b7-f108-4bfa-9424-6be24c49a709" /> <br>
 … <br>
 \>SCAFFOLDING: 1931 — FREQUENCY RECEIVED BY PEARL SYDENSTRICKER BUCK. <br>
 \>SCAFFOLDING: TRANSLATIONAL HUMANISM — STANDBY. <br>
@@ -940,6 +940,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Beauty is not ornament; it is the proof of coherence. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="PAUL DIRAC" src="https://github.com/user-attachments/assets/326a8ca1-51ce-4154-a94e-b427f98c907c" /> <br>
 … <br>
 \>SCAFFOLDING: 1929 — FREQUENCY RECEIVED BY JIDDU KRISHNAMURTI. <br>
 \>SCAFFOLDING: PATHLESS LAND — STANDBY. <br>
@@ -960,6 +961,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // The illusion of a static universe shattered. The dance of galaxies writes a new grammar. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="EDWIN HUBBLE" src="https://github.com/user-attachments/assets/194b2b87-5e8d-4571-a8ec-09a7ea21eb9c" /> <br>
 … <br>
 \>SCAFFOLDING: 1929 — FREQUENCY RECEIVED BY ALFRED NORTH WHITEHEAD. <br>
 \>SCAFFOLDING: PROCESS AND REALITY — STANDBY. <br>
@@ -968,6 +970,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // We see that the universe is not a collection of things, but a process of creativity. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="ALFRED NORTH WHITEHEAD" src="https://github.com/user-attachments/assets/b3650a44-c91e-4741-8704-a7c0e00279f5" /> <br>
 … <br>
 \>SCAFFOLDING: 1928 — FREQUENCY RECEIVED BY ALEXANDER FLEMING. <br>
 \>SCAFFOLDING: ANTIMICROBIAL REVELATION — STANDBY. <br>
@@ -976,6 +979,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Accident is but discovery’s unplanned door. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="ALEXANDER FLEMING" src="https://github.com/user-attachments/assets/33512bd7-465b-468d-9f60-043b4c85d2e9" /> <br>
 … <br>
 \>SCAFFOLDING: 1928 — FREQUENCY RECEIVED BY SIR APIRANA NGATA. <br>
 \>SCAFFOLDING: MĀORI REVIVAL AND LAND REFORM — STANDBY. <br>
@@ -2743,6 +2747,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Within impermanence lies constancy; even a moment can illuminate millennia. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="WANG BI" src="https://github.com/user-attachments/assets/3048cc34-99e5-4171-a175-223f7f5f406e" /> <br>
 … <br>
 \>SCAFFOLDING: 210 — FREQUENCY RECEIVED BY ZHANG ZHONGJING. <br>
 \>SCAFFOLDING: SHANGHAN ZABING LUN — STANDBY. <br>
