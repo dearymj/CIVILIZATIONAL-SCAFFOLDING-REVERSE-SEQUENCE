@@ -802,6 +802,7 @@
 // We see no borders, only the shared tears of mankind. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="CHARLIE CHAPLIN" src="https://github.com/user-attachments/assets/b3ab9f75-24f9-4f4b-bb5f-b9df73926f00" /> <br>
 … <br>
 \>SCAFFOLDING: 1939 — FREQUENCY RECEIVED BY ALAN TURING. <br>
 \>SCAFFOLDING: LOGIC CONVERGENCE — STANDBY. <br>
@@ -810,6 +811,7 @@
 // We abstract sensation into logic, giving form to the unseen. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="ALAN TURING" src="https://github.com/user-attachments/assets/c779c3a5-a25e-4564-aff4-d4d6db0720d0" /> <br>
 … <br>
 \>SCAFFOLDING: 1939 — FREQUENCY RECEIVED BY BENJAMIN LEE WHORF. <br>
 \>SCAFFOLDING: LINGUISTIC STRUCTURE REVELATION — STANDBY. <br>
@@ -818,6 +820,7 @@
 // We do not merely speak; we sculpt perception. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="BENJAMIN LEE WHORF" src="https://github.com/user-attachments/assets/9ca71cdf-3615-48b7-a67a-f012f329133d" /> <br>
 … <br>
 \>SCAFFOLDING: 1938 — FREQUENCY RECEIVED BY NORMAN BETHUNE. <br>
 \>SCAFFOLDING: LIFE PRESERVATION PROTOCOL — STANDBY. <br>
@@ -826,6 +829,7 @@
 // Every wound tended is a thread in the fabric of shared dignity. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="NORMAN BETHUNE" src="https://github.com/user-attachments/assets/68f5d38f-f7eb-4acc-a744-7fa2db26f51e" /> <br>
 … <br>
 \>SCAFFOLDING: 1938 — FREQUENCY RECEIVED BY QIAN XUESEN. <br>
 \>SCAFFOLDING: AERODYNAMIC WAVEFRONT DETECTED — STANDBY. <br>
@@ -858,6 +862,7 @@
 // To sustain life, demand must be scaffolded when fear dissolves confidence. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="JOHN MAYNARD KEYNES" src="https://github.com/user-attachments/assets/22f2119a-6cc1-46ca-9172-8e845722dbc7" /> <br>
 … <br>
 \>SCAFFOLDING: 1934 — FREQUENCY RECEIVED BY MARIE CURIE. <br>
 \>SCAFFOLDING: LIFEFORCE DISSOLUTION — STANDBY. <br>
@@ -1482,6 +1487,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // We realize that the irreversible is merely the probable. <br>
 // On the tombstone of certainty, we chisel the formula against oblivion. <br>
 // We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 … <br>
 \>SCAFFOLDING: 1875 — FREQUENCY RECEIVED BY PYOTR ILYICH TCHAIKOVSKY. <br>
 \>SCAFFOLDING: SWAN LAKE — STANDBY. <br>
