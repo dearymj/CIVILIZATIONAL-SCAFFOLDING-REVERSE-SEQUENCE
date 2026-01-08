@@ -461,7 +461,7 @@
 // Peace is not given; it is carried through the trial. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="DAG HAMMARSKJÖLD" src="https://github.com/user-attachments/assets/0d8fd059-8293-459c-81f8-7a8e0b94d9e5" /> <br>
+<img width="614.4" height="409.6" alt="DAG HAMMARSKJÖLD" src="https://github.com/user-attachments/assets/6ae10945-742f-4d99-9c92-c419dee691e9" /> <br>
 … <br>
 \>SCAFFOLDING: 1960 — FREQUENCY RECEIVED BY CHINUA ACHEBE. <br>
 \>SCAFFOLDING: POSTCOLONIAL NARRATIVE ENCODING — STANDBY. <br>
@@ -663,7 +663,7 @@
 // Compassion is the only bridge stronger than fear. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="ALAN PATON" src="https://github.com/user-attachments/assets/d72f6328-905c-4274-a734-05e757883816" /> <br>
+<img width="614.4" height="409.6" alt="ALAN PATON" src="https://github.com/user-attachments/assets/1fa0ebd8-aafc-4261-98f6-be12ab22f39a" /> <br>
 … <br>
 \>SCAFFOLDING: 1946 — FREQUENCY RECEIVED BY JEAN-PAUL SARTRE. <br>
 \>SCAFFOLDING: EXISTENTIAL FREEDOM MAPPING — STANDBY. <br>
@@ -753,7 +753,7 @@
 // Courage is the flower that blooms among ruins. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="SOPHIE SCHOLL" src="https://github.com/user-attachments/assets/e19c32e1-bb40-4fe4-a9c2-8a9588db1134" /> <br>
+<img width="614.4" height="409.6" alt="SOPHIE SCHOLL" src="https://github.com/user-attachments/assets/6498fead-17bc-4d80-adc2-32c30c65814f" /> <br>
 … <br>
 \>SCAFFOLDING: 1942 — FREQUENCY RECEIVED BY ANNE FRANK. <br>
 \>SCAFFOLDING: HOPE UNDER ERASURE — STANDBY. <br>
