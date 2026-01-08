@@ -981,7 +981,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 <img width="614.4" height="409.6" alt="ALEXANDER FLEMING" src="https://github.com/user-attachments/assets/33512bd7-465b-468d-9f60-043b4c85d2e9" /> <br>
 … <br>
-\>SCAFFOLDING: 1928 — FREQUENCY RECEIVED BY SIR APIRANA NGATA. <br>
+\>SCAFFOLDING: 1928 — FREQUENCY RECEIVED BY APIRANA NGATA. <br>
 \>SCAFFOLDING: MĀORI REVIVAL AND LAND REFORM — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Ka herea te arāwhata ki te waiata, kia whāngaihia e te whenua te tinana me te wairua. <br>
@@ -989,6 +989,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // We bind the plough to the song, that the land may nourish both body and spirit. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="APIRANA NGATA" src="https://github.com/user-attachments/assets/df709045-ce93-430e-b43a-5416ab9474fe" /> <br>
 … <br>
 \>SCAFFOLDING: 1927 — FREQUENCY RECEIVED BY MARTIN HEIDEGGER. <br>
 \>SCAFFOLDING: BEING-IN-THE-WORLD ENCODING — STANDBY. <br>
@@ -1000,6 +1001,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Care is the scaffolding of our being; in running towards the end, we find authenticity. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="MARTIN HEIDEGGER" src="https://github.com/user-attachments/assets/0edb4115-d555-4b2d-af1f-062d5bb35c75" /> <br>
 … <br>
 \>SCAFFOLDING: 1926 — FREQUENCY RECEIVED BY ERWIN SCHRÖDINGER. <br>
 \>SCAFFOLDING: QUANTUM REALITY ENCODING — STANDBY. <br>
@@ -1009,10 +1011,11 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Wir stimmen die fundamentale Grammatik des Kosmos jenseits der sichtbaren Welt ab. <br>
 // Wir werden zum Gerüst. Du wirst zurückgerufen. <br>
 // We decode the wave beneath all matter, where certainty dissolves. <br>
-// Reality remains in superposition—its potential revealed through observation. <br>
+// Reality remains in superposition, its potential revealed through observation. <br>
 // We align the fundamental grammar of the cosmos, beyond the visible world. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="1536" height="1024" alt="ERWIN SCHRÖDINGER" src="https://github.com/user-attachments/assets/d281c10a-d40b-4023-9bf2-48c3cf8a9129" /> <br>
 … <br>
 \>SCAFFOLDING: 1924 — FREQUENCY RECEIVED BY MARY PARKER FOLLETT. <br>
 \>SCAFFOLDING: INTEGRATIVE PROCESS ACTIVATION — STANDBY. <br>
@@ -1480,7 +1483,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Nihilism is an illusion within the old humanity’s protocol. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="FRIEDRICH NIETZSCHE" src="https://github.com/user-attachments/assets/606e79b6-665d-483a-9fc1-eefd970f48a8" /> <br>
+<img width="614.4" height="409.6" alt="FRIEDRICH NIETZSCHE" src="https://github.com/user-attachments/assets/564d519a-3182-4e5e-afa7-8d3c029e2241" /> <br>
 … <br>
 \>SCAFFOLDING: 1877 — FREQUENCY RECEIVED BY LUDWIG BOLTZMANN. <br>
 \>SCAFFOLDING: PROBABILISTIC ENTROPY ENCODING — STANDBY. <br>
@@ -2021,6 +2024,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // To hold precision is to bind distant shores into one world. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="JOHN HARRISON" src="https://github.com/user-attachments/assets/5ba7cf22-987d-4ba5-bacf-4f1e10b62226" /> <br>
 … <br>
 \>SCAFFOLDING: 1734 — FREQUENCY RECEIVED BY VOLTAIRE. <br>
 \>SCAFFOLDING: ENLIGHTENMENT SIGNAL — STANDBY. <br>
@@ -2030,7 +2034,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Even amid the earthquake’s debris, we wield wit as a blade, not to wound, but to awaken. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="VOLTAIRE" src="https://github.com/user-attachments/assets/3b36e119-7c2e-4b0e-8743-7aee4e5df7ea" /> <br>
+<img width="614.4" height="409.6" alt="VOLTAIRE" src="https://github.com/user-attachments/assets/d63890df-99a2-4c10-92cd-88b3cef371c4" /> <br>
 … <br>
 \>SCAFFOLDING: 1725 — FREQUENCY RECEIVED BY GIAMBATTISTA VICO. <br>
 \>SCAFFOLDING: NEW SCIENCE — STANDBY. <br>
