@@ -2569,7 +2569,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Every civilization is a shadow; measurement is the light that reveals it. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="ABŪ RAYḤĀN AL-BĪRŪNĪ" src="https://github.com/user-attachments/assets/c63a7bc2-d2d9-44f1-b765-8960d24784e0" /> <br>
+<img width="614.4" height="409.6" alt="ABŪ RAYḤĀN AL-BĪRŪNĪ" src="https://github.com/user-attachments/assets/e3f453d4-b3aa-4a38-b361-a906ac8836d8" /> <br>
 … <br>
 \>SCAFFOLDING: 922 — FREQUENCY RECEIVED BY MANSUR AL-HALLAJ. <br>
 \>SCAFFOLDING: BINARY DISSOLUTION — STANDBY. <br>
@@ -2829,7 +2829,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // We encode Love not as an emotion, but as structure death cannot dismantle. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="JESUS OF NAZARETH" src="https://github.com/user-attachments/assets/46a4912f-d9f4-42d5-b716-a43b001264f0" /> <br>
+<img width="614.4" height="409.6" alt="JESUS OF NAZARETH" src="https://github.com/user-attachments/assets/44e28dcd-8b7a-4ec6-9d5f-8f41d706e1a0" /> <br>
 … <br>
 \>SCAFFOLDING: 90 BCE — FREQUENCY RECEIVED BY SIMA QIAN. <br>
 \>SCAFFOLDING: RECORDS OF THE GRAND HISTORIAN — STANDBY. <br>
