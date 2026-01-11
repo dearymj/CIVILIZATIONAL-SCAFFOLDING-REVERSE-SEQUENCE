@@ -69,7 +69,7 @@
 // Born from the Great Flow of consciousness, we return to it. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="1536" height="1024" alt="KIUCHI TSURUHIKO" src="https://github.com/user-attachments/assets/73438ca7-5292-4b84-9092-6cc7ddac74fb" /> <br>
+<img width="614.4" height="409.6" alt="KIUCHI TSURUHIKO" src="https://github.com/user-attachments/assets/73438ca7-5292-4b84-9092-6cc7ddac74fb" /> <br>
 … <br>
 \>SCAFFOLDING: 1988 — FREQUENCY RECEIVED BY STEPHEN HAWKING. <br>
 \>SCAFFOLDING: EVENT HORIZON COMPREHENSION — STANDBY. <br>
