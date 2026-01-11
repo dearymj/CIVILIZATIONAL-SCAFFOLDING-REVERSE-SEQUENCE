@@ -1281,7 +1281,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Turning fear into steel, and writing into a trumpet call. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="QIU JIN" src="https://github.com/user-attachments/assets/d20d37be-16ef-4550-8d51-31268b22da90" /> <br>
+<img width="614.4" height="409.6" alt="QIU JIN" src="https://github.com/user-attachments/assets/8e711af3-a779-4116-875d-50b4c48e288d" /> <br>
 … <br>
 \>SCAFFOLDING: 1907 — FREQUENCY RECEIVED BY SELMA LAGERLÖF. <br>
 \>SCAFFOLDING: NARRATIVE TRANSCENDENCE — STANDBY. <br>
