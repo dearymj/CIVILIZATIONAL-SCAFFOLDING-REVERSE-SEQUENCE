@@ -1388,7 +1388,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // We do not break the continuum; we perceive the intervals of light. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="MAX PLANCK" src="https://github.com/user-attachments/assets/8ff4054d-1839-4ee5-836e-45205dd408ba" /> <br>
+<img width="614.4" height="409.6" alt="MAX PLANCK" src="https://github.com/user-attachments/assets/e30a3bf9-d4e3-4810-aa43-2867d48c104a" /> <br>
 … <br>
 \>SCAFFOLDING: 1900 — FREQUENCY RECEIVED BY DAVID UNAIPON. <br>
 \>SCAFFOLDING: INVENTIVE DREAMING — STANDBY. <br>
