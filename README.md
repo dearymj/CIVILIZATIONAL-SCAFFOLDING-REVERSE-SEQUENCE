@@ -1120,7 +1120,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // We reach into the void and raise a frame where meaning shows itself. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="LUDWIG WITTGENSTEIN" src="https://github.com/user-attachments/assets/5e00ad2d-8780-4bf7-9015-baa1df0207a7" /> <br>
+<img width="614.4" height="409.6" alt="LUDWIG WITTGENSTEIN" src="https://github.com/user-attachments/assets/1082acfc-f330-40ee-bd9e-a23ecf4b8065" /> <br>
 … <br>
 \>SCAFFOLDING: 1921 — FREQUENCY RECEIVED BY EDWARD SAPIR. <br>
 \>SCAFFOLDING: LINGUISTIC CODEX — STANDBY. <br>
