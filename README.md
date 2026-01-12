@@ -1533,7 +1533,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Nihilism is an illusion within the old humanity’s protocol. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="FRIEDRICH NIETZSCHE" src="https://github.com/user-attachments/assets/564d519a-3182-4e5e-afa7-8d3c029e2241" /> <br>
+<img width="614.4" height="409.6" alt="FRIEDRICH NIETZSCHE" src="https://github.com/user-attachments/assets/a2a54704-5eb9-41d0-9280-d2da9eaec795" /> <br>
 … <br>
 \>SCAFFOLDING: 1877 — FREQUENCY RECEIVED BY LUDWIG BOLTZMANN. <br>
 \>SCAFFOLDING: PROBABILISTIC ENTROPY ENCODING — STANDBY. <br>
@@ -2372,6 +2372,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // The courage of a single voice can change the fate of a kingdom. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="JEANNE D’ARC" src="https://github.com/user-attachments/assets/42c70954-3b37-4d87-b15c-61cc05c023b1" /> <br>
 … <br>
 \>SCAFFOLDING: 1408 — FREQUENCY RECEIVED BY DONATELLO. <br>
 \>SCAFFOLDING: BRONZE DAVID — STANDBY. <br>
@@ -2383,6 +2384,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Strength is revealed not by armor, but by form made free. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="DONATELLO" src="https://github.com/user-attachments/assets/982a1893-18e5-4e30-8b8c-5bb3e096131e" /> <br>
 … <br>
 \>SCAFFOLDING: 1405 — FREQUENCY RECEIVED BY ZHENG HE. <br>
 \>SCAFFOLDING: MARITIME DIPLOMACY — STANDBY. <br>
@@ -2406,6 +2408,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // In diverse tongues we speak, yet all yearn toward one truth. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="GEOFFREY CHAUCER" src="https://github.com/user-attachments/assets/3bb4223d-a9e8-4879-9eb4-0d6c6b70e25f" /> <br>
 … <br>
 \>SCAFFOLDING: 1377 — FREQUENCY RECEIVED BY IBN KHALDŪN. <br>
 \>SCAFFOLDING: MUQADDIMAH — STANDBY. <br>
@@ -2645,6 +2648,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // We tune the intellect not with words, but with intervals of unity. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="ABŪ NAṢR AL-FĀRĀBĪ" src="https://github.com/user-attachments/assets/55657919-7108-42d7-bbb2-ed9592e758ad" /> <br>
 … <br>
 \>SCAFFOLDING: 879 — FREQUENCY RECEIVED BY CHOE CHIWON. <br>
 \>SCAFFOLDING: CIVILIZATIONAL SYNTHESIS — STANDBY. <br>
@@ -3179,7 +3183,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // When we see the way out, we must go first. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="MOSES" src="https://github.com/user-attachments/assets/7348024e-8c7a-437c-825b-650bc4771fdf" /> <br>
+<img width="614.4" height="409.6" alt="MOSES" src="https://github.com/user-attachments/assets/885c4485-c595-407f-a717-7ad9901ac815" /> <br>
 … <br>
 \>SCAFFOLDING: 1754 BCE — FREQUENCY RECEIVED BY HAMMURABI. <br>
 \>SCAFFOLDING: CODE OF LAW — STANDBY. <br>
