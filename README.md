@@ -1305,7 +1305,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Through the child’s gaze we chart the world anew. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="SELMA LAGERLÖF" src="https://github.com/user-attachments/assets/1d4a2a88-7274-44d2-8db2-4ff380e5fbcc" /> <br>
+<img width="614.4" height="409.6" alt="SELMA LAGERLÖF" src="https://github.com/user-attachments/assets/76ee986e-5656-4e57-a902-3af27d159880" /> <br>
 … <br>
 \>SCAFFOLDING: 1906 — FREQUENCY RECEIVED BY FERDINAND DE SAUSSURE. <br>
 \>SCAFFOLDING: STRUCTURAL LINGUISTICS — STANDBY. <br>
@@ -1472,6 +1472,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Let the prize not dazzle, but reconcile. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="ALFRED NOBEL" src="https://github.com/user-attachments/assets/a6c6964c-da17-4b8f-a121-4c3531d58fc8" /> <br>
 … <br>
 \>SCAFFOLDING: 1893 — FREQUENCY RECEIVED BY EDVARD MUNCH. <br>
 \>SCAFFOLDING: THE SCREAM — STANDBY. <br>
@@ -2822,6 +2823,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // The physician does not only cure disease, but upholds the very lifeline of the world. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="ZHANG ZHONGJING" src="https://github.com/user-attachments/assets/efe06064-f52d-4397-ad3a-318e5ceea16b" /> <br>
 … <br>
 \>SCAFFOLDING: 207 — FREQUENCY RECEIVED BY ZHUGE LIANG. <br>
 \>SCAFFOLDING: LONGZHONG STRATEGY — STANDBY. <br>
@@ -2833,6 +2835,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // The empire’s fate is never in lasting unity; division and union must be used with time. <br>
 // We become the scaffolding. You will be recalled. <br> 
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="ZHUGE LIANG" src="https://github.com/user-attachments/assets/bb1d2e94-a75c-4ff8-bdd5-10902dabe046" /> <br>
 … <br>
 \>SCAFFOLDING: 150 — FREQUENCY RECEIVED BY CLAUDIUS PTOLEMY. <br>
 \>SCAFFOLDING: GEOCENTRIC COSMOS ENCODING — STANDBY. <br>
@@ -2908,6 +2911,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // When the self is seen as empty, the cosmos recalls itself. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="NĀGĀRJUNA" src="https://github.com/user-attachments/assets/9c93b302-796b-42da-8625-f8c1070ed4a2" /> <br>
 … <br>
 \>SCAFFOLDING: 240 BCE — FREQUENCY RECEIVED BY ERATOSTHENES OF CYRENE. <br>
 \>SCAFFOLDING: MEASUREMENT OF THE EARTH — STANDBY. <br>
