@@ -1305,7 +1305,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Through the child’s gaze we chart the world anew. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="SELMA LAGERLÖF" src="https://github.com/user-attachments/assets/76ee986e-5656-4e57-a902-3af27d159880" /> <br>
+<img width="614.4" height="409.6" alt="SELMA LAGERLÖF" src="https://github.com/user-attachments/assets/4b2d9522-af9a-4843-82c8-fd8a80c3e4e1" /> <br>
 … <br>
 \>SCAFFOLDING: 1906 — FREQUENCY RECEIVED BY FERDINAND DE SAUSSURE. <br>
 \>SCAFFOLDING: STRUCTURAL LINGUISTICS — STANDBY. <br>
@@ -2261,6 +2261,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // A song together builds more than a sermon alone. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="PHILIP NERI" src="https://github.com/user-attachments/assets/3530d390-e81f-4041-b3e3-77006aada086" /> <br>
 … <br>
 \>SCAFFOLDING: 1543 — FREQUENCY RECEIVED BY NICOLAUS COPERNICUS. <br>
 \>SCAFFOLDING: COSMIC PARADIGM SHIFT — STANDBY. <br>
@@ -2293,6 +2294,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // The ruler must look not only into fear, but into the truth of structure. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="NICCOLÒ MACHIAVELLI" src="https://github.com/user-attachments/assets/d998b529-40cf-40b3-b576-4b12b4b7f863" /> <br>
 … <br>
 \>SCAFFOLDING: 1511 — FREQUENCY RECEIVED BY DESIDERIUS ERASMUS. <br>
 \>SCAFFOLDING: IN PRAISE OF FOLLY — STANDBY. <br>
@@ -2304,6 +2306,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Through laughter we open what fear shuts. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="DESIDERIUS ERASMUS" src="https://github.com/user-attachments/assets/59e2805d-8bdd-47b2-8e09-4432df635dde" /> <br>
 … <br>
 \>SCAFFOLDING: 1509 — FREQUENCY RECEIVED BY RAPHAEL. <br>
 \>SCAFFOLDING: SCHOOL OF ATHENS — STANDBY. <br>
@@ -2315,6 +2318,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Philosophy becomes architecture, and architecture becomes memory. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="RAPHAEL" src="https://github.com/user-attachments/assets/49d8c354-932d-4481-9052-c6e2d071a0cf" /> <br>
 … <br>
 \>SCAFFOLDING: 1508 — FREQUENCY RECEIVED BY WANG YANGMING. <br>
 \>SCAFFOLDING: UNITY OF KNOWLEDGE AND ACTION — STANDBY. <br>
@@ -2900,6 +2904,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Between Heaven and man, history is a mirror where the true name appears. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="SIMA QIAN" src="https://github.com/user-attachments/assets/34f4d9ea-d407-4133-95c7-3cbc3c7d5f26" /> <br>
 … <br>
 \>SCAFFOLDING: 200 BCE — FREQUENCY RECEIVED BY NĀGĀRJUNA. <br>
 \>SCAFFOLDING: EMPTINESS–FORM APPARATUS — STANDBY. <br>
