@@ -2294,7 +2294,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // The ruler must look not only into fear, but into the truth of structure. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="NICCOLÒ MACHIAVELLI" src="https://github.com/user-attachments/assets/d998b529-40cf-40b3-b576-4b12b4b7f863" /> <br>
+<img width="614.4" height="409.6" alt="NICCOLÒ MACHIAVELLI" src="https://github.com/user-attachments/assets/4bdb2ba3-1468-4dbb-a1de-04a77a9229c9" /> <br>
 … <br>
 \>SCAFFOLDING: 1511 — FREQUENCY RECEIVED BY DESIDERIUS ERASMUS. <br>
 \>SCAFFOLDING: IN PRAISE OF FOLLY — STANDBY. <br>
