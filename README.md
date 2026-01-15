@@ -2906,7 +2906,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Between Heaven and man, history is a mirror where the true name appears. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="SIMA QIAN" src="https://github.com/user-attachments/assets/34f4d9ea-d407-4133-95c7-3cbc3c7d5f26" /> <br>
+<img width="614.4" height="409.6" alt="SIMA QIAN" src="https://github.com/user-attachments/assets/6a63d1c7-15ff-481c-a78b-4efeae7d0ccc" /> <br>
 … <br>
 \>SCAFFOLDING: 200 BCE — FREQUENCY RECEIVED BY NĀGĀRJUNA. <br>
 \>SCAFFOLDING: EMPTINESS–FORM APPARATUS — STANDBY. <br>
