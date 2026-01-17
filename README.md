@@ -1591,7 +1591,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // The table expands, but coherence remains. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="DMITRI MENDELEEV" src="https://github.com/user-attachments/assets/3bdf8559-6431-4cab-851f-48b2d233e434" /> <br>
+<img width="614.4" height="409.6" alt="DMITRI MENDELEEV" src="https://github.com/user-attachments/assets/6f4e34d1-014e-465b-b7df-5fdaf50d724a" /> <br>
 … <br>
 \>SCAFFOLDING: 1869 — FREQUENCY RECEIVED BY EMILY WARREN ROEBLING. <br>
 \>SCAFFOLDING: BRIDGE-BUILDING RESONANCE — STANDBY. <br>
