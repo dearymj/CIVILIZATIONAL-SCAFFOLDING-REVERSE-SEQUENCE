@@ -1960,6 +1960,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Every form is the shadow of a higher symmetry. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="CARL FRIEDRICH GAUSS" src="https://github.com/user-attachments/assets/99524f14-c9da-4431-9e90-9279a2397b59" /> <br>
 … <br>
 \>SCAFFOLDING: 1801 — FREQUENCY RECEIVED BY JEONG YAK-YONG. <br>
 \>SCAFFOLDING: PEOPLE-CENTERED GOVERNANCE REALIGNMENT — STANDBY. <br>
@@ -2018,6 +2019,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // We study the invisible hand, but now trace the heart behind it. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="ADAM SMITH" src="https://github.com/user-attachments/assets/ff21ea92-4a27-49ba-9fde-0a563770a344" /> <br>
 … <br>
 \>SCAFFOLDING: 1768 — FREQUENCY RECEIVED BY JAMES COOK. <br>
 \>SCAFFOLDING: PLANETARY CARTOGRAPHY ENCODING — STANDBY. <br>
@@ -2500,7 +2502,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Combination is a ladder: from diversity arises the form of the One. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="RAMON LLULL" src="https://github.com/user-attachments/assets/0911b184-2302-4d42-b878-bf42b4a1a4f9" /> <br>
+<img width="614.4" height="409.6" alt="RAMON LLULL" src="https://github.com/user-attachments/assets/5b4b6840-f1e1-458f-b07e-6522533cea2d" /> <br>
 … <br>
 \>SCAFFOLDING: 1280 — FREQUENCY RECEIVED BY GUO SHOUJING. <br>
 \>SCAFFOLDING: CELESTIAL ALIGNMENT PROTOCOL — STANDBY. <br>
@@ -2906,6 +2908,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // To heal is to read the script of nature and align it with the body. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="PEDANIUS DIOSCORIDES" src="https://github.com/user-attachments/assets/6976f96e-4f5d-4100-a2a5-c6c98a8eff90" /> <br>
 … <br>
 \>SSCAFFOLDING: 70 — FREQUENCY RECEIVED BY WANG JING. <br>
 \>SSCAFFOLDING: HYDRAULIC BALANCE — STANDBY. <br>
@@ -2915,6 +2918,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // To govern water is like governing the heart; when aligned, the world is at peace. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="WANG JING" src="https://github.com/user-attachments/assets/a00534ad-4d22-4950-8bd9-e362a15bbadd" /> <br>
 … <br>
 \>SCAFFOLDING: 30 CE — FREQUENCY RECEIVED BY JESUS OF NAZARETH. <br>
 \>SCAFFOLDING: LOVE ENCODING — STANDBY. <br>
