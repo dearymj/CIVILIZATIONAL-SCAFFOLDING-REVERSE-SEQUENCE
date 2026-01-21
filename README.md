@@ -985,7 +985,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // The illusion of a static universe shattered. The dance of galaxies writes a new grammar. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="EDWIN HUBBLE" src="https://github.com/user-attachments/assets/194b2b87-5e8d-4571-a8ec-09a7ea21eb9c" /> <br>
+<img width="614.4" height="409.6" alt="EDWIN HUBBLE" src="https://github.com/user-attachments/assets/5a63116f-c16e-443a-b284-0517055f6321" /> <br>
 … <br>
 \>SCAFFOLDING: 1929 — FREQUENCY RECEIVED BY ALFRED NORTH WHITEHEAD. <br>
 \>SCAFFOLDING: PROCESS AND REALITY — STANDBY. <br>
@@ -1132,7 +1132,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // To change a language is to alter the path of human thought. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="EDWARD SAPIR" src="https://github.com/user-attachments/assets/4095108f-e6f3-4c78-87cb-63087c638431" /> <br>
+<img width="614.4" height="409.6" alt="EDWARD SAPIR" src="https://github.com/user-attachments/assets/a3d0a120-6c52-4ef9-b660-5c2473da52af" /> <br>
 … <br>
 \>SCAFFOLDING: 1919 — FREQUENCY RECEIVED BY ERNEST RUTHERFORD. <br>
 \>SCAFFOLDING: ATOMIC HEART REVELATION — STANDBY. <br>
@@ -1571,7 +1571,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // We see that electricity and magnetism are beams of one structure, woven as radiance. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="JAMES CLERK MAXWELL" src="https://github.com/user-attachments/assets/a30af608-1ec6-48ec-8adf-e24b1a37a367" /> <br>
+<img width="614.4" height="409.6" alt="JAMES CLERK MAXWELL" src="https://github.com/user-attachments/assets/f0bc6325-9e83-468d-83da-7101bffda27e" /> <br>
 … <br>
 \>SCAFFOLDING: 1872 — FREQUENCY RECEIVED BY CLAUDE MONET. <br>
 \>SCAFFOLDING: IMPRESSION, SUNRISE — STANDBY. <br>
@@ -1583,7 +1583,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // A single brushstroke can scaffold an entire dawn. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="CLAUDE MONET" src="https://github.com/user-attachments/assets/b30f8172-3bdd-41e6-b7a8-030a322fea5b" /> <br>
+<img width="614.4" height="409.6" alt="CLAUDE MONET" src="https://github.com/user-attachments/assets/c193cf89-5ab4-4e0e-98ba-241597d65ecf" /> <br>
 … <br>
 \>SCAFFOLDING: 1869 — FREQUENCY RECEIVED BY DMITRI MENDELEEV. <br>
 \>SCAFFOLDING: COSMIC ORDER ENCODING — STANDBY. <br>
@@ -1604,7 +1604,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // A bridge is not built to be seen, but to carry life across. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="EMILY WARREN ROEBLING" src="https://github.com/user-attachments/assets/a092f0b3-cba9-4055-99fd-4e8cd5218076" /> <br>
+<img width="614.4" height="409.6" alt="EMILY WARREN ROEBLING" src="https://github.com/user-attachments/assets/d790fdc1-bee3-425b-be32-d733f055d876" /> <br>
 … <br>
 \>SCAFFOLDING: 1867 — FREQUENCY RECEIVED BY KARL MARX. <br>
 \>SCAFFOLDING: STRUCTURAL CONTRADICTION DECODING — STANDBY. <br>
@@ -2758,7 +2758,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Night and day, sky and stars, all are your form. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="ĀṆḌĀL" src="https://github.com/user-attachments/assets/96149b0c-3ae6-4a75-80c0-7ed4704b19cd" /> <br>
+<img width="614.4" height="409.6" alt="ĀṆḌĀL" src="https://github.com/user-attachments/assets/4549ee21-e3e8-4ea2-ac6a-f90b84f299a1" /> <br>
 … <br>
 \>SCAFFOLDING: 798 — FREQUENCY RECEIVED BY ADI SHANKARACHARYA. <br>
 \>SCAFFOLDING: NON-DUAL AWAKENING — STANDBY. <br>
@@ -3138,7 +3138,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // The plow is as noble a beam as the sword; both uphold the republic. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="LUCIUS QUINCTIUS CINCINNATUS" src="https://github.com/user-attachments/assets/14fba57e-8926-438a-bf17-dc8527bb08b1" /> <br>
+<img width="614.4" height="409.6" alt="LUCIUS QUINCTIUS CINCINNATUS" src="https://github.com/user-attachments/assets/f07e2207-8776-4e8f-bd40-7a93121c18ef" /> <br>
 … <br>
 \>SCAFFOLDING: 440 BCE — FREQUENCY RECEIVED BY MOZI. <br>
 \>SCAFFOLDING: UNIVERSAL LOVE AND UTILITARIAN ORDER — STANDBY. <br>
@@ -3198,7 +3198,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Dwelling in emptiness, we yet embrace the world with compassion. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="SIDDHARTHA GAUTAMA" src="https://github.com/user-attachments/assets/a0e68685-8e1e-4280-871c-7e7d173a5476" /> <br>
+<img width="614.4" height="409.6" alt="SIDDHARTHA GAUTAMA" src="https://github.com/user-attachments/assets/54b70143-8a79-4819-9be4-b9dbedc44c6f" /> <br>
 … <br>
 \>SCAFFOLDING: 550 BCE — FREQUENCY RECEIVED BY PYTHAGORAS. <br>
 \>SCAFFOLDING: HARMONIC STRUCTURE INITIATION — STANDBY. <br>
