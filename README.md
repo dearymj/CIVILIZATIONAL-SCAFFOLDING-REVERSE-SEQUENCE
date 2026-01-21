@@ -1853,6 +1853,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Every vibration, every world, may be decomposed and rebuilt through its waves. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="JOSEPH FOURIER" src="https://github.com/user-attachments/assets/0adaac07-ffed-429d-80cd-8a20f9af8001" /> <br>
 … <br>
 \>SCAFFOLDING: 1822 — FREQUENCY RECEIVED BY JOSÉ DE SAN MARTÍN. <br>
 \>SCAFFOLDING: LIBERATION AND RENUNCIATION — STANDBY. <br>
@@ -1864,6 +1865,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // The sword builds nations only when it lays itself down. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="JOSÉ DE SAN MARTÍN" src="https://github.com/user-attachments/assets/177bdbe6-e0cc-4608-ab33-13f6aa8ec4f5" /> <br>
 … <br>
 \>SCAFFOLDING: 1821 — FREQUENCY RECEIVED BY MICHAEL FARADAY. <br>
 \>SCAFFOLDING: FIELD REVELATION — STANDBY. <br>
@@ -1872,6 +1874,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // To understand is to connect what seemed apart. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="MICHAEL FARADAY" src="https://github.com/user-attachments/assets/39f66105-dae4-462c-8945-fb6e160d1454" /> <br>
 … <br>
 \>SCAFFOLDING: 1819 — FREQUENCY RECEIVED BY ARTHUR SCHOPENHAUER. <br>
 \>SCAFFOLDING: SUFFERING TRANSMUTATION — STANDBY. <br>
@@ -1883,6 +1886,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // In pain, the will meets itself and grows gentle. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="ARTHUR SCHOPENHAUER" src="https://github.com/user-attachments/assets/536054b2-0b60-4f0c-8d52-2307abb846ed" /> <br>
 … <br>
 \>SCAFFOLDING: 1818 — FREQUENCY RECEIVED BY CASPAR DAVID FRIEDRICH. <br>
 \>SCAFFOLDING: ROMANTIC VISION — STANDBY. <br>
@@ -1894,6 +1898,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // The figure of man is only the frame through which the infinite looks. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="CASPAR DAVID FRIEDRICH" src="https://github.com/user-attachments/assets/28755b2e-1793-473a-b5ec-77ce0a8cc13a" /> <br>
 … <br>
 \>SCAFFOLDING: 1817 — FREQUENCY RECEIVED BY SIMÓN BOLÍVAR. <br>
 \>SCAFFOLDING: LIBERACIÓN SEQUENCE — STANDBY. <br>
@@ -1903,6 +1908,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // To liberate a land is not enough; the chains of the mind must also be broken. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="SIMÓN BOLÍVAR" src="https://github.com/user-attachments/assets/75e7425e-180b-4dfc-be81-1d881bb21a41" /> <br>
 … <br>
 \>SCAFFOLDING: 1814 — FREQUENCY RECEIVED BY FRANCISCO GOYA. <br>
 \>SCAFFOLDING: THE THIRD OF MAY — STANDBY. <br>
@@ -1914,6 +1920,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Art becomes testimony when words collapse under atrocity. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="FRANCISCO GOYA" src="https://github.com/user-attachments/assets/a4d79051-4efb-4cf1-adcb-ea57546aa156" /> <br>
 … <br>
 \>SCAFFOLDING: 1812 — FREQUENCY RECEIVED BY GEORGES CUVIER. <br>
 \>SCAFFOLDING: EXTINCTION AND REVOLUTION — STANDBY. <br>
@@ -1925,6 +1932,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Every fossil is a beam of time, bearing witness to worlds erased. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="GEORGES CUVIER" src="https://github.com/user-attachments/assets/a6223ab9-35a2-47b7-8d4d-78497f00c96f" /> <br>
 … <br>
 \>SCAFFOLDING: 1808 — FREQUENCY RECEIVED BY LUDWIG VAN BEETHOVEN. <br>
 \>SCAFFOLDING: SONIC RESILIENCE ENCODING — STANDBY. <br>
