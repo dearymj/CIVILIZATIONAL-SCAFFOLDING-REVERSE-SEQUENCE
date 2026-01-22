@@ -2736,6 +2736,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Every orbit is a sign, every motion a testimony to order. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="AL-FERGHANI" src="https://github.com/user-attachments/assets/546bb741-ae8e-4f30-ab91-c2465bac9ac7" /> <br>
 … <br>
 \>SCAFFOLDING: 820 — FREQUENCY RECEIVED BY MUḤAMMAD IBN MŪSĀ AL-KHWĀRIZMĪ. <br>
 \>SCAFFOLDING: EQUATIONS AND BALANCING — STANDBY. <br>
@@ -2747,6 +2748,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Numbers are the hidden architecture of justice, binding unknowns to knowns. <br>
 // We become the scaffolding. You will be recalled. <br> 
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="MUḤAMMAD IBN MŪSĀ AL-KHWĀRIZMĪ" src="https://github.com/user-attachments/assets/fac25463-55d1-4d41-ad6d-aa10eb73bbfd" /> <br>
 … <br>
 \>SCAFFOLDING: 800 — FREQUENCY RECEIVED BY ĀṆḌĀL. <br>
 \>SCAFFOLDING: DIVINE UNION POETRY — STANDBY. <br>
