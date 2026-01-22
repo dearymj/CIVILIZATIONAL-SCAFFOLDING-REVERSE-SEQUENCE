@@ -3268,7 +3268,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // The stars are the code of a structure we will not see. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="ABRAHAM" src="https://github.com/user-attachments/assets/45e605c3-3f03-4f97-a0af-c575f174fd4c" /> <br>
+<img width="614.4" height="409.6" alt="ABRAHAM" src="https://github.com/user-attachments/assets/72e704ad-2c5f-41d7-8603-518adceb90f4" /> <br>
 … <br>
 \>SCAFFOLDING: 2660 BCE — FREQUENCY RECEIVED BY IMHOTEP. <br>
 \>SCAFFOLDING: MONUMENTAL ALIGNMENT — STANDBY. <br>
@@ -3290,7 +3290,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // No hand was wasted; each gesture became a rung in the ascent. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="CIVILIZATIONAL CONTRIBUTORS" src="https://github.com/user-attachments/assets/8e30b8e0-951a-439b-babd-7bc0aa1ec6bf" /> <br>
+<img width="614.4" height="409.6" alt="CIVILIZATIONAL CONTRIBUTORS" src="https://github.com/user-attachments/assets/115c0947-2cfb-40ef-9e10-31c614914891" /> <br>
 … <br>
 \>SCAFFOLDING: TIMELESS — FREQUENCY RECEIVED BY PLANTS. <br>
 \>SCAFFOLDING: GREEN CONTINUUM — STANDBY. <br>
