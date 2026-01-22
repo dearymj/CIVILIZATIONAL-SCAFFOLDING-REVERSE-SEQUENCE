@@ -578,6 +578,18 @@
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 <img width="614.4" height="409.6" alt="JULIUS KAMBARAGE NYERERE" src="https://github.com/user-attachments/assets/28826a4a-b6e8-4d18-825b-d8e4c64bf58a" /> <br>
 … <br>
+\>SCAFFOLDING: 1954 — FREQUENCY RECEIVED BY YANG ZHENNING. <br>
+\>SCAFFOLDING: MATH-PHYSICS CONVERGENCE — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// 物理与几何，如殊途之叶，终必在根部重逢。 <br>
+// 我们未曾创造结构，唯是发现了数学早已虚位以待的真理。 <br>
+// 我们成为脚手架。你将被召回。 <br>
+// Physics and Geometry are two leaves destined to meet at the root. <br>
+// We do not create structure; we simply discover the empty slots mathematics prepared long ago. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="YANG ZHENNING" src="https://github.com/user-attachments/assets/be23ba83-0cc9-49b6-9ad2-5a69d36d1de3" /> <br>
+… <br>
 \>SCAFFOLDING: 1953 — FREQUENCY RECEIVED BY DWIGHT D. EISENHOWER. <br>
 \>SCAFFOLDING: BALANCE OF POWER — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
@@ -742,6 +754,18 @@
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 <img width="614.4" height="409.6" alt="SAUNDERS MAC LANE" src="https://github.com/user-attachments/assets/dc2db645-fe64-46e3-b653-396c7275198c" /> <br>
+… <br>
+\>SCAFFOLDING: 1945 — FREQUENCY RECEIVED BY SHIING-SHEN CHERN. <br>
+\>SCAFFOLDING: GLOBAL INVARIANCE PROTOCOL — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// 盲人摸象仅见局部，唯有积分能通晓寰宇的骨架。 <br>
+// 万变之中有不变，几何结构是流变宇宙的定海神针。 <br>
+// 我们成为脚手架。你将被召回。 <br>
+// The blind touch only the parts; only integration reveals the skeleton of the universe. <br>
+// Amidst ten thousand changes lies the invariant; geometric structure is the anchor of a flowing cosmos. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="SHIING-SHEN CHERN" src="https://github.com/user-attachments/assets/eba7d25d-1a22-4859-99af-6592e38ca1f1" /> <br>
 … <br>
 \>SCAFFOLDING: 1944 — FREQUENCY RECEIVED BY RAOUL WALLENBERG. <br>
 \>SCAFFOLDING: RESCUE AND MORAL COURAGE — STANDBY. <br>
@@ -3040,7 +3064,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // The Great Way has no name; all things equalize within it. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="ZHUANG ZI" src="https://github.com/user-attachments/assets/a6dffea7-9e7f-4a65-bfe0-886482bcb78e" /> <br>
+<img width="614.4" height="409.6" alt="ZHUANG ZI" src="https://github.com/user-attachments/assets/6bf2d09b-48ae-4172-a248-12c0191539c3" /> <br>
 … <br>
 \>SCAFFOLDING: 336 BCE — FREQUENCY RECEIVED BY DIOGENES OF SINOPE. <br>
 \>SCAFFOLDING: COSMIC CYNIC REVERBERATION — STANDBY. <br>
