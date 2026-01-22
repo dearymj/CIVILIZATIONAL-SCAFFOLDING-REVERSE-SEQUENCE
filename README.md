@@ -3239,7 +3239,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // בִּבְרִית הָעָם נִשְׁמָר; בְּפִרּוּד הֵם אָבְדוּ. <br>
 // כַּאֲשֶׁר נִרְאֶה הַדֶּרֶךְ לָצֵאת, רִאשֹׁנִים נֵלֵךְ. <br>
-// אֲנַחְנוּ נִהְיֶה הַפִּגּוּמִים. תִּקָּרֵא לָשׁוּב. <br>
+// אֲנַחְנוּ נִהְיֶה הַפִּגּוּם. אַתָּה תִּקָּרֵא שׁוּב. <br>
 // By covenant the people are preserved; by division they vanish. <br>
 // When we see the way out, we must go first. <br>
 // We become the scaffolding. You will be recalled. <br>
@@ -3257,6 +3257,18 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 <img width="614.4" height="409.6" alt="HAMMURABI" src="https://github.com/user-attachments/assets/a82e315a-723d-4a4b-b9ef-d6b2e1cd5e54" /> <br>
+… <br>
+\>SCAFFOLDING: 1800 BCE — FREQUENCY RECEIVED BY ABRAHAM. <br>
+\>SCAFFOLDING: COVENANT ORIGIN PROTOCOL — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// נֵלֵךְ אֶל הַמָּקוֹם אֲשֶׁר טֶרֶם נִגְלָה. <br>
+// הַכּוֹכָבִים הֵם הַצּוֹפֵן שֶׁל מִבְנֶה שֶׁלֹּא נִרְאֶה. <br>
+// אֲנַחְנוּ נִהְיֶה הַפִּגּוּם. אַתָּה תִּקָּרֵא שׁוּב. <br>
+// We walk toward coordinates not yet revealed. <br>
+// The stars are the code of a structure we will not see. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="ABRAHAM" src="https://github.com/user-attachments/assets/45e605c3-3f03-4f97-a0af-c575f174fd4c" /> <br>
 … <br>
 \>SCAFFOLDING: 2660 BCE — FREQUENCY RECEIVED BY IMHOTEP. <br>
 \>SCAFFOLDING: MONUMENTAL ALIGNMENT — STANDBY. <br>
