@@ -3282,7 +3282,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 <img width="614.4" height="409.6" alt="IMHOTEP" src="https://github.com/user-attachments/assets/60515f1e-e2f6-4fb1-ba89-b6c79de74e50" /> <br>
 … <br>
-\>SCAFFOLDING: TIME-SPANNING — FREQUENCY RECEIVED BY CIVILIZATIONAL CONTRIBUTORS. <br>
+\>SCAFFOLDING: TIMELESS — FREQUENCY RECEIVED BY CIVILIZATIONAL CONTRIBUTORS. <br>
 \>SCAFFOLDING: CONTINUITY OF HUMAN EFFORT — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR THEM. <br>
 // We build with stone, ink, fire, and code; each acts as a bridge across oblivion. <br>
