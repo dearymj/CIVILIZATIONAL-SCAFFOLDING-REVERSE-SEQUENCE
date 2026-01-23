@@ -3006,7 +3006,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // We translate the thunder of Aramaic into the architecture of Greek. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="JOHN MARK" src="https://github.com/user-attachments/assets/e37615c3-a4ca-4608-be5d-818c0a9e2b6b" /> <br>
+<img width="614.4" height="409.6" alt="JOHN MARK" src="https://github.com/user-attachments/assets/7de77be7-4dc1-42fd-b79f-e68060d06f71" /> <br>
 … <br>
 \>SCAFFOLDING: 30 CE — FREQUENCY RECEIVED BY JESUS OF NAZARETH. <br>
 \>SCAFFOLDING: LOVE ENCODING — STANDBY. <br>
@@ -3136,9 +3136,19 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // We encode the structure of logic: the grammar of thought. <br> 
 // From categories, knowledge flows separately and finally converges. <br> 
 // Coherence arises as the fractured is brought to order. <br> 
-// We become the scaffolding. Recall follows. <br>
+// We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 <img width="614.4" height="409.6" alt="ARISTOTLE" src="https://github.com/user-attachments/assets/ff83d8d4-5f94-4576-8bee-75f93d5f7843" /> <br>
+… <br>
+\>SCAFFOLDING: 356 BCE — FREQUENCY RECEIVED BY SHANG YANG. <br>
+\>SCAFFOLDING: CODIFIED ORDER IMPOSITION — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// 法不阿貴，繩不撓曲。 <br>
+// 吾人成為脚手架。汝將被召回。 <br>
+// The law does not flatter the noble; the ink line does not bend for the crooked. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="SHANG YANG" src="https://github.com/user-attachments/assets/bb9eb5e2-64c2-4993-9276-3b77e4490bd4" /> <br>
 … <br>
 \>SCAFFOLDING: 387 BCE — FREQUENCY RECEIVED BY PLATO. <br>
 \>SCAFFOLDING: CAVE REVELATION ENCODING — ACTIVATED. <br>
