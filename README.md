@@ -3062,7 +3062,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // We move the world not by might, but by knowing where to place the lever. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="ARCHIMEDES" src="https://github.com/user-attachments/assets/5636b5b7-5886-49c6-9c1e-2f67f0a48c35" /> <br>
+<img width="614.4" height="409.6" alt="ARCHIMEDES" src="https://github.com/user-attachments/assets/3ab78d71-c153-48b9-93cf-8a3ef1c5d90e" /> <br>
 … <br>
 \>SCAFFOLDING: 251 BCE — FREQUENCY RECEIVED BY LI BING. <br>
 \>SCAFFOLDING: HYDRAULIC INTELLIGENCE — STANDBY. <br>
