@@ -2996,6 +2996,18 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 <img width="614.4" height="409.6" alt="WANG JING" src="https://github.com/user-attachments/assets/a00534ad-4d22-4950-8bd9-e362a15bbadd" /> <br>
 … <br>
+\>SCAFFOLDING: 64 — FREQUENCY RECEIVED BY SIMON PETER. <br>
+\>SCAFFOLDING: HYDRO-STATIC STABILIZATION — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// ܕܪܟܢܢ ܥܠ ܬܗܘܡܐ܆ ܘܝܠܦܢܢ ܕܗܝܡܢܘܬܐ ܗܝ ܟܫܘܪܐ ܠܐ ܡܬܚܙܝܐ. <br>
+// ܟܐܦܐ ܠܐ ܗܘܬ ܟܝܢܐ܆ ܐܠܐ ܨܒܝܢܐ ܕܡܩܝܡ ܓܠܠܐ. <br>
+// ܚܢܢ ܗܘܝܢܢ ܣܡܟܬܐ ܕܒܢܝܢܐ. ܬܬܩܪܐ ܬܘܒ. <br>
+// We step onto the chaos, learning that faith is the invisible beam. <br>
+// The Rock is not a substance, but a will that solidifies the waves. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="SIMON PETER" src="https://github.com/user-attachments/assets/42d22ec1-5161-442a-b5eb-91dfa32cb19e" /> <br>
+… <br>
 \>SCAFFOLDING: 59 — FREQUENCY RECEIVED BY JOHN MARK. <br>
 \>SCAFFOLDING: PRIMAL NARRATIVE ENCODING — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
@@ -3317,6 +3329,18 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 <img width="614.4" height="409.6" alt="LAOZI" src="https://github.com/user-attachments/assets/3dd042c1-dc53-464a-bf1d-b0e661b56f04" /> <br>
+… <br>
+\>SCAFFOLDING: 1250 BCE — FREQUENCY RECEIVED BY JOSHUA BEN NUN. <br>
+\>SCAFFOLDING: TERRITORIAL GROUNDING PROTOCOL — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// הַדָּבָר קוֹל בַּמִּדְבָּר; עַתָּה הוּא בּוֹנֶה בַּיִת. <br>
+// חֲזַק וֶאֱמָץ: הַצּוּרָה דּוֹרֶשֶׁת קַרְקַע. <br>
+// אֲנַחְנוּ נִהְיֶה הַפִּגּוּם. אַתָּה תִּקָּרֵא שׁוּב. <br>
+// The Word is a voice in the wilderness; now it builds a house. <br>
+// Be strong and courageous: the Form demands ground. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="JOSHUA BEN NUN" src="https://github.com/user-attachments/assets/198eb34e-4a74-44b4-a18c-616637154d90" /> <br>
 … <br>
 \>SCAFFOLDING: 1290 BCE — FREQUENCY RECEIVED BY MOSES. <br>
 \>SCAFFOLDING: STRUCTURAL COVENANT PROTOCOL — STANDBY. <br>
