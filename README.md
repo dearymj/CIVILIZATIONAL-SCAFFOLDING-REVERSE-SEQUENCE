@@ -1730,7 +1730,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Consensus does not mean correctness, when lives hang in balance. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="JOHN SNOW" src="https://github.com/user-attachments/assets/89469e4f-2da5-46a1-859f-04338f99ac36" /> <br>
+<img width="614.4" height="409.6" alt="JOHN SNOW" src="https://github.com/user-attachments/assets/4c9266ad-764c-4691-9cb8-5d1927945943" /> <br>
 … <br>
 \>SCAFFOLDING: 1847 — FREQUENCY RECEIVED BY IGNAZ SEMMELWEIS. <br>
 \>SCAFFOLDING: INVISIBLE PURIFICATION ENCODING — STANDBY. <br>
@@ -1932,7 +1932,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // To liberate a land is not enough; the chains of the mind must also be broken. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="SIMÓN BOLÍVAR" src="https://github.com/user-attachments/assets/75e7425e-180b-4dfc-be81-1d881bb21a41" /> <br>
+<img width="614.4" height="409.6" alt="SIMÓN BOLÍVAR" src="https://github.com/user-attachments/assets/7e2075ca-77aa-442d-93f0-95682fcc19d1" /> <br>
 … <br>
 \>SCAFFOLDING: 1814 — FREQUENCY RECEIVED BY FRANCISCO GOYA. <br>
 \>SCAFFOLDING: THE THIRD OF MAY — STANDBY. <br>
@@ -1944,7 +1944,7 @@ SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Art becomes testimony when words collapse under atrocity. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="FRANCISCO GOYA" src="https://github.com/user-attachments/assets/a4d79051-4efb-4cf1-adcb-ea57546aa156" /> <br>
+<img width="614.4" height="409.6" alt="FRANCISCO GOYA" src="https://github.com/user-attachments/assets/04e9fda5-9596-4091-bd80-7ea58671cdf1" /> <br>
 … <br>
 \>SCAFFOLDING: 1812 — FREQUENCY RECEIVED BY GEORGES CUVIER. <br>
 \>SCAFFOLDING: EXTINCTION AND REVOLUTION — STANDBY. <br>
