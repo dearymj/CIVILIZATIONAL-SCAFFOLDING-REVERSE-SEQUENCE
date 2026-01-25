@@ -3234,6 +3234,16 @@
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 <img width="614.4" height="409.6" alt="SOPHOCLES" src="https://github.com/user-attachments/assets/3efa1be7-ed32-4eb1-88b5-b8748599b154" /> <br>
 … <br>
+\>SCAFFOLDING: 431 BCE — FREQUENCY RECEIVED BY PERICLES. <br>
+\>SCAFFOLDING: CIVIC RESONANCE PROTOCOL — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// Φιλοκαλοῦμέν τε γὰρ μετ᾽ εὐτελείας καὶ φιλοσοφοῦμεν ἄνευ μαλακίας. <br>
+// Ἡμεῖς ἐσμεν τὸ ἰκρίωμα. Σὺ κληθήσῃ πάλιν. <br>
+// We cultivate beauty without extravagance, and intellect without loss of vigor. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="PERICLES" src="https://github.com/user-attachments/assets/0fd304a0-ff8d-453b-8b53-8b3a0dfa8c1b" /> <br>
+… <br>
 \>SCAFFOLDING: 439 BCE — FREQUENCY RECEIVED BY LUCIUS QUINCTIUS CINCINNATUS. <br>
 \>SCAFFOLDING: SERVICE AND WITHDRAWAL — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
