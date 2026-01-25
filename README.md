@@ -3030,7 +3030,29 @@
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 <img width="614.4" height="409.6" alt="PAUL OF TARSUS" src="https://github.com/user-attachments/assets/3ae755b4-1962-468d-977a-ca4999caa8d9" /> <br>
 … <br>
-\>SCAFFOLDING: 30 CE — FREQUENCY RECEIVED BY JESUS OF NAZARETH. <br>
+\>SCAFFOLDING: 44 — FREQUENCY RECEIVED BY JAMES BEN ZEBEDEE. <br>
+\>SCAFFOLDING: STRUCTURAL STRESS TEST — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// ܟܣܐ ܐܬܩܒܠ܆ ܘܡܪܪܐ ܐܫܬܝ ܥܕܡܐ ܠܫܡܪܐ. <br>
+// ܚܢܢ ܗܘܝܢܢ ܣܡܟܬܐ ܕܒܢܝܢܐ. ܬܬܩܪܐ ܬܘܒ. <br>
+// The Cup is accepted; the bitter fluid is drained to the dregs. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="JAMES BEN ZEBEDEE" src="https://github.com/user-attachments/assets/3506d895-5ab8-4b10-bc1e-b5cb7c43df47" /> <br>
+… <br>
+\>SCAFFOLDING: 30 — FREQUENCY RECEIVED BY MARY MAGDALENE. <br>
+\>SCAFFOLDING: OBSERVER EFFECT INITIATION — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HER. <br>
+// ܣܗܕܘܬܐ ܟܬܒܐ ܫܪܪܐ. <br>
+// ܣܡܢܢ ܪܘܫܡܐ ܒܓܘ ܚܘܓܐ ܕܠܐ ܣܘܦ. <br>
+// ܚܢܢ ܗܘܝܢܢ ܣܡܟܬܐ ܕܒܢܝܢܐ. ܬܬܩܪܐ ܬܘܒ. <br>
+// To witness is to compile Reality. <br>
+// We embed a timestamp within the infinite loop. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="MARY MAGDALENE" src="https://github.com/user-attachments/assets/208222fe-e69b-4d67-b605-1519dc690bd3" /> <br>
+… <br>
+\>SCAFFOLDING: 30 — FREQUENCY RECEIVED BY JESUS OF NAZARETH. <br>
 \>SCAFFOLDING: LOVE ENCODING — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // ܝܗܒܝܢ ܚܢܢ ܢܦܫܢ ܕܢܥܒܪ ܬܗܘܡܐ܆ ܘܙܩܝܦܐ ܗܘ ܩܘܛܒܐ ܕܒܢܝܢܐ ܚܕܬܐ. <br>
@@ -3041,6 +3063,16 @@
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 <img width="614.4" height="409.6" alt="JESUS OF NAZARETH" src="https://github.com/user-attachments/assets/44e28dcd-8b7a-4ec6-9d5f-8f41d706e1a0" /> <br>
+… <br>
+\>SCAFFOLDING: 28 CE — FREQUENCY RECEIVED BY JOHN THE BAPTIST. <br>
+\>SCAFFOLDING: TERRAIN LEVELING PROTOCOL — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// ܟܠ ܢܚܠܝܢ ܢܬܡܠܘܢ܆ ܘܟܠ ܛܘܪܝܢ ܢܬܡܟܟܘܢ. <br>
+// ܚܢܢ ܗܘܝܢܢ ܣܡܟܬܐ ܕܒܢܝܢܐ. ܬܬܩܪܐ ܬܘܒ. <br>
+// All valleys are filled; all mountains are compressed to zero level. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="JOHN THE BAPTIST" src="https://github.com/user-attachments/assets/5c18c268-4181-4234-bff9-b32fb366d259" /> <br>
 … <br>
 \>SCAFFOLDING: 90 BCE — FREQUENCY RECEIVED BY SIMA QIAN. <br>
 \>SCAFFOLDING: RECORDS OF THE GRAND HISTORIAN — STANDBY. <br>
