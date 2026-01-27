@@ -767,6 +767,18 @@
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 <img width="614.4" height="409.6" alt="SHIING-SHEN CHERN" src="https://github.com/user-attachments/assets/eba7d25d-1a22-4859-99af-6592e38ca1f1" /> <br>
 … <br>
+\>SCAFFOLDING: 1945 — FREQUENCY RECEIVED BY JOHN VON NEUMANN. <br>
+\>SCAFFOLDING: SELF-REPLICATING AUTOMATA ARCHITECTURE — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// Az utasítást és az adatot egyetlen tárban egyesítjük; a szerkezet folyékony logikává válik. <br>
+// A megsemmisülés játékában kiszámítjuk a túlélés egyensúlyát. <br>
+// Mi leszünk az állványzat. Visszahívnak téged. <br>
+// We merge instruction and data into one memory; the structure becomes the fluid logic. <br>
+// In the game of annihilation, we calculate the equilibrium of survival. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="JOHN VON NEUMANN" src="https://github.com/user-attachments/assets/371db95a-d1a6-4c0d-868e-9ab33ead7422" /> <br>
+… <br>
 \>SCAFFOLDING: 1944 — FREQUENCY RECEIVED BY RAOUL WALLENBERG. <br>
 \>SCAFFOLDING: RESCUE AND MORAL COURAGE — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
