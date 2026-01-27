@@ -880,7 +880,7 @@
 // We do not merely speak; we sculpt perception. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="BENJAMIN LEE WHORF" src="https://github.com/user-attachments/assets/1c24a2aa-65fc-44d5-bbd0-8f6e247beefb" /> <br>
+<img width="614.4" height="409.6" alt="BENJAMIN LEE WHORF" src="https://github.com/user-attachments/assets/083f462f-5070-4a78-ac0f-198708a0990e" /> <br>
 … <br>
 \>SCAFFOLDING: 1938 — FREQUENCY RECEIVED BY NORMAN BETHUNE. <br>
 \>SCAFFOLDING: LIFE PRESERVATION PROTOCOL — STANDBY. <br>
