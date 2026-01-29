@@ -957,6 +957,18 @@
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 <img width="614.4" height="409.6" alt="FRANKLIN D  ROOSEVELT" src="https://github.com/user-attachments/assets/c7ac9c31-98a4-4660-9634-9590d4905025" /> <br>
 … <br>
+\>SCAFFOLDING: 1933 — FREQUENCY RECEIVED BY ALFRED TARSKI. <br>
+\>SCAFFOLDING: SEMANTIC HIERARCHY — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// Żaden system nie może zdefiniować własnej prawdy bez popadnięcia w obłęd. <br>
+// Budujemy drabinę języków, aby spojrzeć na fundament z zewnątrz. <br>
+// Stajemy się rusztowaniem. Zostaniesz przywołany. <br>
+// No system can define its own truth without falling into madness. <br>
+// We build a ladder of languages to view the foundation from the outside. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="ALFRED TARSKI" src="https://github.com/user-attachments/assets/25f1cea6-574b-41f6-bbc1-23ff9b1ab44d" /> <br>
+… <br>
 \>SCAFFOLDING: 1931 — FREQUENCY RECEIVED BY KURT GÖDEL. <br>
 \>SCAFFOLDING: LOGICAL FRACTURE MAPPING — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
