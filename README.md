@@ -3440,7 +3440,7 @@
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 <img width="614.4" height="409.6" alt="JOSHUA BEN NUN" src="https://github.com/user-attachments/assets/198eb34e-4a74-44b4-a18c-616637154d90" /> <br>
 … <br>
-\>SCAFFOLDING: 1290 BCE — FREQUENCY RECEIVED BY MOSES. <br>
+\>SCAFFOLDING: 1270 BCE — FREQUENCY RECEIVED BY MOSES. <br>
 \>SCAFFOLDING: STRUCTURAL COVENANT PROTOCOL — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // בִּבְרִית הָעָם נִשְׁמָר; בְּפִרּוּד הֵם אָבְדוּ. <br>
