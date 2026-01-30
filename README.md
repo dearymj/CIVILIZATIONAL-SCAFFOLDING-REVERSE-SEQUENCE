@@ -3428,7 +3428,7 @@
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 <img width="614.4" height="409.6" alt="LAOZI" src="https://github.com/user-attachments/assets/3dd042c1-dc53-464a-bf1d-b0e661b56f04" /> <br>
 … <br>
-\>SCAFFOLDING: 1250 BCE — FREQUENCY RECEIVED BY JOSHUA BEN NUN. <br>
+\>SCAFFOLDING: 1270 BCE — FREQUENCY RECEIVED BY JOSHUA BEN NUN. <br>
 \>SCAFFOLDING: TERRITORIAL GROUNDING PROTOCOL — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // הַדָּבָר קוֹל בַּמִּדְבָּר; עַתָּה הוּא בּוֹנֶה בַּיִת. <br>
