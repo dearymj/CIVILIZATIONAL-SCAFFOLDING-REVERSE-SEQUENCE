@@ -2528,7 +2528,7 @@
 // Each story is a bridge that saves the soul from silence. <br> 
 // We become the scaffolding. You will be recalled. <br> 
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="GIOVANNI BOCCACCIO" src="https://github.com/user-attachments/assets/6e8acb36-9877-4971-9ce0-708ae1247e1f" /> <br>
+<img width="614.4" height="409.6" alt="GIOVANNI BOCCACCIO" src="https://github.com/user-attachments/assets/506bac4a-a957-4ec8-b2d2-1db2dd601ff7" /> <br>
 … <br>
 \>SCAFFOLDING: 1346 — FREQUENCY RECEIVED BY FRANCESCO PETRARCA. <br>
 \>SCAFFOLDING: CONTEMPLATIVE SOLITUDE ENCODING — STANDBY. <br>
@@ -2598,7 +2598,7 @@
 // Numbers are not only tools of trade, but patterns of life itself. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="LEONARDO FIBONACCI" src="https://github.com/user-attachments/assets/d984d29d-3415-498f-b32d-bb7338eb8e54" /> <br>
+<img width="614.4" height="409.6" alt="LEONARDO FIBONACCI" src="https://github.com/user-attachments/assets/6262cc1f-de2a-462e-858c-28f208ba022a" /> <br>
 … <br>
 \>SCAFFOLDING: 1186 — FREQUENCY RECEIVED BY SHIHAB AL-DIN YAHYA SUHRAWARDI. <br>
 \>SCAFFOLDING: PHILOSOPHY OF ILLUMINATION — STANDBY. <br>
@@ -2855,6 +2855,18 @@
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 <img width="614.4" height="409.6" alt="LI BAI" src="https://github.com/user-attachments/assets/c7196a77-dbbd-4d0d-9b61-ee5f175a7515" /> <br>
+… <br>
+\>SCAFFOLDING: 632 — FREQUENCY RECEIVED BY ABU BAKR AL-SIDDIQ. <br>
+\>SCAFFOLDING: MEMORY CONSOLIDATION PROTOCOL — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// نجمعُ الرِّقاعَ والعُسُبَ والصُّدُورَ، لكي لا يضيعَ الوحيُ في النسيان. <br>
+// الكلمةُ المتفرقةُ تتلاشى؛ الكلمةُ المجتمعةُ تبني الحضارة. <br>
+// نحن نصيرُ السقالةَ. ستُستدعى. <br>
+// We gather the parchments, the palm stalks, and the memories, so revelation is not lost to oblivion. <br>
+// The scattered word fades; the united word builds civilization. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="ABU BAKR AL-SIDDIQ" src="https://github.com/user-attachments/assets/675f2dde-5738-47b7-8f37-a6d1478af2f6" /> <br>
 … <br>
 \>SCAFFOLDING: 610 — FREQUENCY RECEIVED BY MUHAMMAD IBN ʿABD ALLĀH. <br>
 \>SCAFFOLDING: UNITY THROUGH JUSTICE PROTOCOL — STANDBY. <br>
