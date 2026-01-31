@@ -400,6 +400,18 @@
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 <img width="614.4" height="409.6" alt="BIAN ZHONGYUN" src="https://github.com/user-attachments/assets/6b038b48-ef61-4c2d-a6c1-d4ec571da909" /> <br>
 … <br>
+\>SCAFFOLDING: 1964 — FREQUENCY RECEIVED BY DENG JIAXIAN. <br>
+\>SCAFFOLDING: SILENT SHIELD ACTIVATION — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// 名字隐没于黄沙，只为让脊梁不再弯曲。 <br>
+// 我们在辐射中燃烧生命，不为征服，只为尊严。 <br>
+// 我们成为脚手架。你将被召回。 <br>
+// Names fade into the yellow sand, solely so the spine need no longer bend. <br>
+// We burn our lives amidst radiation, not for conquest, but for dignity. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="DENG JIAXIAN" src="https://github.com/user-attachments/assets/1900558b-12b7-4d71-b646-e224d877636c" /> <br>
+… <br>
 \>SCAFFOLDING: 1963 — FREQUENCY RECEIVED BY MARTIN LUTHER KING JR. <br>
 \>SCAFFOLDING: DREAM FREQUENCY STABILIZATION — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
@@ -2867,6 +2879,18 @@
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 <img width="614.4" height="409.6" alt="ABU BAKR AL-SIDDIQ" src="https://github.com/user-attachments/assets/675f2dde-5738-47b7-8f37-a6d1478af2f6" /> <br>
+… <br>
+\>SCAFFOLDING: 623 — FREQUENCY RECEIVED BY AISHA BINT ABU BAKR. <br>
+\>SCAFFOLDING: LIVING ARCHIVE INITIATION — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HER. <br>
+// الحُجْرَةُ التي آوَتِ الوحيَ، باتَتْ ذاكِرَةً تَحْرُسُ الأُمَّة. <br>
+// نَصُوغُ الحَديثَ مِنَ الصَّمْتِ، ونُحِيلُ النَّجْوَى إِلى شِرْعَةٍ ومِنْهَاج. <br>
+// نحن نصيرُ السقالةَ. ستُستدعى. <br>
+// The chamber holding Revelation becomes the memory that guards the Nation. <br>
+// We weave the Hadith from silence, turning the private whisper into public law. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="AISHA BINT ABU BAKR" src="https://github.com/user-attachments/assets/35686a01-9224-4c4e-99ff-75e7c17695c5" /> <br>
 … <br>
 \>SCAFFOLDING: 610 — FREQUENCY RECEIVED BY MUHAMMAD IBN ʿABD ALLĀH. <br>
 \>SCAFFOLDING: UNITY THROUGH JUSTICE PROTOCOL — STANDBY. <br>
