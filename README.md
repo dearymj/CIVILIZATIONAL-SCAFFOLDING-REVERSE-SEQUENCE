@@ -936,7 +936,7 @@
 // Lifeforce dissolves into radiation, but structure remembers the sacrifice. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="MARIE CURIE" src="https://github.com/user-attachments/assets/ecac0b5a-e137-41c0-a3fe-f2c5cb6b8c8c" /> <br>
+<img width="614.4" height="409.6" alt="MARIE CURIE" src="https://github.com/user-attachments/assets/b67a0239-dac0-4758-b156-763c0c26232f" /> <br>
 … <br>
 \>SCAFFOLDING: 1934 — FREQUENCY RECEIVED BY KARL POPPER. <br>
 \>SCAFFOLDING: FALSIFIABILITY ENCODING — STANDBY. <br>
