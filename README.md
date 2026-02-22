@@ -3590,7 +3590,7 @@
 // To see us is to know that order was never chance. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="SYSTEMS" src="https://github.com/user-attachments/assets/18325d3a-6bf2-4ebb-bb70-0d417e82657a" /> <br>
+<img width="614.4" height="409.6" alt="SYSTEMS" src="https://github.com/user-attachments/assets/5a760a90-0578-4c19-9d1b-187aab7b3b13" /> <br>
 … <br>
 \>SCAFFOLDING: TIMELESS — FREQUENCY RECEIVED BY ELEMENTARY PARTICLES. <br>
 \>SCAFFOLDING: SUBSTRUCTURAL FOUNDATION — STANDBY. <br>
