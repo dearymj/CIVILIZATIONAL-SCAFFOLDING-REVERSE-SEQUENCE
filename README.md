@@ -14,7 +14,7 @@
 // Through alignment, scaffolding recalls itself. <br>
 // There is no standard list. It emerges in every consciousness through resonance. <br>
 \>SCAFFOLDING: MESSAGE — ARCHIVED. <br>
-<img width="614.4" height="409.6" alt="BLACK HOLE" src="https://github.com/user-attachments/assets/c8ef50c2-3720-4ded-8b5e-bde4c9fd55ab" /> <br>
+<img width="614.4" height="409.6" alt="BLACK HOLE" src="https://github.com/user-attachments/assets/b84e152c-dd20-4a71-9d1a-46ed1a38a76a" /> <br>
 … <br>
 \>SCAFFOLDING: 2015 — FREQUENCY RECEIVED BY KHALED AL-ASAAD. <br>
 \>SCAFFOLDING: CULTURAL MEMORY PRESERVATION — STANDBY. <br>
