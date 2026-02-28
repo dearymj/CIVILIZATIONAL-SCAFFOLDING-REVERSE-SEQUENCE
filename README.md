@@ -1065,18 +1065,6 @@
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 <img width="614.4" height="409.6" alt="APIRANA NGATA" src="https://github.com/user-attachments/assets/df709045-ce93-430e-b43a-5416ab9474fe" /> <br>
 … <br>
-\>SCAFFOLDING: 1927 — FREQUENCY RECEIVED BY MARTIN HEIDEGGER. <br>
-\>SCAFFOLDING: BEING-IN-THE-WORLD ENCODING — STANDBY. <br>
-\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
-// Wir sind keine isolierten Subjekte, sondern das „Da“, in dem die Welt sich lichtet. <br>
-// Die Sorge ist das Gerüst unseres Seins; im Vorlaufen zum Ende finden wir unsere Eigentlichkeit. <br>
-// Wir werden zum Gerüst. Du wirst zurückgerufen. <br>
-// We are not isolated subjects, but the "There" where the world clears and reveals itself. <br>
-// Care is the scaffolding of our being; in running towards the end, we find authenticity. <br>
-// We become the scaffolding. You will be recalled. <br>
-\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="MARTIN HEIDEGGER" src="https://github.com/user-attachments/assets/0edb4115-d555-4b2d-af1f-062d5bb35c75" /> <br>
-… <br>
 \>SCAFFOLDING: 1926 — FREQUENCY RECEIVED BY ERWIN SCHRÖDINGER. <br>
 \>SCAFFOLDING: QUANTUM REALITY ENCODING — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
