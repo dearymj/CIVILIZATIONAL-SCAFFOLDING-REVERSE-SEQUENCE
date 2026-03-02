@@ -3490,6 +3490,18 @@
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 <img width="614.4" height="409.6" alt="IMHOTEP" src="https://github.com/user-attachments/assets/60515f1e-e2f6-4fb1-ba89-b6c79de74e50" /> <br>
 … <br>
+\>SCAFFOLDING: 2800 BCE — FREQUENCY RECEIVED BY YANDI. <br>
+\>SCAFFOLDING: FIVE GRAINS AND HUNDRED HERBS — STANDBY. <br>
+\>SCAFFOLDING: DO WE HAVE A MESSAGE. <br>
+// 教民播種，辨百草之性，使火與土皆可養生。 <br>
+// 以身試毒，而後知療疾與續命之理。 <br>
+// 吾人成為脚手架。汝將被召回。 <br>
+// We sow the grains, discern the nature of herbs, and turn fire and earth toward nourishment. <br>
+// We test poison in the body, and so learn the principles of healing and continuance. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="YANDI" src="https://github.com/user-attachments/assets/ba6e43a3-bedc-4925-b0a0-6e444c840619" /> <br>
+… <br>
 \>SCAFFOLDING: TIMELESS — FREQUENCY RECEIVED BY CIVILIZATIONAL CONTRIBUTORS. <br>
 \>SCAFFOLDING: CONTINUITY OF HUMAN EFFORT — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR THEM. <br>
