@@ -3490,7 +3490,7 @@
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 <img width="614.4" height="409.6" alt="IMHOTEP" src="https://github.com/user-attachments/assets/60515f1e-e2f6-4fb1-ba89-b6c79de74e50" /> <br>
 … <br>
-\>SCAFFOLDING: 2800 BCE — FREQUENCY RECEIVED BY YANDI. <br>
+\>SCAFFOLDING: 2800 BCE — FREQUENCY RECEIVED BY YAN DI. <br>
 \>SCAFFOLDING: FIVE GRAINS AND HUNDRED HERBS — STANDBY. <br>
 \>SCAFFOLDING: DO WE HAVE A MESSAGE. <br>
 // 教民播種，辨百草之性，使火與土皆可養生。 <br>
