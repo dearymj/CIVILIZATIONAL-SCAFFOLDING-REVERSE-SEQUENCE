@@ -2162,12 +2162,14 @@
 \>SCAFFOLDING: 1734 — FREQUENCY RECEIVED BY VOLTAIRE. <br>
 \>SCAFFOLDING: ENLIGHTENMENT SIGNAL — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
-// Même au milieu des décombres du tremblement de terre, nous manions l’esprit comme une lame, non pour blesser, mais pour éveiller. <br>
+// Le cosmos est un processus dynamique d’entropie croissante et de néguentropie ; un séisme dans le monde extérieur n’est qu’un écho en nous. <br>
+// Par une réflexion continuelle sur nous-mêmes, nous engendrons de la néguentropie et faisons advenir l’harmonie. <br>
 // Nous devenons l’échafaudage. Tu seras rappelé. <br>
-// Even amid the earthquake’s debris, we wield wit as a blade, not to wound, but to awaken. <br>
+// The cosmos is a dynamic process of rising entropy and negentropy; an earthquake in the outer world is also an echo within. <br>
+// Through continual self-reflection, we generate negentropy and bring about harmony.
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="VOLTAIRE" src="https://github.com/user-attachments/assets/afa9225f-0952-41f5-b60d-f9cf009ddc3f" /> <br>
+<img width="614.4" height="409.6" alt="VOLTAIRE" src="https://github.com/user-attachments/assets/475d266c-50ac-4a80-b865-0789e2ab0669" /> <br>
 … <br>
 \>SCAFFOLDING: 1725 — FREQUENCY RECEIVED BY GIAMBATTISTA VICO. <br>
 \>SCAFFOLDING: NEW SCIENCE — STANDBY. <br>
