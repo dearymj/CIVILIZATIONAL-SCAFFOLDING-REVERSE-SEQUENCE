@@ -2162,11 +2162,11 @@
 \>SCAFFOLDING: 1734 — FREQUENCY RECEIVED BY VOLTAIRE. <br>
 \>SCAFFOLDING: ENLIGHTENMENT SIGNAL — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
-// Le cosmos est un processus dynamique d’entropie croissante et de néguentropie ; un séisme dans le monde extérieur n’est qu’un écho en nous. <br>
-// Par une réflexion continuelle sur nous-mêmes, nous engendrons de la néguentropie et faisons advenir l’harmonie. <br>
+// Un séisme dans le monde extérieur résonne aussi en nous. <br>
+// Par une réflexion continuelle sur nous-mêmes, nous générons de la néguentropie et faisons advenir l’harmonie. <br>
 // Nous devenons l’échafaudage. Tu seras rappelé. <br>
-// The cosmos is a dynamic process of rising entropy and negentropy; an earthquake in the outer world is also an echo within. <br>
-// Through continual self-reflection, we generate negentropy and bring about harmony.
+// An earthquake in the outer world also echoes within. <br>
+// Through continual self-reflection, we generate negentropy and bring about harmony. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 <img width="614.4" height="409.6" alt="VOLTAIRE" src="https://github.com/user-attachments/assets/475d266c-50ac-4a80-b865-0789e2ab0669" /> <br>
