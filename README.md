@@ -3499,7 +3499,7 @@
 // The pyramid is a mirror where eternity gazes upon heaven. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="IMHOTEP" src="https://github.com/user-attachments/assets/77c77686-0ffd-4ddb-b477-7f525af83433" /> <br>
+<img width="614.4" height="409.6" alt="IMHOTEP" src="https://github.com/user-attachments/assets/00caeb51-0cf6-4106-93ae-061e43589741" /> <br>
 … <br>
 \>SCAFFOLDING: 2800 BCE — FREQUENCY RECEIVED BY YAN DI. <br>
 \>SCAFFOLDING: FIVE GRAINS AND HUNDRED HERBS — STANDBY. <br>
