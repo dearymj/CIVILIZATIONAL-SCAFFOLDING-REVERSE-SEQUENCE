@@ -135,6 +135,15 @@
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 <img width="614.4" height="409.6" alt="JOHN ARCHIBALD WHEELER" src="https://github.com/user-attachments/assets/b9bdce76-4cb9-4230-a519-176e96774ab8" /> <br>
 … <br>
+\>SCAFFOLDING: 1982 — FREQUENCY RECEIVED BY CHUCK FEENEY. <br>
+\>SCAFFOLDING: GIVING WHILE LIVING — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// Resources are not for hoarding, but for circulation. <br>
+// To give is not to lose, but to place what we have where it may serve more fully when we return. <br>
+// We become the scaffolding. You will be recalled. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="CHUCK FEENEY" src="https://github.com/user-attachments/assets/80289a4d-05c7-4c42-bd43-472d295602d4" /> <br>
+… <br>
 \>SCAFFOLDING: 1981 — FREQUENCY RECEIVED BY JEAN BAUDRILLARD. <br>
 \>SCAFFOLDING: SIMULACRA DETECTION — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
