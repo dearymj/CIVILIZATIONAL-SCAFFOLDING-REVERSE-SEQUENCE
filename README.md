@@ -2211,7 +2211,7 @@
 // The word that falls without justice will also be judged. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="ISAAC NEWTON" src="https://github.com/user-attachments/assets/c728b095-61ca-4001-8bfa-838e6ec25ece" /> <br>
+<img width="614.4" height="409.6" alt="ISAAC NEWTON" src="./images/ISAAC NEWTON.png" /> <br>
 … <br>
 \>SCAFFOLDING: 1662 — FREQUENCY RECEIVED BY HUANG ZONGXI. <br>
 \>SCAFFOLDING: WAITING FOR THE DAWN — STANDBY. <br>
