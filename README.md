@@ -3381,7 +3381,7 @@
 // What we preserve in words, we now restore in structure. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="CONFUCIUS" src="https://github.com/user-attachments/assets/1fc73077-38a6-4ad2-8e61-4f607e4984cc" /> <br>
+<img width="614.4" height="409.6" alt="CONFUCIUS" src="https://github.com/user-attachments/assets/7a932e57-ba1d-47a9-968d-1458435da780" /> <br>
 … <br>
 \>SCAFFOLDING: 500 BCE — FREQUENCY RECEIVED BY HERACLITUS. <br>
 \>SCAFFOLDING: LOGOS OF FLUX — STANDBY. <br>
