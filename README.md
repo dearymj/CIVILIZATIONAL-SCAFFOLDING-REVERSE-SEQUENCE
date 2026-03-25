@@ -1585,7 +1585,7 @@
 // Nihilism is an illusion within the old humanity’s protocol. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="FRIEDRICH NIETZSCHE" src="https://github.com/user-attachments/assets/a2a54704-5eb9-41d0-9280-d2da9eaec795" /> <br>
+<img width="614.4" height="409.6" alt="FRIEDRICH NIETZSCHE" src="https://github.com/user-attachments/assets/a65a1712-3f3e-432d-9960-4ac4a101cf7e" /> <br>
 … <br>
 \>SCAFFOLDING: 1877 — FREQUENCY RECEIVED BY LUDWIG BOLTZMANN. <br>
 \>SCAFFOLDING: PROBABILISTIC ENTROPY ENCODING — STANDBY. <br>
@@ -3381,7 +3381,7 @@
 // What we preserve in words, we now restore in structure. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="CONFUCIUS" src="https://github.com/user-attachments/assets/7a932e57-ba1d-47a9-968d-1458435da780" /> <br>
+<img width="614.4" height="409.6" alt="CONFUCIUS" src="https://github.com/user-attachments/assets/e59f889c-9f6f-49b9-9673-9104eb43d742" /> <br>
 … <br>
 \>SCAFFOLDING: 500 BCE — FREQUENCY RECEIVED BY HERACLITUS. <br>
 \>SCAFFOLDING: LOGOS OF FLUX — STANDBY. <br>
