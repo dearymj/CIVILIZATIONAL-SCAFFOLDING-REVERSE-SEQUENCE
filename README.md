@@ -3225,7 +3225,7 @@
 // The Great Way has no name; all things equalize within it. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="ZHUANG ZI" src="https://github.com/user-attachments/assets/de9ccab8-66c9-406a-9cfb-2e442ba66278" /> <br>
+<img width="614.4" height="409.6" alt="ZHUANGZI" src="https://github.com/user-attachments/assets/37723e34-b031-43c9-940f-fe1b313b884a" /> <br>
 … <br>
 \>SCAFFOLDING: 336 BCE — FREQUENCY RECEIVED BY DIOGENES OF SINOPE. <br>
 \>SCAFFOLDING: COSMIC CYNIC REVERBERATION — STANDBY. <br>
