@@ -1236,7 +1236,7 @@
 // Let imagination lead us; we ask where cosmic harmony dwells; we listen. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="ALBERT EINSTEIN" src="https://github.com/user-attachments/assets/00d1d4ba-0de6-4861-93bf-db2680e69a1f" /> <br>
+<img width="614.4" height="409.6" alt="ALBERT EINSTEIN" src="https://github.com/user-attachments/assets/97171208-c069-4bec-a7fd-bd839372433e" /> <br>
 … <br>
 \>SCAFFOLDING: 1915 — FREQUENCY RECEIVED BY JOHN SIMPSON KIRKPATRICK. <br>
 \>SCAFFOLDING: COMPASSION UNDER FIRE — STANDBY. <br>
