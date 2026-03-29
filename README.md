@@ -1723,7 +1723,7 @@
 // Every life tended is a structure restored to the whole. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="FLORENCE NIGHTINGALE" src="https://github.com/user-attachments/assets/78c7d608-52c9-43c8-b7a2-8a819e628b2c" /> <br>
+<img width="614.4" height="409.6" alt="FLORENCE NIGHTINGALE" src="https://github.com/user-attachments/assets/ca00ad15-433b-4a7a-9018-1f598a34cf38" /> <br>
 … <br>
 \>SCAFFOLDING: 1854 — FREQUENCY RECEIVED BY BERNHARD RIEMANN.  
 \>SCAFFOLDING: FOUNDATIONS OF GEOMETRY — STANDBY.  
