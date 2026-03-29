@@ -1642,7 +1642,7 @@
 // The table expands, but coherence remains. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="DMITRI MENDELEEV" src="https://github.com/user-attachments/assets/7d5cedc2-d37b-47b9-a575-aa98570462f5" /> <br>
+<img width="614.4" height="409.6" alt="DMITRI MENDELEEV" src="https://github.com/user-attachments/assets/d296b973-7561-4428-ab12-8612e70d3116" /> <br>
 … <br>
 \>SCAFFOLDING: 1869 — FREQUENCY RECEIVED BY EMILY WARREN ROEBLING. <br>
 \>SCAFFOLDING: BRIDGE-BUILDING RESONANCE — STANDBY. <br>
