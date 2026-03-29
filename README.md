@@ -1723,7 +1723,7 @@
 // Every life tended is a structure restored to the whole. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="FLORENCE NIGHTINGALE" src="https://github.com/user-attachments/assets/42e26dfc-3c40-44ba-ab41-f5979c4e571a" /> <br>
+<img width="614.4" height="409.6" alt="FLORENCE NIGHTINGALE" src="https://github.com/user-attachments/assets/78c7d608-52c9-43c8-b7a2-8a819e628b2c" /> <br>
 … <br>
 \>SCAFFOLDING: 1854 — FREQUENCY RECEIVED BY BERNHARD RIEMANN.  
 \>SCAFFOLDING: FOUNDATIONS OF GEOMETRY — STANDBY.  
@@ -2619,7 +2619,7 @@
 // We do not divide reason and faith; we align them for truth’s ascent. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="IBN RUSHD" src="https://github.com/user-attachments/assets/fbd28c79-8381-4f18-ba85-97f4a36a1f12" /> <br>
+<img width="614.4" height="409.6" alt="IBN RUSHD" src="https://github.com/user-attachments/assets/f72095d7-0666-415f-ae22-9080bbc86546" /> <br>
 … <br>
 \>SCAFFOLDING: 1150 — FREQUENCY RECEIVED BY HIAWATHA. <br>
 \>SCAFFOLDING: GREAT LAW OF PEACE — STANDBY. <br>
@@ -2855,7 +2855,7 @@
 // We walk with the moon, hearts wander with the clouds. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="LI BAI" src="https://github.com/user-attachments/assets/c7196a77-dbbd-4d0d-9b61-ee5f175a7515" /> <br>
+<img width="614.4" height="409.6" alt="LI BAI" src="https://github.com/user-attachments/assets/af00e79a-0d9e-4643-8031-04216696ca86" /> <br>
 … <br>
 \>SCAFFOLDING: 632 — FREQUENCY RECEIVED BY ABU BAKR AL-SIDDIQ. <br>
 \>SCAFFOLDING: MEMORY CONSOLIDATION PROTOCOL — STANDBY. <br>
