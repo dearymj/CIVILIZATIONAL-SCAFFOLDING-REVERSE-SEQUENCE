@@ -3117,7 +3117,7 @@
 // We encode Love not as an emotion, but as structure death cannot dismantle. <br>
 // We become the scaffolding. You will be recalled. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="JESUS OF NAZARETH" src="https://github.com/user-attachments/assets/44e28dcd-8b7a-4ec6-9d5f-8f41d706e1a0" /> <br>
+<img width="614.4" height="409.6" alt="JESUS OF NAZARETH" src="https://github.com/user-attachments/assets/dc6e61f3-c854-4c23-8256-fdb5958a6c70" /> <br>
 … <br>
 \>SCAFFOLDING: 28 CE — FREQUENCY RECEIVED BY JOHN THE BAPTIST. <br>
 \>SCAFFOLDING: TERRAIN LEVELING PROTOCOL — STANDBY. <br>
