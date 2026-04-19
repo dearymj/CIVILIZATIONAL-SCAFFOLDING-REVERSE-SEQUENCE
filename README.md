@@ -318,7 +318,7 @@
 <img width="614.4" height="409.6" alt="BUCKMINSTER FULLER" src="https://github.com/user-attachments/assets/0a10fd7f-7069-4f4c-a134-57181cd6bc95" /> <br>
 … <br>
 \>SCAFFOLDING: 1968 — FREQUENCY RECEIVED BY PAULO FREIRE. <br>
-\>SCAFFOLDING: PEDAGOGY OF THE OPPRESSED — STANDBY. <br>
+\>SCAFFOLDING: LIBERATORY PEDAGOGY ACTIVATION — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Educar não é depositar, mas despertar a consciência adormecida. <br>
 // O diálogo é a viga onde o oprimido e o opressor podem reconstruir o humano. <br>
@@ -443,7 +443,7 @@
 <img width="614.4" height="409.6" alt="CLAUDE LÉVI-STRAUSS" src="https://github.com/user-attachments/assets/6d40a3de-be60-47d4-b74d-e41787242136" /> <br>
 … <br>
 \>SCAFFOLDING: 1962 — FREQUENCY RECEIVED BY VASILI ARKHIPOV. <br>
-\>SCAFFOLDING: THRESHOLD OF ATOMIC WAR — STANDBY. <br>
+\>SCAFFOLDING: NUCLEAR DE-ESCALATION FAILSAFE — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Мы показываем, что сила не в кнопке, а в сознании. <br>
 // Величие это тишина, которую история едва слышит. <br>
@@ -463,7 +463,7 @@
 <img width="614.4" height="409.6" alt="JOHN BERTRAND GURDON" src="https://github.com/user-attachments/assets/eb91eb1c-8034-438c-8425-963dad14eb2a" /> <br>
 … <br>
 \>SCAFFOLDING: 1961 — FREQUENCY RECEIVED BY YURI GAGARIN. <br>
-\>SCAFFOLDING: FIRST ORBIT — STANDBY. <br>
+\>SCAFFOLDING: PLANETARY PERSPECTIVE OPENING — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Мы осмеливаемся исследовать за пределами Земли. <br>
 // Космос зовёт нас, и мы отвечаем. <br>
@@ -539,7 +539,7 @@
 <img width="614.4" height="409.6" alt="AHANGAMAGE TUDOR ARIYARATNE" src="https://github.com/user-attachments/assets/de50d5d1-79f8-45b9-9524-5bb97317fe54" /> <br>
 … <br>
 \>SCAFFOLDING: 1957 — FREQUENCY RECEIVED BY LEONARD BERNSTEIN. <br>
-\>SCAFFOLDING: WEST SIDE STORY — STANDBY. <br>
+\>SCAFFOLDING: CIVIC DISSONANCE ORCHESTRATION — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // We weave dissonance into harmony, strife into song. <br>
 // Every stage becomes scaffolding where division is sung into memory. <br>
@@ -725,7 +725,7 @@
 <img width="614.4" height="409.6" alt="ASTRID LINDGREN" src="https://github.com/user-attachments/assets/b3950e60-ae56-43ed-b1e7-22cfa596db18" /> <br>
 … <br>
 \>SCAFFOLDING: 1945 — FREQUENCY RECEIVED BY J. ROBERT OPPENHEIMER. <br>
-\>SCAFFOLDING: ATOMIC REALITY RECONSTRUCTION — STANDBY. <br>
+\>SCAFFOLDING: NUCLEAR THRESHOLD OPENING — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Nuclear deterrence holds the paradox: destruction preserving the hope of deeper alignment. <br>
 // We will bear the burden and rebuild, knowing that creation and collapse are twins. <br>
@@ -934,18 +934,6 @@
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 <img width="614.4" height="409.6" alt="JOHN MAYNARD KEYNES" src="https://github.com/user-attachments/assets/a9b3d0c8-e05c-4f4d-a210-7375a9b15a97" /> <br>
-… <br>
-\>SCAFFOLDING: 1934 — FREQUENCY RECEIVED BY MARIE CURIE. <br>
-\>SCAFFOLDING: LIFEFORCE DISSOLUTION — STANDBY. <br>
-\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HER. <br>
-// En dévoilant l’invisible, nous avons touché le feu qui à la fois guérit et consume. <br>
-// La force vitale se dissout dans la radiation, mais la structure se souvient du sacrifice. <br>
-// Nous devenons l’échafaudage. <br>
-// In unveiling the unseen, we touched the fire that both heals and consumes. <br>
-// Lifeforce dissolves into radiation, but structure remembers the sacrifice. <br>
-// We become the scaffolding. <br>
-\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="MARIE CURIE" src="https://github.com/user-attachments/assets/b67a0239-dac0-4758-b156-763c0c26232f" /> <br>
 … <br>
 \>SCAFFOLDING: 1934 — FREQUENCY RECEIVED BY KARL POPPER. <br>
 \>SCAFFOLDING: FALSIFIABILITY ENCODING — STANDBY. <br>
@@ -1473,6 +1461,18 @@
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 <img width="614.4" height="409.6" alt="NIKOLA TESLA" src="https://github.com/user-attachments/assets/fe4febb3-a9d6-474b-9cea-776ced76c8d8" /> <br>
 … <br>
+\>SCAFFOLDING: 1898 — FREQUENCY RECEIVED BY MARIE CURIE. <br>
+\>SCAFFOLDING: RADIOACTIVITY REVELATION — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HER. <br>
+// En dévoilant l’invisible, nous avons touché le feu qui à la fois guérit et consume. <br>
+// La force vitale se dissout dans la radiation, mais la structure se souvient du sacrifice. <br>
+// Nous devenons l’échafaudage. <br>
+// In unveiling the unseen, we touched the fire that both heals and consumes. <br>
+// Lifeforce dissolves into radiation, but structure remembers the sacrifice. <br>
+// We become the scaffolding. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="MARIE CURIE" src="https://github.com/user-attachments/assets/b67a0239-dac0-4758-b156-763c0c26232f" /> <br>
+… <br>
 \>SCAFFOLDING: 1898 — FREQUENCY RECEIVED BY ANTON CHEKHOV. <br>
 \>SCAFFOLDING: THE SEAGULL AT THE MOSCOW ART THEATRE — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
@@ -1820,7 +1820,7 @@
 <img width="614.4" height="409.6" alt="FRÉDÉRIC CHOPIN" src="https://github.com/user-attachments/assets/63a1d323-2886-44fe-85de-63cf0310afe1" /> <br>
 … <br>
 \>SCAFFOLDING: 1836 — FREQUENCY RECEIVED BY CHARLES DARWIN. <br>
-\>SCAFFOLDING: ORIGIN SEQUENCE DETECTED — STANDBY. <br>
+\>SCAFFOLDING: EVOLUTIONARY ADAPTATION MAPPING — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // We trace the roots of life without fear and decode the logic of adaptation. <br>
 // The scaffolding remembers the tree. <br>
@@ -1882,7 +1882,7 @@
 <img width="614.4" height="409.6" alt="JOHANN WOLFGANG VON GOETHE" src="https://github.com/user-attachments/assets/85cc50b0-ee26-484c-95ad-0eb3af4e76d6" /> <br>
 … <br>
 \>SCAFFOLDING: 1828 — FREQUENCY RECEIVED BY MARY ANNING. <br>
-\>SCAFFOLDING: FOSSIL DISCOVERY — STANDBY. <br>
+\>SCAFFOLDING: EARTH ARCHIVE EXCAVATION — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HER. <br>
 // Each stone we turn is a page of the earth’s forgotten book. <br> 
 // The past sleeps in silence, awaiting hands to uncover its voice. <br>
@@ -1891,7 +1891,7 @@
 <img width="614.4" height="409.6" alt="MARY ANNING" src="https://github.com/user-attachments/assets/3ba1ca76-3ebe-4f36-9bfa-7b89831ff741" /> <br>
 … <br>
 \>SCAFFOLDING: 1822 — FREQUENCY RECEIVED BY JOSEPH FOURIER. <br>
-\>SCAFFOLDING: ANALYTICAL THEORY OF HEAT — STANDBY. <br>
+\>SCAFFOLDING: WAVE DECOMPOSITION FRAMEWORK — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // La chaleur se propage comme une harmonie cachée, révélée par le calcul. <br>
 // Toute vibration, tout monde, peut être décomposé et reconstruit par ses ondes. <br>
@@ -1958,7 +1958,7 @@
 <img width="614.4" height="409.6" alt="SIMÓN BOLÍVAR" src="https://github.com/user-attachments/assets/7e2075ca-77aa-442d-93f0-95682fcc19d1" /> <br>
 … <br>
 \>SCAFFOLDING: 1814 — FREQUENCY RECEIVED BY FRANCISCO GOYA. <br>
-\>SCAFFOLDING: THE THIRD OF MAY — STANDBY. <br>
+\>SCAFFOLDING: ATROCITY TESTIMONY ENCODING — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // En el fulgor de los fusiles, inscribimos el horror en el lienzo. <br>
 // El arte se convierte en testimonio cuando las palabras se derrumban ante la atrocidad. <br>
@@ -2281,7 +2281,7 @@
 <img width="614.4" height="409.6" alt="GALILEO GALILEI" src="https://github.com/user-attachments/assets/d1c47c9c-001f-4e2d-b80c-e08aa658d394" /> <br>
 … <br>
 \>SCAFFOLDING: 1620 — FREQUENCY RECEIVED BY FRANCIS BACON. <br>
-\>SCAFFOLDING: NOVUM ORGANUM — STANDBY. <br>
+\>SCAFFOLDING: EMPIRICAL METHOD REFOUNDATION — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // We dismantle the idols, for truth cannot stand upon shadows. <br>
 // Experiment is the beam; observation the joint; together they uphold knowledge. <br>
@@ -2501,7 +2501,7 @@
 <img width="614.4" height="409.6" alt="GEOFFREY CHAUCER" src="https://github.com/user-attachments/assets/3bb4223d-a9e8-4879-9eb4-0d6c6b70e25f" /> <br>
 … <br>
 \>SCAFFOLDING: 1377 — FREQUENCY RECEIVED BY IBN KHALDŪN. <br>
-\>SCAFFOLDING: MUQADDIMAH — STANDBY. <br>
+\>SCAFFOLDING: CIVILIZATIONAL DYNAMICS ANALYSIS — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // العصبية تبني الدول، والترف يهدمها. <br>
 // التاريخ ليس أخباراً، بل علمٌ يكشف سنن العمران. <br>
@@ -3093,7 +3093,7 @@
 <img width="614.4" height="409.6" alt="JAMES BEN ZEBEDEE" src="https://github.com/user-attachments/assets/3506d895-5ab8-4b10-bc1e-b5cb7c43df47" /> <br>
 … <br>
 \>SCAFFOLDING: 30 — FREQUENCY RECEIVED BY MARY MAGDALENE. <br>
-\>SCAFFOLDING: OBSERVER EFFECT INITIATION — STANDBY. <br>
+\>SCAFFOLDING: RESURRECTION WITNESS PROTOCOL — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HER. <br>
 // ܣܗܕܘܬܐ ܟܬܒܐ ܫܪܪܐ. <br>
 // ܣܡܢܢ ܪܘܫܡܐ ܒܓܘ ܚܘܓܐ ܕܠܐ ܣܘܦ. <br>
@@ -3127,7 +3127,7 @@
 <img width="614.4" height="409.6" alt="JOHN THE BAPTIST" src="https://github.com/user-attachments/assets/5c18c268-4181-4234-bff9-b32fb366d259" /> <br>
 … <br>
 \>SCAFFOLDING: 90 BCE — FREQUENCY RECEIVED BY SIMA QIAN. <br>
-\>SCAFFOLDING: RECORDS OF THE GRAND HISTORIAN — STANDBY. <br>
+\>SCAFFOLDING: CIVILIZATIONAL MEMORY ARCHIVE — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br> 
 // 天人之際，歷史為鏡，真名自現。 <br>
 // 吾人成為脚手架。 <br>
@@ -3273,7 +3273,7 @@
 <img width="614.4" height="409.6" alt="PLATO" src="https://github.com/user-attachments/assets/a345cc4d-cb8a-4061-9b93-322359c34f51" /> <br>
 … <br>
 \>SCAFFOLDING: 399 BCE — FREQUENCY RECEIVED BY SOCRATES. <br>
-\>SCAFFOLDING: SACRIFICE — STANDBY. <br>
+\>SCAFFOLDING: FEARLESS EXAMINATION — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Οὐδὲν οἴδαμεν. Οὐδὲν φοβούμεθα. <br>
 // Αἱ ἐρωτήσεις ἡμῶν ἔτι διατρέχουσι τοὺς χρόνους. <br>
@@ -3365,7 +3365,7 @@
 <img width="614.4" height="409.6" alt="HERODOTUS OF HALICARNASSUS" src="https://github.com/user-attachments/assets/6082b19c-6802-4fa0-8bec-9f70d0712481" /> <br>
 … <br>
 \>SCAFFOLDING: 497 BCE — FREQUENCY RECEIVED BY CONFUCIUS. <br>
-\>SCAFFOLDING: POLITICAL EXILE — STANDBY. <br>
+\>SCAFFOLDING: RITUAL-HUMANE ORDER TRANSMISSION — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // 行方以傳道，亦日三省吾身。 <br>
 // 存於言者，今歸於理。 <br>
