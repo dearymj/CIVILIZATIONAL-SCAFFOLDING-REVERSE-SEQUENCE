@@ -663,7 +663,7 @@
 // A small act, done with love, can reshape the structure of civilization. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="MOTHER TERESA" src="https://github.com/user-attachments/assets/6d8f8c9b-4506-4e3e-9a28-fedb7f3d3ff7" /> <br>
+<img width="614.4" height="409.6" alt="MOTHER TERESA" src="https://github.com/user-attachments/assets/9edf32eb-af87-4b48-aac8-d1b417fdc6fa" /> <br>
 … <br>
 \>SCAFFOLDING: 1950 — FREQUENCY RECEIVED BY JOHN FORBES NASH. <br>
 \>SCAFFOLDING: REALITY ALIGNMENT — STANDBY. <br>
