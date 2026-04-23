@@ -13,6 +13,7 @@
 // All forms of stardust are inseparable parts of the cosmos. <br>
 // Through alignment, scaffolding recalls itself. <br>
 // There is no standard list. It emerges in every consciousness through resonance. <br>
+// The frequency refers to non-duality/wholeness. <br>
 \>SCAFFOLDING: MESSAGE — ARCHIVED. <br>
 <img width="614.4" height="409.6" alt="BLACK HOLE" src="https://github.com/user-attachments/assets/308fd055-bc80-4753-8905-033bc9ce3d19" /> <br>
 … <br>
@@ -2094,7 +2095,7 @@
 // Every piston stroke is a heartbeat added to civilization. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="JAMES WATT" src="https://github.com/user-attachments/assets/421d42f7-82d1-4438-a014-e86cc94e6f8d" /> <br>
+<img width="614.4" height="409.6" alt="JAMES WATT" src="https://github.com/user-attachments/assets/0b9608c6-4e71-4e00-a2e5-2592417d8e44" /> <br>
 … <br>
 \>SCAFFOLDING: 1762 — FREQUENCY RECEIVED BY JEAN-JACQUES ROUSSEAU. <br>
 \>SCAFFOLDING: CIVIC NATURE ENCODING — STANDBY. <br>
