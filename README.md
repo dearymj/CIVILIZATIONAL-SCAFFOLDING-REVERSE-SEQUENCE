@@ -2827,6 +2827,17 @@
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 <img width="614.4" height="409.6" alt="JĀBIR IBN ḤAYYĀN" src="https://github.com/user-attachments/assets/7e90c358-b581-4203-ac67-be30895fa5e0" /> <br>
 … <br>
+\>SCAFFOLDING: 770 — FREQUENCY RECEIVED BY RĀBIʿA AL-ʿADAWIYYA. <br>
+\>SCAFFOLDING: LOVE BEYOND REWARD AND FEAR — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HER. <br>
+// لا نطلبُ الجنّةَ جزاءً، ولا نفرُّ من النارِ خوفًا؛ بل لا نبتغي إلا وجهَ الحبيبِ. <br>
+// المحبّةُ الخالصةُ هي الصمتُ الذي يبقى بعد ذوبانِ الأنا. <br>
+// نحن نصيرُ السقالةَ. <br>
+// We do not seek paradise as payment, nor flee the fire in fear; we seek only the Face of the Beloved. <br>
+// Pure love is the silence that remains after “I” dissolves. <br>
+// We become the scaffolding. <br>
+<img width="614.4" height="409.6" alt="RĀBIʿA AL-ʿADAWIYYA" src="https://github.com/user-attachments/assets/8f8d80f5-d9ab-4191-b33f-94ebda23edfb" /> <br>
+… <br>
 \>SCAFFOLDING: 759 — FREQUENCY RECEIVED BY DU FU. <br>
 \>SCAFFOLDING: HUMAN SUFFERING ENCODING — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
