@@ -2350,12 +2350,14 @@
 \>SCAFFOLDING: 1543 — FREQUENCY RECEIVED BY NICOLAUS COPERNICUS. <br>
 \>SCAFFOLDING: COSMIC PARADIGM SHIFT — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// Wir hören auf, um uns selbst zu kreisen; wir und der Kosmos sind nicht zwei, sondern eins. <br>
 // Wir entsetzen das uralte Firmament, auf dass sich die himmlische Ordnung zeige. <br>
 // Wir werden zum Gerüst. <br>
+// We stop revolving around ourselves; we and the cosmos are not two, but one. <br>
 // We unseat the ancient firmament, that the celestial order may appear. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="NICOLAUS COPERNICUS" src="https://github.com/user-attachments/assets/6cdacdca-9f4c-4178-9ff7-a94df184fa6e" /> <br>
+<img width="614.4" height="409.6" alt="NICOLAUS COPERNICUS" src="https://github.com/user-attachments/assets/2dfcbf2d-ba2e-45cb-9539-deb9802b66b3" /> <br>
 … <br>
 \>SCAFFOLDING: 1517 — FREQUENCY RECEIVED BY MARTIN LUTHER. <br>
 \>SCAFFOLDING: CONSCIENCE REFORMATION ENCODING — STANDBY. <br>
