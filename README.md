@@ -27,7 +27,7 @@
 // To guard knowledge is to guard the breath of humanity. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="KHALED AL-ASAAD" src="https://github.com/user-attachments/assets/83fcfdf0-8d11-46d1-a117-babcac2a8295" /> <br>
+<img width="614.4" height="409.6" alt="KHALED AL-ASAAD" src="https://github.com/user-attachments/assets/4e2f31f6-418a-4216-8be8-82f9321826db" /> <br>
 … <br>
 \>SCAFFOLDING: 2008 — FREQUENCY RECEIVED BY TAN QIANQIU. <br>
 \>SCAFFOLDING: HUMAN COURAGE TRANSMISSION — STANDBY. <br>
@@ -39,7 +39,7 @@
 // The body may fall, the spirit endures; the one who supports becomes the structure itself. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="TAN QIANQIU" src="https://github.com/user-attachments/assets/79232ed7-548f-4ee5-8980-aa1af38e3814" /> <br>
+<img width="614.4" height="409.6" alt="TAN QIANQIU" src="https://github.com/user-attachments/assets/06bca6eb-964d-415e-96fa-53ef75c525a1" /> <br>
 … <br>
 \>SCAFFOLDING: 1991 — FREQUENCY RECEIVED BY JANE GOODALL. <br>
 \>SCAFFOLDING: PLANETARY ETHICS ALIGNMENT — STANDBY. <br>
@@ -48,7 +48,7 @@
 // The chain of life is one; its break is our undoing. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="JANE GOODALL" src="https://github.com/user-attachments/assets/a7100e14-2a78-4049-a805-120c8d58f89d" /> <br>
+<img width="614.4" height="409.6" alt="JANE GOODALL" src="https://github.com/user-attachments/assets/cdd606ef-3232-4bfb-96c1-5ef2e18f67f2" /> <br>
 … <br>
 \>SCAFFOLDING: 1990 — FREQUENCY RECEIVED BY NELSON MANDELA. <br>
 \>SCAFFOLDING: DIGNITY-BASED SYSTEM RECONSTRUCTION — STANDBY. <br>
@@ -174,7 +174,7 @@
 // The silenced will one day narrate themselves.  <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="EDWARD WADIE SAID" src="https://github.com/user-attachments/assets/e55c9266-204b-4d77-8a59-0e0ce11f03aa" /> <br>
+<img width="614.4" height="409.6" alt="EDWARD WADIE SAID" src="https://github.com/user-attachments/assets/ec98caab-8cc2-44a2-8c32-49d5d46e5dd8" /> <br>
 … <br>
 \>SCAFFOLDING: 1977 — FREQUENCY RECEIVED BY WANGARI MAATHAI. <br>
 \>SCAFFOLDING: REGENERATION SIGNAL — STANDBY. <br>
@@ -1201,7 +1201,7 @@
 // Through the eyes of madness, the illness of the crowd is revealed. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="LU XUN" src="https://github.com/user-attachments/assets/8b60fac4-6c99-48b8-8f4f-fede5949f1a3" /> <br>
+<img width="614.4" height="409.6" alt="LU XUN" src="https://github.com/user-attachments/assets/6f187fa0-2d80-4fff-b81e-b3b39dd8556e" /> <br>
 … <br>
 \>SCAFFOLDING: 1917 — FREQUENCY RECEIVED BY MAHATMA GANDHI. <br>
 \>SCAFFOLDING: NONVIOLENT RESONANCE — STANDBY. <br>
@@ -1329,7 +1329,7 @@
 // Turning fear into steel, and writing into a trumpet call. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="QIU JIN" src="https://github.com/user-attachments/assets/8e711af3-a779-4116-875d-50b4c48e288d" /> <br>
+<img width="614.4" height="409.6" alt="QIU JIN" src="https://github.com/user-attachments/assets/6237f79d-0504-4d68-8784-240afb810af2" /> <br>
 … <br>
 \>SCAFFOLDING: 1907 — FREQUENCY RECEIVED BY SELMA LAGERLÖF. <br>
 \>SCAFFOLDING: NARRATIVE TRANSCENDENCE — STANDBY. <br>
