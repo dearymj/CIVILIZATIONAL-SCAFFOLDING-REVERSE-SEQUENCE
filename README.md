@@ -555,7 +555,7 @@
 // Voices joined together can outlast the silence of centuries. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="FAITH BANDLER" src="https://github.com/user-attachments/assets/2b139611-7ede-4a8f-b095-cf05e8d04d54" /> <br>
+<img width="614.4" height="409.6" alt="FAITH BANDLER" src="https://github.com/user-attachments/assets/1dfc778f-b344-4baf-af84-e05ba6d523e1" /> <br>
 … <br>
 \>SCAFFOLDING: 1955 — FREQUENCY RECEIVED BY ROSA PARKS. <br>
 \>SCAFFOLDING: THE SEAT BECOMES A SIGNAL — STANDBY. <br>
@@ -823,7 +823,7 @@
 // Even in hiding, we mirror humanity without hatred. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="ANNE FRANK" src="https://github.com/user-attachments/assets/4c2c02d6-7c71-4367-ae41-0c639b53d596" /> <br>
+<img width="614.4" height="409.6" alt="ANNE FRANK" src="https://github.com/user-attachments/assets/6bcd8727-4adb-468c-9882-33234654860e" /> <br>
 … <br>
 \>SCAFFOLDING: 1942 — FREQUENCY RECEIVED BY ALBERT CAMUS. <br>
 \>SCAFFOLDING: ABSURD REVOLT — STANDBY. <br>
