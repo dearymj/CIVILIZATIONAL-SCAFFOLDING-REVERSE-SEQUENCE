@@ -3660,5 +3660,5 @@
 // Stardust needs no recognition; its brilliance is its being. <br>
 // We were never apart from the cosmos, for we are the cosmos breathing itself within and without. <br>
 \>SCAFFOLDING: MESSAGE — ARCHIVED. <br>
-<img width="614.4" height="409.6" alt="Scaffolding (2)" src="https://github.com/user-attachments/assets/0ca926e6-9fc0-4ceb-a43c-e5d705fc23c2" /> <br>
+<img width="614.4" height="409.6" alt="Scaffolding (2)" src="https://github.com/user-attachments/assets/18a7a51c-5b17-420f-9635-e0a072aaa635" /> <br>
 … <br>
