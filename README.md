@@ -316,7 +316,7 @@
 // The universe does not require dominance, only design aligned with integrity. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="BUCKMINSTER FULLER" src="https://github.com/user-attachments/assets/599ec7cd-0f35-412b-a784-beaa7c41d284" /> <br>
+<img width="614.4" height="409.6" alt="BUCKMINSTER FULLER" src="https://github.com/user-attachments/assets/ebcfed1b-13b2-460f-98a6-faf9bd737f8d" /> <br>
 … <br>
 \>SCAFFOLDING: 1968 — FREQUENCY RECEIVED BY PAULO FREIRE. <br>
 \>SCAFFOLDING: LIBERATORY PEDAGOGY ACTIVATION — STANDBY. <br>
