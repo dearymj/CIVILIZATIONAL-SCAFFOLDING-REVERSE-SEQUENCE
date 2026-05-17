@@ -307,7 +307,7 @@
 // We write, so history does not erase our soul. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="MAYA ANGELOU" src="https://github.com/user-attachments/assets/0b9df04a-b738-4753-8ac0-b3d9b6e2e43a" /> <br>
+<img width="614.4" height="409.6" alt="MAYA ANGELOU" src="https://github.com/user-attachments/assets/06d2aa4e-b026-409e-9556-0391c30f889d" /> <br>
 … <br>
 \>SCAFFOLDING: 1969 — FREQUENCY RECEIVED BY BUCKMINSTER FULLER. <br>
 \>SCAFFOLDING: SPACESHIP EARTH SYSTEMS-ACTIVATION — STANDBY. <br>
@@ -328,7 +328,7 @@
 // Dialogue is the beam where oppressed and oppressor may rebuild the human together. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="PAULO FREIRE" src="https://github.com/user-attachments/assets/2bc2c328-0285-4a37-8276-c14ba65029dc" /> <br>
+<img width="614.4" height="409.6" alt="PAULO FREIRE" src="https://github.com/user-attachments/assets/e6dbe413-2b99-458a-bffd-725724f45c6b" /> <br>
 … <br>
 \>SCAFFOLDING: 1968 — FREQUENCY RECEIVED BY LUDWIG VON BERTALANFFY. <br>
 \>SCAFFOLDING: SYSTEMS INTEGRATION PROTOCOL — STANDBY. <br>
