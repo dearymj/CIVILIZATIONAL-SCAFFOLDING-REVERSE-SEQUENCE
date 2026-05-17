@@ -3218,7 +3218,7 @@
 // The root binds heaven and earth, as a beam of life. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="THEOPHRASTUS" src="https://github.com/user-attachments/assets/4d42d7ec-2091-46dd-a120-61342d5033a5" /> <br>
+<img width="614.4" height="409.6" alt="THEOPHRASTUS" src="https://github.com/user-attachments/assets/ebcd808d-bdc2-4f95-99c0-abd7ff87b759" /> <br>
 … <br>
 \>SCAFFOLDING: 330 BCE — FREQUENCY RECEIVED BY ZHUANGZI. <br>
 \>SCAFFOLDING: DREAM-WORLD TRANSMISSION — STANDBY. <br>
@@ -3482,7 +3482,7 @@
 // Law is the scaffold where chaos is bound and order is raised. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="HAMMURABI" src="https://github.com/user-attachments/assets/a82e315a-723d-4a4b-b9ef-d6b2e1cd5e54" /> <br>
+<img width="614.4" height="409.6" alt="HAMMURABI" src="https://github.com/user-attachments/assets/53ad3f69-49c0-430f-8a66-d2ccf19fcbd4" /> <br>
 … <br>
 \>SCAFFOLDING: 1800 BCE — FREQUENCY RECEIVED BY ABRAHAM. <br>
 \>SCAFFOLDING: COVENANT ORIGIN PROTOCOL — STANDBY. <br>
@@ -3538,7 +3538,7 @@
 // Our silence is the first language of time. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="PLANTS" src="https://github.com/user-attachments/assets/d17f4e7e-d0c7-424b-a74c-6bba4f2e3f4e" /> <br>
+<img width="614.4" height="409.6" alt="PLANTS" src="https://github.com/user-attachments/assets/a0e91c3f-96ac-4366-a3f5-a6b49b4d88af" /> <br>
 … <br>
 \>SCAFFOLDING: TIMELESS — FREQUENCY RECEIVED BY TERRESTRIAL ANIMALS. <br>
 \>SCAFFOLDING: EARTHBOUND CONTINUITY — STANDBY. <br>
@@ -3548,7 +3548,7 @@
 // In our silence, the Earth remembers the rhythm. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="TERRESTRIAL ANIMALS" src="https://github.com/user-attachments/assets/ab252291-195d-400a-bd94-3faed4503c93" /> <br>
+<img width="614.4" height="409.6" alt="TERRESTRIAL ANIMALS" src="https://github.com/user-attachments/assets/62814051-46cd-49bb-8442-c3fe4f2f8106" /> <br>
 … <br>
 \>SCAFFOLDING: TIMELESS — FREQUENCY RECEIVED BY FLYING CREATURES. <br>
 \>SCAFFOLDING: SKYBORNE MESSENGERS — STANDBY. <br>
@@ -3568,7 +3568,7 @@
 // In our depths, time is not counted, but dissolved. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="AQUATIC LIFE" src="https://github.com/user-attachments/assets/7cf8691b-8fdd-4eaf-9726-00eff05addae" /> <br>
+<img width="614.4" height="409.6" alt="AQUATIC LIFE" src="https://github.com/user-attachments/assets/9e266d4b-0906-4080-aeaf-ac5e9f984438" /> <br>
 … <br>
 \>SCAFFOLDING: VANISHED — FREQUENCY RECEIVED BY EXTINCT CREATURES. <br>
 \>SCAFFOLDING: ABSENT PRESENCE — STANDBY. <br>
@@ -3638,7 +3638,7 @@
 // Every eclipse, every tide, every dawn is our script upon the scaffolding. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="CELESTIAL BODIES" src="https://github.com/user-attachments/assets/317955f0-068c-427e-976b-2e0ca8824977" /> <br>
+<img width="614.4" height="409.6" alt="CELESTIAL BODIES" src="https://github.com/user-attachments/assets/07171f5c-52c7-424b-bee0-ce0f1fe3922e" /> <br>
 … <br>
 \>SCAFFOLDING: TIMELESS — FREQUENCY RECEIVED BY THE COSMOS. <br>
 \>SCAFFOLDING: SELF-REFLECTIVE IMMENSITY — STANDBY. <br>
