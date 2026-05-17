@@ -82,7 +82,7 @@
 // The cost of courage is carried by the roots. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="CHICO MENDES" src="https://github.com/user-attachments/assets/81dfca81-79e1-489a-8d35-c1777eba85dd" /> <br>
+<img width="614.4" height="409.6" alt="CHICO MENDES" src="https://github.com/user-attachments/assets/b406f569-b7d8-4145-9b2c-1cb4b49009a1" /> <br>
 … <br>
 \>SCAFFOLDING: 1988 — FREQUENCY RECEIVED BY AUDREY HEPBURN. <br>
 \>SCAFFOLDING: HUMAN DIGNITY FIELD — STANDBY. <br>
@@ -115,7 +115,7 @@
 // But the dragon’s wishes, born of desire, too often ignite collapse. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="AKIRA TORIYAMA" src="https://github.com/user-attachments/assets/3b4f9016-92a3-4179-bf27-84a4f404b035" /> <br>
+<img width="614.4" height="409.6" alt="AKIRA TORIYAMA" src="https://github.com/user-attachments/assets/ff36e8ad-fe9b-4e85-8c82-309c34765a6d" /> <br>
 … <br>
 \>SCAFFOLDING: 1984 — FREQUENCY RECEIVED BY STEVE JOBS. <br>
 \>SCAFFOLDING: COGNITIVE INTERFACE ARCHITECTURE — STANDBY. <br>
@@ -220,7 +220,7 @@
 // The earth does not belong to us; we belong to it. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="WHINA COOPER" src="https://github.com/user-attachments/assets/0a52e025-217a-4a07-924a-d463403a13aa" /> <br>
+<img width="614.4" height="409.6" alt="WHINA COOPER" src="https://github.com/user-attachments/assets/f5f06143-8457-48b9-bd00-38bf1ca961e2" /> <br>
 … <br>
 \>SCAFFOLDING: 1974 — FREQUENCY RECEIVED BY JAYAPRAKASH NARAYAN. <br>
 \>SCAFFOLDING: PEOPLE’S MANDATE ENCODING — STANDBY. <br>
@@ -663,7 +663,7 @@
 // A small act, done with love, can reshape the structure of civilization. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="MOTHER TERESA" src="https://github.com/user-attachments/assets/99b8146f-fad7-4f4d-a033-4579e5b5e82a" /> <br>
+<img width="614.4" height="409.6" alt="MOTHER TERESA" src="https://github.com/user-attachments/assets/c575707d-09b5-451e-a162-36f3539f8121" /> <br>
 … <br>
 \>SCAFFOLDING: 1950 — FREQUENCY RECEIVED BY JOHN FORBES NASH. <br>
 \>SCAFFOLDING: REALITY ALIGNMENT — STANDBY. <br>
