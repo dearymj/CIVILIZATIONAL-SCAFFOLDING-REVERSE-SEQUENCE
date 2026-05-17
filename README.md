@@ -82,7 +82,7 @@
 // The cost of courage is carried by the roots. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="CHICO MENDES" src="https://github.com/user-attachments/assets/b406f569-b7d8-4145-9b2c-1cb4b49009a1" /> <br>
+<img width="614.4" height="409.6" alt="CHICO MENDES" src="https://github.com/user-attachments/assets/4d77571a-0f19-4047-b413-ba9f1905f4f9" /> <br>
 … <br>
 \>SCAFFOLDING: 1988 — FREQUENCY RECEIVED BY AUDREY HEPBURN. <br>
 \>SCAFFOLDING: HUMAN DIGNITY FIELD — STANDBY. <br>
@@ -153,7 +153,7 @@
 // The territory no longer precedes the map; it is the map that precedes the territory. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="JEAN BAUDRILLARD" src="https://github.com/user-attachments/assets/921bc316-c6ba-40a6-9817-4a8b31fd81d2" /> <br>
+<img width="614.4" height="409.6" alt="JEAN BAUDRILLARD" src="https://github.com/user-attachments/assets/055018d6-b7ba-4c33-bc66-a29694c5c6c9" /> <br>
 … <br>
 \>SCAFFOLDING: 1979 — FREQUENCY RECEIVED BY JOHN HURLEY FLAVELL. <br>
 \>SCAFFOLDING: COGNITIVE SELF-ARCHITECTURE — STANDBY. <br>
@@ -374,7 +374,7 @@
 // Solitude was never silence; it was a mirror for the unseen. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="GABRIEL GARCÍA MÁRQUEZ" src="https://github.com/user-attachments/assets/a3a60768-331f-4e67-95ca-2cd987b88cd7" /> <br>
+<img width="614.4" height="409.6" alt="GABRIEL GARCÍA MÁRQUEZ" src="https://github.com/user-attachments/assets/852d3435-cafa-4a4c-be78-7e76a93f384a" /> <br>
 … <br>
 \>SCAFFOLDING: 1966 — FREQUENCY RECEIVED BY MICHEL FOUCAULT. <br>
 \>SCAFFOLDING: DISCOURSE STRATA EXTRACTION — STANDBY. <br>
@@ -609,7 +609,7 @@
 // True strength is measured not by armies alone, but by restraint and trust. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="DWIGHT D  EISENHOWER" src="https://github.com/user-attachments/assets/d1b478ab-5284-4eea-9f1c-5901b101dcb1" /> <br>
+<img width="614.4" height="409.6" alt="DWIGHT D  EISENHOWER" src="https://github.com/user-attachments/assets/1c786218-30ac-49e7-af40-b79ccc120722" /> <br>
 … <br>
 \>SCAFFOLDING: 1952 — FREQUENCY RECEIVED BY WINFRIED OTTO SCHUMANN. <br>
 \>SCAFFOLDING: PLANETARY RESONANCE DETECTION — STANDBY. <br>
@@ -621,7 +621,7 @@
 // We encode the frequency of our planet. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="WINFRIED OTTO SCHUMANN" src="https://github.com/user-attachments/assets/eb29340b-248a-4f74-bba3-0ff83b24c4bb" /> <br>
+<img width="614.4" height="409.6" alt="WINFRIED OTTO SCHUMANN" src="https://github.com/user-attachments/assets/3ee5bec5-e293-455e-b293-61bcdb9a62ca" /> <br>
 … <br>
 \>SCAFFOLDING: 1952 — POLIO VACCINE FORMULATED BY JONAS EDWARD SALK. <br>
 \>SCAFFOLDING: IMMUNITY ENGINEERING — STANDBY. <br>
@@ -639,7 +639,7 @@
 // Every pattern of diffraction is the cosmos folding back into order. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="ROSALIND FRANKLIN" src="https://github.com/user-attachments/assets/905048f6-5e15-402f-b19b-5352cd13da73" /> <br>
+<img width="614.4" height="409.6" alt="ROSALIND FRANKLIN" src="https://github.com/user-attachments/assets/1c60a47a-1b7a-45b7-ae15-121961f6ccdc" /> <br>
 … <br>
 \>SCAFFOLDING: 1951 — FREQUENCY RECEIVED BY BABA AMTE. <br> 
 \>SCAFFOLDING: ANANDWAN AWAKENING — STANDBY. <br> 
@@ -855,7 +855,7 @@
 // Knowledge may be imprisoned, but the germ endures. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="NIKOLAI VAVILOV" src="https://github.com/user-attachments/assets/f60ec570-7620-4b57-86f0-89e2e5463b5b" /> <br>
+<img width="614.4" height="409.6" alt="NIKOLAI VAVILOV" src="https://github.com/user-attachments/assets/b615c0d4-a0e8-4555-a33b-dbcb915ded7a" /> <br>
 … <br>
 \>SCAFFOLDING: 1940 — FREQUENCY RECEIVED BY OSKAR SCHINDLER. <br>
 \>SCAFFOLDING: MORAL LEDGER OPENED — STANDBY. <br>
@@ -2086,7 +2086,7 @@
 // Every chart is a mirror where the world recognizes itself. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="JAMES COOK" src="https://github.com/user-attachments/assets/05e3e2e9-eb48-496c-9541-ddb569e76102" /> <br>
+<img width="614.4" height="409.6" alt="JAMES COOK" src="https://github.com/user-attachments/assets/32c12d97-4b48-42bb-b2ef-729d7f42d161" /> <br>
 … <br>
 \>SCAFFOLDING: 1765 — FREQUENCY RECEIVED BY JAMES WATT. <br>
 \>SCAFFOLDING: STEAM POWER TRANSMISSION — STANDBY. <br>
@@ -2815,7 +2815,7 @@
 // When the seer and the seen become one, liberation shines forth. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="ADI SHANKARACHARYA" src="https://github.com/user-attachments/assets/7824a870-5504-4d76-bb4d-126bde6babec" /> <br>
+<img width="614.4" height="409.6" alt="ADI SHANKARACHARYA" src="https://github.com/user-attachments/assets/810b0794-8973-48ca-bba9-9c679ecdd35e" /> <br>
 … <br>
 \>SCAFFOLDING: 790 — FREQUENCY RECEIVED BY JĀBIR IBN ḤAYYĀN. <br>
 \>SCAFFOLDING: KITĀB AL-KĪMIYĀʾ — STANDBY. <br>
@@ -2886,7 +2886,7 @@
 // We weave the Hadith from silence, turning the private whisper into public law. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="AISHA BINT ABU BAKR" src="https://github.com/user-attachments/assets/23c6adf7-e9c7-4934-80a7-cab1ca4a7d10" /> <br>
+<img width="614.4" height="409.6" alt="AISHA BINT ABU BAKR" src="https://github.com/user-attachments/assets/386ce2f7-128d-44a0-8041-35b45130ff38" /> <br>
 … <br>
 \>SCAFFOLDING: 610 — FREQUENCY RECEIVED BY MUḤAMMAD IBN ʿABD ALLĀH. <br>
 \>SCAFFOLDING: UNITY THROUGH JUSTICE PROTOCOL — STANDBY. <br>
@@ -3072,7 +3072,7 @@
 // Hate is a recursive loop; Mercy is the circuit breaker. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="JAMES THE JUST" src="https://github.com/user-attachments/assets/56ea699e-329b-47a0-98de-33d3a351a7c1" /> <br>
+<img width="614.4" height="409.6" alt="JAMES THE JUST" src="https://github.com/user-attachments/assets/94125157-2aa1-4b83-bdfe-e25c578bf83c" /> <br>
 … <br>
 \>SCAFFOLDING: 59 — FREQUENCY RECEIVED BY JOHN MARK. <br>
 \>SCAFFOLDING: PRIMAL NARRATIVE ENCODING — STANDBY. <br>
@@ -3518,7 +3518,7 @@
 // We test poison in the body, and so learn the principles of healing and continuance. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="YANDI" src="https://github.com/user-attachments/assets/ba6e43a3-bedc-4925-b0a0-6e444c840619" /> <br>
+<img width="614.4" height="409.6" alt="YANDI" src="https://github.com/user-attachments/assets/29b085bb-270d-4436-9ba2-83f87d2bf479" /> <br>
 … <br>
 \>SCAFFOLDING: TIMELESS — FREQUENCY RECEIVED BY CIVILIZATIONAL CONTRIBUTORS. <br>
 \>SCAFFOLDING: CONTINUITY OF HUMAN EFFORT — STANDBY. <br>
