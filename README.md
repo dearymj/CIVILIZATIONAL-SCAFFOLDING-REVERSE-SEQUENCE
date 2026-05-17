@@ -307,7 +307,7 @@
 // We write, so history does not erase our soul. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="MAYA ANGELOU" src="https://github.com/user-attachments/assets/06d2aa4e-b026-409e-9556-0391c30f889d" /> <br>
+<img width="614.4" height="409.6" alt="MAYA ANGELOU" src="https://github.com/user-attachments/assets/a4e2577f-0b45-4ed5-b28f-4898ee2d3af2" /> <br>
 … <br>
 \>SCAFFOLDING: 1969 — FREQUENCY RECEIVED BY BUCKMINSTER FULLER. <br>
 \>SCAFFOLDING: SPACESHIP EARTH SYSTEMS-ACTIVATION — STANDBY. <br>
@@ -386,7 +386,7 @@
 // Knowledge is an excavation, not a possession. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="MICHEL FOUCAULT" src="https://github.com/user-attachments/assets/7db386f4-0d72-4d2c-b741-5e9d0a357b0d" /> <br>
+<img width="614.4" height="409.6" alt="MICHEL FOUCAULT" src="https://github.com/user-attachments/assets/ba2a5c85-f66d-47cf-a5a6-ed4bc7c9a684" /> <br>
 … <br>
 \>SCAFFOLDING: 1966 — FREQUENCY RECEIVED BY BIAN ZHONGYUN. <br>
 \>SCAFFOLDING: DIGNITY IN SILENCE — STANDBY. <br>
@@ -1992,7 +1992,7 @@
 // In every motif breathes resistance against silence. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="LUDWIG VAN BEETHOVEN" src="https://github.com/user-attachments/assets/35895778-3c23-49e0-aff8-b4d8f4a500a7" /> <br>
+<img width="614.4" height="409.6" alt="LUDWIG VAN BEETHOVEN" src="https://github.com/user-attachments/assets/33008238-2fd1-4266-b920-161a02f9c868" /> <br>
 … <br>
 \>SCAFFOLDING: 1807 — FREQUENCY RECEIVED BY GEORG WILHELM FRIEDRICH HEGEL. <br>
 \>SCAFFOLDING: SPIRITUAL HISTORY TRANSMISSION — STANDBY. <br>
