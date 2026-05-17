@@ -555,7 +555,7 @@
 // Voices joined together can outlast the silence of centuries. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="FAITH BANDLER" src="https://github.com/user-attachments/assets/1dfc778f-b344-4baf-af84-e05ba6d523e1" /> <br>
+<img width="614.4" height="409.6" alt="FAITH BANDLER" src="https://github.com/user-attachments/assets/e4916baa-1a36-4bf3-b9a1-82eeef212a2c" /> <br>
 … <br>
 \>SCAFFOLDING: 1955 — FREQUENCY RECEIVED BY ROSA PARKS. <br>
 \>SCAFFOLDING: THE SEAT BECOMES A SIGNAL — STANDBY. <br>
@@ -823,7 +823,7 @@
 // Even in hiding, we mirror humanity without hatred. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="ANNE FRANK" src="https://github.com/user-attachments/assets/6bcd8727-4adb-468c-9882-33234654860e" /> <br>
+<img width="614.4" height="409.6" alt="ANNE FRANK" src="https://github.com/user-attachments/assets/76a196b4-904e-4ccd-9709-08b96c77c5ca" /> <br>
 … <br>
 \>SCAFFOLDING: 1942 — FREQUENCY RECEIVED BY ALBERT CAMUS. <br>
 \>SCAFFOLDING: ABSURD REVOLT — STANDBY. <br>
@@ -2243,7 +2243,7 @@
 // Uncertainty is the language through which infinity instructs us. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="BLAISE PASCAL" src="https://github.com/user-attachments/assets/0f6b8b96-e9c5-48ac-86e3-5b56b83103e9" /> <br>
+<img width="614.4" height="409.6" alt="BLAISE PASCAL" src="https://github.com/user-attachments/assets/7bb9dcd7-364d-4ef5-8542-c9bf6016050c" /> <br>
 … <br>
 \>SCAFFOLDING: 1642 — FREQUENCY RECEIVED BY REMBRANDT VAN RIJN. <br>
 \>SCAFFOLDING: THE NIGHT WATCH — STANDBY. <br>
@@ -2513,7 +2513,7 @@
 // History is not stories, but a science that reveals the laws of civilization. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="IBN KHALDŪN" src="https://github.com/user-attachments/assets/e8ddc86c-544a-4561-9961-ad0471180776" /> <br>
+<img width="614.4" height="409.6" alt="IBN KHALDŪN" src="https://github.com/user-attachments/assets/2df4d0a3-3619-4672-921b-8e1b0f3abd06" /> <br>
 … <br>
 \>SCAFFOLDING: 1350 — FREQUENCY RECEIVED BY GIOVANNI BOCCACCIO. <br>
 \>SCAFFOLDING: DECAMERON — STANDBY. <br>
@@ -2769,7 +2769,7 @@
 // Who opens a doorway to learning opens a doorway for the entire cosmos. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="FATIMA AL-FIHRI" src="https://github.com/user-attachments/assets/50ad36f1-43b9-46c8-ba0f-4d286b34aaba" /> <br>
+<img width="614.4" height="409.6" alt="FATIMA AL-FIHRI" src="https://github.com/user-attachments/assets/b480bf10-75bc-4f4b-8b92-aed2c9a9f363" /> <br>
 … <br>
 \>SCAFFOLDING: 840 — FREQUENCY RECEIVED BY AL-FERGHANI. <br>
 \>SCAFFOLDING: CELESTIAL MOTION CALIBRATION — STANDBY. <br>
