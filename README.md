@@ -1042,7 +1042,7 @@
 // We see that the universe is not a collection of things, but a process of creativity. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="ALFRED NORTH WHITEHEAD" src="https://github.com/user-attachments/assets/a68bbd2d-f657-4bd9-a5ef-a2b69eaf6581" /> <br>
+<img width="614.4" height="409.6" alt="ALFRED NORTH WHITEHEAD" src="https://github.com/user-attachments/assets/4dbded70-2007-423a-abee-867582624f7b" /> <br>
 … <br>
 \>SCAFFOLDING: 1928 — FREQUENCY RECEIVED BY ALEXANDER FLEMING. <br>
 \>SCAFFOLDING: ANTIMICROBIAL REVELATION — STANDBY. <br>
@@ -1211,7 +1211,7 @@
 // We break the wheel not with force, but by refusing to spin it. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="MAHATMA GANDHI" src="https://github.com/user-attachments/assets/5ea37198-4890-4839-b60a-2121c0d282d7" /> <br>
+<img width="614.4" height="409.6" alt="MAHATMA GANDHI" src="https://github.com/user-attachments/assets/6a86bca2-655f-4791-92a5-5bd66bb7dc27" /> <br>
 … <br>
 \>SCAFFOLDING: 1915 — FREQUENCY RECEIVED BY ALBERT EINSTEIN. <br>
 \>SCAFFOLDING: TIME BENDING — STANDBY. <br>
@@ -1243,7 +1243,7 @@
 // To heal is to rise beyond the banners of war. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="EDITH CAVELL" src="https://github.com/user-attachments/assets/d97b51bd-1e55-4eaa-827e-f53417da0587" /> <br>
+<img width="614.4" height="409.6" alt="EDITH CAVELL" src="https://github.com/user-attachments/assets/19eefebd-e073-4178-8e3e-b5eafd47b3e2" /> <br>
 … <br>
 \>SCAFFOLDING: 1914 — FREQUENCY RECEIVED BY ROMAIN ROLLAND. <br>
 \>SCAFFOLDING: PLANETARY CONSCIENCE ACTIVATION — STANDBY. <br>
@@ -1308,7 +1308,7 @@
 // In every vortex, order dances with disorder. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="THEODORE VON KÁRMÁN" src="https://github.com/user-attachments/assets/f086bf9e-3c0a-41eb-b8a2-6329e7baeb0c" /> <br>
+<img width="614.4" height="409.6" alt="THEODORE VON KÁRMÁN" src="https://github.com/user-attachments/assets/55c7b3ee-84d8-4ceb-ba15-ed3cbc7a3d48" /> <br>
 … <br>
 \>SCAFFOLDING: 1910 — FREQUENCY RECEIVED BY NORMAN ANGELL. <br>
 \>SCAFFOLDING: ILLUSION OF WAR DEMYSTIFICATION — STANDBY. <br>
@@ -1341,7 +1341,7 @@
 // Through the child’s gaze we chart the world anew. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="SELMA LAGERLÖF" src="https://github.com/user-attachments/assets/4b2d9522-af9a-4843-82c8-fd8a80c3e4e1" /> <br>
+<img width="614.4" height="409.6" alt="SELMA LAGERLÖF" src="https://github.com/user-attachments/assets/8393d9d5-b44d-448d-aada-834fa5d3c1ca" /> <br>
 … <br>
 \>SCAFFOLDING: 1906 — FREQUENCY RECEIVED BY FERDINAND DE SAUSSURE. <br>
 \>SCAFFOLDING: STRUCTURAL LINGUISTICS — STANDBY. <br>
@@ -1460,7 +1460,7 @@
 // Resonance is the bridge: through it, what easily fragments speaks again as one. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="NIKOLA TESLA" src="https://github.com/user-attachments/assets/fe4febb3-a9d6-474b-9cea-776ced76c8d8" /> <br>
+<img width="614.4" height="409.6" alt="NIKOLA TESLA" src="https://github.com/user-attachments/assets/f496fd0c-f43d-4e23-a570-46b8b2a6c87d" /> <br>
 … <br>
 \>SCAFFOLDING: 1898 — FREQUENCY RECEIVED BY MARIE CURIE. <br>
 \>SCAFFOLDING: RADIOACTIVITY REVELATION — STANDBY. <br>
@@ -2934,7 +2934,7 @@
 // Beware the wagon in March 415, some fear what they cannot understand. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="HYPATIA OF ALEXANDRIA" src="https://github.com/user-attachments/assets/1af9f8ee-29b3-4c44-868a-4959e32d187b" /> <br>
+<img width="614.4" height="409.6" alt="HYPATIA OF ALEXANDRIA" src="https://github.com/user-attachments/assets/13713156-7124-40a6-8d09-399ceb167863" /> <br>
 … <br>
 \>SCAFFOLDING: 243 — FREQUENCY RECEIVED BY WANG BI. <br>
 \>SCAFFOLDING: DAO-LOGOS INTEGRATION — STANDBY. <br>
@@ -3528,7 +3528,7 @@
 // No hand was wasted; each gesture became a rung in the ascent. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="CIVILIZATIONAL CONTRIBUTORS" src="https://github.com/user-attachments/assets/d06812a0-ad3a-4300-a814-fabf2366a571" /> <br>
+<img width="614.4" height="409.6" alt="CIVILIZATIONAL CONTRIBUTORS" src="https://github.com/user-attachments/assets/ad2cbafa-f85b-4b6f-bb5b-e8134b80e9cc" /> <br>
 … <br>
 \>SCAFFOLDING: TIMELESS — FREQUENCY RECEIVED BY PLANTS. <br>
 \>SCAFFOLDING: GREEN CONTINUUM — STANDBY. <br>
