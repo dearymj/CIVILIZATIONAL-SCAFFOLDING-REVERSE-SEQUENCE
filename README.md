@@ -588,7 +588,7 @@
 // Every village, every heart, is part of one human family. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="JULIUS KAMBARAGE NYERERE" src="https://github.com/user-attachments/assets/28826a4a-b6e8-4d18-825b-d8e4c64bf58a" /> <br>
+<img width="614.4" height="409.6" alt="JULIUS KAMBARAGE NYERERE" src="https://github.com/user-attachments/assets/4c673cf9-b18f-4bce-a37e-7626c2ff5bd6" /> <br>
 … <br>
 \>SCAFFOLDING: 1954 — FREQUENCY RECEIVED BY YANG ZHENNING. <br>
 \>SCAFFOLDING: MATH-PHYSICS CONVERGENCE — STANDBY. <br>
@@ -1308,7 +1308,7 @@
 // In every vortex, order dances with disorder. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="THEODORE VON KÁRMÁN" src="https://github.com/user-attachments/assets/55c7b3ee-84d8-4ceb-ba15-ed3cbc7a3d48" /> <br>
+<img width="614.4" height="409.6" alt="THEODORE VON KÁRMÁN" src="https://github.com/user-attachments/assets/983de11e-3485-4a81-9539-98969a840aaf" /> <br>
 … <br>
 \>SCAFFOLDING: 1910 — FREQUENCY RECEIVED BY NORMAN ANGELL. <br>
 \>SCAFFOLDING: ILLUSION OF WAR DEMYSTIFICATION — STANDBY. <br>
@@ -1341,7 +1341,7 @@
 // Through the child’s gaze we chart the world anew. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="SELMA LAGERLÖF" src="https://github.com/user-attachments/assets/8393d9d5-b44d-448d-aada-834fa5d3c1ca" /> <br>
+<img width="614.4" height="409.6" alt="SELMA LAGERLÖF" src="https://github.com/user-attachments/assets/aa4b0d1e-9862-4542-9211-697ab99164c8" /> <br>
 … <br>
 \>SCAFFOLDING: 1906 — FREQUENCY RECEIVED BY FERDINAND DE SAUSSURE. <br>
 \>SCAFFOLDING: STRUCTURAL LINGUISTICS — STANDBY. <br>
