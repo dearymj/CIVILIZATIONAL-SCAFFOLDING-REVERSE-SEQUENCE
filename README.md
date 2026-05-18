@@ -1024,7 +1024,7 @@
 // When the mind is free of fear and belief, it meets life without distortion. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="JIDDU KRISHNAMURTI" src="https://github.com/user-attachments/assets/458121e0-5df8-45f0-b599-a99c6b5c74ab" /> <br>
+<img width="614.4" height="409.6" alt="JIDDU KRISHNAMURTI" src="https://github.com/user-attachments/assets/645a6e6f-7559-4eb3-9dea-74ed6c2ae113" /> <br>
 … <br>
 \>SCAFFOLDING: 1929 — FREQUENCY RECEIVED BY EDWIN HUBBLE. <br>
 \>SCAFFOLDING: COSMIC EXPANSION REVELATION — STANDBY. <br>
@@ -1643,7 +1643,7 @@
 // The table expands, but coherence remains. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="DMITRI MENDELEEV" src="https://github.com/user-attachments/assets/d296b973-7561-4428-ab12-8612e70d3116" /> <br>
+<img width="614.4" height="409.6" alt="DMITRI MENDELEEV" src="https://github.com/user-attachments/assets/5acbaa42-6913-43fd-81a7-09e926644b0e" /> <br>
 … <br>
 \>SCAFFOLDING: 1869 — FREQUENCY RECEIVED BY EMILY WARREN ROEBLING. <br>
 \>SCAFFOLDING: BRIDGE-BUILDING RESONANCE — STANDBY. <br>
@@ -1652,7 +1652,7 @@
 // A bridge is not built to be seen, but to carry life across. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="EMILY WARREN ROEBLING" src="https://github.com/user-attachments/assets/d790fdc1-bee3-425b-be32-d733f055d876" /> <br>
+<img width="614.4" height="409.6" alt="EMILY WARREN ROEBLING" src="https://github.com/user-attachments/assets/d5e5cb87-ee24-42da-b434-117a94a006b3" /> <br>
 … <br>
 \>SCAFFOLDING: 1867 — FREQUENCY RECEIVED BY KARL MARX. <br>
 \>SCAFFOLDING: STRUCTURAL CONTRADICTION DECODING — STANDBY. <br>
