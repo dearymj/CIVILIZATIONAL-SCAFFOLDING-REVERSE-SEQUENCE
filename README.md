@@ -2312,7 +2312,7 @@
 // We do not fear suppression; it is only the passage of fire. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="GIORDANO BRUNO" src="https://github.com/user-attachments/assets/22187b7d-4771-496a-9c63-0cbf2650f077" /> <br>
+<img width="614.4" height="409.6" alt="GIORDANO BRUNO" src="https://github.com/user-attachments/assets/00573e4f-2df2-4534-8cc8-aabb24600f06" /> <br>
 … <br>
 \>SCAFFOLDING: 1599 — FREQUENCY RECEIVED BY WILLIAM SHAKESPEARE. <br>
 \>SCAFFOLDING: EXISTENTIAL DIALECTIC — STANDBY. <br>
@@ -2663,7 +2663,7 @@
 // To wander freely with Heaven and Earth is to see sorrow and joy dissolve into dust. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="SU SHI" src="https://github.com/user-attachments/assets/34f97da5-0a83-42df-b26e-a14902f01ba0" /> <br>
+<img width="614.4" height="409.6" alt="SU SHI" src="https://github.com/user-attachments/assets/f7347cba-0f4d-4967-8b36-f118c7724e70" /> <br>
 … <br>
 \>SCAFFOLDING: 1074 — FREQUENCY RECEIVED BY WANG ANSHI. <br>
 \>SCAFFOLDING: SOCIAL EQUILIBRIUM REFORMATION — STANDBY. <br>
@@ -2733,7 +2733,7 @@
 // Between me and You, there is only me. Take away the me, so only You remain. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="MANSUR AL-HALLAJ" src="https://github.com/user-attachments/assets/90503f0c-3d13-4194-a444-9b78b4f896ab" /> <br>
+<img width="614.4" height="409.6" alt="MANSUR AL-HALLAJ" src="https://github.com/user-attachments/assets/3cb03a5f-6bc0-497b-a492-51c696c72270" /> <br>
 … <br>
 \>SCAFFOLDING: 920 — FREQUENCY RECEIVED BY ABŪ NAṢR AL-FĀRĀBĪ. <br>
 \>SCAFFOLDING: HARMONIC COSMOS ENCODING — STANDBY. <br>
