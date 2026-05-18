@@ -242,7 +242,7 @@
 // One seed can silence a billion empty stomachs. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="YUAN LONGPING" src="https://github.com/user-attachments/assets/f8bb96e8-e999-43ef-9910-7bd11ea1ba36" /> <br>
+<img width="614.4" height="409.6" alt="YUAN LONGPING" src="https://github.com/user-attachments/assets/7ae8d509-63ed-4c14-8381-a57c7fb9143d" /> <br>
 … <br>
 \>SCAFFOLDING: 1973 — FREQUENCY RECEIVED BY CARL SAGAN. <br>
 \>SCAFFOLDING: COSMIC CONNECTION ENCODING — STANDBY. <br>
@@ -925,7 +925,7 @@
 // Strength is not in the arm, but in the radiance of will. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="JOSEFA LLANES ESCODA" src="https://github.com/user-attachments/assets/c0638b60-04d7-4c92-a7c3-4702f056884f" /> <br>
+<img width="614.4" height="409.6" alt="JOSEFA LLANES ESCODA" src="https://github.com/user-attachments/assets/a9f40a00-18a2-491c-be0b-0a03fdc4e000" /> <br>
 … <br>
 \>SCAFFOLDING: 1936 — FREQUENCY RECEIVED BY JOHN MAYNARD KEYNES. <br>
 \>SCAFFOLDING: GENERAL THEORY — STANDBY. <br>
@@ -1024,7 +1024,7 @@
 // When the mind is free of fear and belief, it meets life without distortion. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="JIDDU KRISHNAMURTI" src="https://github.com/user-attachments/assets/27f5868a-499f-4fe4-90a5-cc562585465b" /> <br>
+<img width="614.4" height="409.6" alt="JIDDU KRISHNAMURTI" src="https://github.com/user-attachments/assets/458121e0-5df8-45f0-b599-a99c6b5c74ab" /> <br>
 … <br>
 \>SCAFFOLDING: 1929 — FREQUENCY RECEIVED BY EDWIN HUBBLE. <br>
 \>SCAFFOLDING: COSMIC EXPANSION REVELATION — STANDBY. <br>
@@ -1472,7 +1472,7 @@
 // Lifeforce dissolves into radiation, but structure remembers the sacrifice. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="MARIE CURIE" src="https://github.com/user-attachments/assets/b67a0239-dac0-4758-b156-763c0c26232f" /> <br>
+<img width="614.4" height="409.6" alt="MARIE CURIE" src="https://github.com/user-attachments/assets/f59c9834-7cc1-480e-8dff-3dbe3e33b344" /> <br>
 … <br>
 \>SCAFFOLDING: 1898 — FREQUENCY RECEIVED BY ANTON CHEKHOV. <br>
 \>SCAFFOLDING: THE SEAGULL AT THE MOSCOW ART THEATRE — STANDBY. <br>
@@ -1889,7 +1889,7 @@
 // The past sleeps in silence, awaiting hands to uncover its voice. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="MARY ANNING" src="https://github.com/user-attachments/assets/3ba1ca76-3ebe-4f36-9bfa-7b89831ff741" /> <br>
+<img width="614.4" height="409.6" alt="MARY ANNING" src="https://github.com/user-attachments/assets/9347d258-c090-4c8f-a7ef-1248f74ddaa2" /> <br>
 … <br>
 \>SCAFFOLDING: 1822 — FREQUENCY RECEIVED BY JOSEPH FOURIER. <br>
 \>SCAFFOLDING: WAVE DECOMPOSITION FRAMEWORK — STANDBY. <br>
