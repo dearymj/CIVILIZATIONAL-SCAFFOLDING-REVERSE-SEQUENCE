@@ -1715,7 +1715,7 @@
 // To reveal the climate is to reveal the future of humankind. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="EUNICE FOOTE" src="https://github.com/user-attachments/assets/d6bdb456-c489-4767-a858-09912aa733de" /> <br>
+<img width="614.4" height="409.6" alt="EUNICE FOOTE" src="https://github.com/user-attachments/assets/caa75520-067f-4f26-876f-ffa922043680" /> <br>
 … <br>
 \>SCAFFOLDING: 1855 — FREQUENCY RECEIVED BY FLORENCE NIGHTINGALE. <br>
 \>SCAFFOLDING: HEALING LIGHT ENCODING — STANDBY. <br>
@@ -1724,7 +1724,7 @@
 // Every life tended is a structure restored to the whole. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="FLORENCE NIGHTINGALE" src="https://github.com/user-attachments/assets/ca00ad15-433b-4a7a-9018-1f598a34cf38" /> <br>
+<img width="614.4" height="409.6" alt="FLORENCE NIGHTINGALE" src="https://github.com/user-attachments/assets/474befbc-eba2-4df6-a685-064c46724abe" /> <br>
 … <br>
 \>SCAFFOLDING: 1854 — FREQUENCY RECEIVED BY BERNHARD RIEMANN.  
 \>SCAFFOLDING: FOUNDATIONS OF GEOMETRY — STANDBY.  
@@ -1776,7 +1776,7 @@
 // Each note is a thread that binds survival to beauty. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="CLARA SCHUMANN" src="https://github.com/user-attachments/assets/7e7d1466-1932-4cb9-aa24-699b32eeb913" /> <br>
+<img width="614.4" height="409.6" alt="CLARA SCHUMANN" src="https://github.com/user-attachments/assets/6fd4abbb-0551-4384-ade5-dcbe8720908c" /> <br>
 … <br>
 \>SCAFFOLDING: 1845 — FREQUENCY RECEIVED BY FYODOR DOSTOEVSKY. <br>
 \>SCAFFOLDING: HUMAN SUFFERING MIRROR — STANDBY. <br>
