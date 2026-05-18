@@ -1042,7 +1042,7 @@
 // We see that the universe is not a collection of things, but a process of creativity. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="ALFRED NORTH WHITEHEAD" src="https://github.com/user-attachments/assets/a9004ad0-c48f-4a0c-8806-dbf541ec2993" /> <br>
+<img width="614.4" height="409.6" alt="ALFRED NORTH WHITEHEAD" src="https://github.com/user-attachments/assets/a68bbd2d-f657-4bd9-a5ef-a2b69eaf6581" /> <br>
 … <br>
 \>SCAFFOLDING: 1928 — FREQUENCY RECEIVED BY ALEXANDER FLEMING. <br>
 \>SCAFFOLDING: ANTIMICROBIAL REVELATION — STANDBY. <br>
