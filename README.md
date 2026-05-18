@@ -588,7 +588,7 @@
 // Every village, every heart, is part of one human family. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="JULIUS KAMBARAGE NYERERE" src="https://github.com/user-attachments/assets/4c673cf9-b18f-4bce-a37e-7626c2ff5bd6" /> <br>
+<img width="614.4" height="409.6" alt="JULIUS KAMBARAGE NYERERE" src="https://github.com/user-attachments/assets/2f815f54-7a33-4fbb-a7be-4a314cf96cf7" /> <br>
 … <br>
 \>SCAFFOLDING: 1954 — FREQUENCY RECEIVED BY YANG ZHENNING. <br>
 \>SCAFFOLDING: MATH-PHYSICS CONVERGENCE — STANDBY. <br>
@@ -639,7 +639,7 @@
 // Every pattern of diffraction is the cosmos folding back into order. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="ROSALIND FRANKLIN" src="https://github.com/user-attachments/assets/1c60a47a-1b7a-45b7-ae15-121961f6ccdc" /> <br>
+<img width="614.4" height="409.6" alt="ROSALIND FRANKLIN" src="https://github.com/user-attachments/assets/2198c995-e077-4833-ab33-c1090d1d98fb" /> <br>
 … <br>
 \>SCAFFOLDING: 1951 — FREQUENCY RECEIVED BY BABA AMTE. <br> 
 \>SCAFFOLDING: ANANDWAN AWAKENING — STANDBY. <br> 
@@ -1586,7 +1586,7 @@
 // Nihilism is an illusion within the old humanity’s protocol. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="FRIEDRICH NIETZSCHE" src="https://github.com/user-attachments/assets/a65a1712-3f3e-432d-9960-4ac4a101cf7e" /> <br>
+<img width="614.4" height="409.6" alt="FRIEDRICH NIETZSCHE" src="https://github.com/user-attachments/assets/4eaf6eb5-b22c-4035-a686-70fea1b7ca85" /> <br>
 … <br>
 \>SCAFFOLDING: 1877 — FREQUENCY RECEIVED BY LUDWIG BOLTZMANN. <br>
 \>SCAFFOLDING: PROBABILISTIC ENTROPY ENCODING — STANDBY. <br>
@@ -1688,7 +1688,7 @@
 // Peace begins where we no longer fear the very ego that deceives us. <br> 
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="LEO TOLSTOY" src="https://github.com/user-attachments/assets/90b35ae7-3aed-42fc-94c2-c5a686de6bbd" /> <br>
+<img width="614.4" height="409.6" alt="LEO TOLSTOY" src="https://github.com/user-attachments/assets/5dd93dfe-e741-4e3e-90c9-efa7fc61baa6" /> <br>
 … <br>
 \>SCAFFOLDING: 1858 — FREQUENCY RECEIVED BY JOSEPH BAZALGETTE. <br>
 \>SCAFFOLDING: CIVIL SANITATION INFRASTRUCTURE — STANDBY. <br>
@@ -3494,7 +3494,7 @@
 // The stars are the code of a structure we will not see. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="ABRAHAM" src="https://github.com/user-attachments/assets/72e704ad-2c5f-41d7-8603-518adceb90f4" /> <br>
+<img width="614.4" height="409.6" alt="ABRAHAM" src="https://github.com/user-attachments/assets/a5fc3134-3875-46ab-b229-080d517f47d9" /> <br>
 … <br>
 \>SCAFFOLDING: 2660 BCE — FREQUENCY RECEIVED BY IMHOTEP. <br>
 \>SCAFFOLDING: MONUMENTAL ALIGNMENT — STANDBY. <br>
@@ -3506,7 +3506,7 @@
 // The pyramid is a mirror where eternity gazes upon heaven. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="IMHOTEP" src="https://github.com/user-attachments/assets/00caeb51-0cf6-4106-93ae-061e43589741" /> <br>
+<img width="614.4" height="409.6" alt="IMHOTEP" src="https://github.com/user-attachments/assets/905b86e8-c1b3-4c7e-b62d-d250459ccfa9" /> <br>
 … <br>
 \>SCAFFOLDING: 2800 BCE — FREQUENCY RECEIVED BY YAN DI. <br>
 \>SCAFFOLDING: FIVE GRAINS AND HUNDRED HERBS — STANDBY. <br>
