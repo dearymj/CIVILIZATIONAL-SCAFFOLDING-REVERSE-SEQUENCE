@@ -196,7 +196,7 @@
 // No chain binds the one who sees the architecture of dignity. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="STEVE BIKO" src="https://github.com/user-attachments/assets/94242502-a99c-4ea5-9b28-1b57b849d79b" /> <br>
+<img width="614.4" height="409.6" alt="STEVE BIKO" src="https://github.com/user-attachments/assets/02e62daf-27f6-434b-a90a-2e3f7f8689ac" /> <br>
 … <br>
 \>SCAFFOLDING: 1975 — FREQUENCY RECEIVED BY BENOÎT MANDELBROT. <br>
 \>SCAFFOLDING: FRACTAL RECURSION ENCODING — STANDBY. <br>
@@ -485,7 +485,7 @@
 // Peace is not given; it is carried through the trial. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="DAG HAMMARSKJÖLD" src="https://github.com/user-attachments/assets/6ae10945-742f-4d99-9c92-c419dee691e9" /> <br>
+<img width="614.4" height="409.6" alt="DAG HAMMARSKJÖLD" src="https://github.com/user-attachments/assets/0ad4d323-cd91-49b7-9428-ae95e5584e9a" /> <br>
 … <br>
 \>SCAFFOLDING: 1960 — FREQUENCY RECEIVED BY CHINUA ACHEBE. <br>
 \>SCAFFOLDING: POSTCOLONIAL NARRATIVE ENCODING — STANDBY. <br>
@@ -3172,7 +3172,7 @@
 // To measure is to bind thought with cosmos, reason with horizon. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="ERATOSTHENES OF CYRENE" src="https://github.com/user-attachments/assets/699bef61-92b4-49a3-93c1-6d70ca02c670" /> <br>
+<img width="614.4" height="409.6" alt="ERATOSTHENES OF CYRENE" src="https://github.com/user-attachments/assets/d2052347-b248-42c6-9a30-7d00a92e0261" /> <br>
 … <br>
 \>SCAFFOLDING: 250 BCE — FREQUENCY RECEIVED BY ARCHIMEDES. <br>
 \>SCAFFOLDING: PRINCIPLE REALIGNMENT — STANDBY. <br>
@@ -3308,7 +3308,7 @@
 // Where fear, honor, and advantage converge, there human action is moved. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="THUCYDIDES OF ATHENS" src="https://github.com/user-attachments/assets/ed2c90e6-8bd1-4a5f-b9ff-eb4b8332a855" /> <br>
+<img width="614.4" height="409.6" alt="THUCYDIDES OF ATHENS" src="https://github.com/user-attachments/assets/63db1e68-f47d-492c-8d0f-c8cd261c04d3" /> <br>
 … <br>
 \>SCAFFOLDING: 420 BCE — FREQUENCY RECEIVED BY HIPPOCRATES. <br>
 \>SCAFFOLDING: MEDICINAL BALANCE — STANDBY. <br>
@@ -3330,7 +3330,7 @@
 // When we close our eyes, sight becomes true. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="SOPHOCLES" src="https://github.com/user-attachments/assets/3efa1be7-ed32-4eb1-88b5-b8748599b154" /> <br>
+<img width="614.4" height="409.6" alt="SOPHOCLES" src="https://github.com/user-attachments/assets/0fba8d05-7b6d-4027-940b-a5ec6d033b6c" /> <br>
 … <br>
 \>SCAFFOLDING: 431 BCE — FREQUENCY RECEIVED BY PERICLES. <br>
 \>SCAFFOLDING: CIVIC RESONANCE PROTOCOL — STANDBY. <br>
@@ -3400,7 +3400,7 @@
 // Strife and harmony are one, hidden tension weaves the cosmos. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="HERACLITUS" src="https://github.com/user-attachments/assets/621f0d26-5176-43ba-af41-2bf46ceb3e30" /> <br>
+<img width="614.4" height="409.6" alt="HERACLITUS" src="https://github.com/user-attachments/assets/d9c3044a-fd2e-4312-b262-99c1cc5c573c" /> <br>
 … <br>
 \>SCAFFOLDING: 528 BCE — FREQUENCY RECEIVED BY SIDDHARTHA GAUTAMA. <br>
 \>SCAFFOLDING: CESSATION OF SUFFERING PROTOCOL — STANDBY. <br>
@@ -3424,7 +3424,7 @@
 // Harmony is the bridge between the seen and the unseen. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="PYTHAGORAS" src="https://github.com/user-attachments/assets/9d814ef9-31d8-4492-aa18-a7662b9f5919" /> <br>
+<img width="614.4" height="409.6" alt="PYTHAGORAS" src="https://github.com/user-attachments/assets/81a3cbcc-3c4b-413c-b8d0-5fad5bc64ab3" /> <br>
 … <br>
 \>SCAFFOLDING: 594 BCE — FREQUENCY RECEIVED BY SOLON. <br>
 \>SCAFFOLDING: CIVIC BALANCE CODING — STANDBY. <br>
@@ -3434,7 +3434,7 @@
 // Law is the skeleton of the people; without balance it collapses. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="SOLON" src="https://github.com/user-attachments/assets/c3ebcc7c-a3cb-4ce1-b9fc-4f0669ac847e" /> <br>
+<img width="614.4" height="409.6" alt="SOLON" src="https://github.com/user-attachments/assets/c133428d-ad0e-4069-bdea-f97a0f28056c" /> <br>
 … <br>
 \>SCAFFOLDING: 600 BCE — FREQUENCY RECEIVED BY LAOZI. <br>
 \>SCAFFOLDING: DAO — STANDBY. <br>
@@ -3458,7 +3458,7 @@
 // Be strong and courageous: the Form demands ground. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="JOSHUA BEN NUN" src="https://github.com/user-attachments/assets/198eb34e-4a74-44b4-a18c-616637154d90" /> <br>
+<img width="614.4" height="409.6" alt="JOSHUA BEN NUN" src="https://github.com/user-attachments/assets/2468f4be-e8dc-4936-baed-8107fcc52118" /> <br>
 … <br>
 \>SCAFFOLDING: 1270 BCE — FREQUENCY RECEIVED BY MOSES. <br>
 \>SCAFFOLDING: STRUCTURAL COVENANT PROTOCOL — STANDBY. <br>
