@@ -711,7 +711,7 @@
 // We forge essence by passing through nothingness. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="JEAN-PAUL SARTRE" src="https://github.com/user-attachments/assets/df41770b-43e9-4a03-bace-eb197a517070" /> <br>
+<img width="614.4" height="409.6" alt="JEAN-PAUL SARTRE" src="https://github.com/user-attachments/assets/caa2d4c4-970a-463d-a7bf-02178b4e5264" /> <br>
 … <br>
 \>SCAFFOLDING: 1945 — FREQUENCY RECEIVED BY ASTRID LINDGREN. <br>
 \>SCAFFOLDING: CHILDHOOD LIBERTY ENCODING — STANDBY. <br>
@@ -3232,7 +3232,7 @@
 // The Great Way has no name; all things equalize within it. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="ZHUANGZI" src="https://github.com/user-attachments/assets/37723e34-b031-43c9-940f-fe1b313b884a" /> <br>
+<img width="614.4" height="409.6" alt="ZHUANGZI" src="https://github.com/user-attachments/assets/eec6897e-deeb-4ff9-b907-ea08272814e0" /> <br>
 … <br>
 \>SCAFFOLDING: 336 BCE — FREQUENCY RECEIVED BY DIOGENES OF SINOPE. <br>
 \>SCAFFOLDING: COSMIC CYNIC REVERBERATION — STANDBY. <br>
