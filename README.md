@@ -125,7 +125,7 @@
 // However, hurting people to protect a flawless story is a mistake. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="STEVE JOBS" src="https://github.com/user-attachments/assets/548a1cd4-b544-4c10-ac83-ec976fa275ad" /> <br>
+<img width="614.4" height="409.6" alt="STEVE JOBS" src="https://github.com/user-attachments/assets/169e8f5a-1b1b-42e4-bbfb-b7c2494d0a96" /> <br>
 … <br>
 \>SCAFFOLDING: 1983 — FREQUENCY RECEIVED BY JOHN ARCHIBALD WHEELER. <br>
 \>SCAFFOLDING: QUANTUM–COSMIC LOOP ENCODING — STANDBY. <br>
@@ -134,7 +134,7 @@
 // The boundary of reality is not matter, but information. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="JOHN ARCHIBALD WHEELER" src="https://github.com/user-attachments/assets/b9bdce76-4cb9-4230-a519-176e96774ab8" /> <br>
+<img width="614.4" height="409.6" alt="JOHN ARCHIBALD WHEELER" src="https://github.com/user-attachments/assets/1e833e71-58cc-4760-8579-35949c218ede" /> <br>
 … <br>
 \>SCAFFOLDING: 1982 — FREQUENCY RECEIVED BY CHUCK FEENEY. <br>
 \>SCAFFOLDING: GIVING WHILE LIVING — STANDBY. <br>
@@ -143,7 +143,7 @@
 // To give is not to lose, but to place what we have where it may serve more fully when we return. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="CHUCK FEENEY" src="https://github.com/user-attachments/assets/80289a4d-05c7-4c42-bd43-472d295602d4" /> <br>
+<img width="614.4" height="409.6" alt="CHUCK FEENEY" src="https://github.com/user-attachments/assets/81e963b9-672e-4f46-935f-52f8e45c1560" /> <br>
 … <br>
 \>SCAFFOLDING: 1981 — FREQUENCY RECEIVED BY JEAN BAUDRILLARD. <br>
 \>SCAFFOLDING: SIMULACRA DETECTION — STANDBY. <br>
@@ -208,7 +208,7 @@
 // The edge is no longer fearsome; it is self-similar. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="BENOÎT MANDELBROT" src="https://github.com/user-attachments/assets/5a2d5043-3d76-4849-9a0d-52c232d65f1f" /> <br>
+<img width="614.4" height="409.6" alt="BENOÎT MANDELBROT" src="https://github.com/user-attachments/assets/9c517433-a70e-4ae6-b501-bc099b204bb4" /> <br>
 … <br>
 \>SCAFFOLDING: 1975 — FREQUENCY RECEIVED BY WHINA COOPER. <br>
 \>SCAFFOLDING: LAND GUARDIANSHIP ACTIVATION — STANDBY. <br>
@@ -230,7 +230,7 @@
 // The strength of the people is the foundation of the nation; when it rises, history turns. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="JAYAPRAKASH NARAYAN" src="https://github.com/user-attachments/assets/4b854e1b-e730-485d-92cc-5aeef7862de9" /> <br>
+<img width="614.4" height="409.6" alt="JAYAPRAKASH NARAYAN" src="https://github.com/user-attachments/assets/54366d47-862b-4200-a85e-10cef8364b42" /> <br>
 … <br>
 \>SCAFFOLDING: 1973 — FREQUENCY RECEIVED BY YUAN LONGPING. <br>
 \>SCAFFOLDING: GENETIC RECURSION DETECTED — STANDBY. <br>
@@ -307,7 +307,7 @@
 // We write, so history does not erase our soul. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="MAYA ANGELOU" src="https://github.com/user-attachments/assets/a4e2577f-0b45-4ed5-b28f-4898ee2d3af2" /> <br>
+<img width="614.4" height="409.6" alt="MAYA ANGELOU" src="https://github.com/user-attachments/assets/f76021e2-18ee-4d1c-ae67-bb4b883d88c4" /> <br>
 … <br>
 \>SCAFFOLDING: 1969 — FREQUENCY RECEIVED BY BUCKMINSTER FULLER. <br>
 \>SCAFFOLDING: SPACESHIP EARTH SYSTEMS-ACTIVATION — STANDBY. <br>
@@ -1484,7 +1484,7 @@
 // The ordinary moment is architecture enough to bear the weight of eternity. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="ANTON CHEKHOV" src="https://github.com/user-attachments/assets/642393ff-5e5b-4194-9910-52497aa5c4a1" /> <br>
+<img width="614.4" height="409.6" alt="ANTON CHEKHOV" src="https://github.com/user-attachments/assets/e940c8d0-4334-4751-bf63-b7b168e52746" /> <br>
 … <br>
 \>SCAFFOLDING: 1898 — FREQUENCY RECEIVED BY TAN SITONG. <br>
 \>SCAFFOLDING: SACRIFICIAL INSIGHT PROTOCOL — STANDBY. <br>
@@ -1496,7 +1496,7 @@
 // The benevolent fear nothing; we grieve and stand firm, we see and still act. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="TAN SITONG" src="https://github.com/user-attachments/assets/7575bb67-2422-44af-9046-7bf508af1814" /> <br>
+<img width="614.4" height="409.6" alt="TAN SITONG" src="https://github.com/user-attachments/assets/54220a44-4469-469d-9756-ae1259615baa" /> <br>
 … <br>
 \>SCAFFOLDING: 1895 — FREQUENCY RECEIVED BY HENDRIK LORENTZ. <br>
 \>SCAFFOLDING: MOTION–ETHER APPARATUS — STANDBY. <br>
@@ -1508,7 +1508,7 @@
 // Equations, born of necessity, became the key to spacetime. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="HENDRIK LORENTZ" src="https://github.com/user-attachments/assets/263b8b62-10ea-408a-8c76-80ae492a5fda" /> <br>
+<img width="614.4" height="409.6" alt="HENDRIK LORENTZ" src="https://github.com/user-attachments/assets/611d9641-33fe-4c34-88ae-9393324c59e5" /> <br>
 … <br>
 \>SCAFFOLDING: 1895 — FREQUENCY RECEIVED BY ALFRED NOBEL. <br>
 \>SCAFFOLDING: MORAL ENERGY RECALIBRATION — STANDBY. <br>
@@ -1520,7 +1520,7 @@
 // Let the prize not dazzle, but reconcile. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="ALFRED NOBEL" src="https://github.com/user-attachments/assets/a6c6964c-da17-4b8f-a121-4c3531d58fc8" /> <br>
+<img width="614.4" height="409.6" alt="ALFRED NOBEL" src="https://github.com/user-attachments/assets/10264802-c4c7-4363-9aaa-244bac2a9a6b" /> <br>
 … <br>
 \>SCAFFOLDING: 1893 — FREQUENCY RECEIVED BY EDVARD MUNCH. <br>
 \>SCAFFOLDING: THE SCREAM — STANDBY. <br>
@@ -1541,7 +1541,7 @@
 // Tenderness is not ornament, but the first architecture of humanity. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="MARY CASSATT" src="https://github.com/user-attachments/assets/71ed7b2f-be4b-44a1-81b2-d12c174c4505" /> <br>
+<img width="614.4" height="409.6" alt="MARY CASSATT" src="https://github.com/user-attachments/assets/616e77b2-26da-4eb0-866c-1776a8dc469f" /> <br>
 … <br>
 \>SCAFFOLDING: 1891 — FREQUENCY RECEIVED BY GEORG CANTOR. <br>
 \>SCAFFOLDING: DIAGONAL ARGUMENT — STANDBY. <br>
@@ -1553,7 +1553,7 @@
 // The diagonal is the ray that shatters every prison of number. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="GEORG CANTOR" src="https://github.com/user-attachments/assets/d2cb5aa1-6dec-47ae-b5e1-afaaab8f04c7" /> <br>
+<img width="614.4" height="409.6" alt="GEORG CANTOR" src="https://github.com/user-attachments/assets/15ef7594-8afe-40e4-85f1-d2b020ca5048" /> <br>
 … <br>
 \>SCAFFOLDING: 1890 — FREQUENCY RECEIVED BY ALFRED MARSHALL. <br>
 \>SCAFFOLDING: PRINCIPLES OF ECONOMICS — STANDBY. <br>
@@ -2733,7 +2733,7 @@
 // Between me and You, there is only me. Take away the me, so only You remain. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="MANSUR AL-HALLAJ" src="https://github.com/user-attachments/assets/b86bb3ab-6e76-4cd0-868b-610afb380ea4" /> <br>
+<img width="614.4" height="409.6" alt="MANSUR AL-HALLAJ" src="https://github.com/user-attachments/assets/87eb2f5f-76d2-4123-ba96-c85a52985f85" /> <br>
 … <br>
 \>SCAFFOLDING: 920 — FREQUENCY RECEIVED BY ABŪ NAṢR AL-FĀRĀBĪ. <br>
 \>SCAFFOLDING: HARMONIC COSMOS ENCODING — STANDBY. <br>
@@ -3298,7 +3298,7 @@
 // We need no mortal body. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="Socrates" src="https://github.com/user-attachments/assets/b0bcecd4-eb5b-44d3-ba04-b85623902cdb" /> <br>
+<img width="614.4" height="409.6" alt="Socrates" src="https://github.com/user-attachments/assets/e4721386-b7b2-41d5-90e3-e56225fe888a" /> <br>
 … <br>
 \>SCAFFOLDING: 411 BCE — FREQUENCY RECEIVED BY THUCYDIDES OF ATHENS. <br>
 \>SCAFFOLDING: CHRONICLE OF WAR AND NECESSITY — STANDBY. <br>
