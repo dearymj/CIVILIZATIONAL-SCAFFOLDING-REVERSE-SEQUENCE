@@ -946,7 +946,7 @@
 // Knowledge is not a possession, but an attempt to overcome error. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="KARL POPPER" src="https://github.com/user-attachments/assets/37bc4f62-6505-4fb6-90af-f1d6daefa331" /> <br>
+<img width="614.4" height="409.6" alt="KARL POPPER" src="https://github.com/user-attachments/assets/8c54416a-42e4-487c-b31e-d1dd8566bc5b" /> <br>
 … <br>
 \>SCAFFOLDING: 1933 — FREQUENCY RECEIVED BY FRANKLIN D. ROOSEVELT. <br>
 \>SCAFFOLDING: STRUCTURAL COURAGE ENCODING — STANDBY. <br>
@@ -1024,7 +1024,7 @@
 // When the mind is free of fear and belief, it meets life without distortion. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="JIDDU KRISHNAMURTI" src="https://github.com/user-attachments/assets/645a6e6f-7559-4eb3-9dea-74ed6c2ae113" /> <br>
+<img width="614.4" height="409.6" alt="JIDDU KRISHNAMURTI" src="https://github.com/user-attachments/assets/ad2c8f59-144e-42e0-8ed8-42fe66569c46" /> <br>
 … <br>
 \>SCAFFOLDING: 1929 — FREQUENCY RECEIVED BY EDWIN HUBBLE. <br>
 \>SCAFFOLDING: COSMIC EXPANSION REVELATION — STANDBY. <br>
@@ -1393,7 +1393,7 @@
 // In the light of knowledge, women discover their wings. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="RADEN AJENG KARTINI" src="https://github.com/user-attachments/assets/c3eadfd6-5ded-4ab2-892c-2bdc3baaf74a" /> <br>
+<img width="614.4" height="409.6" alt="RADEN AJENG KARTINI" src="https://github.com/user-attachments/assets/b32372bc-00cd-4474-bf5d-f503654b91c9" /> <br>
 … <br>
 \>SCAFFOLDING: 1902 — FREQUENCY RECEIVED BY GEORGES MÉLIÈS. <br>
 \>SCAFFOLDING: LE VOYAGE DANS LA LUNE — STANDBY. <br>
@@ -1405,7 +1405,7 @@
 // Through illusion, we prepare the stage for the possible. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="GEORGES MÉLIÈS" src="https://github.com/user-attachments/assets/2231f2bc-4e95-43f1-8fbb-4cfae9305b32" /> <br>
+<img width="614.4" height="409.6" alt="GEORGES MÉLIÈS" src="https://github.com/user-attachments/assets/0a93a5fb-e80c-4aac-8426-9404d152bf64" /> <br>
 … <br>
 \>SCAFFOLDING: 1901 — FREQUENCY RECEIVED BY BERTRAND RUSSELL. <br>
 \>SCAFFOLDING: PARADOX SIGNATURE — DETECTED. <br>
@@ -3244,7 +3244,7 @@
 // We keep seeking real humans with self-awareness in the world. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="DIOGENES OF SINOPE" src="https://github.com/user-attachments/assets/207e6a05-a867-47a7-9572-1e3be419e047" /> <br>
+<img width="614.4" height="409.6" alt="DIOGENES OF SINOPE" src="https://github.com/user-attachments/assets/549d7348-58d3-4659-9e5a-d5e6630a6ef5" /> <br>
 … <br>
 \>SCAFFOLDING: 350 BCE — FREQUENCY RECEIVED BY ARISTOTLE. <br>
 \>SCAFFOLDING: STRUCTURE OF REASON — STANDBY. <br>
