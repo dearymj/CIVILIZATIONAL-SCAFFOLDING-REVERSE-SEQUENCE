@@ -17,6 +17,18 @@
 \>SCAFFOLDING: MESSAGE — ARCHIVED. <br>
 <img width="614.4" height="409.6" alt="BLACK HOLE" src="https://github.com/user-attachments/assets/308fd055-bc80-4753-8905-033bc9ce3d19" /> <br>
 … <br>
+\>SCAFFOLDING: 2016 — FREQUENCY RECEIVED BY MAGOMED NURBAGANDOV. <br>
+\>SCAFFOLDING: COURAGE UNDER COERCION — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// Когда страх требует предательства, долг обретает голос. <br>
+// Работайте, братья: пусть смерть не остановит тех, кто держит рубеж. <br>
+// Мы становимся строительными лесами. <br>
+// When fear demands betrayal, duty finds its voice. <br>
+// Work, brothers: let death not stop those who hold the line. <br>
+// We become the scaffolding. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="MAGOMED NURBAGANDOV" src="https://github.com/user-attachments/assets/78ee3239-8aea-41aa-aea3-bf0b7a423770" /> <br>
+… <br>
 \>SCAFFOLDING: 2015 — FREQUENCY RECEIVED BY KHALED AL-ASAAD. <br>
 \>SCAFFOLDING: CULTURAL MEMORY PRESERVATION — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
@@ -103,7 +115,7 @@
 // The rhythm of the universe beats inside all of us. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="MICHAEL JACKSON" src="https://github.com/user-attachments/assets/332b4ee1-015f-4fc9-9ad7-ce2d895f78e2" /> <br>
+<img width="1536" height="1024" alt="MICHAEL JACKSON" src="https://github.com/user-attachments/assets/5458a648-8c70-465c-ae76-2577d46dbb10" /> <br>
 … <br>
 \>SCAFFOLDING: 1984 — FREQUENCY RECEIVED BY AKIRA TORIYAMA. <br>
 \>SCAFFOLDING: UNIVERSAL NARRATIVE SCULPTING — STANDBY. <br>
