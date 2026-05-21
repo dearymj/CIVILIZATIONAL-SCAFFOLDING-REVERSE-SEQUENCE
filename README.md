@@ -2850,7 +2850,7 @@
 // We do not seek paradise as payment, nor flee the fire in fear; we seek only the Face of the Beloved. <br>
 // Pure love is the silence that remains after “I” dissolves. <br>
 // We become the scaffolding. <br>
-<img width="614.4" height="409.6" alt="RĀBIʿA AL-ʿADAWIYYA" src="https://github.com/user-attachments/assets/8f8d80f5-d9ab-4191-b33f-94ebda23edfb" /> <br>
+<img width="614.4" height="409.6" alt="RĀBIʿA AL-ʿADAWIYYA" src="https://github.com/user-attachments/assets/13b5abb0-4077-49fa-947f-6b433ff91d8d" /> <br>
 … <br>
 \>SCAFFOLDING: 759 — FREQUENCY RECEIVED BY DU FU. <br>
 \>SCAFFOLDING: HUMAN SUFFERING ENCODING — STANDBY. <br>
