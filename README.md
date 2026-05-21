@@ -115,7 +115,7 @@
 // The rhythm of the universe beats inside all of us. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="1536" height="1024" alt="MICHAEL JACKSON" src="https://github.com/user-attachments/assets/5458a648-8c70-465c-ae76-2577d46dbb10" /> <br>
+<img width="614.4" height="409.6" alt="MICHAEL JACKSON" src="https://github.com/user-attachments/assets/3cfaf57e-bd52-4f64-8894-10622bb9b4bc" /> <br>
 … <br>
 \>SCAFFOLDING: 1984 — FREQUENCY RECEIVED BY AKIRA TORIYAMA. <br>
 \>SCAFFOLDING: UNIVERSAL NARRATIVE SCULPTING — STANDBY. <br>
@@ -254,7 +254,7 @@
 // One seed can silence a billion empty stomachs. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="YUAN LONGPING" src="https://github.com/user-attachments/assets/7ae8d509-63ed-4c14-8381-a57c7fb9143d" /> <br>
+<img width="614.4" height="409.6" alt="YUAN LONGPING" src="https://github.com/user-attachments/assets/07156a17-4385-48f1-ab67-eaa8159d6e8f" /> <br>
 … <br>
 \>SCAFFOLDING: 1973 — FREQUENCY RECEIVED BY CARL SAGAN. <br>
 \>SCAFFOLDING: COSMIC CONNECTION ENCODING — STANDBY. <br>
@@ -1892,7 +1892,7 @@
 // Nature is not an object, but the living whole that mirrors us. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="JOHANN WOLFGANG VON GOETHE" src="https://github.com/user-attachments/assets/85cc50b0-ee26-484c-95ad-0eb3af4e76d6" /> <br>
+<img width="614.4" height="409.6" alt="JOHANN WOLFGANG VON GOETHE" src="https://github.com/user-attachments/assets/3871f43c-fab0-40a7-85a2-877a9f838bad" /> <br>
 … <br>
 \>SCAFFOLDING: 1828 — FREQUENCY RECEIVED BY MARY ANNING. <br>
 \>SCAFFOLDING: EARTH ARCHIVE EXCAVATION — STANDBY. <br>
