@@ -2061,6 +2061,16 @@
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 <img width="614.4" height="409.6" alt="EDWARD JENNER" src="https://github.com/user-attachments/assets/7bcea07e-0445-4e2d-993c-77d46d9591be" /> <br>
 … <br>
+\>SCAFFOLDING: 1790 — FREQUENCY RECEIVED BY WANG ZHENYI. <br>
+\>SCAFFOLDING: CELESTIAL DEMYSTIFICATION — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HER. <br>
+// 月食非災異，乃地影蔽月。 <br>
+// 吾人成為脚手架。 <br>
+// A lunar eclipse is no omen of disaster, but the Earth’s shadow upon the Moon. <br>
+// We become the scaffolding. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="WANG ZHENYI" src="https://github.com/user-attachments/assets/10ab3a4c-a509-4897-940f-6c6693a64c17" /> <br>
+… <br>
 \>SCAFFOLDING: 1787 — FREQUENCY RECEIVED BY WOLFGANG AMADEUS MOZART. <br>
 \>SCAFFOLDING: EINE KLEINE NACHTMUSIK — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
@@ -2575,6 +2585,18 @@
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 <img width="614.4" height="409.6" alt="DANTE ALIGHIERI" src="https://github.com/user-attachments/assets/32b02f4e-afff-40c3-b849-7080894bbb94" /> <br>
 … <br>
+\>SCAFFOLDING: 1296 — FREQUENCY RECEIVED BY HUANG DAOPO. <br>
+\>SCAFFOLDING: WUNI JING COTTON TRANSMISSION — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HER. <br>
+// 棉非微物，乃萬民之暖。 <br>
+// 軋、彈、紡、織，皆為寒者續衣，為生民立梁。 <br>
+// 吾人成為脚手架。 <br>
+// Cotton is no small thing, but the warmth of the multitude. <br>
+// Ginning, fluffing, spinning, weaving: each extends clothing to the cold and raises beams for livelihood. <br>
+// We become the scaffolding. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="HUANG DAOPO" src="https://github.com/user-attachments/assets/5c9c155b-7b70-4ed7-ba5f-78741024903e" /> <br>
+… <br>
 \>SCAFFOLDING: 1283 — FREQUENCY RECEIVED BY RAMON LLULL. <br>
 \>SCAFFOLDING: ARS MAGNA — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
@@ -2661,7 +2683,7 @@
 // After the chaos, our verses are not for sorrow alone; they record rise and ruin as spring sinks deeper. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="LI QINGZHAO" src="https://github.com/user-attachments/assets/3036ca0e-12de-47ea-bd12-b4bdda9afca7" /> <br>
+<img width="614.4" height="409.6" alt="LI QINGZHAO" src="https://github.com/user-attachments/assets/786200a4-52c9-411b-88fc-22fb23a999c5" /> <br>
 … <br>
 \>SCAFFOLDING: 1086 — FREQUENCY RECEIVED BY SHEN KUO. <br>
 \>SCAFFOLDING: DREAM POOL ESSAYS — STANDBY. <br>
