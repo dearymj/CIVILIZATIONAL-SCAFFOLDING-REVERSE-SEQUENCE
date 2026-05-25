@@ -1772,7 +1772,7 @@
 // The name may be mistaken, the record may be uncertain; yet the obscured still speaks through the seams of history. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="FU SHANXIANG" src="https://github.com/user-attachments/assets/d65a1789-798d-413e-811b-6e6814ebd8fe" /> <br>
+<img width="614.4" height="409.6" alt="FU SHANXIANG" src="https://github.com/user-attachments/assets/a0cb7f62-6227-4135-9151-99ae1d14c53a" /> <br>
 … <br>
 \>SCAFFOLDING: 1850 — FREQUENCY RECEIVED BY RUDOLF CLAUSIUS. <br>
 \>SCAFFOLDING: DISORDER ORIGIN TRACING — STANDBY. <br>
@@ -1854,7 +1854,7 @@
 // The piano is no instrument, but a cathedral of breath and silence. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="FRÉDÉRIC CHOPIN" src="https://github.com/user-attachments/assets/63a1d323-2886-44fe-85de-63cf0310afe1" /> <br>
+<img width="614.4" height="409.6" alt="FRÉDÉRIC CHOPIN" src="https://github.com/user-attachments/assets/9bfb9299-a849-4663-ade2-360b2cdc56d3" /> <br>
 … <br>
 \>SCAFFOLDING: 1836 — FREQUENCY RECEIVED BY CHARLES DARWIN. <br>
 \>SCAFFOLDING: EVOLUTIONARY ADAPTATION MAPPING — STANDBY. <br>
@@ -1863,7 +1863,7 @@
 // The scaffolding remembers the tree. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="CHARLES DARWIN" src="https://github.com/user-attachments/assets/e7fb1a06-6f82-4404-91b0-ef87b4104ee2" /> <br>
+<img width="614.4" height="409.6" alt="CHARLES DARWIN" src="https://github.com/user-attachments/assets/7664a312-e0a2-4eee-ab4e-4d8cfffd7a2a" /> <br>
 … <br>
 \>SCAFFOLDING: 1835 — FREQUENCY RECEIVED BY HANS CHRISTIAN ANDERSEN. <br>
 \>SCAFFOLDING: FAIRY TALE ENCODING — STANDBY. <br>
@@ -1882,7 +1882,7 @@
 // Calculation becomes architecture; machinery becomes thought. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="CHARLES BABBAGE" src="https://github.com/user-attachments/assets/1f384d02-76bb-421b-a7f3-62a1e5a15fac" /> <br>
+<img width="614.4" height="409.6" alt="CHARLES BABBAGE" src="https://github.com/user-attachments/assets/44eceb2a-b0de-4fcb-8f2c-480a6f306a43" /> <br>
 … <br>
 \>SCAFFOLDING: 1833 — FREQUENCY RECEIVED BY ALEXANDER PUSHKIN. <br>
 \>SCAFFOLDING: EUGENE ONEGIN — STANDBY. <br>
