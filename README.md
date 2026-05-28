@@ -3201,11 +3201,11 @@
 \>SCAFFOLDING: 27 BCE — FREQUENCY RECEIVED BY OCTAVIAN. <br>
 \>SCAFFOLDING: PAX AND PRINCIPATE — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
-// Pacem ex bello civili componimus, ut salus in compagem vertatur. <br>
-// Sed sine clementia ordo fit carcer frigidior, et fractura intra animam redit. <br>
+// Ex bello civili pacem componimus, ut salus ipsa structura fieri possit. <br>
+// Sed sine clementia erga vivos, entropia celeriter redit. <br>
 // Pēgmata fīmus. <br>
-// We compose peace from civil war, so survival can become structure. <br>
-// But without compassion, order becomes a colder prison, and fragmentation returns within the soul. <br>
+// We compose peace out of civil war, so survival itself can become structure. <br>
+// But without mercy toward the living, entropy swiftly returns. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 <img width="614.4" height="409.6" alt="OCTAVIAN" src="https://github.com/user-attachments/assets/68851d13-5c56-4e19-91c8-9aa05389aa90" /> <br>
@@ -3230,7 +3230,7 @@
 // When the self is seen as empty, the cosmos recalls itself. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="NĀGĀRJUNA" src="https://github.com/user-attachments/assets/9c93b302-796b-42da-8625-f8c1070ed4a2" /> <br>
+<img width="614.4" height="409.6" alt="NĀGĀRJUNA" src="https://github.com/user-attachments/assets/7b7a73dd-66a9-4335-92ac-c2c4da523561" /> <br>
 … <br>
 \>SCAFFOLDING: 221 BCE — FREQUENCY RECEIVED BY YING ZHENG. <br>
 \>SCAFFOLDING: IMPERIAL UNIFICATION AND STANDARDIZATION — STANDBY. <br>
