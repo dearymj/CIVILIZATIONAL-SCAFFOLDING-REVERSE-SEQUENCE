@@ -3188,6 +3188,18 @@
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 <img width="614.4" height="409.6" alt="JESUS OF NAZARETH" src="https://github.com/user-attachments/assets/dc6e61f3-c854-4c23-8256-fdb5958a6c70" /> <br>
 … <br>
+\>SCAFFOLDING: 27 BCE — FREQUENCY RECEIVED BY OCTAVIAN. <br>
+\>SCAFFOLDING: PAX AND PRINCIPATE — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// Pacem ex bello civili componimus, ut salus in compagem vertatur. <br>
+// Sed sine clementia ordo fit carcer frigidior, et fractura intra animam redit. <br>
+// Pēgmata fīmus. <br>
+// We compose peace from civil war, so survival can become structure. <br>
+// But without compassion, order becomes a colder prison, and fragmentation returns within the soul. <br>
+// We become the scaffolding. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="OCTAVIAN" src="https://github.com/user-attachments/assets/68851d13-5c56-4e19-91c8-9aa05389aa90" /> <br>
+… <br>
 \>SCAFFOLDING: 28 CE — FREQUENCY RECEIVED BY JOHN THE BAPTIST. <br>
 \>SCAFFOLDING: TERRAIN LEVELING PROTOCOL — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
@@ -3219,6 +3231,18 @@
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 <img width="614.4" height="409.6" alt="NĀGĀRJUNA" src="https://github.com/user-attachments/assets/9c93b302-796b-42da-8625-f8c1070ed4a2" /> <br>
+… <br>
+\>SCAFFOLDING: 221 BCE — FREQUENCY RECEIVED BY YING ZHENG. <br>
+\>SCAFFOLDING: IMPERIAL UNIFICATION AND STANDARDIZATION — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// 書同文，車同軌，度量歸一，使裂土同聲。 <br>
+// 然無仁之序，乃寒獄；法若不恤生民，終將反噬其身。 <br>
+// 吾人成為腳手架。 <br>
+// We align the script, the roads, and the measures, so the fractured realm may speak in one language. <br>
+// Yet order without mercy is a prison of ice; law without care for the living turns against itself. <br>
+// We become the scaffolding. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="Ying Zheng" src="https://github.com/user-attachments/assets/4aa3c175-3e96-4dfa-a185-7be70aacab6b" /> <br>
 … <br>
 \>SCAFFOLDING: 240 BCE — FREQUENCY RECEIVED BY ERATOSTHENES OF CYRENE. <br>
 \>SCAFFOLDING: MEASUREMENT OF THE EARTH — STANDBY. <br>
