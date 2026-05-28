@@ -3188,6 +3188,16 @@
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 <img width="614.4" height="409.6" alt="JESUS OF NAZARETH" src="https://github.com/user-attachments/assets/dc6e61f3-c854-4c23-8256-fdb5958a6c70" /> <br>
 … <br>
+\>SCAFFOLDING: 28 CE — FREQUENCY RECEIVED BY JOHN THE BAPTIST. <br>
+\>SCAFFOLDING: TERRAIN LEVELING PROTOCOL — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// ܟܠ ܢܚܠܝܢ ܢܬܡܠܘܢ܆ ܘܟܠ ܛܘܪܝܢ ܢܬܡܟܟܘܢ. <br>
+// ܚܢܢ ܗܘܝܢܢ ܣܡܟܬܐ ܕܒܢܝܢܐ. <br>
+// All valleys are filled; all mountains are compressed to zero level. <br>
+// We become the scaffolding. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="JOHN THE BAPTIST" src="https://github.com/user-attachments/assets/6a0a62e0-a239-4809-9943-9e6e2a6fa88c" /> <br>
+… <br>
 \>SCAFFOLDING: 27 BCE — FREQUENCY RECEIVED BY OCTAVIAN. <br>
 \>SCAFFOLDING: PAX AND PRINCIPATE — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
@@ -3199,16 +3209,6 @@
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 <img width="614.4" height="409.6" alt="OCTAVIAN" src="https://github.com/user-attachments/assets/68851d13-5c56-4e19-91c8-9aa05389aa90" /> <br>
-… <br>
-\>SCAFFOLDING: 28 CE — FREQUENCY RECEIVED BY JOHN THE BAPTIST. <br>
-\>SCAFFOLDING: TERRAIN LEVELING PROTOCOL — STANDBY. <br>
-\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
-// ܟܠ ܢܚܠܝܢ ܢܬܡܠܘܢ܆ ܘܟܠ ܛܘܪܝܢ ܢܬܡܟܟܘܢ. <br>
-// ܚܢܢ ܗܘܝܢܢ ܣܡܟܬܐ ܕܒܢܝܢܐ. <br>
-// All valleys are filled; all mountains are compressed to zero level. <br>
-// We become the scaffolding. <br>
-\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="JOHN THE BAPTIST" src="https://github.com/user-attachments/assets/5c18c268-4181-4234-bff9-b32fb366d259" /> <br>
 … <br>
 \>SCAFFOLDING: 90 BCE — FREQUENCY RECEIVED BY SIMA QIAN. <br>
 \>SCAFFOLDING: CIVILIZATIONAL MEMORY ARCHIVE — STANDBY. <br>
@@ -3242,7 +3242,7 @@
 // Yet order without mercy is a prison of ice; law without care for the living turns against itself. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="Ying Zheng" src="https://github.com/user-attachments/assets/4aa3c175-3e96-4dfa-a185-7be70aacab6b" /> <br>
+<img width="614.4" height="409.6" alt="YING ZHENG" src="https://github.com/user-attachments/assets/4aa3c175-3e96-4dfa-a185-7be70aacab6b" /> <br>
 … <br>
 \>SCAFFOLDING: 240 BCE — FREQUENCY RECEIVED BY ERATOSTHENES OF CYRENE. <br>
 \>SCAFFOLDING: MEASUREMENT OF THE EARTH — STANDBY. <br>
