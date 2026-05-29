@@ -3074,7 +3074,7 @@
 // To know the certainty of things, we impose order upon time. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="LUKE THE PHYSICIAN" src="https://github.com/user-attachments/assets/65f9e11c-eb1c-4cfe-961e-bb75c59a7a90" /> <br>
+<img width="614.4" height="409.6" alt="LUKE THE PHYSICIAN" src="https://github.com/user-attachments/assets/95b67be3-231b-4965-ab09-be7fabb2db17" /> <br>
 … <br>
 \>SCAFFOLDING: 80 — FREQUENCY RECEIVED BY MATTHEW LEVI. <br>
 \>SCAFFOLDING: SYSTEMIC FULFILLMENT PROTOCOL — STANDBY. <br>
@@ -3098,7 +3098,7 @@
 // To heal is to read the script of nature and align it with the body. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="PEDANIUS DIOSCORIDES" src="https://github.com/user-attachments/assets/6976f96e-4f5d-4100-a2a5-c6c98a8eff90" /> <br>
+<img width="614.4" height="409.6" alt="PEDANIUS DIOSCORIDES" src="https://github.com/user-attachments/assets/2ead9705-f862-4e7a-902f-2fc5a2abe3df" /> <br>
 … <br>
 \>SCAFFOLDING: 70 — FREQUENCY RECEIVED BY WANG JING. <br>
 \>SCAFFOLDING: HYDRAULIC BALANCE — STANDBY. <br>
@@ -3108,7 +3108,7 @@
 // To govern water is like governing the heart; when aligned, the world is at peace. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="WANG JING" src="https://github.com/user-attachments/assets/a00534ad-4d22-4950-8bd9-e362a15bbadd" /> <br>
+<img width="614.4" height="409.6" alt="WANG JING" src="https://github.com/user-attachments/assets/fcd64b3c-2402-4464-a999-5fab138b0f08" /> <br>
 … <br>
 \>SCAFFOLDING: 64 — FREQUENCY RECEIVED BY SIMON PETER. <br>
 \>SCAFFOLDING: HYDRO-STATIC STABILIZATION — STANDBY. <br>
@@ -3186,7 +3186,7 @@
 // We encode Love not as an emotion, but as structure death cannot dismantle. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="JESUS OF NAZARETH" src="https://github.com/user-attachments/assets/dc6e61f3-c854-4c23-8256-fdb5958a6c70" /> <br>
+<img width="614.4" height="409.6" alt="JESUS OF NAZARETH" src="https://github.com/user-attachments/assets/f41bdb59-331c-4e09-9ceb-ae6ea112b56c" /> <br>
 … <br>
 \>SCAFFOLDING: 28 CE — FREQUENCY RECEIVED BY JOHN THE BAPTIST. <br>
 \>SCAFFOLDING: TERRAIN LEVELING PROTOCOL — STANDBY. <br>
