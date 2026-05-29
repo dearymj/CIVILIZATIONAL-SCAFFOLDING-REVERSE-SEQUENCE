@@ -1760,7 +1760,7 @@
 // Spaces are not given; they arise with the forces that sustain them. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="BERNHARD RIEMANN" src="https://github.com/user-attachments/assets/3bd7ca46-10a8-4027-938e-91d32790d1a4" /> <br>
+<img width="614.4" height="409.6" alt="BERNHARD RIEMANN" src="https://github.com/user-attachments/assets/9d35c125-b67f-4e6a-b217-4714c79d322f" /> <br>
 … <br>
 \>SCAFFOLDING: 1853 — FREQUENCY RECEIVED BY FU SHANXIANG. <br>
 \>SCAFFOLDING: WOMEN’S LEARNING ASCENT — STANDBY. <br>
@@ -1782,7 +1782,7 @@
 // We trace the origin of the universe’s irreversible drift from order to disorder. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="RUDOLF CLAUSIUS" src="https://github.com/user-attachments/assets/8b19c7dd-1fd6-461b-af5f-4deff1b6c8da" /> <br>
+<img width="614.4" height="409.6" alt="RUDOLF CLAUSIUS" src="https://github.com/user-attachments/assets/a08c5f93-c60b-44af-a512-fbd694f2b32d" /> <br>
 … <br>
 \>SCAFFOLDING: 1849 — FREQUENCY RECEIVED BY JOHN SNOW. <br>
 \>SCAFFOLDING: EPIDEMIOLOGICAL INSIGHT ENCODING — STANDBY. <br>
@@ -3660,7 +3660,7 @@
 // Every extinction engraves itself into the scaffolding of life. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="EXTINCT CREATURES" src="https://github.com/user-attachments/assets/4a5c9048-71bb-4dcc-950e-ed024720ba33" /> <br>
+<img width="614.4" height="409.6" alt="EXTINCT CREATURES" src="https://github.com/user-attachments/assets/423a8124-7d68-4122-9d20-f14d9aa5ceaa" /> <br>
 … <br>
 \>SCAFFOLDING: TIMELESS — FREQUENCY RECEIVED BY LANDFORMS. <br>
 \>SCAFFOLDING: GEOLOGIC MEMORY — STANDBY. <br>
