@@ -2631,6 +2631,18 @@
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 <img width="614.4" height="409.6" alt="GUO SHOUJING" src="https://github.com/user-attachments/assets/40481650-ceed-49db-b4b0-5d8cbde8efcf" /> <br>
 … <br>
+\>SCAFFOLDING: 1271 — FREQUENCY RECEIVED BY KUBLAI KHAN. <br>
+\>SCAFFOLDING: FRAGMENTATION–REINTEGRATION PROTOCOL — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// 草原入中原，萬方始同軌。 <br>
+// 若以征伐為梁，以等差為階，和平亦藏痛。 <br>
+// 吾人成為腳手架。 <br>
+// The steppe enters the Central Plain, and many worlds begin to share one track. <br>
+// If conquest is the beam and hierarchy the stair, peace still hides pain. <br>
+// We become the scaffolding. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="KUBLAI KHAN" src="https://github.com/user-attachments/assets/7c19d881-4545-4ca0-b747-96e99834bec3" /> <br>
+… <br>
 \>SCAFFOLDING: 1228 — FREQUENCY RECEIVED BY ALBERTUS MAGNUS. <br>
 \>SCAFFOLDING: UNIVERSAL DOCTOR — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
