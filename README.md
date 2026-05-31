@@ -2755,7 +2755,7 @@
 // Benevolence is not weakness; it is the vast architecture capable of holding dissent. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="ZHAO ZHEN" src="https://github.com/user-attachments/assets/302eb2dd-2842-47b2-964b-2bfde875706d" /> <br>
+<img width="614.4" height="409.6" alt="ZHAO ZHEN" src="https://github.com/user-attachments/assets/677672ac-e591-4a52-a985-a0e6578c3bc9" /> <br>
 … <br>
 \>SCAFFOLDING: 1040 — FREQUENCY RECEIVED BY BI SHENG. <br>
 \>SCAFFOLDING: KNOWLEDGE EXPANSION — STANDBY. <br>
