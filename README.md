@@ -2583,7 +2583,7 @@
 // Where the world is silent, the soul writes its true name. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="FRANCESCO PETRARCA" src="https://github.com/user-attachments/assets/92d93ed6-48bc-49de-90e1-4143a3f8d3fd" /> <br>
+<img width="614.4" height="409.6" alt="FRANCESCO PETRARCA" src="https://github.com/user-attachments/assets/232015ab-5dc0-42c3-ae69-f2013851f4e1" /> <br>
 … <br>
 \>SCAFFOLDING: 1308 — FREQUENCY RECEIVED BY DANTE ALIGHIERI. <br>
 \>SCAFFOLDING: TRANSCENDENT CARTOGRAPHY — STANDBY. <br>
@@ -2595,7 +2595,7 @@
 // Through inferno, purgatorio, and paradise, we see our mirrored selves. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="DANTE ALIGHIERI" src="https://github.com/user-attachments/assets/32b02f4e-afff-40c3-b849-7080894bbb94" /> <br>
+<img width="614.4" height="409.6" alt="DANTE ALIGHIERI" src="https://github.com/user-attachments/assets/6eefb622-1e1d-42fe-b1d6-ce57b30e7ab4" /> <br>
 … <br>
 \>SCAFFOLDING: 1296 — FREQUENCY RECEIVED BY HUANG DAOPO. <br>
 \>SCAFFOLDING: WUNI JING COTTON TRANSMISSION — STANDBY. <br>
@@ -2655,6 +2655,18 @@
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 <img width="614.4" height="409.6" alt="ALBERTUS MAGNUS" src="https://github.com/user-attachments/assets/d8ae4883-7129-4e0a-b327-1973ef494530" /> <br>
 … <br>
+\>SCAFFOLDING: 1206 — FREQUENCY RECEIVED BY GENGHIS KHAN. <br>
+\>SCAFFOLDING: EURASIAN CONNECTIVITY WITH ETHICAL LIMIT — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// Тал нутаг зам нээж, тивүүд бие биенийхээ дууг сонсож эхэлнэ. <br>
+// Гэвч хүчирхийлэл арилшгүй толбо үлдээнэ. <br>
+// Бид барилгын шат болно. <br>
+// The steppe opens routes, and continents begin to hear one another. <br>
+// Yet violence leaves an eternal stain. <br>
+// We become the scaffolding. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="GENGHIS KHAN" src="https://github.com/user-attachments/assets/9b09f3f8-8687-4aba-a2eb-1909c5a4e562" /> <br>
+… <br>
 \>SCAFFOLDING: 1202 — FREQUENCY RECEIVED BY LEONARDO FIBONACCI. <br>
 \>SCAFFOLDING: LIBER ABACI — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
@@ -2665,7 +2677,7 @@
 // Numbers are not only tools of trade, but patterns of life itself. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="LEONARDO FIBONACCI" src="https://github.com/user-attachments/assets/6262cc1f-de2a-462e-858c-28f208ba022a" /> <br>
+<img width="614.4" height="409.6" alt="LEONARDO FIBONACCI" src="https://github.com/user-attachments/assets/65daa9fe-a0c4-4056-a3bc-007d7609db3b" /> <br>
 … <br>
 \>SCAFFOLDING: 1186 — FREQUENCY RECEIVED BY SHIHAB AL-DIN YAHYA SUHRAWARDI. <br>
 \>SCAFFOLDING: PHILOSOPHY OF ILLUMINATION — STANDBY. <br>
@@ -3277,7 +3289,7 @@
 <img width="614.4" height="409.6" alt="CHEN SHENG" src="https://github.com/user-attachments/assets/82e9ca92-ff4a-4191-bbb0-6c83d9344613" /> <br>
 … <br>
 \>SCAFFOLDING: 221 BCE — FREQUENCY RECEIVED BY YING ZHENG. <br>
-\>SCAFFOLDING: IMPERIAL UNIFICATION AND STANDARDIZATION — STANDBY. <br>
+\>SCAFFOLDING: SYSTEMS UNIFICATION AND STANDARDIZATION — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // 書同文，車同軌，度量歸一，使裂土同聲。 <br>
 // 然無仁之序，乃寒獄；法若不恤生民，終將反噬其身。 <br>
