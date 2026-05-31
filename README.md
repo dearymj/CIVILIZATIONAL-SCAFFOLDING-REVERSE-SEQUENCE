@@ -3232,6 +3232,38 @@
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 <img width="614.4" height="409.6" alt="NĀGĀRJUNA" src="https://github.com/user-attachments/assets/7b7a73dd-66a9-4335-92ac-c2c4da523561" /> <br>
 … <br>
+\>SCAFFOLDING: 207 BCE — FREQUENCY RECEIVED BY LIU BANG / EMPEROR GAOZU OF HAN. <br>
+\>SCAFFOLDING: TRUST RESTORATION AND POWER’S SHADOW — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// 約法三章，以安民命。 <br>
+// 然功臣之血，亦成吾身之影。 <br>
+// 吾人成為腳手架。 <br>
+// Through three articles of law, we restore space for the people to live. <br>
+// Yet the blood of meritorious ministers becomes our own shadow. <br>
+// We become the scaffolding. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="LIU BANG" src="https://github.com/user-attachments/assets/9dd000f8-fa62-4b98-a3b0-d72c7d33131f" /> <br>
+… <br>
+\>SCAFFOLDING: 209 BCE — FREQUENCY RECEIVED BY WU GUANG. <br>
+\>SCAFFOLDING: DIGNITY UNDER PRESSURE — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// 法不活民，則同袍相為生路。 <br>
+// 吾人成為腳手架。 <br>
+// When law no longer protects life, those who walk together become one another’s path. <br>
+// We become the scaffolding. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="1536" height="1024" alt="WU GUANG" src="https://github.com/user-attachments/assets/c811f02d-7f9d-41ae-a57f-b84d010deae6" /> <br>
+… <br>
+\>SCAFFOLDING: 209 BCE — FREQUENCY RECEIVED BY CHEN SHENG. <br>
+\>SCAFFOLDING: DIGNITY UNDER PRESSURE — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// 迫至無生路，則行動非亂，乃續命之道。 <br>
+// 吾人成為腳手架。 <br>
+// When oppression leaves no path to live, action is not disorder, but the way life continues. <br>
+// We become the scaffolding. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="1536" height="1024" alt="CHEN SHENG" src="https://github.com/user-attachments/assets/82e9ca92-ff4a-4191-bbb0-6c83d9344613" /> <br>
+… <br>
 \>SCAFFOLDING: 221 BCE — FREQUENCY RECEIVED BY YING ZHENG. <br>
 \>SCAFFOLDING: IMPERIAL UNIFICATION AND STANDARDIZATION — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
