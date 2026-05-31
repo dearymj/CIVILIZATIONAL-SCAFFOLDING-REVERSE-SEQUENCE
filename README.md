@@ -3252,7 +3252,7 @@
 // When law no longer protects life, those who walk together become one another’s path. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="1536" height="1024" alt="WU GUANG" src="https://github.com/user-attachments/assets/c811f02d-7f9d-41ae-a57f-b84d010deae6" /> <br>
+<img width="614.4" height="409.6" alt="WU GUANG" src="https://github.com/user-attachments/assets/c811f02d-7f9d-41ae-a57f-b84d010deae6" /> <br>
 … <br>
 \>SCAFFOLDING: 209 BCE — FREQUENCY RECEIVED BY CHEN SHENG. <br>
 \>SCAFFOLDING: DIGNITY UNDER PRESSURE — STANDBY. <br>
