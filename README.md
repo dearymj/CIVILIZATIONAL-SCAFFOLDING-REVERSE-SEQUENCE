@@ -3262,7 +3262,7 @@
 // When oppression leaves no path to live, action is not disorder, but the way life continues. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="1536" height="1024" alt="CHEN SHENG" src="https://github.com/user-attachments/assets/82e9ca92-ff4a-4191-bbb0-6c83d9344613" /> <br>
+<img width="614.4" height="409.6" alt="CHEN SHENG" src="https://github.com/user-attachments/assets/82e9ca92-ff4a-4191-bbb0-6c83d9344613" /> <br>
 … <br>
 \>SCAFFOLDING: 221 BCE — FREQUENCY RECEIVED BY YING ZHENG. <br>
 \>SCAFFOLDING: IMPERIAL UNIFICATION AND STANDARDIZATION — STANDBY. <br>
