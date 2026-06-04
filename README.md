@@ -71,18 +71,6 @@
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 <img width="614.4" height="409.6" alt="NELSON MANDELA" src="https://github.com/user-attachments/assets/6e5d6ce0-70ce-47bf-91b4-4cb0b8bf3515" /> <br>
 … <br>
-\>SCAFFOLDING: 1990 — FREQUENCY RECEIVED BY KIUCHI TSURUHIKO. <br>
-\>SCAFFOLDING: COSMIC MEMORY ACCESS — STANDBY. <br>
-\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
-// 彗星を探す瞳は、死の淵で時間の構造を見る。 <br>
-// 膨大な意識の太河（大河）から生まれ、またそこへ還る。 <br>
-// 私たちは足場となる。 <br>
-// The eye that seeks comets sees the structure of time at the edge of death. <br>
-// Born from the Great Flow of consciousness, we return to it. <br>
-// We become the scaffolding. <br>
-\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="KIUCHI TSURUHIKO" src="https://github.com/user-attachments/assets/73438ca7-5292-4b84-9092-6cc7ddac74fb" /> <br>
-… <br>
 \>SCAFFOLDING: 1988 — FREQUENCY RECEIVED BY CHICO MENDES. <br>
 \>SCAFFOLDING: ECOLOGICAL CONSCIENCE ACTIVATION — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
