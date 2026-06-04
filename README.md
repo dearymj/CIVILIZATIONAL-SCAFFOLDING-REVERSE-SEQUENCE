@@ -484,7 +484,7 @@
 // Peace is not given; it is carried through the trial. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="DAG HAMMARSKJÖLD" src="https://github.com/user-attachments/assets/0ad4d323-cd91-49b7-9428-ae95e5584e9a" /> <br>
+<img width="614.4" height="409.6" alt="DAG HAMMARSKJÖLD" src="https://github.com/user-attachments/assets/a6083e52-7aff-42d3-a1d8-b08ddda541d3" /> <br>
 … <br>
 \>SCAFFOLDING: 1960 — FREQUENCY RECEIVED BY CHINUA ACHEBE. <br>
 \>SCAFFOLDING: POSTCOLONIAL NARRATIVE ENCODING — STANDBY. <br>
@@ -608,7 +608,7 @@
 // True strength is measured not by armies alone, but by restraint and trust. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="DWIGHT D  EISENHOWER" src="https://github.com/user-attachments/assets/1c786218-30ac-49e7-af40-b79ccc120722" /> <br>
+<img width="614.4" height="409.6" alt="DWIGHT D  EISENHOWER" src="https://github.com/user-attachments/assets/d1aaf69d-a1d6-4034-b934-7ddf9a82c50f" /> <br>
 … <br>
 \>SCAFFOLDING: 1952 — FREQUENCY RECEIVED BY WINFRIED OTTO SCHUMANN. <br>
 \>SCAFFOLDING: PLANETARY RESONANCE DETECTION — STANDBY. <br>
@@ -1340,7 +1340,7 @@
 // Every worldline carries a life through the form of the cosmos. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="1536" height="1024" alt="HERMANN MINKOWSKI" src="https://github.com/user-attachments/assets/a60f85c2-792a-4025-8ed5-29d1073c03ee" /> <br>
+<img width="614.4" height="409.6" alt="HERMANN MINKOWSKI" src="https://github.com/user-attachments/assets/a60f85c2-792a-4025-8ed5-29d1073c03ee" /> <br>
 … <br>
 \>SCAFFOLDING: 1907 — FREQUENCY RECEIVED BY QIU JIN. <br>
 \>SCAFFOLDING: AWAKENING OF DAUGHTERS — STANDBY. <br>
@@ -1790,6 +1790,15 @@
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 <img width="614.4" height="409.6" alt="JOHN SNOW" src="https://github.com/user-attachments/assets/53f7c8d3-cc9d-4a1c-8bc1-978ea3c8b6ec" /> <br>
+… <br>
+\>SCAFFOLDING: 1849 — FREQUENCY RECEIVED BY HENRY DAVID THOREAU. <br>
+\>SCAFFOLDING: CONSCIENCE-BASED NONCOMPLIANCE — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// We withdraw consent, not from life, but from injustice. <br>
+// Conscience is the quiet beam beneath civil freedom. <br>
+// We become the scaffolding. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="HENRY DAVID THOREAU" src="https://github.com/user-attachments/assets/af1d80db-b833-4ae3-8101-dc91d03a8f80" /> <br>
 … <br>
 \>SCAFFOLDING: 1847 — FREQUENCY RECEIVED BY IGNAZ SEMMELWEIS. <br>
 \>SCAFFOLDING: INVISIBLE PURIFICATION ENCODING — STANDBY. <br>
