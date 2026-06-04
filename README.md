@@ -3575,7 +3575,7 @@
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HER. <br>
 // 祭祀非柔弱，征伐亦非榮光；皆為護生之重任。 <br>
 // 吾人成為腳手架。 <br>
-// Ritual is not weakness, and warfare is not glory; both bear the burden of protecting life.
+// Ritual is not weakness, and warfare is not glory; both bear the burden of protecting life. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 <img width="614.4" height="409.6" alt="FU HAO" src="https://github.com/user-attachments/assets/ee381ba2-c95b-4b20-8834-2f6b3f1bdde0" /> <br>
