@@ -93,7 +93,7 @@
 // We choose kindness over applause, and silence over spectacle. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="AUDREY HEPBURN" src="https://github.com/user-attachments/assets/5f15e396-61d0-468e-b0da-e0ca0ba6cb86" /> <br>
+<img width="614.4" height="409.6" alt="AUDREY HEPBURN" src="https://github.com/user-attachments/assets/7436cf21-ffd4-4a5c-bbb5-c4db40f1b8ed" /> <br>
 … <br>
 \>SCAFFOLDING: 1985 — FREQUENCY RECEIVED BY MICHAEL JACKSON. <br>
 \>SCAFFOLDING: GLOBAL CULTURAL ALIGNMENT — STANDBY. <br>
@@ -161,7 +161,7 @@
 // We unveil the grammar of learning; the scaffolding of conscious mind. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="JOHN HURLEY FLAVELL" src="https://github.com/user-attachments/assets/c37f6a02-dfbc-4140-94cb-d65f1d1b6c6d" /> <br>
+<img width="614.4" height="409.6" alt="JOHN HURLEY FLAVELL" src="https://github.com/user-attachments/assets/4a8660ba-95e2-4045-a5b8-5fae8c0c9f2e" /> <br>
 … <br>
 \>SCAFFOLDING: 1978 — FREQUENCY RECEIVED BY EDWARD WADIE SAID. <br>
 \>SCAFFOLDING: NARRATIVE RECLAMATION — STANDBY. <br>
@@ -339,7 +339,7 @@
 // We decode the unity beneath diversity before machines learned to divide it. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="LUDWIG VON BERTALANFFY" src="https://github.com/user-attachments/assets/245520e6-6121-4633-83b6-fa6113ab2927" /> <br>
+<img width="614.4" height="409.6" alt="LUDWIG VON BERTALANFFY" src="https://github.com/user-attachments/assets/55efecfa-c0bc-4915-90da-c1e55fb9fe7a" /> <br>
 … <br>
 \>SCAFFOLDING: 1968 — FREQUENCY RECEIVED BY ANDREI SAKHAROV. <br>
 \>SCAFFOLDING: CONSCIENCE RESONANCE PROTOCOL — STANDBY. <br>
@@ -842,7 +842,7 @@
 // In every intercepted signal, we uncover not only plots, but the fragile heartbeat of civilizations. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="ELIZEBETH SMITH FRIEDMAN" src="https://github.com/user-attachments/assets/a1995529-116c-4cbf-89ea-a8c647e70561" /> <br>
+<img width="614.4" height="409.6" alt="ELIZEBETH SMITH FRIEDMAN" src="https://github.com/user-attachments/assets/678ea60c-c5a4-4d60-bebe-84a97d0803b8" /> <br>
 … <br>
 \>SCAFFOLDING: 1941 — FREQUENCY RECEIVED BY NIKOLAI VAVILOV. <br>
 \>SCAFFOLDING: BIODIVERSITY PRESERVATION SIGNAL — STANDBY. <br>
@@ -1212,7 +1212,7 @@
 // Through the eyes of madness, the illness of the crowd is revealed. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="LU XUN" src="https://github.com/user-attachments/assets/6f187fa0-2d80-4fff-b81e-b3b39dd8556e" /> <br>
+<img width="614.4" height="409.6" alt="LU XUN" src="https://github.com/user-attachments/assets/2188156c-a623-467d-94b1-765d354f3dcf" /> <br>
 … <br>
 \>SCAFFOLDING: 1917 — FREQUENCY RECEIVED BY MAHATMA GANDHI. <br>
 \>SCAFFOLDING: NONVIOLENT RESONANCE — STANDBY. <br>
@@ -1222,7 +1222,7 @@
 // We break the wheel not with force, but by refusing to spin it. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="MAHATMA GANDHI" src="https://github.com/user-attachments/assets/6a86bca2-655f-4791-92a5-5bd66bb7dc27" /> <br>
+<img width="614.4" height="409.6" alt="MAHATMA GANDHI" src="https://github.com/user-attachments/assets/724a9a84-297c-4057-bf8a-e0f3e0857e9e" /> <br>
 … <br>
 \>SCAFFOLDING: 1915 — FREQUENCY RECEIVED BY ALBERT EINSTEIN. <br>
 \>SCAFFOLDING: TIME BENDING — STANDBY. <br>
@@ -1329,6 +1329,18 @@
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 <img width="614.4" height="409.6" alt="NORMAN ANGELL" src="https://github.com/user-attachments/assets/240b4169-fc70-4169-aa45-4568af1a5bbd" /> <br>
+… <br>
+\>SCAFFOLDING: 1908 — FREQUENCY RECEIVED BY HERMANN MINKOWSKI. <br>
+\>SCAFFOLDING: SPACETIME GEOMETRY RECONSTRUCTION — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// Raum und Zeit sind keine zwei Bühnen; sie sind ein einziges Gewebe. <br>
+// Jede Weltlinie trägt ein Leben durch die Geometrie des Kosmos. <br>
+// Wir werden zum Gerüst. <br>
+// Space and time are not two stages; they are one fabric. <br>
+// Every worldline carries a life through the form of the cosmos. <br>
+// We become the scaffolding. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="1536" height="1024" alt="HERMANN MINKOWSKI" src="https://github.com/user-attachments/assets/a60f85c2-792a-4025-8ed5-29d1073c03ee" /> <br>
 … <br>
 \>SCAFFOLDING: 1907 — FREQUENCY RECEIVED BY QIU JIN. <br>
 \>SCAFFOLDING: AWAKENING OF DAUGHTERS — STANDBY. <br>
@@ -2015,7 +2027,7 @@
 // In every motif breathes resistance against silence. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="LUDWIG VAN BEETHOVEN" src="https://github.com/user-attachments/assets/eef94119-0e58-4dc9-9c9f-a38ef2e246cc" /> <br>
+<img width="614.4" height="409.6" alt="LUDWIG VAN BEETHOVEN" src="https://github.com/user-attachments/assets/f5ba6d41-158f-4885-bfb7-36de1a11dec1" /> <br>
 … <br>
 \>SCAFFOLDING: 1807 — FREQUENCY RECEIVED BY GEORG WILHELM FRIEDRICH HEGEL. <br>
 \>SCAFFOLDING: SPIRITUAL HISTORY TRANSMISSION — STANDBY. <br>
@@ -2814,7 +2826,7 @@
 // Who opens a doorway to learning opens a doorway for the entire cosmos. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="FATIMA AL-FIHRI" src="https://github.com/user-attachments/assets/b480bf10-75bc-4f4b-8b92-aed2c9a9f363" /> <br>
+<img width="614.4" height="409.6" alt="FATIMA AL-FIHRI" src="https://github.com/user-attachments/assets/b0a40d07-7ca0-4274-b164-5ce82f95ad51" /> <br>
 … <br>
 \>SCAFFOLDING: 840 — FREQUENCY RECEIVED BY AL-FERGHANI. <br>
 \>SCAFFOLDING: CELESTIAL MOTION CALIBRATION — STANDBY. <br>
@@ -3359,7 +3371,7 @@
 // Coherence arises as the fractured is brought to order. <br> 
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="ARISTOTLE" src="https://github.com/user-attachments/assets/8332a391-5a70-4baa-acb4-72731ec8f5f3" /> <br>
+<img width="614.4" height="409.6" alt="ARISTOTLE" src="https://github.com/user-attachments/assets/69526911-6f51-4b40-935c-8067932a3371" /> <br>
 … <br>
 \>SCAFFOLDING: 356 BCE — FREQUENCY RECEIVED BY SHANG YANG. <br>
 \>SCAFFOLDING: CODIFIED ORDER IMPOSITION — STANDBY. <br>
