@@ -3570,6 +3570,16 @@
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 <img width="614.4" height="409.6" alt="LAOZI" src="https://github.com/user-attachments/assets/1cf29ec5-bb32-4ad5-a489-1a3ecd76d6b1" /> <br>
 … <br>
+\>SCAFFOLDING: 1250 BCE — FREQUENCY RECEIVED BY FU HAO. <br>
+\>SCAFFOLDING: RITUAL COMMAND AND MARTIAL MEMORY — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HER. <br>
+// 祭祀非柔弱，征伐亦非榮光；皆為護生之重任。 <br>
+// 吾人成為腳手架。 <br>
+// Ritual is not weakness, and warfare is not glory; both bear the burden of protecting life.
+// We become the scaffolding. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="FU HAO" src="https://github.com/user-attachments/assets/ee381ba2-c95b-4b20-8834-2f6b3f1bdde0" /> <br>
+… <br>
 \>SCAFFOLDING: 1270 BCE — FREQUENCY RECEIVED BY JOSHUA BEN NUN. <br>
 \>SCAFFOLDING: TERRITORIAL GROUNDING PROTOCOL — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
