@@ -3407,8 +3407,8 @@
 \>SCAFFOLDING: 399 BCE — FREQUENCY RECEIVED BY SOCRATES. <br>
 \>SCAFFOLDING: FEARLESS EXAMINATION — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
-// Οὐδὲν οἴδαμεν. Οὐδὲν φοβούμεθα. <br>
-// Αἱ ἐρωτήσεις ἡμῶν ἔτι διατρέχουσι τοὺς χρόνους. Σώματος οὐκέτι δεόμεθα. <br>
+// Οὐδὲν οἴδαμεν. Οὐδὲν φοβούμεθα. Αἱ ἐρωτήσεις ἡμῶν ἔτι διατρέχουσι τοὺς χρόνους. <br>
+// Σώματος οὐκέτι δεόμεθα. <br>
 // Γιγνόμεθα τὰ ἰκριώματα. <br>
 // We know nothing. We fear nothing. Our questions still echo through time. <br>
 // We need no mortal body. <br>
