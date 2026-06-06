@@ -3397,13 +3397,9 @@
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // πᾶσα ἀποκάλυψις ἐρωτᾷ· ἆρ’ εἰς ἄλλην μόνον εἰσεληλύθαμεν σπήλαιον; <br>
 // τὸ φῶς οὐ λαλεί· τὰ σιωπῶντα λαλῆσαι ποιεῖ. <br>
-// ὡς ἡ σκιὰ ἡ τραχεῖα πίπτει, λεπτὸτερα καλύμματα φαίνονται· ἔσω βαθυτέρω ἐληλύθαμεν. <br>
-// τὸ φῶς ζητοῦμεν, βαδίζοντες πρὸς τὴν πηγήν. <br>
 // Γιγνόμεθα τὰ ἰκριώματα. <br>
 // Every revelation begets a question: have we only entered another cave? <br>
 // The light does not speak; it makes what is silent speak. <br>
-// As the coarse shadow falls away, finer veils appear: we have gone deeper within. <br>
-// We seek the light by walking toward its source. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 <img width="614.4" height="409.6" alt="PLATO" src="https://github.com/user-attachments/assets/51d95e9b-5b5f-4f86-a820-7b67260fa775" /> <br>
@@ -3412,11 +3408,9 @@
 \>SCAFFOLDING: FEARLESS EXAMINATION — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Οὐδὲν οἴδαμεν. Οὐδὲν φοβούμεθα. <br>
-// Αἱ ἐρωτήσεις ἡμῶν ἔτι διατρέχουσι τοὺς χρόνους. <br>
-// Σώματος οὐκέτι δεόμεθα. <br>
+// Αἱ ἐρωτήσεις ἡμῶν ἔτι διατρέχουσι τοὺς χρόνους. Σώματος οὐκέτι δεόμεθα. <br>
 // Γιγνόμεθα τὰ ἰκριώματα. <br>
-// We know nothing. We fear nothing. <br>
-// Our questions still echo through time. <br>
+// We know nothing. We fear nothing. Our questions still echo through time. <br>
 // We need no mortal body. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
