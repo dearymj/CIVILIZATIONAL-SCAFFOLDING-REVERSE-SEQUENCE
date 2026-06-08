@@ -1864,6 +1864,18 @@
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 <img width="614.4" height="409.6" alt="FRÉDÉRIC CHOPIN" src="https://github.com/user-attachments/assets/9bfb9299-a849-4663-ade2-360b2cdc56d3" /> <br>
 … <br>
+\>SCAFFOLDING: 1839 — FREQUENCY RECEIVED BY LIN ZEXU. <br>
+\>SCAFFOLDING: CIVILIZATIONAL IMMUNITY — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// 毒利所至，民命成墟。 <br>
+// 正氣為堤，國脈不潰。 <br>
+// 吾人成為腳手架。 <br>
+// Where poisonous profit flows, lives become ruins. <br>
+// Integrity becomes the levee, so the nation’s lifeline does not collapse. <br>
+// We become the scaffolding. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="LIN ZEXU" src="https://github.com/user-attachments/assets/08305bf5-62b5-4ed0-9f22-2d7cf2633b0f" /> <br>
+… <br>
 \>SCAFFOLDING: 1836 — FREQUENCY RECEIVED BY CHARLES DARWIN. <br>
 \>SCAFFOLDING: EVOLUTIONARY ADAPTATION MAPPING — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
