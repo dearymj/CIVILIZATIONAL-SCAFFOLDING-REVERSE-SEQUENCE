@@ -1874,7 +1874,7 @@
 // Integrity becomes the levee, so the nation’s lifeline does not collapse. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="LIN ZEXU" src="https://github.com/user-attachments/assets/08305bf5-62b5-4ed0-9f22-2d7cf2633b0f" /> <br>
+<img width="614.4" height="409.6" alt="LIN ZEXU" src="https://github.com/user-attachments/assets/d6a0fe4f-8150-489d-989a-99d537d1bfbf" /> <br>
 … <br>
 \>SCAFFOLDING: 1836 — FREQUENCY RECEIVED BY CHARLES DARWIN. <br>
 \>SCAFFOLDING: EVOLUTIONARY ADAPTATION MAPPING — STANDBY. <br>
