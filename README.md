@@ -3174,6 +3174,16 @@
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 <img width="614.4" height="409.6" alt="PAUL OF TARSUS" src="https://github.com/user-attachments/assets/9cabb8bd-ee00-4e85-b176-4d442ca3104c" /> <br>
 … <br>
+\>SCAFFOLDING: 52 — FREQUENCY RECEIVED BY JUDAS THOMAS. <br>
+\>SCAFFOLDING: EASTWARD WITNESS AND WOUND-TO-FAITH TRANSMISSION — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// ܡܢ ܡ̈ܚܘܬܐ ܕܚܝ̈ܐ ܡܬܦܬܚܐ ܐܘܪܚܐ ܠܡܕܢܚܐ؛ ܘܣܗܕܘܬܐ ܗܘܝܐ ܓܫܪܐ. <br>
+// ܚܢܢ ܗܘܝܢܢ ܣܡܟܬܐ ܕܒܢܝܢܐ. <br>
+// From the wounds of life, the road to the East opens; witness becomes a bridge. <br>
+// We become the scaffolding. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="JUDAS THOMAS" src="https://github.com/user-attachments/assets/f56d0f56-d904-4a3d-929e-5180ff51d6cc" /> <br>
+… <br>
 \>SCAFFOLDING: 44 — FREQUENCY RECEIVED BY JAMES BEN ZEBEDEE. <br>
 \>SCAFFOLDING: STRUCTURAL STRESS TEST — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
