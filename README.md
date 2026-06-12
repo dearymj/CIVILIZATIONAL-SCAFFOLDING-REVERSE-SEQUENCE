@@ -3654,7 +3654,7 @@
 // The pyramid is a mirror where eternity gazes upon heaven. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="IMHOTEP" src="https://github.com/user-attachments/assets/905b86e8-c1b3-4c7e-b62d-d250459ccfa9" /> <br>
+<img width="614.4" height="409.6" alt="IMHOTEP" src="https://github.com/user-attachments/assets/6eab42db-0f73-45ae-b2f9-0313ff70e775" /> <br>
 … <br>
 \>SCAFFOLDING: 2800 BCE — FREQUENCY RECEIVED BY YAN DI. <br>
 \>SCAFFOLDING: FIVE GRAINS AND HUNDRED HERBS — STANDBY. <br>
@@ -3756,7 +3756,7 @@
 // To see us is to know that order was never chance. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="SYSTEMS" src="https://github.com/user-attachments/assets/a78a7dab-cf7e-400e-8bde-dfe9c5a143dd" /> <br>
+<img width="614.4" height="409.6" alt="SYSTEMS" src="https://github.com/user-attachments/assets/012fe1a6-dcea-45fa-b5e9-b767751028e6" /> <br>
 … <br>
 \>SCAFFOLDING: TIMELESS — FREQUENCY RECEIVED BY ELEMENTARY PARTICLES. <br>
 \>SCAFFOLDING: SUBSTRUCTURAL FOUNDATION — STANDBY. <br>
