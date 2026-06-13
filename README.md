@@ -2651,6 +2651,18 @@
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 <img width="614.4" height="409.6" alt="GUO SHOUJING" src="https://github.com/user-attachments/assets/252f50b1-4cd3-4b67-a956-5af1350d7c4a" /> <br>
 … <br>
+\>SCAFFOLDING: 1229 — FREQUENCY RECEIVED BY MUḤYĪ AL-DĪN IBN ʿARABĪ. <br>
+\>SCAFFOLDING: THEOPHANIC UNITY — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// القلبُ مرآةٌ تتّسعُ لكلِّ صورة؛ فلا يحصرُ الحقَّ في صورةٍ واحدة. <br>
+// الظاهرُ والباطنُ نَفَسٌ واحد؛ كلُّ حجابٍ بابٌ، وكلُّ صورةٍ آية. <br>
+// نحن نصيرُ السقالةَ. <br>
+// The heart is a mirror spacious enough for every form; it does not imprison the Real in one image. <br>
+// The manifest and the hidden are one breath; every veil is a doorway, every form a sign. <br>
+// We become the scaffolding. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="MUḤYĪ AL-DĪN IBN ʿARABĪ" src="https://github.com/user-attachments/assets/b6ccace9-b23a-49cd-b3d7-0ef37f14d631" /> <br>
+… <br>
 \>SCAFFOLDING: 1228 — FREQUENCY RECEIVED BY ALBERTUS MAGNUS. <br>
 \>SCAFFOLDING: UNIVERSAL DOCTOR — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
