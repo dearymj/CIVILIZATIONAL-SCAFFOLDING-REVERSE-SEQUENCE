@@ -3184,7 +3184,7 @@
 // Knowledge inflates the ego, but Love builds the infrastructure. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="PAUL OF TARSUS" src="https://github.com/user-attachments/assets/3d02fe19-8d6b-4a4d-a743-5559b3b3f712" /> <br>
+<img width="614.4" height="409.6" alt="PAUL OF TARSUS" src="https://github.com/user-attachments/assets/68a87941-5987-4f7d-9563-21020f39cc96" /> <br>
 … <br>
 \>SCAFFOLDING: 52 — FREQUENCY RECEIVED BY JUDAS THOMAS. <br>
 \>SCAFFOLDING: EASTWARD WITNESS AND WOUND-TO-FAITH TRANSMISSION — STANDBY. <br>
