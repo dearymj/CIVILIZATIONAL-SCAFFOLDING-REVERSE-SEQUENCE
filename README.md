@@ -3174,7 +3174,7 @@
 // We translate the thunder of Aramaic into the architecture of Greek. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="JOHN MARK" src="https://github.com/user-attachments/assets/b2a7b427-a90f-421e-af6b-54e9b70e98c3" /> <br>
+<img width="614.4" height="409.6" alt="JOHN MARK" src="https://github.com/user-attachments/assets/522802e6-f4b7-4fb9-858c-0ce6daa6b67c" /> <br>
 … <br>
 \>SCAFFOLDING: 57 — FREQUENCY RECEIVED BY PAUL OF TARSUS. <br>
 \>SCAFFOLDING: CORPUS UNIFICATION PROTOCOL — STANDBY. <br>
@@ -3194,7 +3194,7 @@
 // From the wounds of life, the road to the East opens; witness becomes a bridge. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="JUDAS THOMAS" src="https://github.com/user-attachments/assets/f56d0f56-d904-4a3d-929e-5180ff51d6cc" /> <br>
+<img width="614.4" height="409.6" alt="JUDAS THOMAS" src="https://github.com/user-attachments/assets/12eff8db-d5af-417a-93b4-3a2d11172329" /> <br>
 … <br>
 \>SCAFFOLDING: 44 — FREQUENCY RECEIVED BY JAMES BEN ZEBEDEE. <br>
 \>SCAFFOLDING: STRUCTURAL STRESS TEST — STANDBY. <br>
@@ -3630,7 +3630,7 @@
 // Be strong and courageous: the Form demands ground. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="JOSHUA BEN NUN" src="https://github.com/user-attachments/assets/2468f4be-e8dc-4936-baed-8107fcc52118" /> <br>
+<img width="614.4" height="409.6" alt="JOSHUA BEN NUN" src="https://github.com/user-attachments/assets/9d23b907-ec70-4078-9914-362ab46340ea" /> <br>
 … <br>
 \>SCAFFOLDING: 1270 BCE — FREQUENCY RECEIVED BY MOSES. <br>
 \>SCAFFOLDING: STRUCTURAL COVENANT PROTOCOL — STANDBY. <br>
