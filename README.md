@@ -3700,7 +3700,7 @@
 // No hand was wasted; each gesture became a rung in the ascent. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="CIVILIZATIONAL CONTRIBUTORS" src="https://github.com/user-attachments/assets/ad2cbafa-f85b-4b6f-bb5b-e8134b80e9cc" /> <br>
+<img width="614.4" height="409.6" alt="CIVILIZATIONAL CONTRIBUTORS" src="https://github.com/user-attachments/assets/b4df8e98-43c6-4570-97f4-ed4bfcba5e11" /> <br>
 … <br>
 \>SCAFFOLDING: TIMELESS — FREQUENCY RECEIVED BY PLANTS. <br>
 \>SCAFFOLDING: GREEN CONTINUUM — STANDBY. <br>
