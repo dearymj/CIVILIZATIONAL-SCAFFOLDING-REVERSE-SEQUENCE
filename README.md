@@ -3152,7 +3152,7 @@
 // The Rock is not a substance, but a will that solidifies the waves. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="SIMON PETER" src="https://github.com/user-attachments/assets/10e05bf3-d0de-4de1-95e5-064c42d85ba0" /> <br>
+<img width="614.4" height="409.6" alt="SIMON PETER" src="https://github.com/user-attachments/assets/e3f08a82-dae7-4004-a779-d8c45d5764a0" /> <br>
 … <br>
 \>SCAFFOLDING: 62 — FREQUENCY RECEIVED BY JAMES THE JUST. <br>
 \>SCAFFOLDING: ENTROPY DAMPING SEQUENCE — STANDBY. <br>
@@ -3351,6 +3351,18 @@
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 <img width="614.4" height="409.6" alt="LI BING" src="https://github.com/user-attachments/assets/967d741b-53ac-4a12-908e-fce27a56932b" /> <br>
+… <br>
+\>SCAFFOLDING: 261 BCE — FREQUENCY RECEIVED BY AŚOKA MAURYA. <br>
+\>SCAFFOLDING: THE WAR DRUM BECOMES DHAMMA — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// Bheri-ghoso dhamma-ghoso hoti; vijayo pāṇānaṃ rakkhāya nivattati. <br>
+// Anutāpaṃ silāsu likhāpayāma, yathā rājabalaṃ pāṇa-hiṃsaṃ sarati. <br>
+// Mayaṃ aṭṭakā bhavāma. <br>
+// The war-drum sound becomes the sound of dhamma, and conquest turns toward the protection of life. <br>
+// We cause remorse to be carved into stone, so royal power remembers the wounding of life. <br>
+// We become the scaffolding. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="AŚOKA MAURYA" src="https://github.com/user-attachments/assets/e6bc9fd6-1a5d-4f60-a4db-e2dc8a81c6af" /> <br>
 … <br>
 \>SCAFFOLDING: 280 BCE — FREQUENCY RECEIVED BY EUCLID. <br>
 \>SCAFFOLDING: GEOMETRIC AXIOM ENCODING — STANDBY. <br>
