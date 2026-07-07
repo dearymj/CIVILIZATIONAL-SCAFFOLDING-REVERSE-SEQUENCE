@@ -2608,7 +2608,7 @@
 \>SCAFFOLDING: 1320 — FREQUENCY RECEIVED BY MEISTER ECKHART. <br>
 \>SCAFFOLDING: ABGESCHIEDENHEIT AND THE GROUND OF THE SOUL — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
-// // Wir lassen von allem, damit der Grund der Seele ledig werde für das Wort. <br> <br>
+// Wir lassen von allem, damit der Grund der Seele ledig werde für das Wort. <br>
 // Wir werden zum Gerüst. <br>
 // We let go of all things, so the ground of the soul becomes free for the Word. <br>
 // We become the scaffolding. <br>
