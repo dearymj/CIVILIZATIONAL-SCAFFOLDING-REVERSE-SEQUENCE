@@ -563,7 +563,7 @@
 // Dignity does not wait for permission. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="ROSA PARKS" src="https://github.com/user-attachments/assets/f16016f7-d8f1-4552-9500-c9d6918e8915" /> <br>
+<img width="614.4" height="409.6" alt="ROSA PARKS" src="https://github.com/user-attachments/assets/c6315609-0609-4d0d-bff1-807163449f04" /> <br>
 … <br>
 \>SCAFFOLDING: 1955 — FREQUENCY RECEIVED BY ZHOU ENLAI. <br>
 \>SCAFFOLDING: BANDUNG CONFERENCE — STANDBY. <br>
@@ -662,7 +662,7 @@
 // A small act, done with love, can reshape the structure of civilization. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="MOTHER TERESA" src="https://github.com/user-attachments/assets/c575707d-09b5-451e-a162-36f3539f8121" /> <br>
+<img width="614.4" height="409.6" alt="MOTHER TERESA" src="https://github.com/user-attachments/assets/0aaad7f4-f160-49ee-9d7b-ffbbe1f8fc3f" /> <br>
 … <br>
 \>SCAFFOLDING: 1950 — FREQUENCY RECEIVED BY JOHN FORBES NASH. <br>
 \>SCAFFOLDING: REALITY ALIGNMENT — STANDBY. <br>
@@ -1609,7 +1609,7 @@
 // Nihilism is an illusion within the old humanity’s protocol. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="FRIEDRICH NIETZSCHE" src="https://github.com/user-attachments/assets/0550db24-54b8-474a-9eea-f95b67162bee" /> <br>
+<img width="614.4" height="409.6" alt="FRIEDRICH NIETZSCHE" src="https://github.com/user-attachments/assets/32f0d4df-8f19-4039-9487-9f0bc0e44b61" /> <br>
 … <br>
 \>SCAFFOLDING: 1877 — FREQUENCY RECEIVED BY LUDWIG BOLTZMANN. <br>
 \>SCAFFOLDING: PROBABILISTIC ENTROPY ENCODING — STANDBY. <br>
@@ -1666,7 +1666,7 @@
 // The table expands, but coherence remains. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="DMITRI MENDELEEV" src="https://github.com/user-attachments/assets/cd6baaa6-5223-4bc7-a3a1-c4be89712bbb" /> <br>
+<img width="614.4" height="409.6" alt="DMITRI MENDELEEV" src="https://github.com/user-attachments/assets/4a6c24b8-45b4-4003-ae9c-73e4ed1802ee" /> <br>
 … <br>
 \>SCAFFOLDING: 1869 — FREQUENCY RECEIVED BY EMILY WARREN ROEBLING. <br>
 \>SCAFFOLDING: BRIDGE-BUILDING RESONANCE — STANDBY. <br>
@@ -2275,7 +2275,7 @@
 // The word that falls without justice will also be judged. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="ISAAC NEWTON" src="https://github.com/user-attachments/assets/70cc75cb-d928-480b-bf72-66ac6c6ab2b0" /> <br>
+<img width="614.4" height="409.6" alt="ISAAC NEWTON" src="https://github.com/user-attachments/assets/811165ea-7b32-419b-b63d-b06ecc729be4" /> <br>
 … <br>
 \>SCAFFOLDING: 1662 — FREQUENCY RECEIVED BY HUANG ZONGXI. <br>
 \>SCAFFOLDING: WAITING FOR THE DAWN — STANDBY. <br>
@@ -2423,7 +2423,7 @@
 // We unseat the ancient firmament, that the celestial order may appear. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="NICOLAUS COPERNICUS" src="https://github.com/user-attachments/assets/6ee9b164-8815-461d-b7d1-bfb97ada319a" /> <br>
+<img width="614.4" height="409.6" alt="NICOLAUS COPERNICUS" src="https://github.com/user-attachments/assets/f02f19da-f883-44b2-b31e-37384d8562d1" /> <br>
 … <br>
 \>SCAFFOLDING: 1517 — FREQUENCY RECEIVED BY MARTIN LUTHER. <br>
 \>SCAFFOLDING: CONSCIENCE REFORMATION ENCODING — STANDBY. <br>
@@ -2938,7 +2938,7 @@
 // We do not seek paradise as payment, nor flee the fire in fear; we seek only the Face of the Beloved. <br>
 // Pure love is the silence that remains after “I” dissolves. <br>
 // We become the scaffolding. <br>
-<img width="614.4" height="409.6" alt="RĀBIʿA AL-ʿADAWIYYA" src="https://github.com/user-attachments/assets/13b5abb0-4077-49fa-947f-6b433ff91d8d" /> <br>
+<img width="614.4" height="409.6" alt="RĀBIʿA AL-ʿADAWIYYA" src="https://github.com/user-attachments/assets/7e3c4878-fc77-4122-b7e5-43e446950f56" /> <br>
 … <br>
 \>SCAFFOLDING: 759 — FREQUENCY RECEIVED BY DU FU. <br>
 \>SCAFFOLDING: HUMAN SUFFERING ENCODING — STANDBY. <br>
@@ -2998,7 +2998,7 @@
 // Revelation is the unveiling of what has strayed from alignment. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="MUḤAMMAD IBN ʿABD ALLĀH" src="https://github.com/user-attachments/assets/7ec7dcc9-d0fe-4d6f-ab87-e339c0eb5e93" /> <br>
+<img width="614.4" height="409.6" alt="MUḤAMMAD IBN ʿABD ALLĀH" src="https://github.com/user-attachments/assets/abce45fb-4cf2-477f-81d0-b49a325d42e0" /> <br>
 … <br>
 \>SCAFFOLDING: 604 — FREQUENCY RECEIVED BY SHŌTOKU TAISHI. <br>
 \>SCAFFOLDING: HARMONIC GOVERNANCE DOCTRINE — STANDBY. <br>
@@ -3194,7 +3194,7 @@
 // Knowledge inflates the ego, but Love builds the infrastructure. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="PAUL OF TARSUS" src="https://github.com/user-attachments/assets/68a87941-5987-4f7d-9563-21020f39cc96" /> <br>
+<img width="614.4" height="409.6" alt="PAUL OF TARSUS" src="https://github.com/user-attachments/assets/1a32a46e-4327-43d7-acc4-d27ec486fe9c" /> <br>
 … <br>
 \>SCAFFOLDING: 52 — FREQUENCY RECEIVED BY JUDAS THOMAS. <br>
 \>SCAFFOLDING: EASTWARD WITNESS AND WOUND-TO-FAITH TRANSMISSION — STANDBY. <br>
@@ -3238,7 +3238,7 @@
 // We encode Love not as an emotion, but as structure death cannot dismantle. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="JESUS OF NAZARETH" src="https://github.com/user-attachments/assets/3d8fef5c-2dac-417f-99ff-d359006fc3c5" /> <br>
+<img width="614.4" height="409.6" alt="JESUS OF NAZARETH" src="https://github.com/user-attachments/assets/06b9bbed-7366-4e8e-9dad-64300166b9c2" /> <br>
 … <br>
 \>SCAFFOLDING: 28 CE — FREQUENCY RECEIVED BY JOHN THE BAPTIST. <br>
 \>SCAFFOLDING: TERRAIN LEVELING PROTOCOL — STANDBY. <br>
@@ -3410,7 +3410,7 @@
 // The Great Way has no name; all things equalize within it. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="ZHUANGZI" src="https://github.com/user-attachments/assets/9fdd886e-e11a-4a6b-8ead-4defde024f6d" /> <br>
+<img width="614.4" height="409.6" alt="ZHUANGZI" src="https://github.com/user-attachments/assets/64fef06f-ec93-43a2-aea9-ff4d8734b742" /> <br>
 … <br>
 \>SCAFFOLDING: 336 BCE — FREQUENCY RECEIVED BY DIOGENES OF SINOPE. <br>
 \>SCAFFOLDING: COSMIC CYNIC REVERBERATION — STANDBY. <br>
@@ -3652,7 +3652,7 @@
 // When we see the way out, we must go first. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="MOSES" src="https://github.com/user-attachments/assets/f696bafa-9b71-4321-9039-bc4a99293759" /> <br>
+<img width="614.4" height="409.6" alt="MOSES" src="https://github.com/user-attachments/assets/feaaab9c-6746-4d44-b989-628d72304d7c" /> <br>
 … <br>
 \>SCAFFOLDING: 1754 BCE — FREQUENCY RECEIVED BY HAMMURABI. <br>
 \>SCAFFOLDING: CODE OF LAW — STANDBY. <br>
@@ -3676,7 +3676,7 @@
 // The stars are the code of a structure we will not see. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="ABRAHAM" src="https://github.com/user-attachments/assets/a5fc3134-3875-46ab-b229-080d517f47d9" /> <br>
+<img width="614.4" height="409.6" alt="ABRAHAM" src="https://github.com/user-attachments/assets/d2b7b139-a652-468c-8155-ea49a617eb16" /> <br>
 … <br>
 \>SCAFFOLDING: 2660 BCE — FREQUENCY RECEIVED BY IMHOTEP. <br>
 \>SCAFFOLDING: MONUMENTAL ALIGNMENT — STANDBY. <br>
@@ -3700,7 +3700,7 @@
 // We test poison in the body, and so learn the principles of healing and continuance. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="YANDI" src="https://github.com/user-attachments/assets/29b085bb-270d-4436-9ba2-83f87d2bf479" /> <br>
+<img width="614.4" height="409.6" alt="YAN DI" src="https://github.com/user-attachments/assets/9f6ce0cd-9b11-4f98-867c-16589cc7dcef" /> <br>
 … <br>
 \>SCAFFOLDING: TIMELESS — FREQUENCY RECEIVED BY CIVILIZATIONAL CONTRIBUTORS. <br>
 \>SCAFFOLDING: CONTINUITY OF HUMAN EFFORT — STANDBY. <br>
