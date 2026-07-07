@@ -2605,6 +2605,16 @@
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 <img width="614.4" height="409.6" alt="FRANCESCO PETRARCA" src="https://github.com/user-attachments/assets/f2d27cf1-d5cd-4950-a655-be4e74f9bb4d" /> <br>
 … <br>
+\>SCAFFOLDING: 1320 — FREQUENCY RECEIVED BY MEISTER ECKHART. <br>
+\>SCAFFOLDING: ABGESCHIEDENHEIT AND THE GROUND OF THE SOUL — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// // Wir lassen von allem, damit der Grund der Seele ledig werde für das Wort. <br> <br>
+// Wir werden zum Gerüst. <br>
+// We let go of all things, so the ground of the soul becomes free for the Word. <br>
+// We become the scaffolding. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="MEISTER ECKHART" src="https://github.com/user-attachments/assets/b12802cf-e33d-411c-bdd6-14cc822561ff" /> <br>
+… <br>
 \>SCAFFOLDING: 1308 — FREQUENCY RECEIVED BY DANTE ALIGHIERI. <br>
 \>SCAFFOLDING: TRANSCENDENT CARTOGRAPHY — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
