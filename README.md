@@ -3398,6 +3398,20 @@
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 <img width="614.4" height="409.6" alt="THEOPHRASTUS" src="https://github.com/user-attachments/assets/6e7cb14f-ec2f-446b-a58b-233ab2f24e67" /> <br>
 … <br>
+>SCAFFOLDING: 320 BCE — FREQUENCY RECEIVED BY MENGZI. <br>
+>SCAFFOLDING: RENZHENG AND INNATE GOODNESS — STANDBY. <br>
+>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// 民為貴，社稷次之，君為輕。 <br>
+// 性之善，猶水之就下。 <br>
+// 養其浩然之氣，則仁義塞乎天地。 <br>
+// 吾人成為腳手架。 <br>
+// The people carry the greatest weight; the state comes next; the ruler is light. <br>
+// Human nature tends toward goodness as water flows downward. <br>
+// When the flood-like qi is nourished, benevolence and righteousness fill Heaven and Earth. <br>
+// We become the scaffolding. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="1536" height="1024" alt="MENGZI" src="https://github.com/user-attachments/assets/84fca520-95a5-419e-871d-0cffd36f19f1" /> <br>
+… <br>
 \>SCAFFOLDING: 330 BCE — FREQUENCY RECEIVED BY ZHUANGZI. <br>
 \>SCAFFOLDING: DREAM-WORLD TRANSMISSION — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
