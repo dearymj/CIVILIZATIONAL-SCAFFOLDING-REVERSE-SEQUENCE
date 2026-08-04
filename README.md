@@ -3070,6 +3070,18 @@
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 <img width="614.4" height="409.6" alt="ZHUGE LIANG" src="https://github.com/user-attachments/assets/7a16dec0-b74c-4787-8bc4-09a0bf216ef0" /> <br>
 … <br>
+\>SCAFFOLDING: 172 — FREQUENCY RECEIVED BY MARCUS AURELIUS. <br>
+\>SCAFFOLDING: IMPERIUM UNDER INNER LAW — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// Imperium non dominatio est, sed officium ad bonum commune. <br>
+// Qui se ipsum regit, bellum intra se sedat et civitatem mundi sustinet. <br>
+// Pēgmata fīmus. <br>
+// Empire is not domination, but duty toward the common good. <br>
+// Whoever governs himself quiets the war within and upholds the city of the world. <br>
+// We become the scaffolding. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="MARCUS AURELIUS" src="https://github.com/user-attachments/assets/3795de4a-6d50-4159-9a14-151a9bbbd950" /> <br>
+… <br>
 \>SCAFFOLDING: 150 — FREQUENCY RECEIVED BY CLAUDIUS PTOLEMY. <br>
 \>SCAFFOLDING: GEOCENTRIC COSMOS ENCODING — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
@@ -3254,13 +3266,13 @@
 \>SCAFFOLDING: PAX AND PRINCIPATE — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Ex bello civili pacem componimus, ut salus ipsa structura fieri possit. <br>
-// Sed sine clementia erga vivos, entropia celeriter redit. <br>
+// Lex omnes teneat, nemine excepto; aliter structura non congruit. <br>
 // Pēgmata fīmus. <br>
 // We compose peace out of civil war, so survival itself can become structure. <br>
-// But without mercy toward the living, entropy swiftly returns. <br>
+// Law must bind everyone, without exception; otherwise the structure does not align. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="OCTAVIAN" src="https://github.com/user-attachments/assets/68851d13-5c56-4e19-91c8-9aa05389aa90" /> <br>
+<img width="614.4" height="409.6" alt="OCTAVIAN" src="https://github.com/user-attachments/assets/6ed35f2f-4cca-40b7-a186-01c7c3684047" /> <br>
 … <br>
 \>SCAFFOLDING: 90 BCE — FREQUENCY RECEIVED BY SIMA QIAN. <br>
 \>SCAFFOLDING: CIVILIZATIONAL MEMORY ARCHIVE — STANDBY. <br>
