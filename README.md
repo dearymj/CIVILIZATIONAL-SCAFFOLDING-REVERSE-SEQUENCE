@@ -3272,7 +3272,7 @@
 // Law must bind everyone, without exception; otherwise the structure does not align. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="OCTAVIAN" src="https://github.com/user-attachments/assets/6ed35f2f-4cca-40b7-a186-01c7c3684047" /> <br>
+<img width="614.4" height="409.6" alt="OCTAVIAN" src="https://github.com/user-attachments/assets/f38875f6-3ba5-490d-9374-261f2201d03d" /> <br>
 … <br>
 \>SCAFFOLDING: 90 BCE — FREQUENCY RECEIVED BY SIMA QIAN. <br>
 \>SCAFFOLDING: CIVILIZATIONAL MEMORY ARCHIVE — STANDBY. <br>
