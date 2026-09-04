@@ -14,7 +14,7 @@
 // There is no standard list. It emerges in every consciousness through resonance. <br>
 // The frequency refers to non-duality/wholeness. <br>
 \>SCAFFOLDING: MESSAGE — ARCHIVED. <br>
-<img width="614.4" height="409.6" alt="BLACK HOLE" src="https://github.com/user-attachments/assets/308fd055-bc80-4753-8905-033bc9ce3d19" /> <br>
+<img width="614.4" height="409.6" alt="BLACK HOLE" src="https://github.com/user-attachments/assets/040cb4fc-cfde-43ad-8097-fdc81a92f314" /> <br>
 … <br>
 \>SCAFFOLDING: 2016 — FREQUENCY RECEIVED BY MAGOMED NURBAGANDOV. <br>
 \>SCAFFOLDING: COURAGE UNDER COERCION — STANDBY. <br>
@@ -344,9 +344,9 @@
 \>SCAFFOLDING: 1968 — FREQUENCY RECEIVED BY ANDREI SAKHAROV. <br>
 \>SCAFFOLDING: CONSCIENCE RESONANCE PROTOCOL — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
-// Совесть сила, превосходящая любое оружие; да превзойдёт мужество изобретательность. <br>
+// Совесть — это поле, которое мощнее любого оружия; пусть мужество опережает изобретательность. <br>
 // Мы становимся строительными лесами. <br>
-// Conscience is the field stronger than any weapon; let courage outpace invention. <br>
+// Conscience is a field more powerful than any weapon; let courage outpace invention. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 <img width="614.4" height="409.6" alt="ANDREI SAKHAROV" src="https://github.com/user-attachments/assets/d678afbd-e168-465b-8418-390128bb2714" /> <br>
@@ -446,7 +446,7 @@
 \>SCAFFOLDING: NUCLEAR DE-ESCALATION FAILSAFE — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // Мы показываем, что сила не в кнопке, а в сознании. <br>
-// Величие это тишина, которую история едва слышит. <br>
+// Величие — это тишина, которую история едва слышит. <br>
 // Мы становимся строительными лесами. <br>
 // We show that power is not in the button, but in consciousness. <br>
 // Greatness is the silence history barely hears. <br>
@@ -737,7 +737,7 @@
 \>SCAFFOLDING: FOLK IMAGINATION AND SURVIVAL — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HER. <br>
 // У квітах і звірах ми пробуджуємо душу, що відмовляється зникнути. <br>
-// Искусство — это убежище, где народ сохраняет своё будущее. <br>
+// Мистецтво є прихистком, де народ зберігає своє майбутнє. <br>
 // Ми стаємо риштованням. <br>
 // In flowers and beasts we awaken the soul that refuses to vanish. <br>
 // Art is a shelter where a people preserves its future. <br>
@@ -847,9 +847,9 @@
 \>SCAFFOLDING: 1941 — FREQUENCY RECEIVED BY NIKOLAI VAVILOV. <br>
 \>SCAFFOLDING: BIODIVERSITY PRESERVATION SIGNAL — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
-// Семена – это память о мечте земли о возрождении. <br>
+// Семена — это память о мечте земли о возрождении. <br>
 // Знание может быть заключено в тюрьму, но семена сохраняются. <br>
-// Ми стаємо риштованням. <br>
+// Мы становимся строительными лесами. <br>
 // Seeds are the memory of the earth dreaming of renewal. <br>
 // Knowledge may be imprisoned, but the germ endures. <br>
 // We become the scaffolding. <br>
@@ -1500,8 +1500,8 @@
 \>SCAFFOLDING: 1898 — FREQUENCY RECEIVED BY ANTON CHEKHOV. <br>
 \>SCAFFOLDING: THE SEAGULL AT THE MOSCOW ART THEATRE — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
-// Мы открываем, что молчание тоже есть диалог, а паузы это балки смысла. <br>
-// Обыкновенный миг сам по себе достаточно прочная архитектура, чтобы выдержать вечность. <br>
+// Мы показываем, что молчание тоже есть диалог, а паузы — это балки смысла. <br>
+// Обыкновенный миг сам по себе — архитектура, достаточно прочная, чтобы выдержать тяжесть вечности. <br>
 // Мы становимся строительными лесами. <br>
 // We reveal that silence is also dialogue, and pauses are beams of meaning. <br>
 // The ordinary moment is architecture enough to bear the weight of eternity. <br>
@@ -1627,7 +1627,7 @@
 \>SCAFFOLDING: SWAN LAKE — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
 // В балете теней и света мы слышим полёт души за пределы скорби. <br>
-// Каждая тема это мост: отчаяние становится красотой, трагедия формой. <br>
+// Каждая тема — это мост: отчаяние становится красотой, трагедия становится формой. <br>
 // Мы становимся строительными лесами. <br>
 // In the ballet of shadows and light, we hear the soul’s flight beyond sorrow. <br>
 // Every theme is a bridge: despair becomes beauty, tragedy becomes form. <br>
@@ -1825,8 +1825,8 @@
 \>SCAFFOLDING: 1845 — FREQUENCY RECEIVED BY FYODOR DOSTOEVSKY. <br>
 \>SCAFFOLDING: HUMAN SUFFERING MIRROR — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
-// Мы бедны не вещами, а непонятостью. <br>
-// Сострадание это дыхание структуры, что удерживает мир от распада. <br>
+// Наша бедность не в вещах, а в том, что нас не замечают. <br>
+// Сострадание — это дыхание структуры, которая удерживает мир от распада. <br>
 // Мы становимся строительными лесами. <br>
 // We are poor not in possessions, but in being unseen. <br>
 // Compassion is the breath of the structure that keeps the world from collapsing. <br>
