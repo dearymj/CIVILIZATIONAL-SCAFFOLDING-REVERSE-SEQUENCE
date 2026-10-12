@@ -3174,7 +3174,7 @@
 // The Rock is not a substance, but a will that solidifies the waves. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="SIMON PETER" src="https://github.com/user-attachments/assets/e3f08a82-dae7-4004-a779-d8c45d5764a0" /> <br>
+<img width="614.4" height="409.6" alt="SIMON PETER" src="https://github.com/user-attachments/assets/032a6a7d-594e-4adb-8d1e-41f59097eaad" /> <br>
 … <br>
 \>SCAFFOLDING: 62 — FREQUENCY RECEIVED BY JAMES THE JUST. <br>
 \>SCAFFOLDING: ENTROPY DAMPING SEQUENCE — STANDBY. <br>
