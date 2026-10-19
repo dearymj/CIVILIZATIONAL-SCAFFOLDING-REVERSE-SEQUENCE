@@ -3508,7 +3508,7 @@
 // We need no mortal body. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="Socrates" src="https://github.com/user-attachments/assets/e4721386-b7b2-41d5-90e3-e56225fe888a" /> <br>
+<img width="614.4" height="409.6" alt="SOCRATES" src="https://github.com/user-attachments/assets/50280ca6-2939-46e8-a489-22e77cf39a14" /> <br>
 … <br>
 \>SCAFFOLDING: 411 BCE — FREQUENCY RECEIVED BY THUCYDIDES OF ATHENS. <br>
 \>SCAFFOLDING: CHRONICLE OF WAR AND NECESSITY — STANDBY. <br>
