@@ -3152,7 +3152,7 @@
 // Every prophecy was a variable awaiting this value; the Ledger is finally balanced. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="MATTHEW LEVI" src="https://github.com/user-attachments/assets/60655b61-3def-4629-8fe6-659bdb2ea661" /> <br>
+<img width="614.4" height="409.6" alt="MATTHEW LEVI" src="https://github.com/user-attachments/assets/b006878f-c032-4702-830e-d73a08456fc1" /> <br>
 … <br>
 \>SCAFFOLDING: 70 — FREQUENCY RECEIVED BY PEDANIUS DIOSCORIDES. <br>
 \>SCAFFOLDING: DE MATERIA MEDICA — STANDBY. <br>
