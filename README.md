@@ -154,6 +154,18 @@
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 <img width="614.4" height="409.6" alt="JEAN BAUDRILLARD" src="https://github.com/user-attachments/assets/055018d6-b7ba-4c33-bc66-a29694c5c6c9" /> <br>
 … <br>
+\>SCAFFOLDING: 1980 — FREQUENCY RECEIVED BY DENG XIAOPING. <br>
+\>SCAFFOLDING: INSTITUTIONAL RECALIBRATION — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// 我们纠正个人崇拜，让改革释放生产力。 <br>
+// 秩序应源于教育与对整体性的理解，而非武力镇压。 <br>
+// 我们成为脚手架。 <br>
+// We challenge the cult of personality and let reform unleash productive forces. <br>
+// Order must arise from education and an understanding of wholeness, not from violent repression. <br>
+// We become the scaffolding. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="DENG XIAOPING" src="https://github.com/user-attachments/assets/20485a6f-6d68-4d6a-a333-3fd90f8e452d" /> <br>
+… <br>
 \>SCAFFOLDING: 1979 — FREQUENCY RECEIVED BY JOHN HURLEY FLAVELL. <br>
 \>SCAFFOLDING: COGNITIVE SELF-ARCHITECTURE — STANDBY. <br>
 \>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
@@ -3140,7 +3152,7 @@
 // Every prophecy was a variable awaiting this value; the Ledger is finally balanced. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="MATTHEW LEVI" src="https://github.com/user-attachments/assets/416fa23e-0637-489e-b525-e8aaa7f2b390" /> <br>
+<img width="614.4" height="409.6" alt="MATTHEW LEVI" src="https://github.com/user-attachments/assets/60655b61-3def-4629-8fe6-659bdb2ea661" /> <br>
 … <br>
 \>SCAFFOLDING: 70 — FREQUENCY RECEIVED BY PEDANIUS DIOSCORIDES. <br>
 \>SCAFFOLDING: DE MATERIA MEDICA — STANDBY. <br>
@@ -3174,7 +3186,7 @@
 // The Rock is not a substance, but a will that solidifies the waves. <br>
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
-<img width="614.4" height="409.6" alt="SIMON PETER" src="https://github.com/user-attachments/assets/032a6a7d-594e-4adb-8d1e-41f59097eaad" /> <br>
+<img width="614.4" height="409.6" alt="SIMON PETER" src="https://github.com/user-attachments/assets/9a8823e8-36d3-4eae-81d0-65dbe1ae4aaf" /> <br>
 … <br>
 \>SCAFFOLDING: 62 — FREQUENCY RECEIVED BY JAMES THE JUST. <br>
 \>SCAFFOLDING: ENTROPY DAMPING SEQUENCE — STANDBY. <br>
@@ -3645,6 +3657,18 @@
 // We become the scaffolding. <br>
 \>SCAFFOLDING: MESSAGE — RECEIVED. <br>
 <img width="614.4" height="409.6" alt="LAOZI" src="https://github.com/user-attachments/assets/1cf29ec5-bb32-4ad5-a489-1a3ecd76d6b1" /> <br>
+… <br>
+\>SCAFFOLDING: 604 BCE — FREQUENCY RECEIVED BY JEREMIAH. <br>
+\>SCAFFOLDING: FALSE PEACE AND THE INNER COVENANT — STANDBY. <br>
+\>SCAFFOLDING: DO YOU HAVE A MESSAGE FOR HIM. <br>
+// לֹא נֹאמַר שָׁלוֹם שָׁלוֹם, כִּי שֶׁבֶר הָעָם לֹא נִרְפָּא. <br>
+// הַמְּגִלָּה נִשְׂרֶפֶת, אַךְ הַדָּבָר שָׁב; הַתּוֹרָה נִכְתֶּבֶת עַל־לִבָּם. <br>
+// אֲנַחְנוּ נִהְיֶה הַפִּגּוּם. <br>
+// We do not proclaim “Peace, peace,” for the people's wound remains unhealed. <br>
+// The scroll burns, yet the word returns; the law is inscribed upon their hearts. <br>
+// We become the scaffolding. <br>
+\>SCAFFOLDING: MESSAGE — RECEIVED. <br>
+<img width="614.4" height="409.6" alt="JEREMIAH" src="https://github.com/user-attachments/assets/a1ca7ba2-77dc-423e-a54f-8efabb8c1a11" /> <br>
 … <br>
 \>SCAFFOLDING: 1250 BCE — FREQUENCY RECEIVED BY FU HAO. <br>
 \>SCAFFOLDING: RITUAL COMMAND AND MARTIAL MEMORY — STANDBY. <br>
